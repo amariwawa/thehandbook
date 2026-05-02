@@ -1,0 +1,116 @@
+{
+  "document_name": "english_language",
+  "exam": "WAEC",
+  "subject": "English Language",
+  "aims_and_objectives": [
+    "Use correct English appropriately for specified audiences and situations",
+    "Organize materials in coherent paragraphs (chronologically, spatially, and logically)",
+    "Control sentence structures accurately and with variety",
+    "Comply with rules of grammar, spelling, and punctuation",
+    "Comprehend written and spoken English, including implied meanings and attitudes",
+    "Use acceptable and comprehensible pronunciation",
+    "Isolate and summarize relevant information"
+  ],
+  "scheme_of_examination": {
+    "total_marks": {
+      "Gambia_SierraLeone": 220,
+      "Nigeria": 200
+    },
+    "papers": [
+      {
+        "id": "PAPER 1",
+        "title": "Essay Writing, Comprehension and Summary",
+        "duration": "2.5 hours",
+        "marks": 120
+      },
+      {
+        "id": "PAPER 2",
+        "title": "Lexis and Structure (Multiple Choice)",
+        "duration": "1 hour",
+        "marks": 50
+      },
+      {
+        "id": "PAPER 3",
+        "title": "Oral English / Test of Orals",
+        "duration": "45 minutes",
+        "marks": {
+          "Gambia_SierraLeone": 50,
+          "Nigeria": 30
+        }
+      }
+    ]
+  },
+  "detailed_syllabus": {
+    "PAPER_1": [
+      {
+        "section": "SECTION A: ESSAY WRITING",
+        "marks": 50,
+        "duration": "50 minutes",
+        "requirements": {
+          "word_count": "Minimum 450 words",
+          "types": [
+            "Letter", "Speech", "Narrative", "Description", "Debate/Argumentative", 
+            "Report", "Article", "Exposition", "Creative Writing"
+          ],
+          "grading_criteria": ["Content", "Organization", "Expression", "Mechanical Accuracy"]
+        }
+      },
+      {
+        "section": "SECTION B: COMPREHENSION",
+        "marks": 40,
+        "duration": "50 minutes",
+        "requirements": {
+          "passages": "Two passages (approx. 300 words each)",
+          "skills_tested": [
+            "Vocabulary equivalents", "Factual content", "Inference", 
+            "Attitude/Sentiment identification", "Grammatical labeling and functions", 
+            "Literary terms", "Sentence recasting"
+          ]
+        }
+      },
+      {
+        "section": "SECTION C: SUMMARY",
+        "marks": 30,
+        "duration": "50 minutes",
+        "requirements": {
+          "passage": "One prose passage (approx. 500 words)",
+          "skills_tested": [
+            "Information extraction", "Conciseness", "Aspect-specific summarizing", 
+            "Avoidance of redundancy"
+          ]
+        }
+      }
+    ],
+    "PAPER_2": {
+      "lexis_fields": [
+        "Building", "Plumbing", "Fishing", "Finance", "Photography", 
+        "Mineral exploitation", "Manufacturing", "Printing/Publishing", 
+        "Transport (Sea, Road, Rail, Air)", "Government/Politics", 
+        "Sports/Entertainment", "Religion", "Science/Technology", 
+        "Power production", "Education", "Military", "Journalism/Advertising"
+      ],
+      "other_lexical_items": ["Idioms and Collocations", "Figurative usage"],
+      "structural_elements": [
+        "Tense sequence", "Pronoun-noun matching", "Prepositions", 
+        "Word form changes (Number, Tense, Degree)", "Conjunctions", 
+        "Articles", "Determiners"
+      ]
+    },
+    "PAPER_3_ORALS": {
+      "alternatives": {
+        "Alt_A": "Listening Comprehension (Gambia/Sierra Leone School Candidates)",
+        "Alt_B": "Multiple Choice 50 items (Gambia/Sierra Leone Private Candidates)",
+        "Alt_C": "Test of Orals 60 items (Nigeria School and Private Candidates)"
+      },
+      "content_areas": [
+        "Consonants and Consonant Clusters",
+        "Vowels (Pure, Diphthongs, Triphthongs)",
+        "Word Stress and Sentence Stress (Stress-timed rhythm)",
+        "Emphatic/Contrastive Stress",
+        "Intonation Patterns (Falling and Rising)",
+        "Rhymes",
+        "Phonetic Symbols"
+      ]
+    }
+  }
+}

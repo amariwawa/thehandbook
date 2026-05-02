@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "SOCIAL STUDIES (NEW)",
+  "topics": [
+    {
+      "title": "Introduction to SOCIAL STUDIES (NEW)",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

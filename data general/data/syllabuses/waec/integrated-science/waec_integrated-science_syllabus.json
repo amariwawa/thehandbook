@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "INTEGRATED SCIENCE",
+  "topics": [
+    {
+      "title": "Introduction to INTEGRATED SCIENCE",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

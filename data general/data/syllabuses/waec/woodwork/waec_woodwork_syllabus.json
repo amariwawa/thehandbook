@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "WOODWORK",
+  "topics": [
+    {
+      "title": "Introduction to WOODWORK",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

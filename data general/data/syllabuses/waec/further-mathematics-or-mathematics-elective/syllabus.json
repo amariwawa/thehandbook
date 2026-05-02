@@ -1,0 +1,134 @@
+{
+  "document_name": "further_mathematics",
+  "exam": "WAEC",
+  "subject": "Further Mathematics",
+  "syllabus_sections": [
+    {
+      "section": "PURE MATHEMATICS",
+      "topics": [
+        {
+          "title": "Sets and Logic",
+          "details": [
+            "Idea of a set defined by a property and set notations",
+            "Disjoint sets, Universal sets, and complements",
+            "Venn diagrams and their use in problem-solving",
+            "Commutative, Associative, and Distributive laws",
+            "Rule of syntax: true/false statements, implications, and deductions",
+            "Truth tables"
+          ]
+        },
+        {
+          "title": "Algebraic Structures and Surds",
+          "details": [
+            "Surds of the form √a and a + √b (rationalization and simplification)",
+            "Binary Operations: Closure, Commutativity, Associativity, and Distributivity",
+            "Identity elements and inverses"
+          ]
+        },
+        {
+          "title": "Functions and Polynomials",
+          "details": [
+            "Domain and co-domain of functions",
+            "Types of mapping: One-to-one, onto, identity, and constant",
+            "Inverse and Composite functions",
+            "Linear, Quadratic, and Cubic functions/equations",
+            "Rational functions and resolution into partial fractions"
+          ]
+        },
+        {
+          "title": "Indices, Logarithms, and Series",
+          "details": [
+            "Indices and Logarithmic functions",
+            "Permutations (arrangements) and Combinations (selection)",
+            "Binomial Theorem: Expansion of (a + b)^n and approximations for small x",
+            "Arithmetic Progression (A.P.) and Geometric Progression (G.P.)",
+            "Finite and Infinite series; Recurrence series"
+          ]
+        },
+        {
+          "title": "Matrices and Trigonometry",
+          "details": [
+            "Matrix algebra, Determinants, and Inverse of 2x2 matrices",
+            "Linear Transformation",
+            "Trigonometric Ratios, Compound, and Multiple Angles",
+            "Trigonometric Functions and Equations"
+          ]
+        },
+        {
+          "title": "Coordinate Geometry",
+          "details": [
+            "Straight Lines",
+            "Conic Sections (Circle, Parabola, etc.)"
+          ]
+        },
+        {
+          "title": "Calculus",
+          "details": [
+            "Differentiation: Limits, first principles, and polynomials",
+            "Differentiation rules: Product, Quotient, and Chain rules",
+            "Implicit and Transcendental functions",
+            "Second-order derivatives, rates of change, and small changes",
+            "Maxima and Minima",
+            "Integration: Indefinite and Definite integrals",
+            "Applications of integration (Area and Volume)"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "STATISTICS AND PROBABILITY",
+      "topics": [
+        {
+          "title": "Statistics",
+          "details": [
+            "Tabulation and graphical representation of data",
+            "Measures of Location (Mean, Median, Mode)",
+            "Measures of Dispersion (Variance, Standard Deviation)",
+            "Correlation analysis"
+          ]
+        },
+        {
+          "title": "Probability",
+          "details": [
+            "Meaning of probability and relative frequency",
+            "Sample spaces and calculation of probability",
+            "Addition and Multiplication laws",
+            "Probability distributions"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "VECTORS AND MECHANICS",
+      "topics": [
+        {
+          "title": "Vectors",
+          "details": [
+            "Scalar and Vector quantities",
+            "Representation and Algebra of Vectors",
+            "Unit vectors and Position vectors",
+            "Resolution and Composition of Vectors",
+            "Scalar (dot) product and Vector (cross) product applications"
+          ]
+        },
+        {
+          "title": "Statics",
+          "details": [
+            "Definition and representation of forces",
+            "Composition and resolution of coplanar forces (point and rigid bodies)",
+            "Equilibrium of bodies and determination of Resultant",
+            "Moments of force and Friction"
+          ]
+        },
+        {
+          "title": "Dynamics",
+          "details": [
+            "Concepts of motion and Equations of Motion",
+            "Impulse and Momentum equations",
+            "Projectiles"
+          ]
+        }
+      ]
+    }
+  ]
+}

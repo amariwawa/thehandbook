@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "AUTO ELECTRICAL WORK",
+  "topics": [
+    {
+      "title": "Introduction to AUTO ELECTRICAL WORK",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

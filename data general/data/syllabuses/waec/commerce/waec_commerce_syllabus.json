@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "COMMERCE",
+  "topics": [
+    {
+      "title": "Introduction to COMMERCE",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

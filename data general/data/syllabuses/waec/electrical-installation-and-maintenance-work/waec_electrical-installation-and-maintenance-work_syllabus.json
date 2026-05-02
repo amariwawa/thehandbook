@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "ELECTRICAL INSTALLATION AND MAINTENANCE WORK",
+  "topics": [
+    {
+      "title": "Introduction to ELECTRICAL INSTALLATION AND MAINTENANCE WORK",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

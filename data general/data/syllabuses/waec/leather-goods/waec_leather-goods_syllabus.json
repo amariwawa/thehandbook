@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "LEATHER GOODS",
+  "topics": [
+    {
+      "title": "Introduction to LEATHER GOODS",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

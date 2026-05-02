@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "MINING",
+  "topics": [
+    {
+      "title": "Introduction to MINING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

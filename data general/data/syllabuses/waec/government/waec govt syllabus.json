@@ -1,0 +1,143 @@
+{
+  "exam": "WAEC",
+  "subject": "Government",
+  "syllabus_sections": [
+    {
+      "section": "SECTION A: ELEMENTS OF GOVERNMENT",
+      "topics": [
+        {
+          "title": "Meaning and Scope of Government",
+          "details": [
+            "Government as an institution of the state",
+            "Government as a process or art of governing",
+            "Government as an academic field of study"
+          ]
+        },
+        {
+          "title": "Basic Concepts and Principles",
+          "details": [
+            "Concepts: Power, Authority, Legitimacy, Sovereignty, Democracy, Political Culture, Political Socialization",
+            "Ideologies: Communalism, Socialism, Communism, Capitalism, Feudalism, Fascism, Nazism, Totalitarianism",
+            "Identity: Society, State, Nation, Colonialism, Nationalism",
+            "Principles: Rule of Law, Fundamental Human Rights, Separation of Powers, Checks and Balances, Constitutionalism",
+            "Structure: Centralization and Decentralization (Delegated Legislation, Devolution, Deconcentration)"
+          ]
+        },
+        {
+          "title": "Constitutions",
+          "details": [
+            "Definition and sources",
+            "Types: Written and Unwritten; Rigid and Flexible",
+            "Scope and Functions"
+          ]
+        },
+        {
+          "title": "Types/Forms of Government",
+          "details": [
+            "Unitary, Federal, Confederal",
+            "Presidential (Non-parliamentary) vs Parliamentary (Cabinet)",
+            "Monarchical and Republican"
+          ]
+        },
+        {
+          "title": "Organs of Government",
+          "details": [
+            "The Executive, Legislature, and Judiciary",
+            "Structure, composition, membership, functions, and limitations"
+          ]
+        },
+        {
+          "title": "Citizenship",
+          "details": [
+            "Status and Rights",
+            "Duties and Obligations of individuals in the State"
+          ]
+        },
+        {
+          "title": "Political Parties and Electoral Process",
+          "details": [
+            "Political Parties: Definition, organization, types, and functions",
+            "Party Systems: One-party, Two-party, Multi-party",
+            "Electoral Process: Suffrage, types of elections, and stages",
+            "Electoral Systems: Types and characteristics",
+            "Electoral Commission: Roles, duties, and problems"
+          ]
+        },
+        {
+          "title": "Public Administration and Local Government",
+          "details": [
+            "Civil Service: Structure, characteristics, and functions",
+            "Public Corporations: Purpose, control, and problems",
+            "Local Government: Types, revenue sources, reforms, and control"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "SECTION B: POLITICAL AND CONSTITUTIONAL DEVELOPMENTS IN WEST AFRICA",
+      "topics": [
+        {
+          "title": "Pre-Colonial Structural Organization",
+          "details": [
+            "Nigeria: Hausa/Fulani, Yoruba, Igbo",
+            "Ghana: Akan, Ewe, Mole Dagbani",
+            "Sierra Leone: Mende, Temne",
+            "The Gambia: Wolof, Mandingo",
+            "Liberia: Vai, Kru"
+          ]
+        },
+        {
+          "title": "Colonial Administration",
+          "details": [
+            "Policy and structure of British Rule (Indirect Rule, Crown Colony)",
+            "Policy of French Rule (Assimilation and Association)",
+            "Status of Chieftaincy during the colonial period"
+          ]
+        },
+        {
+          "title": "Nationalism in West Africa",
+          "details": [
+            "Proto-nationalism (Before WWII)",
+            "Modern nationalism (After WWII): Growth, factors, and effects"
+          ]
+        },
+        {
+          "title": "Constitutional Developments (Pre-independence)",
+          "details": [
+            "Nigeria: Clifford (1922), Richards (1946), Macpherson (1951), Lyttleton (1954)",
+            "Ghana: Clifford (1916), Guggisberg (1925), Burns (1946), Clarke (1951), Nkrumah (1954)",
+            "Sierra Leone: Slater (1924), Stevenson (1947), Beresford Stooke (1951), 1956/1958 Constitutions",
+            "The Gambia: 1947, 1951, 1954, 1960, 1962, 1963"
+          ]
+        },
+        {
+          "title": "Constitutional Developments (Post-independence)",
+          "details": [
+            "Nigeria: 1960, 1963, 1979, 1989, 1999 Constitutions",
+            "Ghana: 1957, 1960, 1969, 1979, 1992 Constitutions",
+            "Sierra Leone: 1961, 1971, 1978, 1991 Constitutions",
+            "The Gambia: 1965, 1970 Constitutions",
+            "Liberia: 1985 Constitution"
+          ]
+        },
+        {
+          "title": "Military Rule and Foreign Policy",
+          "details": [
+            "Factors, achievements, and failures of military regimes",
+            "Foreign Policies: Definitions, factors, and advantages"
+          ]
+        },
+        {
+          "title": "International Organizations",
+          "details": [
+            "United Nations Organization (UNO)",
+            "Organization of African Unity (OAU) / African Union (AU)",
+            "The Commonwealth",
+            "Economic Community of West African States (ECOWAS)",
+            "Aims, structure, achievements, and problems"
+          ]
+        }
+      ]
+    }
+  ]
+}

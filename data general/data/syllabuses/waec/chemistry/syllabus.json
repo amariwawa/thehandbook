@@ -1,0 +1,141 @@
+{
+  "exam_body": "WAEC",
+  "subject": "Chemistry",
+  "syllabus_year": "2026",
+  "content": {
+    "section_a_physical_chemistry": [
+      {
+        "topic": "Introduction to Chemistry",
+        "details": [
+          "Measurement of physical quantities (mass, length, time, temperature, volume)",
+          "Appropriate SI units and significant figures",
+          "Precision and accuracy in measurement",
+          "Scientific method"
+        ]
+      },
+      {
+        "topic": "Structure of the Atom",
+        "details": [
+          "Dalton's atomic theory and limitations",
+          "J.J. Thompson's experiment and Bohr's model",
+          "Rutherford's alpha scattering experiment",
+          "Atomic number, mass number, and isotopes",
+          "Relative atomic mass (Ar) based on Carbon-12 scale",
+          "Electronic configuration (s, p, d orbitals) for the first 30 elements"
+        ]
+      },
+      {
+        "topic": "Standard Separation Techniques",
+        "details": [
+          "Classification of mixtures (solid-solid, solid-liquid, etc.)",
+          "Techniques: Crystallization, Distillation, Chromatography, Filtration",
+          "Criteria for purity (melting and boiling points)"
+        ]
+      },
+      {
+        "topic": "Periodic Chemistry",
+        "details": [
+          "Periodic law and electron configuration",
+          "Periodic trends: Atomic size, ionization energy, electronegativity, electron affinity",
+          "Periodic gradation of elements in the third period (Na to Ar)"
+        ]
+      },
+      {
+        "topic": "Chemical Bonds",
+        "details": [
+          "Interatomic bonding: Ionic, Covalent, Metallic",
+          "Intermolecular forces: Hydrogen bonding, Van der Waals forces",
+          "Lewis dot structures",
+          "Shapes of simple molecular compounds"
+        ]
+      },
+      {
+        "topic": "Stoichiometry and Chemical Reactions",
+        "details": [
+          "Symbols, formulae, and equations",
+          "Laws of chemical combination",
+          "Mole concept and Avogadro's constant",
+          "Empirical and molecular formulae"
+        ]
+      },
+      {
+        "topic": "States of Matter",
+        "details": [
+          "Kinetic theory of matter",
+          "Gas Laws: Boyle's, Charles', Graham's, and Ideal Gas Law",
+          "Liquids and Solids: Vapor pressure, melting, and boiling"
+        ]
+      },
+      {
+        "topic": "Energy and Energy Changes",
+        "details": [
+          "Enthalpy changes (Exothermic and Endothermic)",
+          "Hess's Law",
+          "Bond energy"
+        ]
+      },
+      {
+        "topic": "Acids, Bases, and Salts",
+        "details": [
+          "Definitions (Arrhenius, Bronsted-Lowry, Lewis)",
+          "Concept of pH and pOH",
+          "Neutralization and Titration",
+          "Preparation and classification of salts",
+          "Solubility of substances"
+        ]
+      },
+      {
+        "topic": "Chemical Kinetics and Equilibrium",
+        "details": [
+          "Factors affecting reaction rates",
+          "Le Chatelier's principle",
+          "Equilibrium constants (Kc, Kp)"
+        ]
+      },
+      {
+        "topic": "Redox Reactions",
+        "details": [
+          "Oxidation numbers",
+          "Oxidizing and reducing agents",
+          "Electrochemical and Electrolytic cells"
+        ]
+      }
+    ],
+    "section_b_organic_chemistry": [
+      {
+        "topic": "Chemistry of Carbon Compounds",
+        "details": [
+          "Classification of organic compounds",
+          "IUPAC nomenclature",
+          "Hydrocarbons: Alkanes, Alkenes, Alkynes",
+          "Aromatic hydrocarbons (Benzene)",
+          "Alkanols, Alkanoic acids, and Esters",
+          "Natural and synthetic polymers (Biochemistry)"
+        ]
+      }
+    ],
+    "section_c_inorganic_chemistry": [
+      {
+        "topic": "Non-Metals and their Compounds",
+        "details": [
+          "Hydrogen, Oxygen, Nitrogen, Carbon, Chlorine, Sulphur",
+          "Preparation, properties, and uses"
+        ]
+      },
+      {
+        "topic": "Metals and their Compounds",
+        "details": [
+          "Alkali and Alkaline earth metals",
+          "Transition metals (General properties and extraction)",
+          "Alloys"
+        ]
+      }
+    ],
+    "practical_skills": [
+      "Volumetric analysis (Titration)",
+      "Qualitative analysis (Identification of cations and anions)",
+      "Test for gases",
+      "Measurement of rates of reaction"
+    ]
+  }
+}

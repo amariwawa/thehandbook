@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "CERAMICS",
+  "topics": [
+    {
+      "title": "Introduction to CERAMICS",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

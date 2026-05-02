@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "GSM PHONES MAINTENANCE AND REPAIRS",
+  "topics": [
+    {
+      "title": "Introduction to GSM PHONES MAINTENANCE AND REPAIRS",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

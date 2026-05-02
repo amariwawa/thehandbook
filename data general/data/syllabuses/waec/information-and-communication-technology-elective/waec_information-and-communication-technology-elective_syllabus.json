@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "INFORMATION AND COMMUNICATION TECHNOLOGY (ELECTIVE)",
+  "topics": [
+    {
+      "title": "Introduction to INFORMATION AND COMMUNICATION TECHNOLOGY (ELECTIVE)",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

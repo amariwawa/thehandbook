@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "OFFICE PRACTICE",
+  "topics": [
+    {
+      "title": "Introduction to OFFICE PRACTICE",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

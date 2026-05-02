@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "GENERAL AGRICULTURE",
+  "topics": [
+    {
+      "title": "Introduction to GENERAL AGRICULTURE",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

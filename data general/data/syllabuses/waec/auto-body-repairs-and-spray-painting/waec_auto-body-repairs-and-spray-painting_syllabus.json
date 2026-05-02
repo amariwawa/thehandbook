@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "AUTO BODY REPAIRS AND SPRAY PAINTING",
+  "topics": [
+    {
+      "title": "Introduction to AUTO BODY REPAIRS AND SPRAY PAINTING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

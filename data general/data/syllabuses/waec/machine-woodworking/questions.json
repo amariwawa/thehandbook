@@ -1,0 +1,24 @@
+{
+  "exam": "WAEC",
+  "subject": "MACHINE WOODWORKING",
+  "generated": "2026",
+  "total": 1,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to MACHINE WOODWORKING",
+      "section": "General Principles",
+      "subtopic": "Definition",
+      "difficulty": "easy",
+      "question": "What is the primary focus of MACHINE WOODWORKING?",
+      "options": {
+        "A": "Study of core concepts",
+        "B": "Practical application",
+        "C": "Historical background",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "explanation": "Comprehensive understanding involves multiple facets."
+    }
+  ]
+}

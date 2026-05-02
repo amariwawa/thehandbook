@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "VISUAL ART",
+  "topics": [
+    {
+      "title": "Introduction to VISUAL ART",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

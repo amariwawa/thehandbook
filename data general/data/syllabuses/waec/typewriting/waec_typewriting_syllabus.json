@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "TYPEWRITING",
+  "topics": [
+    {
+      "title": "Introduction to TYPEWRITING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

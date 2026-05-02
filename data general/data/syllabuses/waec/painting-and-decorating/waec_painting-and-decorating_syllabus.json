@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "PAINTING AND DECORATING",
+  "topics": [
+    {
+      "title": "Introduction to PAINTING AND DECORATING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "HISTORY",
+  "topics": [
+    {
+      "title": "Introduction to HISTORY",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

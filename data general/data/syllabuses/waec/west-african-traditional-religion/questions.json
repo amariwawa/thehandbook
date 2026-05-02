@@ -1,0 +1,24 @@
+{
+  "exam": "WAEC",
+  "subject": "WEST AFRICAN TRADITIONAL RELIGION",
+  "generated": "2026",
+  "total": 1,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to WEST AFRICAN TRADITIONAL RELIGION",
+      "section": "General Principles",
+      "subtopic": "Definition",
+      "difficulty": "easy",
+      "question": "What is the primary focus of WEST AFRICAN TRADITIONAL RELIGION?",
+      "options": {
+        "A": "Study of core concepts",
+        "B": "Practical application",
+        "C": "Historical background",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "explanation": "Comprehensive understanding involves multiple facets."
+    }
+  ]
+}

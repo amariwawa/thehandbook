@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "IGBO",
+  "topics": [
+    {
+      "title": "Introduction to IGBO",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

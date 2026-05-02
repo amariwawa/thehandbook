@@ -1,0 +1,160 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Core Palette - Indigo Scholastic */
+  --primary: #1d3e8e;
+  --primary-dark: #152d67;
+  --primary-light: #2b57c7;
+  --secondary: #6366f1;
+  --accent: #14b8a6;
+  
+  /* Backgrounds & Surfaces */
+  --background: #fdfcff;
+  --surface: #ffffff;
+  --surface-low: #f8fafc;
+  --surface-high: #f1f5f9;
+  
+  /* Text */
+  --foreground: #0f172a;
+  --foreground-muted: #64748b;
+  
+  /* Shadows */
+  --shadow-premium: 0 20px 50px -12px rgba(29, 62, 142, 0.12);
+  --shadow-soft: 0 4px 10px -2px rgba(0, 0, 0, 0.05);
+  
+  /* Custom Radii */
+  --radius-editorial: 3rem;
+}
+
+.dark {
+  /* Backgrounds & Surfaces */
+  --background: #000000;
+  --surface: #0a0a0a;
+  --surface-low: #050505;
+  --surface-high: #111111;
+  
+  /* Text */
+  --foreground: #ffffff;
+  --foreground-muted: #94a3b8;
+  
+  /* Shadows override for dark mode brilliance */
+  --shadow-premium: 0 20px 50px -12px rgba(255, 255, 255, 0.05);
+  --shadow-soft: 0 4px 10px -2px rgba(255, 255, 255, 0.02);
+}
+
+body {
+
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-inter), sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, .display-font {
+  font-family: var(--font-manrope), sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+@layer components {
+  .card-editorial {
+    background-color: var(--surface);
+    color: var(--foreground);
+    @apply rounded-[3rem] p-10 border border-slate-100 dark:border-white/10 shadow-premium transition-all hover:shadow-2xl hover:-translate-y-1 dark:bg-zinc-900;
+  }
+
+  .card-white {
+    @apply bg-white dark:bg-zinc-900 rounded-[3rem] p-8 border border-slate-100 dark:border-white/5 shadow-soft transition-all;
+  }
+  
+  .card-glass {
+    @apply backdrop-blur-xl bg-white/70 dark:bg-black/70 border border-white/50 dark:border-white/10 shadow-premium rounded-[2.5rem];
+  }
+  
+  .btn-premium {
+    @apply bg-[var(--primary)] text-white px-8 py-4 rounded-2xl font-bold transition-all hover:bg-[var(--primary-dark)] active:scale-95 shadow-lg shadow-indigo-100 dark:shadow-none;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .glass {
+    @apply backdrop-blur-md bg-white/70;
+  }
+  
+  .text-indigo-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-[#1d3e8e] to-indigo-500;
+  }
+  
+  .shadow-premium {
+    box-shadow: 0 20px 50px -12px rgba(29, 62, 142, 0.2);
+  }
+  
+  .shadow-soft {
+    box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.08);
+  }
+}
+
+/* Specific Design Patterns */
+.asymmetric-tl { border-top-left-radius: 4rem; }
+.asymmetric-br { border-bottom-right-radius: 4rem; }
+
+/* Custom Animations */
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+/* Scroll Animations */
+.animate-on-scroll {
+  opacity: 0;
+  transform: translateY(32px);
+  pointer-events: none;
+  transition: opacity 600ms cubic-bezier(0.22, 1, 0.36, 1), 
+              transform 600ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.animate-on-scroll.in-view {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.animate-on-scroll[data-delay="1"] { transition-delay: 120ms; }
+.animate-on-scroll[data-delay="2"] { transition-delay: 240ms; }
+.animate-on-scroll[data-delay="3"] { transition-delay: 360ms; }
+.animate-on-scroll[data-delay="4"] { transition-delay: 480ms; }
+.animate-on-scroll[data-delay="5"] { transition-delay: 600ms; }
+
+/* Marquee Animation */
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 40s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+.mask-fade-edges {
+  mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
+}

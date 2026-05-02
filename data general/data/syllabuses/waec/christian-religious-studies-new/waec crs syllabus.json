@@ -1,0 +1,154 @@
+{
+  "document_name": "crs",
+  "exam": "WAEC",
+  "subject": "Christian Religious Studies",
+  "syllabus_sections": [
+    {
+      "section": "SECTION A: Themes from the Old Testament",
+      "topics": [
+        {
+          "title": "The Sovereignty of God",
+          "details": [
+            "God, the Creator",
+            "God, the Controller of the universe"
+          ]
+        },
+        {
+          "title": "Leadership roles",
+          "details": [
+            "Joseph",
+            "Moses",
+            "Joshua",
+            "Deborah"
+          ]
+        },
+        {
+          "title": "Parental Responsibility",
+          "details": [
+            "Eli and Samuel",
+            "Consequences of Saul’s disobedience"
+          ]
+        },
+        {
+          "title": "Submission to the will of God",
+          "details": [
+            "David’s submission to the will of God",
+            "David’s sin, repentance and forgiveness"
+          ]
+        },
+        {
+          "title": "Making Decisions",
+          "details": [
+            "Solomon’s wisdom",
+            "The unwise decision of Solomon and Rehoboam"
+          ]
+        },
+        {
+          "title": "Supremacy of God",
+          "details": [
+            "Religious tensions during Ahab’s reign",
+            "Elijah at Mount Carmel"
+          ]
+        },
+        {
+          "title": "Greed and its effects",
+          "details": [
+            "Ahab",
+            "Gehazi"
+          ]
+        },
+        {
+          "title": "Religious reforms",
+          "details": [
+            "The reign of King Josiah"
+          ]
+        },
+        {
+          "title": "Concern for one’s Nation",
+          "details": [
+            "The condition of the nation",
+            "Response to the state of the nation"
+          ]
+        },
+        {
+          "title": "Faith in God",
+          "details": [
+            "Faith and courage",
+            "Faith and power"
+          ]
+        },
+        {
+          "title": "Nature of God",
+          "details": [
+            "True religion and social justice: Amos",
+            "God’s divine love – Hosea"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "SECTION B: Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "topics": [
+        {
+          "title": "Baptism and Temptation of Jesus",
+          "details": [
+            "The Baptism",
+            "The Temptation"
+          ]
+        },
+        {
+          "title": "Discipleship and Teaching",
+          "details": [
+            "The Call and Demands of Discipleship",
+            "Jesus’ Teaching on forgiveness"
+          ]
+        },
+        {
+          "title": "The Trials of Jesus",
+          "details": [
+            "Jesus at Gethsemane",
+            "Peter’s Denials",
+            "Condemnation of Jesus"
+          ]
+        },
+        {
+          "title": "The Crucifixion, Burial and Resurrection of Jesus",
+          "details": [
+            "Crucifixion and burial",
+            "The Resurrection"
+          ]
+        },
+        {
+          "title": "The Early Church",
+          "details": [
+            "Fellowship in the Early Church",
+            "The Holy Spirit at Pentecost",
+            "Mission to the Gentiles",
+            "Opposition to the Gospel Message"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "SECTION C: Themes from selected Epistles",
+      "topics": [
+        {
+          "title": "The Epistles of James",
+          "details": [
+            "Faith and Works",
+            "Impartiality",
+            "Effective Prayers"
+          ]
+        },
+        {
+          "title": "The Epistle of 1 Peter",
+          "details": [
+            "Good Citizenship",
+            "Christians Living among non-Christians",
+            "Interpersonal Relationships among Christians"
+          ]
+        }
+      ]
+    }
+  ]
+}

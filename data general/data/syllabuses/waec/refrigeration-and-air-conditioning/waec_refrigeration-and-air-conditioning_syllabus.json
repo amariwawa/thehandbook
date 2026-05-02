@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "REFRIGERATION AND AIR CONDITIONING",
+  "topics": [
+    {
+      "title": "Introduction to REFRIGERATION AND AIR CONDITIONING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

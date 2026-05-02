@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "AUTO MECHANICAL WORK",
+  "topics": [
+    {
+      "title": "Introduction to AUTO MECHANICAL WORK",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

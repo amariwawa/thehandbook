@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "PICTURE MAKING",
+  "topics": [
+    {
+      "title": "Introduction to PICTURE MAKING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

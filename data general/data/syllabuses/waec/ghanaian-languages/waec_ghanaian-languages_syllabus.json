@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "GHANAIAN LANGUAGES",
+  "topics": [
+    {
+      "title": "Introduction to GHANAIAN LANGUAGES",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

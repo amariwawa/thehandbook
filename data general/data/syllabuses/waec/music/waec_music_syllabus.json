@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "MUSIC",
+  "topics": [
+    {
+      "title": "Introduction to MUSIC",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

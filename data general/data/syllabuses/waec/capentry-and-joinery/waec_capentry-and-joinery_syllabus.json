@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "CAPENTRY AND JOINERY",
+  "topics": [
+    {
+      "title": "Introduction to CAPENTRY AND JOINERY",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

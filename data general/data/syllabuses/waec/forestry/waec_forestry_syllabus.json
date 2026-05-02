@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "FORESTRY",
+  "topics": [
+    {
+      "title": "Introduction to FORESTRY",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

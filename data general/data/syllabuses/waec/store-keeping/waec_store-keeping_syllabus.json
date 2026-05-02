@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "STORE KEEPING",
+  "topics": [
+    {
+      "title": "Introduction to STORE KEEPING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

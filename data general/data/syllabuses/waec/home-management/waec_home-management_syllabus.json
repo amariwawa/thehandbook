@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "HOME MANAGEMENT",
+  "topics": [
+    {
+      "title": "Introduction to HOME MANAGEMENT",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

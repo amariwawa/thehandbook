@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "PLUMBING AND PIPE FITTING",
+  "topics": [
+    {
+      "title": "Introduction to PLUMBING AND PIPE FITTING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

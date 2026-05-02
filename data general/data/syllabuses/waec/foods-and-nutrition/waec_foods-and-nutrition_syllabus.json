@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "FOODS AND NUTRITION",
+  "topics": [
+    {
+      "title": "Introduction to FOODS AND NUTRITION",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

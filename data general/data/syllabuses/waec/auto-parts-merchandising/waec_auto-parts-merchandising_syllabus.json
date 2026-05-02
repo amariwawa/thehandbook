@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "AUTO PARTS MERCHANDISING",
+  "topics": [
+    {
+      "title": "Introduction to AUTO PARTS MERCHANDISING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

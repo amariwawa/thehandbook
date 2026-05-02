@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "GRAPHIC DESIGN",
+  "topics": [
+    {
+      "title": "Introduction to GRAPHIC DESIGN",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "SALESMANSHIP",
+  "topics": [
+    {
+      "title": "Introduction to SALESMANSHIP",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

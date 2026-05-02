@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "ISLAMIC RELIGIOUS STUDIES",
+  "topics": [
+    {
+      "title": "Introduction to ISLAMIC RELIGIOUS STUDIES",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

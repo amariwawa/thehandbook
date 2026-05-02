@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "RADIO TELEVISION AND ELECTRONICS WORKS",
+  "topics": [
+    {
+      "title": "Introduction to RADIO TELEVISION AND ELECTRONICS WORKS",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

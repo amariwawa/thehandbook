@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "EDO",
+  "topics": [
+    {
+      "title": "Introduction to EDO",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

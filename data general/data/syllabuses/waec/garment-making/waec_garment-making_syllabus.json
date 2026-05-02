@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "GARMENT MAKING",
+  "topics": [
+    {
+      "title": "Introduction to GARMENT MAKING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

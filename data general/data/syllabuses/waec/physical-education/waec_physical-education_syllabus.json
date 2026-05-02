@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "PHYSICAL EDUCATION",
+  "topics": [
+    {
+      "title": "Introduction to PHYSICAL EDUCATION",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

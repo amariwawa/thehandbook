@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "CATERING CRAFT PRACTICE",
+  "topics": [
+    {
+      "title": "Introduction to CATERING CRAFT PRACTICE",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

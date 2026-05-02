@@ -1,0 +1,24 @@
+{
+  "exam": "WAEC",
+  "subject": "INFORMATION AND COMMUNICATION TECHNOLOGY (ELECTIVE)",
+  "generated": "2026",
+  "total": 1,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to INFORMATION AND COMMUNICATION TECHNOLOGY (ELECTIVE)",
+      "section": "General Principles",
+      "subtopic": "Definition",
+      "difficulty": "easy",
+      "question": "What is the primary focus of INFORMATION AND COMMUNICATION TECHNOLOGY (ELECTIVE)?",
+      "options": {
+        "A": "Study of core concepts",
+        "B": "Practical application",
+        "C": "Historical background",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "explanation": "Comprehensive understanding involves multiple facets."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "HAUSA",
+  "topics": [
+    {
+      "title": "Introduction to HAUSA",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "FURNITURE MAKING",
+  "topics": [
+    {
+      "title": "Introduction to FURNITURE MAKING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

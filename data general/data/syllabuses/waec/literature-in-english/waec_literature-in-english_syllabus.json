@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "LITERATURE IN ENGLISH",
+  "topics": [
+    {
+      "title": "Introduction to LITERATURE IN ENGLISH",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

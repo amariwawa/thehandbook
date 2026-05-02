@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "MACHINE WOODWORKING",
+  "topics": [
+    {
+      "title": "Introduction to MACHINE WOODWORKING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

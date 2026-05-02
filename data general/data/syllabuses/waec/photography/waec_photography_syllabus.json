@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "PHOTOGRAPHY",
+  "topics": [
+    {
+      "title": "Introduction to PHOTOGRAPHY",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

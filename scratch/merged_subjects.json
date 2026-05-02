@@ -1,0 +1,637 @@
+{
+  "science": [
+    {
+      "id": "biology",
+      "name": "Biology",
+      "image": "/subjects/biology_v2.png"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "image": "/subjects/chemistry_v2.png"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "image": "/subjects/physics_v2.png"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "image": "/subjects/mathematics_v2.png"
+    },
+    {
+      "id": "english",
+      "name": "English Language",
+      "image": "/subjects/english_v2.png"
+    },
+    {
+      "id": "literature",
+      "name": "Literature in English",
+      "image": "/subjects/literature_v2.png"
+    },
+    {
+      "id": "agric-science",
+      "name": "Agricultural Science",
+      "image": "/subjects/agric_v2.png"
+    },
+    {
+      "id": "further-maths",
+      "name": "Further Mathematics",
+      "image": "/subjects/further_maths_v2.png"
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "image": "/subjects/computer_science_v2.png"
+    },
+    {
+      "id": "technical-drawing",
+      "name": "Technical Drawing",
+      "image": "https://images.unsplash.com/photo-1503387762-592dea58ef21?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "image": "/subjects/geography_v2.png"
+    },
+    {
+      "id": "food-nutrition",
+      "name": "Food & Nutrition",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "agricultural-science",
+      "name": "AGRICULTURAL SCIENCE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "animal-husbandry-alt-a",
+      "name": "ANIMAL HUSBANDRY (ALT A)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "animal-husbandry-alt-b",
+      "name": "ANIMAL HUSBANDRY (ALT B)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "crop-husbandry-and-horticulture",
+      "name": "CROP HUSBANDRY AND HORTICULTURE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "fisheries-alt-a",
+      "name": "FISHERIES (ALT A)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "fisheries-alt-b",
+      "name": "FISHERIES (ALT B)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "forestry",
+      "name": "FORESTRY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "further-mathematics-or-mathematics-elective",
+      "name": "FURTHER MATHEMATICS OR MATHEMATICS (ELECTIVE)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "general-agriculture",
+      "name": "GENERAL AGRICULTURE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "general-mathematics-or-mathematics-core",
+      "name": "GENERAL MATHEMATICS OR MATHEMATICS (CORE)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "health-education-or-health-science",
+      "name": "HEALTH EDUCATION OR HEALTH SCIENCE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "integrated-science",
+      "name": "INTEGRATED SCIENCE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "mining",
+      "name": "MINING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "physical-education",
+      "name": "PHYSICAL EDUCATION",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    }
+  ],
+  "commercial": [
+    {
+      "id": "economics",
+      "name": "Economics",
+      "image": "/subjects/economics_v2.png"
+    },
+    {
+      "id": "commerce",
+      "name": "Commerce",
+      "image": "/subjects/commerce_v2.png"
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting",
+      "image": "/subjects/accounting_v2.png"
+    },
+    {
+      "id": "auto-parts-merchandising",
+      "name": "AUTO PARTS MERCHANDISING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "book-keeping",
+      "name": "BOOK KEEPING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "business-management",
+      "name": "BUSINESS MANAGEMENT",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "clerical-office-duties",
+      "name": "CLERICAL OFFICE DUTIES",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "data-processing",
+      "name": "DATA PROCESSING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "financial-accounting",
+      "name": "FINANCIAL ACCOUNTING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "financial-accounts",
+      "name": "FINANCIAL ACCOUNTS",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "insurance",
+      "name": "INSURANCE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "marketing",
+      "name": "MARKETING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "office-practice",
+      "name": "OFFICE PRACTICE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "principles-of-cost-accounting",
+      "name": "PRINCIPLES OF COST ACCOUNTING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "salesmanship",
+      "name": "SALESMANSHIP",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "shorthand",
+      "name": "SHORTHAND",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "store-keeping",
+      "name": "STORE KEEPING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "store-management",
+      "name": "STORE MANAGEMENT",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "tourism",
+      "name": "TOURISM",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "typewriting",
+      "name": "TYPEWRITING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    }
+  ],
+  "arts": [
+    {
+      "id": "government",
+      "name": "Government",
+      "image": "/subjects/government_v2.png"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "image": "/subjects/history_v2.png"
+    },
+    {
+      "id": "crs",
+      "name": "Christian Religious Studies (CRS)",
+      "image": "https://images.unsplash.com/photo-1510480683064-1c6bd2069502?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "basketry",
+      "name": "BASKETRY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "ceramics",
+      "name": "CERAMICS",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "christian-religious-studies-new",
+      "name": "CHRISTIAN RELIGIOUS STUDIES (NEW)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "civic-education",
+      "name": "CIVIC EDUCATION",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "clothing-and-textiles",
+      "name": "CLOTHING AND TEXTILES",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "dyeing-bleaching",
+      "name": "DYEING & BLEACHING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "edo",
+      "name": "EDO",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "efik",
+      "name": "EFIK",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "english-language",
+      "name": "ENGLISH LANGUAGE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "french",
+      "name": "FRENCH",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "general-knowledge-in-art",
+      "name": "GENERAL KNOWLEDGE IN ART",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "ghanaian-languages",
+      "name": "GHANAIAN LANGUAGES",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "graphic-design",
+      "name": "GRAPHIC DESIGN",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "hausa",
+      "name": "HAUSA",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "home-management",
+      "name": "HOME MANAGEMENT",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "ibibio",
+      "name": "IBIBIO",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "igbo",
+      "name": "IGBO",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "islamic-religious-studies",
+      "name": "ISLAMIC RELIGIOUS STUDIES",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "jewellery",
+      "name": "JEWELLERY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "leather-goods",
+      "name": "LEATHER GOODS",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "leatherwork",
+      "name": "LEATHERWORK",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "literature-in-english",
+      "name": "LITERATURE IN ENGLISH",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "music",
+      "name": "MUSIC",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "photography",
+      "name": "PHOTOGRAPHY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "picture-making",
+      "name": "PICTURE MAKING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "sculpture",
+      "name": "SCULPTURE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "social-studies-new",
+      "name": "SOCIAL STUDIES (NEW)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "textiles",
+      "name": "TEXTILES",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "visual-art",
+      "name": "VISUAL ART",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "west-african-traditional-religion",
+      "name": "WEST AFRICAN TRADITIONAL RELIGION",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "arabic",
+      "name": "ARABIC",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "yoruba",
+      "name": "YORUBA",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    }
+  ],
+  "technical": [
+    {
+      "id": "basic-electronics",
+      "name": "Basic Electronics",
+      "image": "https://images.unsplash.com/photo-1517420812314-8b17179f59f9?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "building-construction",
+      "name": "Building Construction",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "auto-mechanics",
+      "name": "Auto Mechanics",
+      "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "woodwork",
+      "name": "Woodwork",
+      "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "metalwork",
+      "name": "Metalwork",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5f669741?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "electrical-installation",
+      "name": "Electrical Installation",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "welding-fabrication",
+      "name": "Welding & Fabrication",
+      "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "computer-craft",
+      "name": "Computer Craft Studies",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "applied-electricity",
+      "name": "APPLIED ELECTRICITY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "auto-body-repairs-and-spray-painting",
+      "name": "AUTO BODY REPAIRS AND SPRAY PAINTING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "auto-electrical-work",
+      "name": "AUTO ELECTRICAL WORK",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "auto-mechanical-work",
+      "name": "AUTO MECHANICAL WORK",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "blocklaying-bricklaying-and-concreting",
+      "name": "BLOCKLAYING BRICKLAYING AND CONCRETING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "capentry-and-joinery",
+      "name": "CAPENTRY AND JOINERY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "catering-craft-practice",
+      "name": "CATERING CRAFT PRACTICE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "cosmetology",
+      "name": "COSMETOLOGY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "electrical-installation-and-maintenance-work",
+      "name": "ELECTRICAL INSTALLATION AND MAINTENANCE WORK",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "electronics-or-basic-electronics",
+      "name": "ELECTRONICS OR BASIC ELECTRONICS",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "foods-and-nutrition",
+      "name": "FOODS AND NUTRITION",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "furniture-making",
+      "name": "FURNITURE MAKING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "garment-making",
+      "name": "GARMENT MAKING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "gsm-phones-maintenance-and-repairs",
+      "name": "GSM PHONES MAINTENANCE AND REPAIRS",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "information-and-communication-technology-core",
+      "name": "INFORMATION AND COMMUNICATION TECHNOLOGY (CORE)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "information-and-communication-technology-elective",
+      "name": "INFORMATION AND COMMUNICATION TECHNOLOGY (ELECTIVE)",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "machine-woodworking",
+      "name": "MACHINE WOODWORKING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "painting-and-decorating",
+      "name": "PAINTING AND DECORATING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "plumbing-and-pipe-fitting",
+      "name": "PLUMBING AND PIPE FITTING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "printing-craft-practice",
+      "name": "PRINTING CRAFT PRACTICE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "radio-television-and-electronics-works",
+      "name": "RADIO TELEVISION AND ELECTRONICS WORKS",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "refrigeration-and-air-conditioning",
+      "name": "REFRIGERATION AND AIR CONDITIONING",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "upholstery",
+      "name": "UPHOLSTERY",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "welding-and-fabrication-engineering-craft-practice",
+      "name": "WELDING AND FABRICATION ENGINEERING CRAFT PRACTICE",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+    }
+  ],
+  "junior": [
+    {
+      "id": "basic-science",
+      "name": "Basic Science",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "basic-tech",
+      "name": "Basic Technology",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "business-studies",
+      "name": "Business Studies",
+      "image": "https://images.unsplash.com/photo-1454165833767-027ffea7025c?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "social-studies",
+      "name": "Social Studies",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "home-economics",
+      "name": "Home Economics",
+      "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "cca",
+      "name": "Cultural & Creative Arts",
+      "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "phe",
+      "name": "Physical & Health Education",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "computer-studies",
+      "name": "Computer Studies",
+      "image": "/subjects/computer_science_v2.png"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "image": "/subjects/mathematics_v2.png"
+    },
+    {
+      "id": "english",
+      "name": "English Language",
+      "image": "/subjects/english_v2.png"
+    },
+    {
+      "id": "mathematics-junior",
+      "name": "Mathematics (Junior)",
+      "image": "/subjects/mathematics_v2.png"
+    },
+    {
+      "id": "english-junior",
+      "name": "English (Junior)",
+      "image": "/subjects/english_v2.png"
+    }
+  ]
+}

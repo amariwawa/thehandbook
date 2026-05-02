@@ -1,0 +1,190 @@
+{
+  "document_name": "computer_science_syllabus",
+  "exam": "WAEC",
+  "subject": "Computer Science",
+  "syllabus_sections": [
+    {
+      "section": "COMPUTER EVOLUTION",
+      "topics": [
+        {
+          "title": "Computing Devices I (Pre-computing age to 19th Century)",
+          "details": [
+            "Early devices: Abacus, Slide Rule, Napier’s Bones, Pascal’s Calculator, Leibnitz Multiplier",
+            "19th Century inventions: Jacquard Loom, Babbage’s Analytical Engine, Hollerith Census Machine, Burrough’s Machine",
+            "Founders' contributions to modern computing",
+            "Trends in device development"
+          ]
+        },
+        {
+          "title": "Computing Devices II (20th Century to Date)",
+          "details": [
+            "Electronic computers: ENIAC, EDVAC, UNIVAC 1",
+            "Modern forms: Desktop PCs, Laptops, Notebooks, Palmtops",
+            "Comparative study of sizes and basic components"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "FUNDAMENTALS OF COMPUTING",
+      "topics": [
+        {
+          "title": "Overview of Computing Systems",
+          "details": [
+            "Definition of a computer",
+            "Constituents: Hardware and Software (classification and examples)",
+            "Characteristics: Electronic, Accuracy, Speed, Interactivity",
+            "Data vs. Information: Definitions and examples"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "COMPUTER ETHICS AND HUMAN ISSUES",
+      "topics": [
+        {
+          "title": "Security and Ethics",
+          "details": [
+            "Security breaches: Viruses, worms, Trojan horses, Hacking, Spamming",
+            "Preventive measures: Antivirus (Norton, McAfee, etc.), Firewalls, Encryption",
+            "Care in sharing personal information and opening attachments"
+          ]
+        },
+        {
+          "title": "Legal Issues",
+          "details": [
+            "Software copyright: Text, images, audio, and video rights",
+            "Cyber crimes: Identity theft, Internet fraud, Hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "COMPUTER HARDWARE",
+      "topics": [
+        {
+          "title": "Input and Output Devices",
+          "details": [
+            "Input: Keyboard (Function, Numeric, Cursor keys), Mouse, Scanner, Joystick, Light pen",
+            "Output: Monitors, Printers (Inkjet, Laser, Line), Speakers, Plotters",
+            "Comparative features and use cases"
+          ]
+        },
+        {
+          "title": "System Unit and Memory",
+          "details": [
+            "CPU Components: Arithmetic and Logic Unit (ALU), Control Unit",
+            "Primary Memory: ROM and RAM (physical identification and uses)",
+            "Secondary Memory: Hard disks, CDs, Flash disks, DVDs",
+            "Units of storage: Bits, Bytes, KB, MB, GB, TB, PB (interconversion)"
+          ]
+        },
+        {
+          "title": "Logic Circuits",
+          "details": [
+            "Standard Gates: AND, NOT, OR (Symbols, Truth Tables, Equations)",
+            "Alternative Gates: NAND, NOR",
+            "Complex Circuits: XOR and simple Comparators"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "COMPUTER SOFTWARE",
+      "topics": [
+        {
+          "title": "System Software",
+          "details": [
+            "Operating Systems: Windows, Linux, UNIX, MS-DOS, Android, iOS",
+            "Translators: Assemblers, Compilers, Interpreters",
+            "Utility Programs: Editors, Anti-virus",
+            "User Interfaces: GUI vs. Command Line"
+          ]
+        },
+        {
+          "title": "Application Software",
+          "details": [
+            "Word Processing (MS Word), Spreadsheets (Excel), Database (Access), Graphics",
+            "Specialized software: Accounting, Payroll, Banking, Education, Hospital management"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "COMPUTER APPLICATIONS",
+      "topics": [
+        {
+          "title": "Word Processing and Spreadsheets",
+          "details": [
+            "MS Word: Creating, editing, formatting, spell check, mail merge",
+            "MS Excel: Worksheets, formulas, functions (SUM, AVERAGE), chart generation"
+          ]
+        },
+        {
+          "title": "Database and Graphics",
+          "details": [
+            "Database: MS Access, Oracle; File, Record, and Field concepts",
+            "Graphics: CorelDraw, Photoshop, Paint; creating logos and cards",
+            "Presentation: MS PowerPoint; slide creation, animation, and slide shows"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "MANAGING COMPUTER FILES",
+      "topics": [
+        {
+          "title": "File Concepts and Handling",
+          "details": [
+            "File structure: Data item -> Record -> File -> Database",
+            "Organization: Serial, Sequential, Indexed, Random",
+            "Access methods and file classification (Master, Transaction, Reference)",
+            "Security: Backup, antivirus, and password protection"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "INFORMATION AND COMMUNICATION TECHNOLOGY (ICT)",
+      "topics": [
+        {
+          "title": "ICT Acronym and Types",
+          "details": [
+            "Types: Broadcasting, Telecommunication, Data Network, Information Systems",
+            "Networking: PAN, LAN, MAN, WAN, Internet",
+            "Network Topologies: Star, Bus, Ring",
+            "Network Devices: Hubs, Switches, Routers, Modems, NICs"
+          ]
+        },
+        {
+          "title": "The Internet and WWW",
+          "details": [
+            "Terminology: HTTP, HTML, ISP, URL, Browser types",
+            "Services: Email, Telnet, FTP, Instant Messaging",
+            "Cables and Connectors: Twisted pair, Fiber optic, Coaxial, RJ45, USB"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "DEVELOPING PROBLEM-SOLVING SKILLS",
+      "topics": [
+        {
+          "title": "Programming Languages and Logic",
+          "details": [
+            "Levels: Machine Language, Low-Level (Assembly), High-Level (BASIC, C++, FORTRAN)",
+            "Algorithm and Flowcharts: Symbols and writing logic",
+            "BASIC Programming: Statements (INPUT, PRINT, LET), Operators, Built-in functions, Arrays"
+          ]
+        },
+        {
+          "title": "Systems and Program Development",
+          "details": [
+            "SDLC Stages: Preliminary study, Analysis, Design, Implementation, Maintenance",
+            "Program Development: Problem definition, Analysis, Coding, Debugging, Documentation"
+          ]
+        }
+      ]
+    }
+  ]
+}

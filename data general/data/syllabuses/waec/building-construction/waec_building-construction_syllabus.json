@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "BUILDING CONSTRUCTION",
+  "topics": [
+    {
+      "title": "Introduction to BUILDING CONSTRUCTION",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

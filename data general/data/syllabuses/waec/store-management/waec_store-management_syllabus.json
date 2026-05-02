@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "STORE MANAGEMENT",
+  "topics": [
+    {
+      "title": "Introduction to STORE MANAGEMENT",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

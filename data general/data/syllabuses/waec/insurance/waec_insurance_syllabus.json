@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "INSURANCE",
+  "topics": [
+    {
+      "title": "Introduction to INSURANCE",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

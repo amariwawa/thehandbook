@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "FRENCH",
+  "topics": [
+    {
+      "title": "Introduction to FRENCH",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

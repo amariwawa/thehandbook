@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "IBIBIO",
+  "topics": [
+    {
+      "title": "Introduction to IBIBIO",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

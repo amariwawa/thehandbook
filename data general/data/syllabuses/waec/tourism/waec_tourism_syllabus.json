@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "TOURISM",
+  "topics": [
+    {
+      "title": "Introduction to TOURISM",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

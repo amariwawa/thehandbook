@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "HEALTH EDUCATION OR HEALTH SCIENCE",
+  "topics": [
+    {
+      "title": "Introduction to HEALTH EDUCATION OR HEALTH SCIENCE",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

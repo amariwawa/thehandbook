@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "FINANCIAL ACCOUNTING",
+  "topics": [
+    {
+      "title": "Introduction to FINANCIAL ACCOUNTING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

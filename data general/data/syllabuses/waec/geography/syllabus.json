@@ -1,0 +1,157 @@
+{
+  "exam": "WAEC",
+  "subject": "Geography",
+  "syllabus_content": {
+    "part_1_practical_and_physical_geography": [
+      {
+        "section": "PRACTICAL GEOGRAPHY",
+        "topics": [
+          {
+            "title": "Maps and Map Work",
+            "details": [
+              "Scale: types and conversion",
+              "Measurement of distance, area, and direction",
+              "Map reduction and enlargement",
+              "Representation of relief: contours, hachures, hill shading",
+              "Interpretation of topographical maps: relief, drainage, settlement, and land use",
+              "Cross-sections and profiles"
+            ]
+          },
+          {
+            "title": "Statistical Methods and Diagrams",
+            "details": [
+              "Graphical representation of data: bar charts, pie charts, dot maps, isoline maps",
+              "Statistical calculations: mean, median, mode, and range"
+            ]
+          },
+          {
+            "title": "Elementary Surveying",
+            "details": [
+              "Chain survey and Prismatic compass survey",
+              "Instruments and their uses",
+              "Field procedures and plotting"
+            ]
+          },
+          {
+            "title": "Geographic Information System (GIS)",
+            "details": [
+              "Meaning and components of GIS",
+              "Data sources and storage",
+              "Applications of GIS"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "PHYSICAL GEOGRAPHY",
+        "topics": [
+          {
+            "title": "The Earth and the Solar System",
+            "details": [
+              "The Earth's position in the solar system",
+              "Earth's shape, size, and movements (rotation and revolution)",
+              "Latitude and Longitude: Time calculation and Great Circles",
+              "Structure of the Earth: Lithosphere, Hydrosphere, Atmosphere, Biosphere",
+              "Internal structure of the Earth: Core, Mantle, and Crust"
+            ]
+          },
+          {
+            "title": "Rocks and Landform Development",
+            "details": [
+              "Rock types: Igneous, Sedimentary, and Metamorphic",
+              "Landform processes: Vulcanicity and Earthquakes",
+              "Mountains, Plateaux, and Plains",
+              "External processes: Weathering and Mass wasting"
+            ]
+          },
+          {
+            "title": "Denudational Processes",
+            "details": [
+              "Action of running water (rivers)",
+              "Action of wind in deserts",
+              "Action of waves and coastal landforms",
+              "Action of glaciers"
+            ]
+          },
+          {
+            "title": "Water Bodies and Climate",
+            "details": [
+              "Oceans, seas, and lakes",
+              "Atmospheric composition and structure",
+              "Elements of weather and climate: temperature, pressure, wind, humidity, precipitation",
+              "Classification of climate (Koppen and Greek classification)",
+              "Environmental hazards: flooding, drought, desertification"
+            ]
+          },
+          {
+            "title": "Soils and Vegetation",
+            "details": [
+              "Soil formation, profile, and properties",
+              "Soil erosion and conservation",
+              "Major vegetation types and their characteristics"
+            ]
+          }
+        ]
+      }
+    ],
+    "part_2_human_and_regional_geography": [
+      {
+        "section": "HUMAN GEOGRAPHY",
+        "topics": [
+          {
+            "title": "Population and Settlement",
+            "details": [
+              "World population: distribution, density, and growth",
+              "Migration: types, causes, and consequences",
+              "Settlement types: rural and urban",
+              "Urbanization: problems and solutions"
+            ]
+          },
+          {
+            "title": "Economic Activities",
+            "details": [
+              "Primary activities: Agriculture, Mining, Fishing, Lumbering",
+              "Secondary activities: Manufacturing industries",
+              "Tertiary activities: Trade, transport, and communication",
+              "Tourism and its importance"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "REGIONAL GEOGRAPHY",
+        "topics": [
+          {
+            "title": "Geography of Nigeria",
+            "details": [
+              "Location, size, and political divisions",
+              "Physical setting: relief, drainage, climate, and vegetation",
+              "Resources: minerals, power, water, forest, and soil",
+              "Population and settlement patterns",
+              "Economic activities: Agriculture, Industry, Transport, and Trade",
+              "Geographical regions of Nigeria (Eastern Highlands, Niger Delta, High Plains of Hausaland, etc.)"
+            ]
+          },
+          {
+            "title": "Regional Geography of West Africa",
+            "details": [
+              "Physical background",
+              "Socio-economic features",
+              "The Economic Community of West African States (ECOWAS)"
+            ]
+          },
+          {
+            "title": "Selected Topics on World Geography",
+            "details": [
+              "Lumbering in Equatorial Africa and Canada",
+              "Irrigation in Egypt and the Gezira Scheme in Sudan",
+              "Fruit farming in Mediterranean regions",
+              "Gold mining in South Africa",
+              "Manufacturing in the Ruhr region (Germany) and the USA"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

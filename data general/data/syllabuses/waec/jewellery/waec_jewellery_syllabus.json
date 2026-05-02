@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "JEWELLERY",
+  "topics": [
+    {
+      "title": "Introduction to JEWELLERY",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

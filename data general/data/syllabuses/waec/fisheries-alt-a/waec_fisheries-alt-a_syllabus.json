@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "FISHERIES (ALT A)",
+  "topics": [
+    {
+      "title": "Introduction to FISHERIES (ALT A)",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

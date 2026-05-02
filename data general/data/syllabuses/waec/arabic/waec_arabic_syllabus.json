@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "ARABIC",
+  "topics": [
+    {
+      "title": "Introduction to ARABIC",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

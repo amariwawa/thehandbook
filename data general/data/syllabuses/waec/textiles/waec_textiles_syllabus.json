@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "TEXTILES",
+  "topics": [
+    {
+      "title": "Introduction to TEXTILES",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

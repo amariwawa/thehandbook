@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "MARKETING",
+  "topics": [
+    {
+      "title": "Introduction to MARKETING",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

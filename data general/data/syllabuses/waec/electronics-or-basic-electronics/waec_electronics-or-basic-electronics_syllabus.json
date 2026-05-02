@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "ELECTRONICS OR BASIC ELECTRONICS",
+  "topics": [
+    {
+      "title": "Introduction to ELECTRONICS OR BASIC ELECTRONICS",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

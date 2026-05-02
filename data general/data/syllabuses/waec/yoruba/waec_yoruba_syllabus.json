@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "YORUBA",
+  "topics": [
+    {
+      "title": "Introduction to YORUBA",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

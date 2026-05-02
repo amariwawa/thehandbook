@@ -1,0 +1,15 @@
+{
+  "exam": "WAEC",
+  "subject": "COSMETOLOGY",
+  "topics": [
+    {
+      "title": "Introduction to COSMETOLOGY",
+      "section": "General Principles",
+      "subtopics": [
+        "Definition",
+        "Importance",
+        "Scope"
+      ]
+    }
+  ]
+}

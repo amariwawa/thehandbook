@@ -1,0 +1,219 @@
+{
+  "document_name": "physics_syllabus",
+  "exam": "WAEC",
+  "subject": "Physics",
+  "syllabus_sections": [
+    {
+      "section": "INTERACTION OF MATTER, SPACE & TIME",
+      "topics": [
+        {
+          "title": "Concepts of Matter",
+          "details": ["Structure of matter", "Kinetic theory of matter", "Diffusion"]
+        },
+        {
+          "title": "Quantities and Units",
+          "details": [
+            "Fundamental and derived quantities",
+            "Fundamental and derived units",
+            "Dimensional Analysis (verifying equations, deriving relationships)"
+          ]
+        },
+        {
+          "title": "Kinematics",
+          "details": [
+            "Position, distance, and displacement",
+            "Direction and bearing",
+            "Rectangular coordinates",
+            "Speed and Velocity (Uniform/Non-uniform)",
+            "Rectilinear acceleration/deceleration",
+            "Distance/Displacement-time graphs",
+            "Velocity-time graphs",
+            "Equations of motion",
+            "Motion under gravity"
+          ]
+        },
+        {
+          "title": "Dynamics",
+          "details": [
+            "Mass and weight",
+            "Newton’s Laws of Motion (Inertia, Force/Momentum, Action/Reaction)",
+            "Impulse",
+            "Cause of motion: Contact and Non-contact forces",
+            "Friction (Solid friction and Viscosity)"
+          ]
+        },
+        {
+          "title": "Fluids and Equilibrium",
+          "details": [
+            "Volume, density, and relative density",
+            "Pressure in fluids",
+            "Archimedes’ principle",
+            "Law of flotation",
+            "Equilibrium of forces",
+            "Principle of moments",
+            "Centre of gravity and stability"
+          ]
+        },
+        {
+          "title": "Circular and Periodic Motion",
+          "details": [
+            "Simple ideas of circular motion",
+            "Simple Harmonic Motion (S.H.M): Speed, acceleration, period, frequency, amplitude",
+            "Energy of S.H.M",
+            "Forced vibration and resonance",
+            "Projectile motion: Range, max height, time of flight",
+            "Satellites and Rockets: Geostationary satellites, orbital speed"
+          ]
+        },
+        {
+          "title": "Scalars and Vectors",
+          "details": [
+            "Vector representation",
+            "Addition and resolution of vectors",
+            "Resultant velocity"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "ENERGY: MECHANICAL AND HEAT",
+      "topics": [
+        {
+          "title": "Mechanical Energy",
+          "details": [
+            "Forms and conservation of energy",
+            "Work, Energy, and Power",
+            "Work done in gravitational fields",
+            "Potential and Kinetic energy",
+            "Machines: Levers, pulleys, inclined plane, wedge, screw, wheel/axle, gears"
+          ]
+        },
+        {
+          "title": "Heat Energy",
+          "details": [
+            "Temperature measurement",
+            "Thermal expansion: Linear, area, and volume expansivities",
+            "Heat transfer: Conduction, convection, radiation",
+            "Gas Laws: Boyle’s, Charles’, Pressure, and General gas law",
+            "Calorimetry: Heat capacity and Specific heat capacity",
+            "Latent heat: Fusion and Vaporization",
+            "Evaporation and boiling",
+            "Vapour pressure",
+            "Humidity, dew point, and weather"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "WAVES AND OPTICS",
+      "topics": [
+        {
+          "title": "Wave Mechanics",
+          "details": [
+            "Production and propagation of mechanical waves",
+            "Waveforms: frequency (f), wavelength (λ), period (T), velocity (v)",
+            "Transverse and longitudinal waves",
+            "Properties: Reflection, refraction, diffraction, interference, superposition"
+          ]
+        },
+        {
+          "title": "Light Waves",
+          "details": [
+            "Rectilinear propagation",
+            "Reflection at plane and curved surfaces (Concave and Convex mirrors)",
+            "Refraction at plane surfaces (Prisms and glass blocks)",
+            "Refraction at curved surfaces (Converging and Diverging lenses)",
+            "Optical instruments",
+            "Dispersion of white light",
+            "Electromagnetic spectrum",
+            "Fibre Optics and LASER technology"
+          ]
+        },
+        {
+          "title": "Sound Waves",
+          "details": [
+            "Transmission and speed in solids, liquids, and air",
+            "Echoes and reverberation",
+            "Characteristics: Pitch, loudness, quality",
+            "Vibration in strings and air pipes",
+            "Harmonics and overtones"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "FIELDS AND ELECTRICITY",
+      "topics": [
+        {
+          "title": "Force Fields",
+          "details": [
+            "Gravitational field: Newton’s law of gravitation, g, escape velocity",
+            "Magnetic field: Properties of magnets, Earth's magnetic field",
+            "Electric field: Electrostatics, Coulomb’s law, Potential"
+          ]
+        },
+        {
+          "title": "Current Electricity",
+          "details": [
+            "Production of current",
+            "Electric circuits",
+            "Ohm’s Law: Resistance, Resistivity, and Conductivity",
+            "Electrical energy and power",
+            "Shunts and multipliers",
+            "E.m.f. and internal resistance",
+            "Capacitance: Definition, arrangement, and application"
+          ]
+        },
+        {
+          "title": "Electromagnetism",
+          "details": [
+            "Magnetic force on current-carrying conductors",
+            "Moving charged particles in fields",
+            "Electromagnetic induction: Faraday’s and Lenz’s laws",
+            "Inductance and Eddy currents",
+            "Power transmission and distribution"
+          ]
+        },
+        {
+          "title": "Simple A.C. Circuits",
+          "details": [
+            "Graphical representation of e.m.f and current",
+            "Peak and r.m.s. values",
+            "RLC series circuits",
+            "Reactance, impedance, and resonance",
+            "Power in A.C. circuits"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "MODERN PHYSICS",
+      "topics": [
+        {
+          "title": "Atomic and Nuclear Physics",
+          "details": [
+            "Models of the atom",
+            "Energy quantization",
+            "Photoelectric effect",
+            "Thermionic emission",
+            "X-rays",
+            "Structure of the nucleus",
+            "Radioactivity: Natural and artificial",
+            "Nuclear reactions: Fusion and Fission"
+          ]
+        },
+        {
+          "title": "Quantum Mechanics and Electronics",
+          "details": [
+            "Wave-particle paradox",
+            "Electron diffraction",
+            "Duality of matter",
+            "Electrical conduction through materials: Band theory",
+            "Semiconductors: Intrinsic/Extrinsic, p-type and n-type, doping",
+            "Junction diodes and rectification"
+          ]
+        }
+      ]
+    }
+  ]
+}
