@@ -107,10 +107,11 @@ export default function AITutorPracticePanel({
       if (!response.ok) throw new Error(data.details || data.error);
 
       setMessages(prev => [...prev, { role: 'assistant', content: data.content }]);
-    } catch (error: any) {
+    } catch (error) {
+      const errMessage = error instanceof Error ? error.message : "An unexpected error occurred";
       setMessages(prev => [...prev, { 
         role: 'assistant', 
-        content: `**Tutor Note:** ${error.message}. Please try again.` 
+        content: `**Tutor Note:** ${errMessage}. Please try again.` 
       }]);
     } finally {
       setIsLoading(false);

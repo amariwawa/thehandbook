@@ -66,10 +66,11 @@ export async function POST(req: NextRequest) {
       content: text,
       time: `SENT ${new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`
     });
-  } catch (error: any) {
+  } catch (error) {
+    const errMessage = error instanceof Error ? error.message : "Internal server error during chat";
     return NextResponse.json({ 
       error: "AI Connection Error", 
-      details: error.message 
+      details: errMessage 
     }, { status: 500 });
   }
 }

@@ -49,7 +49,8 @@ export async function POST(req: Request) {
     const { subject, topic, count = 5 } = await req.json();
     const questions = await generateDirect(subject, topic, count);
     return NextResponse.json({ questions });
-  } catch (error: any) {
-    return NextResponse.json({ error: "AI Generation Error", details: error.message }, { status: 500 });
+  } catch (error) {
+    const errMessage = error instanceof Error ? error.message : "Unknown error during AI generation";
+    return NextResponse.json({ error: "AI Generation Error", details: errMessage }, { status: 500 });
   }
 }

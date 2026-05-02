@@ -107,9 +107,10 @@ export default function AITutorPage() {
       setMessages(prev => [...prev, data]);
     } catch (error) {
       console.error("Chat Error:", error);
+      const errMessage = error instanceof Error ? error.message : "I'm sorry, I'm having trouble connecting right now. Please try again in a moment.";
       setMessages(prev => [...prev, {
         role: 'assistant',
-        content: (error as any).message || "I'm sorry, I'm having trouble connecting right now. Please try again in a moment.",
+        content: errMessage,
         time: `SENT ${new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`
       }]);
     } finally {
