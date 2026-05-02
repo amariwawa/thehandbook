@@ -13,8 +13,12 @@ export default function SubjectInsightDeepDive() {
   const router = useRouter();
   const subjectId = params.subject as string;
   
-  const allSubjects = Object.values(subjects).flat();
-  const currentSubject = allSubjects.find(s => s.id === subjectId);
+  const allSubjects = [
+    ...Object.values(subjects.waec).flat(),
+    ...subjects.jamb,
+    ...subjects.bece
+  ];
+  const currentSubject = allSubjects.find((s: any) => s.id === subjectId);
   const subjectTopics = topics[subjectId as keyof typeof topics] || [];
 
   if (!currentSubject) {

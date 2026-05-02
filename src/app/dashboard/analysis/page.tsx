@@ -53,8 +53,13 @@ export default function AnalysisPage() {
 
   // Get unique subjects
   const allUniqueSubjects = useMemo(() => {
+    const all = [
+      ...Object.values(subjects.waec).flat(),
+      ...subjects.jamb,
+      ...subjects.bece
+    ];
     const map = new Map();
-    Object.values(subjects).flat().forEach((s: any) => {
+    all.forEach((s: any) => {
       map.set(s.id, s);
     });
     return Array.from(map.values()).filter(s => analysisData[s.id]); // Only show subjects with data for this demo
