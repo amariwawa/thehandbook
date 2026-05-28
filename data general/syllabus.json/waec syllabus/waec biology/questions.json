@@ -1,0 +1,1588 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Concept of Living",
+      "section": "General",
+      "subtopic": "Concept of Living",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Concept of Living?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in Concept of Living",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to Concept of Living"
+      },
+      "answer": "B",
+      "explanation": "Concept of Living is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 2,
+      "topic": "Concept of Living",
+      "section": "General",
+      "subtopic": "Concept of Living",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Concept of Living?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in Concept of Living",
+        "C": "It is a chemical compound unrelated to Concept of Living",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "Concept of Living is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 3,
+      "topic": "Concept of Living",
+      "section": "General",
+      "subtopic": "Concept of Living",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Concept of Living?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Concept of Living",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a fundamental biological concept in Concept of Living"
+      },
+      "answer": "D",
+      "explanation": "Concept of Living is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 4,
+      "topic": "Concept of Living: Classification",
+      "section": "General",
+      "subtopic": "Concept of Living: Classification",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Concept of Living: Classification?",
+      "options": {
+        "A": "It is a fundamental biological concept in Concept of Living: Classification",
+        "B": "It is a chemical compound unrelated to Concept of Living: Classification",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "A",
+      "explanation": "Concept of Living: Classification is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 5,
+      "topic": "Concept of Living: Classification",
+      "section": "General",
+      "subtopic": "Concept of Living: Classification",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Concept of Living: Classification?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a chemical compound unrelated to Concept of Living: Classification",
+        "C": "It is a fundamental biological concept in Concept of Living: Classification",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "Concept of Living: Classification is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 6,
+      "topic": "Concept of Living: Classification",
+      "section": "General",
+      "subtopic": "Concept of Living: Classification",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Concept of Living: Classification?",
+      "options": {
+        "A": "It is a fundamental biological concept in Concept of Living: Classification",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to Concept of Living: Classification"
+      },
+      "answer": "A",
+      "explanation": "Concept of Living: Classification is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 7,
+      "topic": "Concept of Living: Organization of life",
+      "section": "General",
+      "subtopic": "Concept of Living: Organization of life",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 8,
+      "topic": "Concept of Living: Organization of life",
+      "section": "General",
+      "subtopic": "Concept of Living: Organization of life",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 9,
+      "topic": "Concept of Living: Organization of life",
+      "section": "General",
+      "subtopic": "Concept of Living: Organization of life",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "System",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 10,
+      "topic": "Concept of Living: Forms in which living cells exist",
+      "section": "General",
+      "subtopic": "Concept of Living: Forms in which living cells exist",
+      "difficulty": "easy",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosome",
+        "C": "Golgi body",
+        "D": "Nucleus"
+      },
+      "answer": "A",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 11,
+      "topic": "Concept of Living: Forms in which living cells exist",
+      "section": "General",
+      "subtopic": "Concept of Living: Forms in which living cells exist",
+      "difficulty": "medium",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Ribosome",
+        "C": "Mitochondria",
+        "D": "Golgi body"
+      },
+      "answer": "C",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 12,
+      "topic": "Concept of Living: Forms in which living cells exist",
+      "section": "General",
+      "subtopic": "Concept of Living: Forms in which living cells exist",
+      "difficulty": "hard",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Golgi body",
+        "B": "Nucleus",
+        "C": "Mitochondria",
+        "D": "Ribosome"
+      },
+      "answer": "C",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 13,
+      "topic": "Concept of Living: Cell structure and functions",
+      "section": "General",
+      "subtopic": "Concept of Living: Cell structure and functions",
+      "difficulty": "medium",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Golgi body",
+        "C": "Ribosome",
+        "D": "Mitochondria"
+      },
+      "answer": "D",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 14,
+      "topic": "Concept of Living: Cell structure and functions",
+      "section": "General",
+      "subtopic": "Concept of Living: Cell structure and functions",
+      "difficulty": "hard",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Golgi body",
+        "C": "Mitochondria",
+        "D": "Nucleus"
+      },
+      "answer": "C",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 15,
+      "topic": "Concept of Living: Cell structure and functions",
+      "section": "General",
+      "subtopic": "Concept of Living: Cell structure and functions",
+      "difficulty": "easy",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Nucleus",
+        "C": "Ribosome",
+        "D": "Golgi body"
+      },
+      "answer": "A",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 16,
+      "topic": "Concept of Living: The Cell and its environment",
+      "section": "General",
+      "subtopic": "Concept of Living: The Cell and its environment",
+      "difficulty": "hard",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Golgi body",
+        "B": "Nucleus",
+        "C": "Mitochondria",
+        "D": "Ribosome"
+      },
+      "answer": "C",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 17,
+      "topic": "Concept of Living: The Cell and its environment",
+      "section": "General",
+      "subtopic": "Concept of Living: The Cell and its environment",
+      "difficulty": "easy",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Golgi body",
+        "B": "Nucleus",
+        "C": "Mitochondria",
+        "D": "Ribosome"
+      },
+      "answer": "C",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 18,
+      "topic": "Concept of Living: The Cell and its environment",
+      "section": "General",
+      "subtopic": "Concept of Living: The Cell and its environment",
+      "difficulty": "medium",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Golgi body",
+        "C": "Ribosome",
+        "D": "Nucleus"
+      },
+      "answer": "A",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 19,
+      "topic": "Concept of Living: Properties and functions of the living cell",
+      "section": "General",
+      "subtopic": "Concept of Living: Properties and functions of the living cell",
+      "difficulty": "easy",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Golgi body",
+        "C": "Ribosome",
+        "D": "Mitochondria"
+      },
+      "answer": "D",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 20,
+      "topic": "Concept of Living: Properties and functions of the living cell",
+      "section": "General",
+      "subtopic": "Concept of Living: Properties and functions of the living cell",
+      "difficulty": "medium",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Golgi body",
+        "B": "Nucleus",
+        "C": "Ribosome",
+        "D": "Mitochondria"
+      },
+      "answer": "D",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 21,
+      "topic": "Concept of Living: Properties and functions of the living cell",
+      "section": "General",
+      "subtopic": "Concept of Living: Properties and functions of the living cell",
+      "difficulty": "hard",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Mitochondria",
+        "C": "Golgi body",
+        "D": "Nucleus"
+      },
+      "answer": "B",
+      "explanation": "Mitochondria produce ATP through cellular respiration, earning them the name \"powerhouse of the cell\"."
+    },
+    {
+      "id": 22,
+      "topic": "Concept of Living: Tissues and supporting systems",
+      "section": "General",
+      "subtopic": "Concept of Living: Tissues and supporting systems",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "System"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 23,
+      "topic": "Concept of Living: Tissues and supporting systems",
+      "section": "General",
+      "subtopic": "Concept of Living: Tissues and supporting systems",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "System",
+        "C": "Organ",
+        "D": "Cell"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 24,
+      "topic": "Concept of Living: Tissues and supporting systems",
+      "section": "General",
+      "subtopic": "Concept of Living: Tissues and supporting systems",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "Organism",
+        "C": "Organ",
+        "D": "System"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 25,
+      "topic": "Concept of Living: Transport System",
+      "section": "General",
+      "subtopic": "Concept of Living: Transport System",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "Organ",
+        "C": "System",
+        "D": "Cell"
+      },
+      "answer": "B",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 26,
+      "topic": "Concept of Living: Transport System",
+      "section": "General",
+      "subtopic": "Concept of Living: Transport System",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "System"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 27,
+      "topic": "Concept of Living: Transport System",
+      "section": "General",
+      "subtopic": "Concept of Living: Transport System",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "Organ",
+        "C": "System",
+        "D": "Cell"
+      },
+      "answer": "B",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 28,
+      "topic": "Concept of Living: Respiratory System",
+      "section": "General",
+      "subtopic": "Concept of Living: Respiratory System",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organ",
+        "B": "System",
+        "C": "Cell",
+        "D": "Organism"
+      },
+      "answer": "A",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 29,
+      "topic": "Concept of Living: Respiratory System",
+      "section": "General",
+      "subtopic": "Concept of Living: Respiratory System",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 30,
+      "topic": "Concept of Living: Respiratory System",
+      "section": "General",
+      "subtopic": "Concept of Living: Respiratory System",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "System",
+        "C": "Organ",
+        "D": "Cell"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 31,
+      "topic": "Concept of Living: Excretory Systems and Mechanisms",
+      "section": "General",
+      "subtopic": "Concept of Living: Excretory Systems and Mechanisms",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "Organism",
+        "C": "System",
+        "D": "Organ"
+      },
+      "answer": "D",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 32,
+      "topic": "Concept of Living: Excretory Systems and Mechanisms",
+      "section": "General",
+      "subtopic": "Concept of Living: Excretory Systems and Mechanisms",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "Organ",
+        "C": "System",
+        "D": "Cell"
+      },
+      "answer": "B",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 33,
+      "topic": "Concept of Living: Excretory Systems and Mechanisms",
+      "section": "General",
+      "subtopic": "Concept of Living: Excretory Systems and Mechanisms",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organ",
+        "B": "Organism",
+        "C": "System",
+        "D": "Cell"
+      },
+      "answer": "A",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 34,
+      "topic": "Concept of Living: Regulation of Internal Environment (Homeostasis)",
+      "section": "General",
+      "subtopic": "Concept of Living: Regulation of Internal Environment (Homeostasis)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Concept of Living: Regulation of Internal Environment (Homeostasis)?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Concept of Living: Regulation of Internal Environment (Homeostasis)",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a fundamental biological concept in Concept of Living: Regulation of Internal Environment (Homeostasis)",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "Concept of Living: Regulation of Internal Environment (Homeostasis) is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 35,
+      "topic": "Concept of Living: Regulation of Internal Environment (Homeostasis)",
+      "section": "General",
+      "subtopic": "Concept of Living: Regulation of Internal Environment (Homeostasis)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Concept of Living: Regulation of Internal Environment (Homeostasis)?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Concept of Living: Regulation of Internal Environment (Homeostasis)",
+        "B": "It is a fundamental biological concept in Concept of Living: Regulation of Internal Environment (Homeostasis)",
+        "C": "A physical process occurring only in plants",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "Concept of Living: Regulation of Internal Environment (Homeostasis) is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 36,
+      "topic": "Concept of Living: Regulation of Internal Environment (Homeostasis)",
+      "section": "General",
+      "subtopic": "Concept of Living: Regulation of Internal Environment (Homeostasis)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Concept of Living: Regulation of Internal Environment (Homeostasis)?",
+      "options": {
+        "A": "It is a fundamental biological concept in Concept of Living: Regulation of Internal Environment (Homeostasis)",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to Concept of Living: Regulation of Internal Environment (Homeostasis)"
+      },
+      "answer": "A",
+      "explanation": "Concept of Living: Regulation of Internal Environment (Homeostasis) is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 37,
+      "topic": "Concept of Living: Hormonal Coordination",
+      "section": "General",
+      "subtopic": "Concept of Living: Hormonal Coordination",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Concept of Living: Hormonal Coordination?",
+      "options": {
+        "A": "It is a fundamental biological concept in Concept of Living: Hormonal Coordination",
+        "B": "It is a chemical compound unrelated to Concept of Living: Hormonal Coordination",
+        "C": "A physical process occurring only in plants",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "A",
+      "explanation": "Concept of Living: Hormonal Coordination is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 38,
+      "topic": "Concept of Living: Hormonal Coordination",
+      "section": "General",
+      "subtopic": "Concept of Living: Hormonal Coordination",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Concept of Living: Hormonal Coordination?",
+      "options": {
+        "A": "It is a fundamental biological concept in Concept of Living: Hormonal Coordination",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to Concept of Living: Hormonal Coordination"
+      },
+      "answer": "A",
+      "explanation": "Concept of Living: Hormonal Coordination is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 39,
+      "topic": "Concept of Living: Hormonal Coordination",
+      "section": "General",
+      "subtopic": "Concept of Living: Hormonal Coordination",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Concept of Living: Hormonal Coordination?",
+      "options": {
+        "A": "It is a fundamental biological concept in Concept of Living: Hormonal Coordination",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to Concept of Living: Hormonal Coordination"
+      },
+      "answer": "A",
+      "explanation": "Concept of Living: Hormonal Coordination is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 40,
+      "topic": "Concept of Living: Nervous Coordination",
+      "section": "General",
+      "subtopic": "Concept of Living: Nervous Coordination",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Concept of Living: Nervous Coordination?",
+      "options": {
+        "A": "It is a fundamental biological concept in Concept of Living: Nervous Coordination",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to Concept of Living: Nervous Coordination"
+      },
+      "answer": "A",
+      "explanation": "Concept of Living: Nervous Coordination is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 41,
+      "topic": "Concept of Living: Nervous Coordination",
+      "section": "General",
+      "subtopic": "Concept of Living: Nervous Coordination",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Concept of Living: Nervous Coordination?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Concept of Living: Nervous Coordination",
+        "B": "It is a fundamental biological concept in Concept of Living: Nervous Coordination",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "Concept of Living: Nervous Coordination is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 42,
+      "topic": "Concept of Living: Nervous Coordination",
+      "section": "General",
+      "subtopic": "Concept of Living: Nervous Coordination",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Concept of Living: Nervous Coordination?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a chemical compound unrelated to Concept of Living: Nervous Coordination",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a fundamental biological concept in Concept of Living: Nervous Coordination"
+      },
+      "answer": "D",
+      "explanation": "Concept of Living: Nervous Coordination is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 43,
+      "topic": "Concept of Living: Reproductive System",
+      "section": "General",
+      "subtopic": "Concept of Living: Reproductive System",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Organism",
+        "C": "Organ",
+        "D": "Cell"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 44,
+      "topic": "Concept of Living: Reproductive System",
+      "section": "General",
+      "subtopic": "Concept of Living: Reproductive System",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 45,
+      "topic": "Concept of Living: Reproductive System",
+      "section": "General",
+      "subtopic": "Concept of Living: Reproductive System",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organ",
+        "B": "Organism",
+        "C": "System",
+        "D": "Cell"
+      },
+      "answer": "A",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 46,
+      "topic": "Plant and Animal Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition",
+      "difficulty": "easy",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Proteins",
+        "B": "Vitamins",
+        "C": "Fats",
+        "D": "Carbohydrates"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 47,
+      "topic": "Plant and Animal Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition",
+      "difficulty": "medium",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Vitamins",
+        "B": "Proteins",
+        "C": "Carbohydrates",
+        "D": "Fats"
+      },
+      "answer": "B",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 48,
+      "topic": "Plant and Animal Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition",
+      "difficulty": "hard",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Fats",
+        "C": "Vitamins",
+        "D": "Proteins"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 49,
+      "topic": "Plant and Animal Nutrition: Plant Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition: Plant Nutrition",
+      "difficulty": "medium",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Fats",
+        "B": "Carbohydrates",
+        "C": "Vitamins",
+        "D": "Proteins"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 50,
+      "topic": "Plant and Animal Nutrition: Plant Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition: Plant Nutrition",
+      "difficulty": "hard",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Vitamins",
+        "B": "Carbohydrates",
+        "C": "Proteins",
+        "D": "Fats"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 51,
+      "topic": "Plant and Animal Nutrition: Plant Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition: Plant Nutrition",
+      "difficulty": "easy",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Proteins",
+        "B": "Vitamins",
+        "C": "Fats",
+        "D": "Carbohydrates"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 52,
+      "topic": "Plant and Animal Nutrition: Animal Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition: Animal Nutrition",
+      "difficulty": "hard",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Proteins",
+        "B": "Carbohydrates",
+        "C": "Fats",
+        "D": "Vitamins"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 53,
+      "topic": "Plant and Animal Nutrition: Animal Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition: Animal Nutrition",
+      "difficulty": "easy",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Fats",
+        "C": "Vitamins",
+        "D": "Proteins"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 54,
+      "topic": "Plant and Animal Nutrition: Animal Nutrition",
+      "section": "General",
+      "subtopic": "Plant and Animal Nutrition: Animal Nutrition",
+      "difficulty": "medium",
+      "question": "Which class of food is primarily responsible for body building?",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Proteins",
+        "C": "Vitamins",
+        "D": "Fats"
+      },
+      "answer": "B",
+      "explanation": "Proteins are body-building nutrients that repair tissues and support growth."
+    },
+    {
+      "id": 55,
+      "topic": "Basic Ecological Concepts",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Basic Ecological Concepts?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Basic Ecological Concepts",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a fundamental biological concept in Basic Ecological Concepts",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "Basic Ecological Concepts is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 56,
+      "topic": "Basic Ecological Concepts",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Basic Ecological Concepts?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in Basic Ecological Concepts",
+        "C": "It is a chemical compound unrelated to Basic Ecological Concepts",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "Basic Ecological Concepts is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 57,
+      "topic": "Basic Ecological Concepts",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Basic Ecological Concepts?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "A term used exclusively in physics",
+        "C": "It is a chemical compound unrelated to Basic Ecological Concepts",
+        "D": "It is a fundamental biological concept in Basic Ecological Concepts"
+      },
+      "answer": "D",
+      "explanation": "Basic Ecological Concepts is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 58,
+      "topic": "Basic Ecological Concepts: Ecosystem",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Ecosystem",
+      "difficulty": "medium",
+      "question": "In a food chain, which organisms are always found at the first trophic level?",
+      "options": {
+        "A": "Primary consumers",
+        "B": "Producers",
+        "C": "Secondary consumers",
+        "D": "Decomposers"
+      },
+      "answer": "B",
+      "explanation": "Producers (plants) convert sunlight to energy and form the base of every food chain at trophic level 1."
+    },
+    {
+      "id": 59,
+      "topic": "Basic Ecological Concepts: Ecosystem",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Ecosystem",
+      "difficulty": "hard",
+      "question": "In a food chain, which organisms are always found at the first trophic level?",
+      "options": {
+        "A": "Primary consumers",
+        "B": "Secondary consumers",
+        "C": "Decomposers",
+        "D": "Producers"
+      },
+      "answer": "D",
+      "explanation": "Producers (plants) convert sunlight to energy and form the base of every food chain at trophic level 1."
+    },
+    {
+      "id": 60,
+      "topic": "Basic Ecological Concepts: Ecosystem",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Ecosystem",
+      "difficulty": "easy",
+      "question": "In a food chain, which organisms are always found at the first trophic level?",
+      "options": {
+        "A": "Decomposers",
+        "B": "Producers",
+        "C": "Primary consumers",
+        "D": "Secondary consumers"
+      },
+      "answer": "B",
+      "explanation": "Producers (plants) convert sunlight to energy and form the base of every food chain at trophic level 1."
+    },
+    {
+      "id": 61,
+      "topic": "Basic Ecological Concepts: Food webs and trophic levels",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Food webs and trophic levels",
+      "difficulty": "hard",
+      "question": "In a food chain, which organisms are always found at the first trophic level?",
+      "options": {
+        "A": "Primary consumers",
+        "B": "Decomposers",
+        "C": "Producers",
+        "D": "Secondary consumers"
+      },
+      "answer": "C",
+      "explanation": "Producers (plants) convert sunlight to energy and form the base of every food chain at trophic level 1."
+    },
+    {
+      "id": 62,
+      "topic": "Basic Ecological Concepts: Food webs and trophic levels",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Food webs and trophic levels",
+      "difficulty": "easy",
+      "question": "In a food chain, which organisms are always found at the first trophic level?",
+      "options": {
+        "A": "Producers",
+        "B": "Decomposers",
+        "C": "Primary consumers",
+        "D": "Secondary consumers"
+      },
+      "answer": "A",
+      "explanation": "Producers (plants) convert sunlight to energy and form the base of every food chain at trophic level 1."
+    },
+    {
+      "id": 63,
+      "topic": "Basic Ecological Concepts: Food webs and trophic levels",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Food webs and trophic levels",
+      "difficulty": "medium",
+      "question": "In a food chain, which organisms are always found at the first trophic level?",
+      "options": {
+        "A": "Secondary consumers",
+        "B": "Primary consumers",
+        "C": "Decomposers",
+        "D": "Producers"
+      },
+      "answer": "D",
+      "explanation": "Producers (plants) convert sunlight to energy and form the base of every food chain at trophic level 1."
+    },
+    {
+      "id": 64,
+      "topic": "Basic Ecological Concepts: Ecological Management",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Ecological Management",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Basic Ecological Concepts: Ecological Management?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in Basic Ecological Concepts: Ecological Management",
+        "C": "It is a chemical compound unrelated to Basic Ecological Concepts: Ecological Management",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "Basic Ecological Concepts: Ecological Management is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 65,
+      "topic": "Basic Ecological Concepts: Ecological Management",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Ecological Management",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Basic Ecological Concepts: Ecological Management?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Basic Ecological Concepts: Ecological Management",
+        "B": "It is a fundamental biological concept in Basic Ecological Concepts: Ecological Management",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "Basic Ecological Concepts: Ecological Management is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 66,
+      "topic": "Basic Ecological Concepts: Ecological Management",
+      "section": "General",
+      "subtopic": "Basic Ecological Concepts: Ecological Management",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Basic Ecological Concepts: Ecological Management?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in Basic Ecological Concepts: Ecological Management",
+        "C": "It is a chemical compound unrelated to Basic Ecological Concepts: Ecological Management",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "Basic Ecological Concepts: Ecological Management is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 67,
+      "topic": "Conservation of Natural Resources",
+      "section": "General",
+      "subtopic": "Conservation of Natural Resources",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Conservation of Natural Resources?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "A term used exclusively in physics",
+        "C": "It is a chemical compound unrelated to Conservation of Natural Resources",
+        "D": "It is a fundamental biological concept in Conservation of Natural Resources"
+      },
+      "answer": "D",
+      "explanation": "Conservation of Natural Resources is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 68,
+      "topic": "Conservation of Natural Resources",
+      "section": "General",
+      "subtopic": "Conservation of Natural Resources",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Conservation of Natural Resources?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a chemical compound unrelated to Conservation of Natural Resources",
+        "C": "It is a fundamental biological concept in Conservation of Natural Resources",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "C",
+      "explanation": "Conservation of Natural Resources is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 69,
+      "topic": "Conservation of Natural Resources",
+      "section": "General",
+      "subtopic": "Conservation of Natural Resources",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Conservation of Natural Resources?",
+      "options": {
+        "A": "It is a fundamental biological concept in Conservation of Natural Resources",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a chemical compound unrelated to Conservation of Natural Resources",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "A",
+      "explanation": "Conservation of Natural Resources is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 70,
+      "topic": "Variation in Population",
+      "section": "General",
+      "subtopic": "Variation in Population",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Variation in Population?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in Variation in Population",
+        "C": "It is a chemical compound unrelated to Variation in Population",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "Variation in Population is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 71,
+      "topic": "Variation in Population",
+      "section": "General",
+      "subtopic": "Variation in Population",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Variation in Population?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in Variation in Population",
+        "C": "It is a chemical compound unrelated to Variation in Population",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "Variation in Population is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 72,
+      "topic": "Variation in Population",
+      "section": "General",
+      "subtopic": "Variation in Population",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Variation in Population?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in Variation in Population",
+        "C": "It is a chemical compound unrelated to Variation in Population",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "Variation in Population is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 73,
+      "topic": "Variation in Population: Morphological variations",
+      "section": "General",
+      "subtopic": "Variation in Population: Morphological variations",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Variation in Population: Morphological variations?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Variation in Population: Morphological variations",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a fundamental biological concept in Variation in Population: Morphological variations",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "Variation in Population: Morphological variations is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 74,
+      "topic": "Variation in Population: Morphological variations",
+      "section": "General",
+      "subtopic": "Variation in Population: Morphological variations",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Variation in Population: Morphological variations?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in Variation in Population: Morphological variations",
+        "C": "It is a chemical compound unrelated to Variation in Population: Morphological variations",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "Variation in Population: Morphological variations is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 75,
+      "topic": "Variation in Population: Morphological variations",
+      "section": "General",
+      "subtopic": "Variation in Population: Morphological variations",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Variation in Population: Morphological variations?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Variation in Population: Morphological variations",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a fundamental biological concept in Variation in Population: Morphological variations"
+      },
+      "answer": "D",
+      "explanation": "Variation in Population: Morphological variations is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 76,
+      "topic": "Variation in Population: Physiological variations",
+      "section": "General",
+      "subtopic": "Variation in Population: Physiological variations",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Variation in Population: Physiological variations?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in Variation in Population: Physiological variations",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to Variation in Population: Physiological variations"
+      },
+      "answer": "B",
+      "explanation": "Variation in Population: Physiological variations is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 77,
+      "topic": "Variation in Population: Physiological variations",
+      "section": "General",
+      "subtopic": "Variation in Population: Physiological variations",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Variation in Population: Physiological variations?",
+      "options": {
+        "A": "It is a chemical compound unrelated to Variation in Population: Physiological variations",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a fundamental biological concept in Variation in Population: Physiological variations"
+      },
+      "answer": "D",
+      "explanation": "Variation in Population: Physiological variations is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 78,
+      "topic": "Variation in Population: Physiological variations",
+      "section": "General",
+      "subtopic": "Variation in Population: Physiological variations",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Variation in Population: Physiological variations?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in Variation in Population: Physiological variations",
+        "C": "It is a chemical compound unrelated to Variation in Population: Physiological variations",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "Variation in Population: Physiological variations is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 79,
+      "topic": "Biology of Heredity (Genetics)",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics)",
+      "difficulty": "hard",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "tt",
+        "B": "Tt",
+        "C": "Tt or tt",
+        "D": "TT"
+      },
+      "answer": "B",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 80,
+      "topic": "Biology of Heredity (Genetics)",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics)",
+      "difficulty": "easy",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "TT",
+        "B": "Tt",
+        "C": "tt",
+        "D": "Tt or tt"
+      },
+      "answer": "B",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 81,
+      "topic": "Biology of Heredity (Genetics)",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics)",
+      "difficulty": "medium",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "Tt or tt",
+        "B": "tt",
+        "C": "TT",
+        "D": "Tt"
+      },
+      "answer": "D",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 82,
+      "topic": "Biology of Heredity (Genetics): Genetic terminologies and Mendel's work",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Genetic terminologies and Mendel's work",
+      "difficulty": "easy",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "Tt or tt",
+        "B": "TT",
+        "C": "Tt",
+        "D": "tt"
+      },
+      "answer": "C",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 83,
+      "topic": "Biology of Heredity (Genetics): Genetic terminologies and Mendel's work",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Genetic terminologies and Mendel's work",
+      "difficulty": "medium",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "tt",
+        "B": "TT",
+        "C": "Tt",
+        "D": "Tt or tt"
+      },
+      "answer": "C",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 84,
+      "topic": "Biology of Heredity (Genetics): Genetic terminologies and Mendel's work",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Genetic terminologies and Mendel's work",
+      "difficulty": "hard",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "Tt",
+        "B": "Tt or tt",
+        "C": "TT",
+        "D": "tt"
+      },
+      "answer": "A",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 85,
+      "topic": "Biology of Heredity (Genetics): Chromosomes",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Chromosomes",
+      "difficulty": "medium",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "TT",
+        "B": "Tt or tt",
+        "C": "tt",
+        "D": "Tt"
+      },
+      "answer": "D",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 86,
+      "topic": "Biology of Heredity (Genetics): Chromosomes",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Chromosomes",
+      "difficulty": "hard",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "Tt or tt",
+        "B": "TT",
+        "C": "tt",
+        "D": "Tt"
+      },
+      "answer": "D",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 87,
+      "topic": "Biology of Heredity (Genetics): Chromosomes",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Chromosomes",
+      "difficulty": "easy",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "Tt",
+        "B": "tt",
+        "C": "Tt or tt",
+        "D": "TT"
+      },
+      "answer": "A",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 88,
+      "topic": "Biology of Heredity (Genetics): Applications",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Applications",
+      "difficulty": "hard",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "TT",
+        "B": "tt",
+        "C": "Tt",
+        "D": "Tt or tt"
+      },
+      "answer": "C",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 89,
+      "topic": "Biology of Heredity (Genetics): Applications",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Applications",
+      "difficulty": "easy",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "tt",
+        "B": "TT",
+        "C": "Tt or tt",
+        "D": "Tt"
+      },
+      "answer": "D",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 90,
+      "topic": "Biology of Heredity (Genetics): Applications",
+      "section": "General",
+      "subtopic": "Biology of Heredity (Genetics): Applications",
+      "difficulty": "medium",
+      "question": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive short plant (tt). What is the genotype of the offspring?",
+      "options": {
+        "A": "TT",
+        "B": "tt",
+        "C": "Tt or tt",
+        "D": "Tt"
+      },
+      "answer": "D",
+      "explanation": "All offspring receive one T from the dominant parent and one t from the recessive parent, making them all Tt (heterozygous tall)."
+    },
+    {
+      "id": 91,
+      "topic": "Adaptation for survival and Evolution",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Alfred Wallace",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Charles Darwin"
+      },
+      "answer": "D",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 92,
+      "topic": "Adaptation for survival and Evolution",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Alfred Wallace",
+        "C": "Gregor Mendel",
+        "D": "Jean-Baptiste Lamarck"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 93,
+      "topic": "Adaptation for survival and Evolution",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Alfred Wallace",
+        "D": "Gregor Mendel"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 94,
+      "topic": "Adaptation for survival and Evolution: Behavioural Adaptations",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution: Behavioural Adaptations",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Gregor Mendel",
+        "D": "Charles Darwin"
+      },
+      "answer": "D",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 95,
+      "topic": "Adaptation for survival and Evolution: Behavioural Adaptations",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution: Behavioural Adaptations",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Alfred Wallace",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Gregor Mendel"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 96,
+      "topic": "Adaptation for survival and Evolution: Behavioural Adaptations",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution: Behavioural Adaptations",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "Alfred Wallace",
+        "D": "Jean-Baptiste Lamarck"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 97,
+      "topic": "Adaptation for survival and Evolution: Evolution",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution: Evolution",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Jean-Baptiste Lamarck",
+        "B": "Charles Darwin",
+        "C": "Gregor Mendel",
+        "D": "Alfred Wallace"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 98,
+      "topic": "Adaptation for survival and Evolution: Evolution",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution: Evolution",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Gregor Mendel"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 99,
+      "topic": "Adaptation for survival and Evolution: Evolution",
+      "section": "General",
+      "subtopic": "Adaptation for survival and Evolution: Evolution",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Alfred Wallace"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "syllabus_title": "WAEC SSCE Islamic Religious Studies Detailed Syllabus",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "The Jahiliyyah: Arabia before Islam",
+          "subtopics": [
+            "Description of Arabia - Location",
+            "Social Life - Marriage, divorce and inheritance",
+            "Religious life - Idol worship and names of major gods/idols",
+            "Political Life - System of Government",
+            "Economic Life - Sources of livelihood",
+            "The Reforms introduced by Islam on the Jahiliyyah practices"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "The life of Prophet Muhammad (S.A.W.)",
+          "subtopics": [
+            "Birth",
+            "Marriage",
+            "Call to prophethood and his mission",
+            "Hijrah: Causes, Course and Significance",
+            "Formation of the Ummah and the Madinan Constitution",
+            "Leadership qualities of the Prophet",
+            "The Battles: Badr, Uhud and Khandaq (causes, courses and effects)",
+            "The Treaty of Hudaybiyyah: terms and outcomes",
+            "Conquest of Makkah",
+            "The Farewell Pilgrimage: description, sermon and its lessons",
+            "Death"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "The Khulafā’ur-Rāshidīn (The Rightly-guided Caliphs)",
+          "subtopics": [
+            "Abu Bakr Ibn Abī Quhhāfah, ‘Umar Ibn al-Khattāb, ‘Uthmān Ibn ‘Affān and ‘Ali Ibn Abī Tālib",
+            "Their biographies",
+            "Their contributions to Islam",
+            "Lessons learnt from their lives"
+          ]
+        },
+        {
+          "topic_number": 4,
+          "title": "Islam in West Africa",
+          "subtopics": [
+            "The advent and roles of traders, teachers, murābitun, sufi orders, mujaddidun (reformers) and Hajj in the spread of Islam",
+            "The Impact of Islam on the Socio-Political, Economic and Linguistic Lives of the Peoples of ancient West African empires (Ghana, Mali, Songhai and Kanem-Borno)"
+          ]
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "QUR’AN",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Revelation of the Qur’an",
+          "subtopics": [
+            "Visits of the Prophet (S.A.W.) to Cave Hira",
+            "First revelation and his reaction to it",
+            "Different modes of revelation",
+            "Piecemeal revelation of the Qur’an"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Preservation of the Qur’an",
+          "subtopics": [
+            "Complete arrangement including distinction between Makki and Madani Suwar",
+            "Recording, Compilation and Standardization",
+            "Roles played by the Companions of the Prophet (S.A.W.) in the Preservation of the Qur’an"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Importance of the Qur’an",
+          "description": "The Qur’an as a source of guidance in social, political, spiritual and moral matters"
+        },
+        {
+          "topic_number": 4,
+          "title": "Selected Surahs",
+          "description": "Reading (in either Arabic Text or Transliteration), Memorization, Meaning of the following suwar and the lessons learnt from them (Identification, Explanation, Interpretation and Application)",
+          "surahs": [
+            "Suratul Fatihah (Q.1)",
+            "Suratud-Duha (Q.93)",
+            "Suratut-Tin (Q.95)",
+            "Suratul ‘Alaq (Q.96: 1-5)",
+            "Suratul Qadr (Q.97)",
+            "Suratul Kafirun (Q.109)",
+            "Suratun-Nasr (Q.110)",
+            "Suratul Ikhlas (Q.112)",
+            "Suratul Falaq (Q.113)",
+            "Suratun-Nas (Q.114)"
+          ]
+        },
+        {
+          "topic_number": 5,
+          "title": "Moral Lessons from the Qur’an",
+          "subtopics": [
+            "Attitudes to Parents (Q.17:23–24; 31:13–15)",
+            "Honesty in Words and Deeds (Q.2:42; 61:2-3; 17:35)",
+            "Prohibition of Gambling (Q.2:219; 5:90-91)"
+          ]
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "HADITH",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Introduction to Hadith",
+          "subtopics": [
+            "Definition of Hadith and Sunnah",
+            "Differences and similarities between Hadith and Sunnah",
+            "The Importance of Hadith and Sunnah",
+            "Parts of the Hadith: ‘Isnad, Matn and Rawi",
+            "Criteria for authenticity of Hadith",
+            "Classification of Hadith: Sahih, Hasan and Da‘if",
+            "The Six Sound Collections of Hadith (Sihaus-Sittah) and their Compilers"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Selected Ahadith",
+          "description": "Reading (in either the Arabic Text or Transliteration), Memorization, Meaning of the following Ahadith and lessons learnt from them (Identification, Explanation, Interpretation and Application): an-Nawawi’s Collection: 1, 5, 7, 9, 13, 15, 16, 18, 34 and 41"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Iman (Faith)",
+          "subtopics": [
+            "Meaning and Significance of Iman (Faith)",
+            "Articles of Faith:",
+            "Belief in Allah with emphasis on Kalimatush-Shahadah (relevant verses)",
+            "Belief in His angels",
+            "Belief in His books",
+            "Belief in His Prophets with special emphasis on the Ulul-‘Azm",
+            "Belief in the Day of Resurrection, Judgement and Eternal Life",
+            "Belief in Destiny – Qada’ and Qadar"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Shirk (Associating Partners with Allah)",
+          "subtopics": [
+            "Worship of idols",
+            "Ancestor and Hero-worship"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Taharah (Purification)",
+          "subtopics": [
+            "Importance of Taharah",
+            "al-Istinja’",
+            "al-Wudu’",
+            "at-Tayammum",
+            "al-Ghusl"
+          ]
+        },
+        {
+          "topic_number": 4,
+          "title": "Salat (Prayer)",
+          "subtopics": [
+            "Meaning of Salat",
+            "Importance of Salat",
+            "Acts that vitiate Salat",
+            "Joining a Congregational Salat",
+            "Sujudus-Sahwi (Prostration of Forgetfulness)",
+            "Kinds of Salat and how they are observed (Obligatory, Non-Obligatory, Special prayers, Salatus-Safar)"
+          ]
+        },
+        {
+          "topic_number": 5,
+          "title": "Zakat (Charity)",
+          "subtopics": [
+            "Definitions of Zakat and Sadaqah",
+            "Difference between Zakat and Sadaqah",
+            "Articles on which Zakat is paid",
+            "The Nisab of Zakat",
+            "Zakat on Livestock, Money, Agricultural Products",
+            "The Beneficiaries of Zakat (Q.9:60)",
+            "Zakatul-Fitr",
+            "Benefits of Zakat – Spiritual, Socio-economic and Moral"
+          ]
+        },
+        {
+          "topic_number": 6,
+          "title": "Sawm (Fasting)",
+          "subtopics": [
+            "Definition",
+            "Types of Sawm (compulsory and voluntary)",
+            "How fasting is observed in Islam",
+            "Those Exempted from Fast",
+            "Things that vitiate Fast",
+            "Benefits/Significance of Sawm"
+          ]
+        },
+        {
+          "topic_number": 7,
+          "title": "Hajj (Pilgrimage)",
+          "subtopics": [
+            "Definition and Origin of Hajj and ‘Umrah",
+            "Pre-requisite to the performance of Hajj",
+            "Performance of ‘Umrah and Hajj",
+            "Acts that affect the validity of Hajj",
+            "Types of Hajj (Ifrad, Tamattu‘ and Qiran)",
+            "Rites of Hajj",
+            "Significance of Hajj (spiritual, socio-economic and moral objectives)"
+          ]
+        },
+        {
+          "topic_number": 8,
+          "title": "Shari‘ah",
+          "subtopics": [
+            "Definition",
+            "Sources (the Qur’an, the Sunnah, the Ijma‘ and the Qiyas)",
+            "Significance"
+          ]
+        },
+        {
+          "topic_number": 9,
+          "title": "Nikah (Marriage)",
+          "subtopics": [
+            "Concept of Marriage",
+            "Conditions governing validity",
+            "Prohibited Categories",
+            "Rights and duties of husband and wife",
+            "Law prohibiting the Ill-treatment of Wife"
+          ]
+        },
+        {
+          "topic_number": 10,
+          "title": "Talaq (Divorce)",
+          "subtopics": [
+            "Islam’s Attitude to Divorce",
+            "Kinds – Talaq, Khul‘, Faskh, Mubara‘ah, Zihar and Li‘an",
+            "‘Iddatut-Talaq (Waiting Period): Meaning, Duration and Implication"
+          ]
+        }
+      ]
+    }
+  ]
+}

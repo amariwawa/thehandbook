@@ -1,0 +1,1424 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 2,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 3,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 4,
+      "topic": "Properties of Metals and Selection",
+      "section": "General",
+      "subtopic": "Properties of Metals and Selection",
+      "difficulty": "medium",
+      "question": "Which statement about Properties of Metals and Selection is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Properties of Metals and Selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "Properties of Metals and Selection",
+      "section": "General",
+      "subtopic": "Properties of Metals and Selection",
+      "difficulty": "hard",
+      "question": "Which statement about Properties of Metals and Selection is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Properties of Metals and Selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "Properties of Metals and Selection",
+      "section": "General",
+      "subtopic": "Properties of Metals and Selection",
+      "difficulty": "easy",
+      "question": "Which statement about Properties of Metals and Selection is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Properties of Metals and Selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Micrometer",
+        "D": "Try square"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 8,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Try square",
+        "C": "Vernier caliper",
+        "D": "Micrometer"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 9,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Micrometer",
+        "C": "Steel rule",
+        "D": "Try square"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 10,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 11,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "TIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 12,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "TIG welding",
+        "B": "MIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "A",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 13,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "hard",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "easy",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "hard",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "easy",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "medium",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 20,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "MIG welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 21,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 22,
+      "topic": "Practical Work/Project",
+      "section": "General",
+      "subtopic": "Practical Work/Project",
+      "difficulty": "medium",
+      "question": "Which statement about Practical Work/Project is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Practical Work/Project is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Practical Work/Project",
+      "section": "General",
+      "subtopic": "Practical Work/Project",
+      "difficulty": "hard",
+      "question": "Which statement about Practical Work/Project is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Practical Work/Project is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Practical Work/Project",
+      "section": "General",
+      "subtopic": "Practical Work/Project",
+      "difficulty": "easy",
+      "question": "Which statement about Practical Work/Project is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Practical Work/Project is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "hard",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "easy",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "medium",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Practical Work/Project",
+      "section": "General",
+      "subtopic": "Practical Work/Project",
+      "difficulty": "hard",
+      "question": "Which statement about Practical Work/Project is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Practical Work/Project is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "hard",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "hard",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Micrometer",
+        "D": "Try square"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 34,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "hard",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "TIG welding",
+        "B": "MIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "A",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 36,
+      "topic": "Properties of Metals and Selection",
+      "section": "General",
+      "subtopic": "Properties of Metals and Selection",
+      "difficulty": "medium",
+      "question": "Which statement about Properties of Metals and Selection is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Properties of Metals and Selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "easy",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Properties of Metals and Selection",
+      "section": "General",
+      "subtopic": "Properties of Metals and Selection",
+      "difficulty": "medium",
+      "question": "Which statement about Properties of Metals and Selection is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Properties of Metals and Selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Properties of Metals and Selection",
+      "section": "General",
+      "subtopic": "Properties of Metals and Selection",
+      "difficulty": "easy",
+      "question": "Which statement about Properties of Metals and Selection is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Properties of Metals and Selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "hard",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "easy",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "hard",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Try square",
+        "C": "Steel rule",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 45,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 46,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "medium",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "hard",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Try square",
+        "C": "Micrometer",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 50,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 51,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Vernier caliper",
+        "C": "Steel rule",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 52,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Micrometer",
+        "D": "Try square"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 53,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 54,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "easy",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 56,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "MIG welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 58,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "easy",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Properties of Metals and Selection",
+      "section": "General",
+      "subtopic": "Properties of Metals and Selection",
+      "difficulty": "medium",
+      "question": "Which statement about Properties of Metals and Selection is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Properties of Metals and Selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 61,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "hard",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 63,
+      "topic": "Practical Work/Project",
+      "section": "General",
+      "subtopic": "Practical Work/Project",
+      "difficulty": "easy",
+      "question": "Which statement about Practical Work/Project is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Practical Work/Project is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 65,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 66,
+      "topic": "Practical Work/Project",
+      "section": "General",
+      "subtopic": "Practical Work/Project",
+      "difficulty": "hard",
+      "question": "Which statement about Practical Work/Project is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Practical Work/Project is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Practical Work/Project",
+      "section": "General",
+      "subtopic": "Practical Work/Project",
+      "difficulty": "easy",
+      "question": "Which statement about Practical Work/Project is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Practical Work/Project is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 69,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "hard",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 71,
+      "topic": "Preparation of Welding Surfaces and Environment",
+      "section": "General",
+      "subtopic": "Preparation of Welding Surfaces and Environment",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "TIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 72,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "medium",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Vernier caliper",
+        "C": "Steel rule",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 75,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 76,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 77,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "hard",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 79,
+      "topic": "Workshop and Standard Workshop Practices",
+      "section": "General",
+      "subtopic": "Workshop and Standard Workshop Practices",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 80,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "easy",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 82,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "easy",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 84,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 85,
+      "topic": "Forging Process",
+      "section": "General",
+      "subtopic": "Forging Process",
+      "difficulty": "medium",
+      "question": "Which statement about Forging Process is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Forging Process is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Operations and Techniques in Welding and Fabrication",
+      "section": "General",
+      "subtopic": "Operations and Techniques in Welding and Fabrication",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "TIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 87,
+      "topic": "Tools and Equipment in Fabrication and Welding",
+      "section": "General",
+      "subtopic": "Tools and Equipment in Fabrication and Welding",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Micrometer",
+        "C": "Steel rule",
+        "D": "Try square"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 88,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "easy",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "Business Entrepreneurship Opportunity",
+      "section": "General",
+      "subtopic": "Business Entrepreneurship Opportunity",
+      "difficulty": "easy",
+      "question": "Which statement about Business Entrepreneurship Opportunity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Business Entrepreneurship Opportunity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "Fasteners",
+      "section": "General",
+      "subtopic": "Fasteners",
+      "difficulty": "medium",
+      "question": "Which statement about Fasteners is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Fasteners is part of the technical/vocational syllabus."
+    }
+  ]
+}

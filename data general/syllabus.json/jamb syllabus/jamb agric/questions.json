@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "easy",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A core concept in the study and practice of exam body",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A concept from physics"
+      },
+      "answer": "B",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 2,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "medium",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of exam body",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "A concept from physics",
+        "D": "An obsolete farming method"
+      },
+      "answer": "A",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 3,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A concept from physics",
+        "C": "A core concept in the study and practice of exam body",
+        "D": "An obsolete farming method"
+      },
+      "answer": "C",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 4,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 5,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "hard",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of General Agriculture",
+        "D": "A concept from physics"
+      },
+      "answer": "C",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 6,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "easy",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "An obsolete farming method",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A core concept in the study and practice of General Agriculture"
+      },
+      "answer": "D",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 7,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A core concept in the study and practice of Agronomy"
+      },
+      "answer": "D",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 8,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "easy",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A concept from physics",
+        "D": "A core concept in the study and practice of Agronomy"
+      },
+      "answer": "D",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 9,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "medium",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of Agronomy",
+        "C": "A concept from physics",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 10,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "easy",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Breeding stock",
+        "B": "Draught animals",
+        "C": "Beef cattle",
+        "D": "Dairy cattle"
+      },
+      "answer": "C",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 11,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "medium",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Breeding stock",
+        "B": "Dairy cattle",
+        "C": "Draught animals",
+        "D": "Beef cattle"
+      },
+      "answer": "D",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 12,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "hard",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Draught animals",
+        "B": "Breeding stock",
+        "C": "Beef cattle",
+        "D": "Dairy cattle"
+      },
+      "answer": "C",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 13,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Trade union",
+        "C": "Private company",
+        "D": "Public corporation"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 14,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Public corporation",
+        "B": "Trade union",
+        "C": "Cooperative society",
+        "D": "Private company"
+      },
+      "answer": "C",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 15,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Public corporation",
+        "C": "Trade union",
+        "D": "Cooperative society"
+      },
+      "answer": "D",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 16,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Trade union",
+        "C": "Private company",
+        "D": "Public corporation"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 17,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Private company",
+        "C": "Trade union",
+        "D": "Public corporation"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 18,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Cooperative society",
+        "C": "Trade union",
+        "D": "Public corporation"
+      },
+      "answer": "B",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 19,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Public corporation",
+        "C": "Trade union",
+        "D": "Cooperative society"
+      },
+      "answer": "D",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 20,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of General Agriculture",
+        "D": "A concept from physics"
+      },
+      "answer": "C",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 21,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Trade union",
+        "B": "Private company",
+        "C": "Cooperative society",
+        "D": "Public corporation"
+      },
+      "answer": "C",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 22,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Trade union",
+        "C": "Public corporation",
+        "D": "Cooperative society"
+      },
+      "answer": "D",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 23,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "easy",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Beef cattle",
+        "B": "Breeding stock",
+        "C": "Dairy cattle",
+        "D": "Draught animals"
+      },
+      "answer": "A",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 24,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "medium",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A core concept in the study and practice of exam body"
+      },
+      "answer": "D",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 25,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Trade union",
+        "B": "Public corporation",
+        "C": "Cooperative society",
+        "D": "Private company"
+      },
+      "answer": "C",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 26,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "hard",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Draught animals",
+        "B": "Dairy cattle",
+        "C": "Beef cattle",
+        "D": "Breeding stock"
+      },
+      "answer": "C",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 27,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "easy",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "A core concept in the study and practice of Agronomy",
+        "C": "An obsolete farming method",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "B",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 28,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "easy",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A concept from physics",
+        "C": "A core concept in the study and practice of General Agriculture",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 29,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "easy",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "A core concept in the study and practice of Agronomy",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 30,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "easy",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "A concept from physics",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 31,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of exam body",
+        "C": "A concept from physics",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 32,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of Agronomy",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "A",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 33,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "medium",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Beef cattle",
+        "B": "Draught animals",
+        "C": "Dairy cattle",
+        "D": "Breeding stock"
+      },
+      "answer": "A",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 34,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Trade union",
+        "C": "Private company",
+        "D": "Public corporation"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 35,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Trade union",
+        "B": "Cooperative society",
+        "C": "Private company",
+        "D": "Public corporation"
+      },
+      "answer": "B",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 36,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A core concept in the study and practice of Agronomy"
+      },
+      "answer": "D",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 37,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Trade union",
+        "B": "Private company",
+        "C": "Public corporation",
+        "D": "Cooperative society"
+      },
+      "answer": "D",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 38,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Public corporation",
+        "B": "Trade union",
+        "C": "Private company",
+        "D": "Cooperative society"
+      },
+      "answer": "D",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 39,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Trade union",
+        "C": "Public corporation",
+        "D": "Private company"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 40,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A core concept in the study and practice of Agronomy"
+      },
+      "answer": "D",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 41,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of exam body",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 42,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "medium",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of exam body",
+        "D": "A concept from physics"
+      },
+      "answer": "C",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 43,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "hard",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "An obsolete farming method",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 44,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "medium",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of Agronomy",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "B",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 45,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Trade union",
+        "B": "Private company",
+        "C": "Cooperative society",
+        "D": "Public corporation"
+      },
+      "answer": "C",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 46,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Public corporation",
+        "C": "Trade union",
+        "D": "Private company"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 47,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Cooperative society",
+        "C": "Public corporation",
+        "D": "Trade union"
+      },
+      "answer": "B",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 48,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A core concept in the study and practice of exam body"
+      },
+      "answer": "D",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 49,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Public corporation",
+        "B": "Trade union",
+        "C": "Private company",
+        "D": "Cooperative society"
+      },
+      "answer": "D",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 50,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "easy",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Draught animals",
+        "B": "Beef cattle",
+        "C": "Dairy cattle",
+        "D": "Breeding stock"
+      },
+      "answer": "B",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 51,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "easy",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of Agronomy",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "A",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 52,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 53,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Public corporation",
+        "B": "Cooperative society",
+        "C": "Private company",
+        "D": "Trade union"
+      },
+      "answer": "B",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 54,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "easy",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of Agronomy",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "A",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 55,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of General Agriculture",
+        "B": "A concept from physics",
+        "C": "An obsolete farming method",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "A",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 56,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of Agronomy",
+        "B": "A concept from physics",
+        "C": "An obsolete farming method",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "A",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 57,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Trade union",
+        "C": "Public corporation",
+        "D": "Private company"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 58,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "hard",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "A concept from physics",
+        "D": "A core concept in the study and practice of General Agriculture"
+      },
+      "answer": "D",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 59,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Trade union",
+        "B": "Cooperative society",
+        "C": "Private company",
+        "D": "Public corporation"
+      },
+      "answer": "B",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 60,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Trade union",
+        "C": "Public corporation",
+        "D": "Cooperative society"
+      },
+      "answer": "D",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 61,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "hard",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 62,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Public corporation",
+        "C": "Trade union",
+        "D": "Private company"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 63,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "medium",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of exam body",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "A",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 64,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "easy",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A concept from physics",
+        "D": "A core concept in the study and practice of Agronomy"
+      },
+      "answer": "D",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 65,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "medium",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of Agronomy",
+        "D": "A concept from physics"
+      },
+      "answer": "C",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 66,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "medium",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of Agronomy",
+        "D": "A concept from physics"
+      },
+      "answer": "C",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 67,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "easy",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of exam body",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "A",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 68,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of General Agriculture",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "A",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 69,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "A core concept in the study and practice of Agronomy",
+        "D": "A concept from physics"
+      },
+      "answer": "C",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 70,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of General Agriculture",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "A",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 71,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "medium",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Breeding stock",
+        "B": "Beef cattle",
+        "C": "Draught animals",
+        "D": "Dairy cattle"
+      },
+      "answer": "B",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 72,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A core concept in the study and practice of Agronomy"
+      },
+      "answer": "D",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 73,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "A concept from physics",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 74,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "easy",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of exam body",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "A",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 75,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Private company",
+        "C": "Public corporation",
+        "D": "Trade union"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 76,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "easy",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A core concept in the study and practice of Agronomy",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A concept from physics"
+      },
+      "answer": "B",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 77,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Trade union",
+        "B": "Cooperative society",
+        "C": "Public corporation",
+        "D": "Private company"
+      },
+      "answer": "B",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 78,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A concept from physics"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 79,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A core concept in the study and practice of exam body"
+      },
+      "answer": "D",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 80,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "medium",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of Agronomy",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 81,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Private company",
+        "C": "Trade union",
+        "D": "Public corporation"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 82,
+      "topic": "Animal Production",
+      "section": "General",
+      "subtopic": "Animal Production",
+      "difficulty": "easy",
+      "question": "Which class of livestock is primarily raised for meat production?",
+      "options": {
+        "A": "Breeding stock",
+        "B": "Dairy cattle",
+        "C": "Draught animals",
+        "D": "Beef cattle"
+      },
+      "answer": "D",
+      "explanation": "Beef cattle are specifically bred and raised for meat (beef) production, unlike dairy cattle raised for milk."
+    },
+    {
+      "id": 83,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "A core concept in the study and practice of exam body",
+        "C": "An obsolete farming method",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "B",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 84,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of exam body",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "A",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 85,
+      "topic": "Agronomy",
+      "section": "General",
+      "subtopic": "Agronomy",
+      "difficulty": "hard",
+      "question": "Which of the following best describes Agronomy in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of Agronomy",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "An obsolete farming method"
+      },
+      "answer": "A",
+      "explanation": "Agronomy is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 86,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "medium",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Cooperative society",
+        "C": "Public corporation",
+        "D": "Trade union"
+      },
+      "answer": "B",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 87,
+      "topic": "Agricultural Technology",
+      "section": "General",
+      "subtopic": "Agricultural Technology",
+      "difficulty": "hard",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Cooperative society",
+        "B": "Private company",
+        "C": "Public corporation",
+        "D": "Trade union"
+      },
+      "answer": "A",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    },
+    {
+      "id": 88,
+      "topic": "exam body",
+      "section": "General",
+      "subtopic": "exam body",
+      "difficulty": "hard",
+      "question": "Which of the following best describes exam body in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "A core concept in the study and practice of exam body",
+        "D": "An obsolete farming method"
+      },
+      "answer": "C",
+      "explanation": "exam body is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 89,
+      "topic": "General Agriculture",
+      "section": "General",
+      "subtopic": "General Agriculture",
+      "difficulty": "easy",
+      "question": "Which of the following best describes General Agriculture in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of General Agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "B",
+      "explanation": "General Agriculture is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 90,
+      "topic": "Agricultural Economics and Extension",
+      "section": "General",
+      "subtopic": "Agricultural Economics and Extension",
+      "difficulty": "easy",
+      "question": "An organization owned and operated by a group of farmers for their mutual benefit is called a:",
+      "options": {
+        "A": "Private company",
+        "B": "Public corporation",
+        "C": "Cooperative society",
+        "D": "Trade union"
+      },
+      "answer": "C",
+      "explanation": "Agricultural cooperatives help farmers pool resources for buying inputs and marketing produce."
+    }
+  ]
+}

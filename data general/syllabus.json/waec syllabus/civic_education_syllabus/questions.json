@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Right to bear arms"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 2,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 3,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Freedom of expression",
+        "D": "Right to bear arms"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 4,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 5,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 6,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "easy",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 7,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 8,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 9,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 10,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Freedom of expression",
+        "D": "Right to drive"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 11,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 12,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 13,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 14,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 15,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Right to bear arms"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 16,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 17,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Right to bear arms",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 18,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Right to bear arms"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 19,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 20,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 21,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 22,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 23,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Freedom of expression",
+        "D": "Right to drive"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 24,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 25,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "easy",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 26,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 27,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 28,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 29,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 30,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 31,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 32,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 33,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 34,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to bear arms",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 35,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 36,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "easy",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 37,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 38,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 39,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Right to bear arms"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 40,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 41,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 42,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 43,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 44,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Freedom of expression",
+        "C": "Right to own property exclusively",
+        "D": "Right to bear arms"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 45,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 46,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "easy",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 47,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 48,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 49,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 50,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to own property exclusively",
+        "C": "Right to bear arms",
+        "D": "Right to drive"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 51,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 52,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 53,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to bear arms",
+        "C": "Right to own property exclusively",
+        "D": "Right to drive"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 54,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Freedom of expression",
+        "C": "Right to bear arms",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 55,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to drive",
+        "C": "Freedom of expression",
+        "D": "Right to bear arms"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 56,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 57,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 58,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 59,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 60,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 61,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 62,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to drive",
+        "C": "Right to bear arms",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 63,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 64,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 65,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 66,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 67,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Freedom of expression",
+        "D": "Right to bear arms"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 68,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "easy",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 69,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 70,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 71,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 72,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 73,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 74,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Freedom of expression",
+        "D": "Right to bear arms"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 75,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "hard",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 76,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 77,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 78,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 79,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 80,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Freedom of expression",
+        "C": "Right to bear arms",
+        "D": "Right to drive"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 81,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 82,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 83,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 84,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 85,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "easy",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 86,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 87,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "medium",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 88,
+      "topic": "EMERGING ISSUES IN THE SOCIETY",
+      "section": "General",
+      "subtopic": "EMERGING ISSUES IN THE SOCIETY",
+      "difficulty": "hard",
+      "question": "Which statement is correct about EMERGING ISSUES IN THE SOCIETY in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "EMERGING ISSUES IN THE SOCIETY is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 89,
+      "topic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "section": "General",
+      "subtopic": "GOVERNMENTAL SYSTEM AND PROCESSES",
+      "difficulty": "medium",
+      "question": "Which statement is correct about GOVERNMENTAL SYSTEM AND PROCESSES in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENTAL SYSTEM AND PROCESSES is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 90,
+      "topic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "section": "General",
+      "subtopic": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    }
+  ]
+}

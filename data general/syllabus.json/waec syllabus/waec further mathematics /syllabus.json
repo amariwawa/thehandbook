@@ -1,0 +1,242 @@
+{
+  "syllabus_title": "Further Mathematics / Mathematics (Elective) - Detailed Syllabus",
+  "sections": [
+    {
+      "section": "I. Pure Mathematics",
+      "topics": [
+        {
+          "topic_number": "1",
+          "topic": "Sets",
+          "content": [
+            "(i) Idea of a set defined by a property, Set notations and their meanings.",
+            "(ii) Disjoint sets, Universal set and complement of set",
+            "(iii) Venn diagrams, Use of sets and Venn diagrams to solve problems.",
+            "(iv) Commutative and Associative laws, Distributive properties over union and intersection."
+          ],
+          "notes": "Set notations e.g. (x : x is real), ∪, ∩, {}, ∉, ∈, ⊂, ⊆, U (universal set), A’ (complement). More challenging problems involving union, intersection, universal set, subset, complement. Three set problems. Use of De Morgan’s laws."
+        },
+        {
+          "topic_number": "2",
+          "topic": "Surds",
+          "content": [
+            "Surds of the form √a and a + b√c where a is rational, b is a positive integer and n is not a perfect square."
+          ],
+          "notes": "All four operations on surds. Rationalising the denominator of surds such as √a/√b, etc."
+        },
+        {
+          "topic_number": "3",
+          "topic": "Binary Operations",
+          "content": [
+            "Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses."
+          ],
+          "notes": "Use of properties to solve related problems."
+        },
+        {
+          "topic_number": "4",
+          "topic": "Logical Reasoning",
+          "content": [
+            "(i) Rule of syntax: true or false statements, rule of logic applied to arguments, implications and deductions.",
+            "(ii) The truth table"
+          ],
+          "notes": "Using logical reasoning to determine validity of compound statements. Symbols: ~P, ∨, ∧, ⇒. Use of truth tables including negation."
+        },
+        {
+          "topic_number": "5",
+          "topic": "Functions",
+          "content": [
+            "(i) Domain and co-domain of a function.",
+            "(ii) One-to-one, onto, identity and constant mapping.",
+            "(iii) Inverse of a function.",
+            "(iv) Composite of functions."
+          ],
+          "notes": "Notation e.g. f: x → 3x+4. Graphical representation, image and range. Determination of inverse of one-to-one functions. Notation fog(x) = f(g(x)). Restrict to simple algebraic functions."
+        },
+        {
+          "topic_number": "6",
+          "topic": "Polynomial Functions",
+          "content": [
+            "(i) Linear Functions, Equations and Inequalities",
+            "(ii) Quadratic Functions, Equations and Inequalities",
+            "(iii) Cubic Functions and Equations"
+          ],
+          "notes": "Recognition and sketching of graphs. Gradient, intercepts, parallel/perpendicular lines, linear inequalities and Linear Programming. Vertex, axis of symmetry, max/min for quadratics. Completing the square, roots (discriminant), sum/product of roots. Cubic graphs, factorization, remainder/factor theorems."
+        },
+        {
+          "topic_number": "7",
+          "topic": "Rational Functions",
+          "content": [
+            "(i) Rational functions of the form Q(x) = g(x)/f(x) where g(x) and f(x) are polynomials.",
+            "(ii) Resolution of rational functions into partial fractions."
+          ],
+          "notes": "Factorisation into linear/quadratic factors (degree numerator < denominator ≤4). Basic operations, zeros, domain, range (sketching not required)."
+        },
+        {
+          "topic_number": "8",
+          "topic": "Indices and Logarithmic Functions",
+          "content": [
+            "(i) Indices",
+            "(ii) Logarithms"
+          ],
+          "notes": "Laws of indices, solving equations. Laws of logarithms, calculations, change of base, solving equations. Reduction of relations like y = ax^b to linear form. Graphs of logarithmic functions."
+        },
+        {
+          "topic_number": "9",
+          "topic": "Permutation and Combinations",
+          "content": [
+            "(i) Simple cases of arrangements",
+            "(ii) Simple cases of selection of objects."
+          ],
+          "notes": "Notations nPr and nCr. Examples with/without replacement."
+        },
+        {
+          "topic_number": "10",
+          "topic": "Binomial Theorem",
+          "content": [
+            "Expansion of (a + b)^n."
+          ],
+          "notes": "For positive integral index only. Use of (1+x)^n ≈ 1 + nx for small x. Proof required."
+        },
+        {
+          "topic_number": "11",
+          "topic": "Sequences and Series",
+          "content": [
+            "(i) Finite and Infinite sequences.",
+            "(ii) Linear sequence/Arithmetic Progression (A.P.) and Geometric Progression (G.P.).",
+            "(iii) Finite and Infinite series.",
+            "(iv) Linear series (sum of A.P.) and exponential series (sum of G.P.).",
+            "(v) Recurrence Series"
+          ],
+          "notes": "General terms, sums. Sum to infinity for |r|<1. Generating terms and explicit formulas for recurrence."
+        },
+        {
+          "topic_number": "12",
+          "topic": "Matrices and Linear Transformation",
+          "content": [
+            "(i) Matrices",
+            "(ii) Determinants",
+            "(iii) Inverse of 2x2 Matrices",
+            "(iv) Linear Transformation"
+          ],
+          "notes": "Order, equality, operations up to 3x3. Determinants 2x2 and 3x3. Solution of simultaneous equations. Images under transformation, inverse, composition. Specific reflections and rotations."
+        },
+        {
+          "topic_number": "13",
+          "topic": "Trigonometry",
+          "content": [
+            "(i) Trigonometric Ratios and Rules",
+            "(ii) Compound and Multiple Angles.",
+            "(iii) Trigonometric Functions and Equations"
+          ],
+          "notes": "General angles, specific values (30°,45°,60°), identities, negative angles, radians. Compound angle formulae. Graphs, solving equations. Relation to coordinates on circle."
+        },
+        {
+          "topic_number": "14",
+          "topic": "Co-ordinate Geometry",
+          "content": [
+            "(i) Straight Lines",
+            "(ii) Conic Sections"
+          ],
+          "notes": "Midpoint, distance, gradient, equations, parallel/perpendicular, angle between lines, distance from point to line. Circle equations, tangents/normals. Parabola equations, parametric, tangents/normals."
+        },
+        {
+          "topic_number": "15",
+          "topic": "Differentiation",
+          "content": [
+            "(i) The idea of a limit",
+            "(ii) The derivative of a function",
+            "(iii) Differentiation of polynomials",
+            "(iv) Differentiation of trigonometric functions",
+            "(v) Product and quotient rules.",
+            "(vi) Differentiation of implicit functions",
+            "(vii) Second order derivatives and Rates of change, Maxima and Minima"
+          ],
+          "notes": "From first principles (simple). Rules including chain. Implicit e.g. ax² + by² = c. Transcendental (exp, ln). Tangents, turning points, curve sketching, kinematics."
+        },
+        {
+          "topic_number": "16",
+          "topic": "Integration",
+          "content": [
+            "(i) Indefinite Integral",
+            "(ii) Definite Integral",
+            "(iii) Applications of the Definite Integral"
+          ],
+          "notes": "Polynomials (power rule), substitution, trig. Areas, volumes of revolution, kinematics, trapezium rule."
+        }
+      ]
+    },
+    {
+      "section": "II. Statistics and Probability",
+      "topics": [
+        {
+          "topic_number": "17",
+          "topic": "Statistics",
+          "content": [
+            "(i) Tabulation and Graphical representation of data",
+            "(ii) Measures of location",
+            "(iii) Measures of Dispersion",
+            "(iv) Correlation"
+          ],
+          "notes": "Frequency/cumulative tables, histograms, ogives. Mean, median, mode, quartiles. Range, IQR, mean deviation, variance, SD. Scatter diagrams, line of best fit, Spearman’s rank."
+        },
+        {
+          "topic_number": "18",
+          "topic": "Probability",
+          "content": [
+            "(i) Meaning of probability.",
+            "(ii) Relative frequency.",
+            "(iii) Calculation of Probability using simple sample spaces.",
+            "(iv) Addition and multiplication of probabilities.",
+            "(v) Probability distributions."
+          ],
+          "notes": "Equally likely, mutually exclusive, independent, conditional. Binomial and Poisson distributions (simple cases)."
+        }
+      ]
+    },
+    {
+      "section": "III. Vectors and Mechanics",
+      "topics": [
+        {
+          "topic_number": "19",
+          "topic": "Vectors",
+          "content": [
+            "(i) Definitions of scalar and vector quantities.",
+            "(ii) Representation of Vectors.",
+            "(iii) Algebra of Vectors.",
+            "(iv) Commutative, Associative and Distributive Properties.",
+            "(v) Unit vectors.",
+            "(vi) Position Vectors.",
+            "(vii) Resolution and Composition of Vectors.",
+            "(viii) Scalar (dot) product and its application.",
+            "(ix) Vector (cross) product and its application."
+          ],
+          "notes": "ai + bj form, laws, unit vectors, position/midpoint, composition (forces), dot product (angle, trig formulae)."
+        },
+        {
+          "topic_number": "20",
+          "topic": "Statics",
+          "content": [
+            "(i) Definition of a force.",
+            "(ii) Representation of forces.",
+            "(iii) Composition and resolution of coplanar forces.",
+            "(iv) Equilibrium of Bodies.",
+            "(v) Moments of forces.",
+            "(vi) Friction."
+          ],
+          "notes": "Resultants, Lami’s theorem, principles of moments, coefficient of friction."
+        },
+        {
+          "topic_number": "21",
+          "topic": "Dynamics",
+          "content": [
+            "(i) The concepts of motion",
+            "(ii) Equations of Motion",
+            "(iii) The impulse and momentum equations",
+            "(iv) Projectiles."
+          ],
+          "notes": "Displacement, velocity, acceleration, Newton’s laws, inclined planes, gravity. v=u+at, etc. Conservation of momentum. Projectiles at angle to horizontal."
+        }
+      ]
+    }
+  ],
+  "notes": "Topics marked with * are for Section B of Paper 2 only. More challenging questions may be set on General Mathematics topics. Asterisks *** or **** indicate country-specific topics."
+}

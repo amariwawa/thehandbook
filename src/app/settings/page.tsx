@@ -76,71 +76,88 @@ export default function SettingsPage() {
           {/* Main Forms */}
           <div className="lg:col-span-2 space-y-12">
             
-            {/* Profile Details */}
-            <section className="bg-[#f2f2ef]/40 dark:bg-zinc-900/40 rounded-[3rem] p-12 space-y-10 border border-[#e5e5e0] dark:border-white/5">
-               <div className="flex justify-between items-center">
-                  <div className="space-y-1">
-                    <h2 className="text-3xl font-black display-font tracking-tight text-slate-900 dark:text-white">Profile Details</h2>
-                    <p className="text-xs font-bold text-slate-400 uppercase tracking-widest leading-relaxed">Update your academic presence and personal information.</p>
+            {/* Profile Details - Split Layout */}
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+               {/* Left side: Text */}
+               <div className="lg:col-span-4 space-y-4">
+                  <div className="text-indigo-500 text-xs font-bold uppercase tracking-widest flex items-center gap-2">
+                     <span className="w-2 h-2 bg-indigo-500 rounded-full" />
+                     IDENTITY
                   </div>
-                  <button 
-                    onClick={handleSave}
-                    disabled={isSaving}
-                    className="bg-[#1d3e8e] text-white px-8 py-3 rounded-2xl font-black text-[10px] uppercase tracking-widest shadow-xl shadow-indigo-100 hover:scale-105 active:scale-95 transition-all disabled:opacity-50"
-                  >
-                    {isSaving ? "Saving Identity..." : "Save Changes"}
-                  </button>
+                  <h2 className="text-3xl font-bold display-font text-white leading-[1.2]">
+                     Personal information across the platform.
+                  </h2>
+                  <p className="text-sm text-zinc-400 font-medium leading-relaxed font-mono">
+                     Manage your academic identity, email preferences, and personal details. Turn your study profile into a playbook for success.
+                  </p>
                </div>
 
-               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                  <div className="space-y-3">
-                     <label className="text-[10px] font-black text-slate-900 dark:text-white uppercase tracking-widest px-1">First Name</label>
-                     <input 
-                        type="text" 
-                        value={localProfile.firstName} 
-                        onChange={(e) => setLocalProfile(prev => ({ ...prev, firstName: e.target.value }))}
-                        className="w-full bg-[#e5e5e0]/60 dark:bg-white/5 border-none rounded-2xl p-5 text-sm font-bold text-slate-700 dark:text-slate-300 focus:ring-2 focus:ring-[#1d3e8e]/20 transition-all" 
-                     />
+               {/* Right side: Card */}
+               <div className="lg:col-span-8 bg-[#141414] border border-zinc-800 rounded-2xl p-10 space-y-8 hover:border-zinc-700 transition-all">
+                  <div className="flex justify-between items-center border-b border-zinc-800 pb-6">
+                     <div className="space-y-1">
+                        <h3 className="text-xl font-bold text-white">Profile Details</h3>
+                        <p className="text-xs text-zinc-500 font-medium">Update your academic presence.</p>
+                     </div>
+                     <button 
+                        onClick={handleSave}
+                        disabled={isSaving}
+                        className="bg-indigo-500 text-white px-6 py-3 rounded-lg font-black text-[10px] uppercase tracking-widest hover:bg-indigo-600 active:scale-95 transition-all disabled:opacity-50"
+                     >
+                        {isSaving ? "Saving..." : "Save Changes"}
+                     </button>
                   </div>
-                  <div className="space-y-3">
-                     <label className="text-[10px] font-black text-slate-900 dark:text-white uppercase tracking-widest px-1">Last Name</label>
-                     <input 
-                        type="text" 
-                        value={localProfile.lastName} 
-                        onChange={(e) => setLocalProfile(prev => ({ ...prev, lastName: e.target.value }))}
-                        className="w-full bg-[#e5e5e0]/60 dark:bg-white/5 border-none rounded-2xl p-5 text-sm font-bold text-slate-700 dark:text-slate-300 focus:ring-2 focus:ring-[#1d3e8e]/20 transition-all" 
-                     />
-                  </div>
-                  <div className="md:col-span-2 space-y-3">
-                     <label className="text-[10px] font-black text-slate-900 dark:text-white uppercase tracking-widest px-1">Email Address</label>
-                     <input 
-                        type="email" 
-                        value={localProfile.email}
-                        onChange={(e) => setLocalProfile(prev => ({ ...prev, email: e.target.value }))}
-                        className="w-full bg-[#e5e5e0]/60 dark:bg-white/5 border-none rounded-2xl p-5 text-sm font-bold text-slate-700 dark:text-slate-300 focus:ring-2 focus:ring-[#1d3e8e]/20 transition-all" 
-                     />
-                  </div>
-                  <div className="md:col-span-2 space-y-3">
-                     <label className="text-[10px] font-black text-slate-900 dark:text-white uppercase tracking-widest px-1">Passions & Interests (AI Context)</label>
-                     <textarea 
-                        rows={2} 
-                        value={localProfile.hobbies} 
-                        onChange={(e) => setLocalProfile(prev => ({ ...prev, hobbies: e.target.value }))}
-                        placeholder="Topics you know deeply..."
-                        className="w-full bg-[#e5e5e0]/60 dark:bg-white/5 border-none rounded-2xl p-6 text-sm font-bold text-slate-700 dark:text-slate-300 focus:ring-2 focus:ring-[#1d3e8e]/20 transition-all resize-none placeholder:text-slate-400" 
-                     />
-                  </div>
-                  <div className="md:col-span-2 space-y-3">
-                     <label className="text-[10px] font-black text-slate-900 dark:text-white uppercase tracking-widest px-1">Bio & Academic Interests</label>
-                     <textarea 
-                        rows={3} 
-                        value={localProfile.bio} 
-                        onChange={(e) => setLocalProfile(prev => ({ ...prev, bio: e.target.value }))}
-                        className="w-full bg-[#e5e5e0]/60 dark:bg-white/5 border-none rounded-2xl p-6 text-sm font-bold text-slate-700 dark:text-slate-300 focus:ring-2 focus:ring-[#1d3e8e]/20 transition-all resize-none" 
-                     />
+
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                     <div className="space-y-2">
+                        <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest px-1">First Name</label>
+                        <input 
+                           type="text" 
+                           value={localProfile.firstName} 
+                           onChange={(e) => setLocalProfile(prev => ({ ...prev, firstName: e.target.value }))}
+                           className="w-full bg-[#0a0a0a] border border-zinc-800 rounded-lg p-4 text-sm font-medium text-white focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 transition-all outline-none" 
+                        />
+                     </div>
+                     <div className="space-y-2">
+                        <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest px-1">Last Name</label>
+                        <input 
+                           type="text" 
+                           value={localProfile.lastName} 
+                           onChange={(e) => setLocalProfile(prev => ({ ...prev, lastName: e.target.value }))}
+                           className="w-full bg-[#0a0a0a] border border-zinc-800 rounded-lg p-4 text-sm font-medium text-white focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 transition-all outline-none" 
+                        />
+                     </div>
+                     <div className="md:col-span-2 space-y-2">
+                        <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest px-1">Email Address</label>
+                        <input 
+                           type="email" 
+                           value={localProfile.email}
+                           onChange={(e) => setLocalProfile(prev => ({ ...prev, email: e.target.value }))}
+                           className="w-full bg-[#0a0a0a] border border-zinc-800 rounded-lg p-4 text-sm font-medium text-white focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 transition-all outline-none" 
+                        />
+                     </div>
+                     <div className="md:col-span-2 space-y-2">
+                        <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest px-1">Passions & Interests (AI Context)</label>
+                        <textarea 
+                           rows={2} 
+                           value={localProfile.hobbies} 
+                           onChange={(e) => setLocalProfile(prev => ({ ...prev, hobbies: e.target.value }))}
+                           placeholder="Topics you know deeply..."
+                           className="w-full bg-[#0a0a0a] border border-zinc-800 rounded-lg p-4 text-sm font-medium text-white focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 transition-all resize-none placeholder:text-zinc-700 outline-none" 
+                        />
+                     </div>
+                     <div className="md:col-span-2 space-y-2">
+                        <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest px-1">Bio & Academic Interests</label>
+                        <textarea 
+                           rows={3} 
+                           value={localProfile.bio} 
+                           onChange={(e) => setLocalProfile(prev => ({ ...prev, bio: e.target.value }))}
+                           className="w-full bg-[#0a0a0a] border border-zinc-800 rounded-lg p-4 text-sm font-medium text-white focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 transition-all resize-none outline-none" 
+                        />
+                     </div>
                   </div>
                </div>
-            </section>
+            </div>
 
             {/* Notification Focus */}
             <section className="bg-[#f2f2ef]/40 dark:bg-zinc-900/40 rounded-[3rem] p-12 space-y-10 border border-[#e5e5e0] dark:border-white/5">

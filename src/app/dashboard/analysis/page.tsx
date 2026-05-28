@@ -2,70 +2,123 @@
 
 import SidebarLayout from "@/components/ui/SidebarLayout";
 import { subjects } from "@/lib/data";
-import { motion, AnimatePresence } from "framer-motion";
-import { 
-  ArrowLeft, 
-  TrendingUp, 
-  Clock, 
-  Target, 
-  CheckCircle2, 
+import { useAnalytics } from "@/hooks/useAnalytics";
+import { motion } from "framer-motion";
+import {
+  ArrowLeft,
+  TrendingUp,
+  Target,
+  CheckCircle2,
   AlertCircle,
   Sparkles,
   ChevronRight,
-  Zap
+  BarChart3
 } from "lucide-react";
 import Link from "next/link";
 import { useState, useMemo } from "react";
 
-// Mock analytics data for subjects
-const analysisData: Record<string, any> = {
-  mathematics: {
-     accuracy: 85,
-     time: "42.5h",
-     questions: 1240,
-     trend: [65, 78, 72, 85, 82, 88, 85],
-     strong: ["AlgebraIC Expressions", "Trigonometry Basics", "Linear Equations"],
-     weak: ["Calculus: Chain Rule", "Complex Integration", "Statistical Variance"],
-     aiReport: "Your algebraic foundation is exceptionally strong. Focus the next 4 sessions purely on Calculus derivatives to push your overall mastery above 90%."
-  },
-  physics: {
-     accuracy: 72,
-     time: "31.2h",
-     questions: 850,
-     trend: [45, 52, 68, 62, 75, 70, 72],
-     strong: ["Classical Mechanics", "Optics", "Wave Theory"],
-     weak: ["Electromagnetism", "Quantum Physics", "Atomic Structure"],
-     aiReport: "Mechanics performance is consistent, but Electromagnetism scores are volatile. Review 'Faraday's Law' conceptual videos before starting your next drill."
-  },
-  economics: {
-     accuracy: 91,
-     time: "18.4h",
-     questions: 620,
-     trend: [80, 85, 82, 88, 92, 90, 91],
-     strong: ["Macroeconomics", "Market Structures", "Consumer Behavior"],
-     weak: ["Fiscal Policy Metrics", "International Trade Theory"],
-     aiReport: "You are currently in the 95th percentile for Economics. Maintain this velocity by doing short, 10-question daily 'Mastery Drills'."
-  }
-};
-
 export default function AnalysisPage() {
-  const [selectedSubjectId, setSelectedSubjectId] = useState("mathematics");
+  const { sessions, subjectStats, isEmpty } = useAnalytics();
 
-  // Get unique subjects
-  const allUniqueSubjects = useMemo(() => {
+  // Build a lookup of all subjects by id
+  const allSubjectsById = useMemo(() => {
     const all = [
       ...Object.values(subjects.waec).flat(),
       ...subjects.jamb,
       ...subjects.bece
     ];
-    const map = new Map();
-    all.forEach((s: any) => {
-      map.set(s.id, s);
-    });
-    return Array.from(map.values()).filter(s => analysisData[s.id]); // Only show subjects with data for this demo
+    const map = new Map<string, any>();
+    all.forEach((s: any) => map.set(s.id, s));
+    return map;
   }, []);
 
-  const data = analysisData[selectedSubjectId] || analysisData.mathematics;
+  // Find subjects that have real session data
+  const subjectsWithData = useMemo(() => {
+    return subjectStats
+      .map((stat) => {
+        // Try to find matching subject by name
+        const match = Array.from(allSubjectsById.values()).find(
+          (s: any) => s.name.toLowerCase() === stat.subject.toLowerCase()
+        );
+        return match ? { ...match, stat } : null;
+      })
+      .filter(Boolean) as any[];
+  }, [subjectStats, allSubjectsById]);
+
+  const [selectedSubjectId, setSelectedSubjectId] = useState<string>(
+    subjectsWithData[0]?.id ?? "mathematics"
+  );
+
+  const selectedSubject = subjectsWithData.find((s) => s.id === selectedSubjectId) || subjectsWithData[0];
+  const stat = selectedSubject?.stat;
+
+  // Build trend from chronological session scores for this subject
+  const trend = useMemo(() => {
+    if (!stat) return [];
+    return sessions
+      .filter((s) => s.subject.toLowerCase() === stat.subject.toLowerCase())
+      .sort((a, b) => new Date(a.created_at).getTime() - new Date(b.created_at).getTime())
+      .map((s) => s.score ?? 0);
+  }, [sessions, stat]);
+
+  // Build topic stats from sessions for this subject
+  const { strongTopics, weakTopics } = useMemo(() => {
+    if (!stat) return { strongTopics: [] as string[], weakTopics: [] as string[] };
+
+    const topicScores: Record<string, number[]> = {};
+    sessions
+      .filter((s) => s.subject.toLowerCase() === stat.subject.toLowerCase())
+      .forEach((s) => {
+        (s.topics ?? []).forEach((topic) => {
+          if (!topicScores[topic]) topicScores[topic] = [];
+          topicScores[topic].push(s.score ?? 0);
+        });
+      });
+
+    const strong: string[] = [];
+    const weak: string[] = [];
+
+    Object.entries(topicScores).forEach(([topic, scores]) => {
+      const avg = scores.reduce((a, b) => a + b, 0) / scores.length;
+      if (avg >= 70) strong.push(topic);
+      else if (avg < 50) weak.push(topic);
+    });
+
+    return { strongTopics: strong, weakTopics: weak };
+  }, [sessions, stat]);
+
+  const accuracy = stat?.avgScore ?? 0;
+  const hours = stat ? (stat.totalMins / 60).toFixed(1) : "0";
+  const drills = stat?.sessions ?? 0;
+
+  // Pad trend to at least 7 points for the chart visual
+  const chartTrend = useMemo(() => {
+    if (trend.length >= 7) return trend.slice(-7);
+    const padded = [...trend];
+    while (padded.length < 7) {
+      padded.unshift(padded[0] ?? 50);
+    }
+    return padded;
+  }, [trend]);
+
+  if (isEmpty) {
+    return (
+      <SidebarLayout>
+        <div className="flex flex-col items-center justify-center h-[60vh] space-y-6 text-center">
+          <div className="w-20 h-20 bg-slate-50 dark:bg-zinc-800 rounded-full flex items-center justify-center text-slate-200">
+            <BarChart3 className="w-10 h-10" />
+          </div>
+          <div className="space-y-2">
+            <h1 className="text-4xl font-black display-font text-slate-900 dark:text-white">Analysis Not Available</h1>
+            <p className="text-slate-500 font-medium max-w-sm">Complete at least one practice session to see your performance analysis.</p>
+          </div>
+          <Link href="/practice/arena" className="bg-indigo-500 text-white px-8 py-4 rounded-lg font-black text-[10px] uppercase tracking-widest hover:bg-indigo-600 transition-all">
+            Start Practicing
+          </Link>
+        </div>
+      </SidebarLayout>
+    );
+  }
 
   return (
     <SidebarLayout>
@@ -96,7 +149,7 @@ export default function AnalysisPage() {
                    initial={{ pathLength: 0, opacity: 0 }}
                    animate={{ pathLength: 1, opacity: 1 }}
                    transition={{ duration: 2, ease: "circOut" }}
-                   d={`M ${data.trend.map((val: number, i: number) => `${i * 100},${200 - (val / 100) * 200}`).join(' L ')}`}
+                   d={`M ${chartTrend.map((val: number, i: number) => `${i * 100},${200 - (val / 100) * 200}`).join(' L ')}`}
                    fill="none"
                    stroke="#1d3e8e"
                    className="dark:stroke-indigo-500"
@@ -105,7 +158,7 @@ export default function AnalysisPage() {
                    strokeLinejoin="round"
                  />
 
-                 {data.trend.map((val: number, i: number) => (
+                 {chartTrend.map((val: number, i: number) => (
                    <motion.circle
                       key={`dot-hero-${selectedSubjectId}-${i}`}
                       initial={{ scale: 0 }}
@@ -146,7 +199,7 @@ export default function AnalysisPage() {
           </div>
 
           <section className="flex gap-4 overflow-x-auto pb-2 scrollbar-hide">
-            {allUniqueSubjects.map((sub) => (
+            {subjectsWithData.map((sub) => (
               <button
                 key={sub.id}
                 onClick={() => setSelectedSubjectId(sub.id)}
@@ -174,7 +227,7 @@ export default function AnalysisPage() {
                   className="card-white dark:bg-zinc-900 p-8 border-l-4 border-l-indigo-500"
                 >
                    <div className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Accuracy</div>
-                   <div className="text-5xl font-black display-font text-[#1d3e8e] dark:text-indigo-400">{data.accuracy}%</div>
+                   <div className="text-5xl font-black display-font text-[#1d3e8e] dark:text-indigo-400">{accuracy}%</div>
                 </motion.div>
 
                 <motion.div 
@@ -185,7 +238,7 @@ export default function AnalysisPage() {
                   className="card-white dark:bg-zinc-900 p-8 border-l-4 border-l-purple-500"
                 >
                    <div className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Total Drills</div>
-                   <div className="text-5xl font-black display-font text-slate-900 dark:text-white">{data.questions}</div>
+                   <div className="text-5xl font-black display-font text-slate-900 dark:text-white">{drills}</div>
                 </motion.div>
 
                 <motion.div 
@@ -196,7 +249,7 @@ export default function AnalysisPage() {
                   className="card-white dark:bg-zinc-900/50 p-8 border-l-4 border-l-teal-500 bg-slate-50/30 dark:bg-white/5"
                 >
                    <div className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Hours Studied</div>
-                   <div className="text-5xl font-black display-font text-slate-400 dark:text-slate-500">{data.time}</div>
+                   <div className="text-5xl font-black display-font text-slate-400 dark:text-slate-500">{hours}h</div>
                 </motion.div>
               </div>
 
@@ -208,7 +261,7 @@ export default function AnalysisPage() {
                        <h4 className="text-lg font-black text-slate-900 dark:text-white uppercase tracking-tighter">Elite Areas</h4>
                     </div>
                     <div className="space-y-4">
-                       {data.strong.map((item: string) => (
+                       {strongTopics.map((item: string) => (
                          <div key={item} className="p-5 bg-teal-50/30 dark:bg-teal-500/10 rounded-2xl border border-teal-50 dark:border-teal-500/20 font-bold text-slate-700 dark:text-teal-300 text-sm">
                             {item}
                          </div>
@@ -222,7 +275,7 @@ export default function AnalysisPage() {
                        <h4 className="text-lg font-black text-slate-900 dark:text-white uppercase tracking-tighter">Critical Gaps</h4>
                     </div>
                     <div className="space-y-4">
-                       {data.weak.map((item: string) => (
+                       {weakTopics.map((item: string) => (
                          <div key={item} className="flex items-center justify-between p-5 bg-orange-50/50 dark:bg-orange-500/10 rounded-2xl border border-orange-100 dark:border-orange-500/20 font-bold text-slate-900 dark:text-orange-300 text-sm group cursor-pointer hover:bg-orange-100 dark:hover:bg-orange-500/20 transition-colors">
                             {item}
                             <ChevronRight className="w-5 h-5 text-orange-300 group-hover:text-orange-600" />
@@ -242,7 +295,7 @@ export default function AnalysisPage() {
                  </div>
                  
                  <p className="text-white/70 text-lg leading-relaxed font-medium relative z-10 italic">
-                    "{data.aiReport}"
+                    "{selectedSubject?.name ? `Your ${selectedSubject.name} performance shows ${accuracy}% accuracy across ${drills} session${drills !== 1 ? 's' : ''}. ${strongTopics.length > 0 ? `Strong areas: ${strongTopics.slice(0, 2).join(', ')}.` : ''} ${weakTopics.length > 0 ? `Focus on: ${weakTopics.slice(0, 2).join(', ')}.` : 'Keep practicing to build more topic data.'}` : 'Start a practice session to generate AI strategy insights.'}"
                  </p>
                  
                  <button className="w-full bg-white text-slate-900 py-5 rounded-2xl font-black text-xs uppercase tracking-[0.2em] shadow-2xl relative z-10 active:scale-95 transition-all">

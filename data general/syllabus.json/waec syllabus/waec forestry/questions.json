@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "medium",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "hard",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "easy",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "hard",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "easy",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "medium",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "medium",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "hard",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "easy",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "hard",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "easy",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "medium",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "hard",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "easy",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "hard",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "easy",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "hard",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "medium",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "hard",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "medium",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "medium",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "medium",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "easy",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "medium",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "hard",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "medium",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "medium",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "hard",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "medium",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "easy",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "easy",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "easy",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "medium",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "hard",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "hard",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "easy",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "medium",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "hard",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "easy",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "easy",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "easy",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "medium",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "medium",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "FOREST ESTATES",
+      "section": "General",
+      "subtopic": "FOREST ESTATES",
+      "difficulty": "hard",
+      "question": "Which statement about FOREST ESTATES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "FOREST ESTATES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "hard",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "hard",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "easy",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "INTRODUCTION TO FORESTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FORESTRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FORESTRY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO FORESTRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "INCOME GENERATION VENTURES",
+      "section": "General",
+      "subtopic": "INCOME GENERATION VENTURES",
+      "difficulty": "hard",
+      "question": "Which statement about INCOME GENERATION VENTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "INCOME GENERATION VENTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "section": "General",
+      "subtopic": "HARVESTING AND MARKETING OF FOREST RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about HARVESTING AND MARKETING OF FOREST RESOURCES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "HARVESTING AND MARKETING OF FOREST RESOURCES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "section": "General",
+      "subtopic": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION",
+      "difficulty": "hard",
+      "question": "Which statement about PLANTATION ESTABLISHMENT AND FOREST MENSURATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "PLANTATION ESTABLISHMENT AND FOREST MENSURATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "medium",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "FORESTRY SECTOR STRUCTURES",
+      "section": "General",
+      "subtopic": "FORESTRY SECTOR STRUCTURES",
+      "difficulty": "hard",
+      "question": "Which statement about FORESTRY SECTOR STRUCTURES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "FORESTRY SECTOR STRUCTURES is part of the technical/vocational syllabus."
+    }
+  ]
+}

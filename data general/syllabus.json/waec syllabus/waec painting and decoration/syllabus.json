@@ -1,0 +1,183 @@
+{
+  "syllabus_title": "WAEC SSCE Painting and Decorating Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "INTRODUCTION TO PAINTING",
+      "topics": [
+        {
+          "topic": "Meaning of pictorial and decorative painting"
+        },
+        {
+          "topic": "Differences between pictorial and decorative paintings"
+        },
+        {
+          "topic": "Tools and equipment in decorative and pictorial paintings"
+        },
+        {
+          "topic": "Elements and Principles of design"
+        },
+        {
+          "topic": "Functions of pictorial and decorative painting"
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "COLOUR THEORY",
+      "topics": [
+        {
+          "topic": "Meaning of colour"
+        },
+        {
+          "topic": "Classes of colour",
+          "subtopics": ["Primary", "Secondary", "Tertiary"]
+        },
+        {
+          "topic": "Properties of Colour",
+          "subtopics": ["Hues", "Tones", "Intensity"]
+        },
+        {
+          "topic": "Colour schemes",
+          "subtopics": ["Analogous", "Complementary", "Monochromes"]
+        },
+        {
+          "topic": "Improvisation of colours from local sources"
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "TECHNIQUES IN PAINTING",
+      "topics": [
+        {
+          "title": "Techniques in pictorial Painting",
+          "subtopics": [
+            "Dry painting",
+            "Wet painting",
+            "Glazing",
+            "Impasto",
+            "Fresco",
+            "Tempera"
+          ]
+        },
+        {
+          "title": "Techniques in decorative Painting",
+          "subtopics": [
+            "Flat painting",
+            "Rag rolling",
+            "Scumbling or Combing",
+            "Spraying",
+            "Mural",
+            "Mosaic"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "topics": [
+        {
+          "topic": "Types",
+          "subtopics": [
+            "Still life Painting",
+            "Nature Painting",
+            "Figure / Life Painting"
+          ]
+        },
+        {
+          "topic": "Differences between observatory and imaginative painting"
+        },
+        {
+          "topic": "Functions of pictorial paintings"
+        }
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "topics": [
+        {
+          "topic": "Body decoration",
+          "subtopics": [
+            "Meaning of body decoration",
+            "Differences between traditional and modern body decorations",
+            "Motifs and designs for body decoration",
+            "Materials used for body decoration",
+            "Functions and importance of body decorations"
+          ]
+        },
+        {
+          "topic": "Wall Decoration",
+          "subtopics": [
+            "Meaning of wall / interior decoration",
+            "Differences between traditional and modern wall decorations",
+            "Motifs, patterns and designs for wall decoration",
+            "Materials used for wall decoration",
+            "Functions and importance of wall decorations"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "PERSPECTIVE",
+      "topics": [
+        {
+          "topic": "Meaning of Perspective"
+        },
+        {
+          "topic": "Types of perspective"
+        },
+        {
+          "topic": "The importance of perspective in pictorial painting composition"
+        }
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "PROSPECTS IN PAINTING",
+      "topics": [
+        {
+          "topic": "The socio-economic value of pictorial and decorative painting"
+        },
+        {
+          "topic": "Careers in pictorial and decorative painting"
+        }
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "COSTING / MARKETING OF PAINTINGS",
+      "topics": [
+        {
+          "topic": "Costing of pictorial and decorative painting",
+          "subtopics": [
+            "Location and size of work",
+            "Materials / equipment involved",
+            "Time invested",
+            "Quantity and quality"
+          ]
+        },
+        {
+          "topic": "Exhibition of Paintings",
+          "subtopics": [
+            "Planning / Processes",
+            "Funding"
+          ]
+        },
+        {
+          "topic": "Marketing of Painting",
+          "subtopics": [
+            "Pricing",
+            "Negotiation",
+            "Communication (advertising/publicity)",
+            "Outlets for marketing",
+            "Selling"
+          ]
+        }
+      ]
+    }
+  ]
+}

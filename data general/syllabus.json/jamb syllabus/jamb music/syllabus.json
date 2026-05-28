@@ -1,0 +1,145 @@
+{
+  "syllabus": {
+    "title": "UTME Music Detailed Syllabus",
+    "sections": [
+      {
+        "section": "A",
+        "title": "RUDIMENTS OF MUSIC",
+        "topics": [
+          {
+            "topic": "The Staff",
+            "content": "The staff (a) great staff (b) ledger lines and spaces (c) open score (vocal score) (d) clef: treble (G), bass (F), alto (viola clef) and tenor clef."
+          },
+          {
+            "topic": "Music Notes and Rests",
+            "content": "Music Notes/Rests and their corresponding values."
+          },
+          {
+            "topic": "Time Signatures",
+            "content": "Time/Time signature (simple and compound time signatures), correct grouping of notes and barring of unbarred passages."
+          },
+          {
+            "topic": "Key Signatures and Scales",
+            "content": "Key signatures and scales: (i) Technical names of the degrees of the scale (ii) Diatonic major/minor (natural, harmonic and melodic) (iii) Chromatic scale. Determination of the key of a piece of music with or without key signature (not exceeding two sharps and two flats)."
+          },
+          {
+            "topic": "Keyboard and Accidentals",
+            "content": "(a) Keyboard setting and enharmonic equivalents (b) Accidentals."
+          },
+          {
+            "topic": "Intervals",
+            "content": "Recognition of diatonic and chromatic intervals and their inversions (e.g. perfect unison, perfect 4th, perfect 5th, perfect 8ve, major/minor 2nd, 3rd, 6th and 7th, diminished 5th and augmented 4th intervals)."
+          },
+          {
+            "topic": "Musical Terms and Signs",
+            "content": "Definition of simple musical terms, signs and abbreviations."
+          },
+          {
+            "topic": "Transcription and Transposition",
+            "content": "(a) Transcription of music from staff into tonic solfa notation and vice versa (b) Transposition using the treble (G) and bass (F) staves NOT exceeding two sharps and two flats."
+          }
+        ]
+      },
+      {
+        "section": "B",
+        "title": "ELEMENTARY HARMONY",
+        "topics": [
+          {
+            "topic": "Triads and Inversions",
+            "content": "Triads and their inversions in major/minor keys (not exceeding two sharps and two flats). (a) Primary triads in major keys. (b) Secondary triads in major keys. Notes on chord indications and types of triads in major and harmonic minor scales."
+          },
+          {
+            "topic": "Chord Progressions",
+            "content": "(a) Basic chord progressions in four-part vocal style (SATB) in major keys (not exceeding two sharps and two flats). (b) Dominant 7th chord in root position only."
+          },
+          {
+            "topic": "Kinds of Motion",
+            "content": "Kinds of motion: Parallel, Similar, Contrary and Oblique."
+          },
+          {
+            "topic": "Cadences",
+            "content": "Cadences in major keys (not exceeding two sharps and two flats): (a) Perfect/full close (b) Imperfect/half close/semi cadence (c) Plagal/Amen cadence (d) Interrupted/deceptive/evaded/surprise cadence."
+          },
+          {
+            "topic": "Non-harmonic Tones",
+            "content": "Non-chord tones: identification and application of neighbouring tones (auxiliary notes) and passing tones/notes."
+          },
+          {
+            "topic": "Modulation",
+            "content": "Simple diatonic modulations (using a single melodic line) from any given major key (not exceeding two sharps and two flats) to any of its closely related keys (dominant and subdominant)."
+          },
+          {
+            "topic": "Elementary Composition",
+            "content": "(a) Setting of words to a given melody (b) Recognition of suitable answers to given phrases (balanced or contrasting musical phrases)."
+          }
+        ]
+      },
+      {
+        "section": "C",
+        "title": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+        "topics": [
+          {
+            "topic": "Nigerian Folksongs",
+            "content": "Types: cradle, folk tales, games, war, satirical, dirges/funeral, historical, praise, work song, etc. Forms: call and response, strophic, through composed, antiphony, etc. Characteristics: vocal styles (recitative, yodeling, whistling, nasalisation, ululation, incantation, heaving, etc.), scales/modes (tritonic, tetratonic, pentatonic, hexatonic, etc.), metre/rhythm (metric and non-metric, polymetric, cross rhythm, syncopation, hemiola, polyrhythm, etc.)."
+          },
+          {
+            "topic": "Nigerian Traditional Music and Arts",
+            "content": "General knowledge of features and forms. Festivals: e.g. Osun, Ifa, Ogun, Ekpo, Ofala, Iri ji (New Yam), Ovia Osese, Mmanwu (Masquerade), Argungu (Fishing), Eyo/Adamu Orisa, Gelede, etc. Dances and other arts: Social, Ritual and Ceremonial e.g. Masquerade, Koroso, Atilogwu, Ikperikpe (War dance), Egedeege, Kwaghir, Agbon, Nkwa Umuagbogho, Bata, Bori, Swange, Dundun, Kokoma, Abigbo, Okonko, etc."
+          },
+          {
+            "topic": "Nigerian Traditional Musical Instruments",
+            "content": "Classifications: (a) Aerophones (e.g. kakaki, algaita, sarewa, oja, etc.) (b) Chordophones (e.g. goge, goje, molo, garaya, etc.) (c) Idiophones (e.g. ogene, ekwe, agogo, agidigbo, etc.) (d) Membranophones (e.g. gangan, dundun, bata, etc.)."
+          },
+          {
+            "topic": "African Traditional Musicians",
+            "content": "Knowledge of lives and music of selected Nigerian and other African traditional musicians (e.g. Sani Sabulu, Mamman Shata, Ezigbo Obiligbo, Kokoro, Koo Nimo, etc.)."
+          },
+          {
+            "topic": "African Popular Music",
+            "content": "Evolution and development: Highlife, Juju, Afro beat, Fuji, Apala, Reggae, Makosa, Hip hop, etc. Lives and music of selected Nigerian and other African popular musicians (e.g. Victor Uwaifo, Fela Kuti, Ebenezer Obey, Oliver De Coque, E.T. Mensah, Lucky Dube, etc.)."
+          }
+        ]
+      },
+      {
+        "section": "D",
+        "title": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+        "topics": [
+          {
+            "topic": "African Art Musicians",
+            "content": "Knowledge of lives and music of selected Nigerian and other African art musicians (e.g. W.W.C. Echezona, Laz Ekwueme, Akin Euba, J.H. Kwabena Nketia, Ephraim Amu, etc.)."
+          },
+          {
+            "topic": "Historical Development of Western Music",
+            "content": "Periods: (i) Medieval/Middle Ages (800-1400) (ii) Renaissance (1400-1600) (iii) Baroque (1600-1750) (iv) Classical (1750-1820) (v) Romantic (1820-1900)."
+          },
+          {
+            "topic": "Western Composers",
+            "content": "Selected composers: Palestrina, Monteverdi, Purcell, J.S. Bach, Handel, Mozart, Haydn, Beethoven, Schubert, Chopin, etc."
+          },
+          {
+            "topic": "Music Forms and Media",
+            "content": "(i) Forms: Binary, Ternary, Rondo, Sonata Allegro, Dance Suite, Canon, Theme and Variation, etc. (ii) Orchestral and band instruments and classifications. (iii) Human voice (types, ranges, qualities). (iv) Keyboard instruments (organ, piano, electronic). (v) Other instruments: ukulele, banjo, guitar, mandolin, harp, accordion, xylophone, marimba, etc. (vi) Computer Music Technology: software (Finale, Sibelius, Cubase, etc.), tuning fork, pitch pipe."
+          }
+        ]
+      },
+      {
+        "section": "E",
+        "title": "COMPARATIVE MUSIC STUDIES",
+        "topics": [
+          {
+            "topic": "Black Musicians in the Diaspora",
+            "content": "Overview of selected black musicians/composers/performers (e.g. Mighty Sparrow, Bob Marley, Michael Jackson, James Brown, Whitney Houston, Beyonce, etc.)."
+          },
+          {
+            "topic": "Musical Forms/Genres",
+            "content": "Spiritual, gospel, jazz, rhythm and blues, soul, calypso, rock ‘n’ roll, reggae, afro beat, tango, rap, hip hop, etc."
+          },
+          {
+            "topic": "Nationalism in Nigerian Music",
+            "content": "The spirit of nationalism in Nigerian music: features, materials used by nationalist composers, roles in cultural and patriotic awareness."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "1. Importance of farm animals",
+      "section": "General",
+      "subtopic": "1. Importance of farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about 1. Importance of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "1. Importance of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "1. Importance of farm animals",
+      "section": "General",
+      "subtopic": "1. Importance of farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about 1. Importance of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "1. Importance of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "1. Importance of farm animals",
+      "section": "General",
+      "subtopic": "1. Importance of farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about 1. Importance of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "1. Importance of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "2. Classification of farm animals",
+      "section": "General",
+      "subtopic": "2. Classification of farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about 2. Classification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "2. Classification of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "2. Classification of farm animals",
+      "section": "General",
+      "subtopic": "2. Classification of farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about 2. Classification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "2. Classification of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "2. Classification of farm animals",
+      "section": "General",
+      "subtopic": "2. Classification of farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about 2. Classification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "2. Classification of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "3. Internal organs and their functions in farm animals",
+      "section": "General",
+      "subtopic": "3. Internal organs and their functions in farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about 3. Internal organs and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "3. Internal organs and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "3. Internal organs and their functions in farm animals",
+      "section": "General",
+      "subtopic": "3. Internal organs and their functions in farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about 3. Internal organs and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "3. Internal organs and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "3. Internal organs and their functions in farm animals",
+      "section": "General",
+      "subtopic": "3. Internal organs and their functions in farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about 3. Internal organs and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "3. Internal organs and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "4. Body systems and their functions in farm animals",
+      "section": "General",
+      "subtopic": "4. Body systems and their functions in farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about 4. Body systems and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "4. Body systems and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "4. Body systems and their functions in farm animals",
+      "section": "General",
+      "subtopic": "4. Body systems and their functions in farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about 4. Body systems and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "4. Body systems and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "4. Body systems and their functions in farm animals",
+      "section": "General",
+      "subtopic": "4. Body systems and their functions in farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about 4. Body systems and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "4. Body systems and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "5. Reproduction in farm animals",
+      "section": "General",
+      "subtopic": "5. Reproduction in farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about 5. Reproduction in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "5. Reproduction in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "5. Reproduction in farm animals",
+      "section": "General",
+      "subtopic": "5. Reproduction in farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about 5. Reproduction in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "5. Reproduction in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "5. Reproduction in farm animals",
+      "section": "General",
+      "subtopic": "5. Reproduction in farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about 5. Reproduction in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "5. Reproduction in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "6. Livestock management systems",
+      "section": "General",
+      "subtopic": "6. Livestock management systems",
+      "difficulty": "hard",
+      "question": "Which statement about 6. Livestock management systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "6. Livestock management systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "6. Livestock management systems",
+      "section": "General",
+      "subtopic": "6. Livestock management systems",
+      "difficulty": "easy",
+      "question": "Which statement about 6. Livestock management systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "6. Livestock management systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "6. Livestock management systems",
+      "section": "General",
+      "subtopic": "6. Livestock management systems",
+      "difficulty": "medium",
+      "question": "Which statement about 6. Livestock management systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "6. Livestock management systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "7. Management practices of livestock",
+      "section": "General",
+      "subtopic": "7. Management practices of livestock",
+      "difficulty": "easy",
+      "question": "Which statement about 7. Management practices of livestock is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "7. Management practices of livestock is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "7. Management practices of livestock",
+      "section": "General",
+      "subtopic": "7. Management practices of livestock",
+      "difficulty": "medium",
+      "question": "Which statement about 7. Management practices of livestock is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "7. Management practices of livestock is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "7. Management practices of livestock",
+      "section": "General",
+      "subtopic": "7. Management practices of livestock",
+      "difficulty": "hard",
+      "question": "Which statement about 7. Management practices of livestock is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "7. Management practices of livestock is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "1. Meaning and classes of animal feeds",
+      "section": "General",
+      "subtopic": "1. Meaning and classes of animal feeds",
+      "difficulty": "medium",
+      "question": "Which statement about 1. Meaning and classes of animal feeds is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "1. Meaning and classes of animal feeds is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "1. Meaning and classes of animal feeds",
+      "section": "General",
+      "subtopic": "1. Meaning and classes of animal feeds",
+      "difficulty": "hard",
+      "question": "Which statement about 1. Meaning and classes of animal feeds is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "1. Meaning and classes of animal feeds is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "1. Meaning and classes of animal feeds",
+      "section": "General",
+      "subtopic": "1. Meaning and classes of animal feeds",
+      "difficulty": "easy",
+      "question": "Which statement about 1. Meaning and classes of animal feeds is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "1. Meaning and classes of animal feeds is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "2. Animal feeds and feeding (a) Livestock rations",
+      "section": "General",
+      "subtopic": "2. Animal feeds and feeding (a) Livestock rations",
+      "difficulty": "hard",
+      "question": "Which statement about 2. Animal feeds and feeding (a) Livestock rations is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "2. Animal feeds and feeding (a) Livestock rations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "2. Animal feeds and feeding (a) Livestock rations",
+      "section": "General",
+      "subtopic": "2. Animal feeds and feeding (a) Livestock rations",
+      "difficulty": "easy",
+      "question": "Which statement about 2. Animal feeds and feeding (a) Livestock rations is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "2. Animal feeds and feeding (a) Livestock rations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "2. Animal feeds and feeding (a) Livestock rations",
+      "section": "General",
+      "subtopic": "2. Animal feeds and feeding (a) Livestock rations",
+      "difficulty": "medium",
+      "question": "Which statement about 2. Animal feeds and feeding (a) Livestock rations is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "2. Animal feeds and feeding (a) Livestock rations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "3. Formulation of livestock rations",
+      "section": "General",
+      "subtopic": "3. Formulation of livestock rations",
+      "difficulty": "easy",
+      "question": "Which statement about 3. Formulation of livestock rations is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "3. Formulation of livestock rations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "3. Formulation of livestock rations",
+      "section": "General",
+      "subtopic": "3. Formulation of livestock rations",
+      "difficulty": "medium",
+      "question": "Which statement about 3. Formulation of livestock rations is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "3. Formulation of livestock rations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "3. Formulation of livestock rations",
+      "section": "General",
+      "subtopic": "3. Formulation of livestock rations",
+      "difficulty": "hard",
+      "question": "Which statement about 3. Formulation of livestock rations is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "3. Formulation of livestock rations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "4. Processing and marketing of animal products",
+      "section": "General",
+      "subtopic": "4. Processing and marketing of animal products",
+      "difficulty": "medium",
+      "question": "Which statement about 4. Processing and marketing of animal products is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "4. Processing and marketing of animal products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "4. Processing and marketing of animal products",
+      "section": "General",
+      "subtopic": "4. Processing and marketing of animal products",
+      "difficulty": "hard",
+      "question": "Which statement about 4. Processing and marketing of animal products is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "4. Processing and marketing of animal products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "4. Processing and marketing of animal products",
+      "section": "General",
+      "subtopic": "4. Processing and marketing of animal products",
+      "difficulty": "easy",
+      "question": "Which statement about 4. Processing and marketing of animal products is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "4. Processing and marketing of animal products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "1. Pasture management",
+      "section": "General",
+      "subtopic": "1. Pasture management",
+      "difficulty": "hard",
+      "question": "Which statement about 1. Pasture management is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "1. Pasture management is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "1. Pasture management",
+      "section": "General",
+      "subtopic": "1. Pasture management",
+      "difficulty": "easy",
+      "question": "Which statement about 1. Pasture management is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "1. Pasture management is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "1. Pasture management",
+      "section": "General",
+      "subtopic": "1. Pasture management",
+      "difficulty": "medium",
+      "question": "Which statement about 1. Pasture management is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "1. Pasture management is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "2. Rangeland improvement",
+      "section": "General",
+      "subtopic": "2. Rangeland improvement",
+      "difficulty": "easy",
+      "question": "Which statement about 2. Rangeland improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "2. Rangeland improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "2. Rangeland improvement",
+      "section": "General",
+      "subtopic": "2. Rangeland improvement",
+      "difficulty": "medium",
+      "question": "Which statement about 2. Rangeland improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "2. Rangeland improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "2. Rangeland improvement",
+      "section": "General",
+      "subtopic": "2. Rangeland improvement",
+      "difficulty": "hard",
+      "question": "Which statement about 2. Rangeland improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "2. Rangeland improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "1. Animal improvement",
+      "section": "General",
+      "subtopic": "1. Animal improvement",
+      "difficulty": "medium",
+      "question": "Which statement about 1. Animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "1. Animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "1. Animal improvement",
+      "section": "General",
+      "subtopic": "1. Animal improvement",
+      "difficulty": "hard",
+      "question": "Which statement about 1. Animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "1. Animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "1. Animal improvement",
+      "section": "General",
+      "subtopic": "1. Animal improvement",
+      "difficulty": "easy",
+      "question": "Which statement about 1. Animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "1. Animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Methods of farm animal improvement",
+      "section": "General",
+      "subtopic": "Methods of farm animal improvement",
+      "difficulty": "hard",
+      "question": "Which statement about Methods of farm animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Methods of farm animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Methods of farm animal improvement",
+      "section": "General",
+      "subtopic": "Methods of farm animal improvement",
+      "difficulty": "easy",
+      "question": "Which statement about Methods of farm animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Methods of farm animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Methods of farm animal improvement",
+      "section": "General",
+      "subtopic": "Methods of farm animal improvement",
+      "difficulty": "medium",
+      "question": "Which statement about Methods of farm animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Methods of farm animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "2. Artificial insemination",
+      "section": "General",
+      "subtopic": "2. Artificial insemination",
+      "difficulty": "easy",
+      "question": "Which statement about 2. Artificial insemination is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "2. Artificial insemination is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "2. Artificial insemination",
+      "section": "General",
+      "subtopic": "2. Artificial insemination",
+      "difficulty": "medium",
+      "question": "Which statement about 2. Artificial insemination is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "2. Artificial insemination is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "2. Artificial insemination",
+      "section": "General",
+      "subtopic": "2. Artificial insemination",
+      "difficulty": "hard",
+      "question": "Which statement about 2. Artificial insemination is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "2. Artificial insemination is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "1. Farm animal diseases and pathogens",
+      "section": "General",
+      "subtopic": "1. Farm animal diseases and pathogens",
+      "difficulty": "medium",
+      "question": "Which statement about 1. Farm animal diseases and pathogens is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "1. Farm animal diseases and pathogens is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "1. Farm animal diseases and pathogens",
+      "section": "General",
+      "subtopic": "1. Farm animal diseases and pathogens",
+      "difficulty": "hard",
+      "question": "Which statement about 1. Farm animal diseases and pathogens is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "1. Farm animal diseases and pathogens is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "1. Farm animal diseases and pathogens",
+      "section": "General",
+      "subtopic": "1. Farm animal diseases and pathogens",
+      "difficulty": "easy",
+      "question": "Which statement about 1. Farm animal diseases and pathogens is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "1. Farm animal diseases and pathogens is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "2. Livestock parasites and pests",
+      "section": "General",
+      "subtopic": "2. Livestock parasites and pests",
+      "difficulty": "hard",
+      "question": "Which statement about 2. Livestock parasites and pests is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "2. Livestock parasites and pests is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "2. Livestock parasites and pests",
+      "section": "General",
+      "subtopic": "2. Livestock parasites and pests",
+      "difficulty": "easy",
+      "question": "Which statement about 2. Livestock parasites and pests is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "2. Livestock parasites and pests is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "2. Livestock parasites and pests",
+      "section": "General",
+      "subtopic": "2. Livestock parasites and pests",
+      "difficulty": "medium",
+      "question": "Which statement about 2. Livestock parasites and pests is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "2. Livestock parasites and pests is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Products and by-products of farm animals",
+      "section": "General",
+      "subtopic": "Products and by-products of farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about Products and by-products of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Products and by-products of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Products and by-products of farm animals",
+      "section": "General",
+      "subtopic": "Products and by-products of farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about Products and by-products of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Products and by-products of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Products and by-products of farm animals",
+      "section": "General",
+      "subtopic": "Products and by-products of farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about Products and by-products of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Products and by-products of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Identification of farm animals",
+      "section": "General",
+      "subtopic": "Identification of farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about Identification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Identification of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Identification of farm animals",
+      "section": "General",
+      "subtopic": "Identification of farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about Identification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Identification of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Identification of farm animals",
+      "section": "General",
+      "subtopic": "Identification of farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about Identification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Identification of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Internal organs and their functions in farm animals",
+      "section": "General",
+      "subtopic": "Internal organs and their functions in farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about Internal organs and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Internal organs and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Internal organs and their functions in farm animals",
+      "section": "General",
+      "subtopic": "Internal organs and their functions in farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about Internal organs and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Internal organs and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Internal organs and their functions in farm animals",
+      "section": "General",
+      "subtopic": "Internal organs and their functions in farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about Internal organs and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Internal organs and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "Tools and equipment used in management of farm animals",
+      "section": "General",
+      "subtopic": "Tools and equipment used in management of farm animals",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Micrometer",
+        "C": "Vernier caliper",
+        "D": "Steel rule"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 65,
+      "topic": "Tools and equipment used in management of farm animals",
+      "section": "General",
+      "subtopic": "Tools and equipment used in management of farm animals",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 66,
+      "topic": "Tools and equipment used in management of farm animals",
+      "section": "General",
+      "subtopic": "Tools and equipment used in management of farm animals",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Try square",
+        "C": "Vernier caliper",
+        "D": "Micrometer"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 67,
+      "topic": "Feeds and feedstuffs",
+      "section": "General",
+      "subtopic": "Feeds and feedstuffs",
+      "difficulty": "medium",
+      "question": "Which statement about Feeds and feedstuffs is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Feeds and feedstuffs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Feeds and feedstuffs",
+      "section": "General",
+      "subtopic": "Feeds and feedstuffs",
+      "difficulty": "hard",
+      "question": "Which statement about Feeds and feedstuffs is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Feeds and feedstuffs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Feeds and feedstuffs",
+      "section": "General",
+      "subtopic": "Feeds and feedstuffs",
+      "difficulty": "easy",
+      "question": "Which statement about Feeds and feedstuffs is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Feeds and feedstuffs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Pasture and forage crops",
+      "section": "General",
+      "subtopic": "Pasture and forage crops",
+      "difficulty": "hard",
+      "question": "Which statement about Pasture and forage crops is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Pasture and forage crops is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Pasture and forage crops",
+      "section": "General",
+      "subtopic": "Pasture and forage crops",
+      "difficulty": "easy",
+      "question": "Which statement about Pasture and forage crops is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Pasture and forage crops is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Pasture and forage crops",
+      "section": "General",
+      "subtopic": "Pasture and forage crops",
+      "difficulty": "medium",
+      "question": "Which statement about Pasture and forage crops is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Pasture and forage crops is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Artificial insemination",
+      "section": "General",
+      "subtopic": "Artificial insemination",
+      "difficulty": "easy",
+      "question": "Which statement about Artificial insemination is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Artificial insemination is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Artificial insemination",
+      "section": "General",
+      "subtopic": "Artificial insemination",
+      "difficulty": "medium",
+      "question": "Which statement about Artificial insemination is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Artificial insemination is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Artificial insemination",
+      "section": "General",
+      "subtopic": "Artificial insemination",
+      "difficulty": "hard",
+      "question": "Which statement about Artificial insemination is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Artificial insemination is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Pests and parasites of farm animals",
+      "section": "General",
+      "subtopic": "Pests and parasites of farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about Pests and parasites of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Pests and parasites of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Pests and parasites of farm animals",
+      "section": "General",
+      "subtopic": "Pests and parasites of farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about Pests and parasites of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Pests and parasites of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Pests and parasites of farm animals",
+      "section": "General",
+      "subtopic": "Pests and parasites of farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about Pests and parasites of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Pests and parasites of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Identification of farm animals",
+      "section": "General",
+      "subtopic": "Identification of farm animals",
+      "difficulty": "easy",
+      "question": "Which statement about Identification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Identification of farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "5. Reproduction in farm animals",
+      "section": "General",
+      "subtopic": "5. Reproduction in farm animals",
+      "difficulty": "hard",
+      "question": "Which statement about 5. Reproduction in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "5. Reproduction in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "1. Farm animal diseases and pathogens",
+      "section": "General",
+      "subtopic": "1. Farm animal diseases and pathogens",
+      "difficulty": "medium",
+      "question": "Which statement about 1. Farm animal diseases and pathogens is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "1. Farm animal diseases and pathogens is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "2. Rangeland improvement",
+      "section": "General",
+      "subtopic": "2. Rangeland improvement",
+      "difficulty": "easy",
+      "question": "Which statement about 2. Rangeland improvement is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "2. Rangeland improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "3. Formulation of livestock rations",
+      "section": "General",
+      "subtopic": "3. Formulation of livestock rations",
+      "difficulty": "hard",
+      "question": "Which statement about 3. Formulation of livestock rations is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "3. Formulation of livestock rations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Methods of farm animal improvement",
+      "section": "General",
+      "subtopic": "Methods of farm animal improvement",
+      "difficulty": "easy",
+      "question": "Which statement about Methods of farm animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Methods of farm animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "4. Processing and marketing of animal products",
+      "section": "General",
+      "subtopic": "4. Processing and marketing of animal products",
+      "difficulty": "medium",
+      "question": "Which statement about 4. Processing and marketing of animal products is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "4. Processing and marketing of animal products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "2. Livestock parasites and pests",
+      "section": "General",
+      "subtopic": "2. Livestock parasites and pests",
+      "difficulty": "easy",
+      "question": "Which statement about 2. Livestock parasites and pests is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "2. Livestock parasites and pests is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "1. Animal improvement",
+      "section": "General",
+      "subtopic": "1. Animal improvement",
+      "difficulty": "medium",
+      "question": "Which statement about 1. Animal improvement is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "1. Animal improvement is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "4. Body systems and their functions in farm animals",
+      "section": "General",
+      "subtopic": "4. Body systems and their functions in farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about 4. Body systems and their functions in farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "4. Body systems and their functions in farm animals is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "1. Meaning and classes of animal feeds",
+      "section": "General",
+      "subtopic": "1. Meaning and classes of animal feeds",
+      "difficulty": "easy",
+      "question": "Which statement about 1. Meaning and classes of animal feeds is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "1. Meaning and classes of animal feeds is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "2. Classification of farm animals",
+      "section": "General",
+      "subtopic": "2. Classification of farm animals",
+      "difficulty": "medium",
+      "question": "Which statement about 2. Classification of farm animals is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "2. Classification of farm animals is part of the technical/vocational syllabus."
+    }
+  ]
+}

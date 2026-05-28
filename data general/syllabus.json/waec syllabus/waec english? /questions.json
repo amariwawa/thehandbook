@@ -1,0 +1,4372 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "The Gambia",
+      "section": "For countries",
+      "subtopic": "The Gambia",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about The Gambia in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "The Gambia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "The Gambia",
+      "section": "For countries",
+      "subtopic": "The Gambia",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about The Gambia in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "The Gambia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "The Gambia",
+      "section": "For countries",
+      "subtopic": "The Gambia",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about The Gambia in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "The Gambia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "Nigeria",
+      "section": "For countries",
+      "subtopic": "Nigeria",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Nigeria in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Nigeria is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "Nigeria",
+      "section": "For countries",
+      "subtopic": "Nigeria",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Nigeria in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Nigeria is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "Nigeria",
+      "section": "For countries",
+      "subtopic": "Nigeria",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Nigeria in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Nigeria is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "Sierra Leone",
+      "section": "For countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Sierra Leone in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Sierra Leone is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "Sierra Leone",
+      "section": "For countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Sierra Leone in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Sierra Leone is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "Sierra Leone",
+      "section": "For countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Sierra Leone in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Sierra Leone is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "Liberia",
+      "section": "For countries",
+      "subtopic": "Liberia",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Liberia in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Liberia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "Liberia",
+      "section": "For countries",
+      "subtopic": "Liberia",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Liberia in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Liberia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "Liberia",
+      "section": "For countries",
+      "subtopic": "Liberia",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Liberia in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Liberia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "everyday usage",
+      "section": "Lexis",
+      "subtopic": "everyday usage",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about everyday usage in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "everyday usage is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "everyday usage",
+      "section": "Lexis",
+      "subtopic": "everyday usage",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about everyday usage in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "everyday usage is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "everyday usage",
+      "section": "Lexis",
+      "subtopic": "everyday usage",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about everyday usage in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "everyday usage is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Building and Building Construction",
+      "section": "General vocabulary fields",
+      "subtopic": "Building and Building Construction",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Building and Building Construction in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Building and Building Construction is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Building and Building Construction",
+      "section": "General vocabulary fields",
+      "subtopic": "Building and Building Construction",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Building and Building Construction in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Building and Building Construction is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Building and Building Construction",
+      "section": "General vocabulary fields",
+      "subtopic": "Building and Building Construction",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Building and Building Construction in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Building and Building Construction is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "Agriculture",
+      "section": "General vocabulary fields",
+      "subtopic": "Agriculture",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Agriculture in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Agriculture is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Agriculture",
+      "section": "General vocabulary fields",
+      "subtopic": "Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Agriculture in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Agriculture is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Agriculture",
+      "section": "General vocabulary fields",
+      "subtopic": "Agriculture",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Agriculture in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Agriculture is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Fishing",
+      "section": "General vocabulary fields",
+      "subtopic": "Fishing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Fishing in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Fishing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Fishing",
+      "section": "General vocabulary fields",
+      "subtopic": "Fishing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fishing in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Fishing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Fishing",
+      "section": "General vocabulary fields",
+      "subtopic": "Fishing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Fishing in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Fishing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Stock exchange",
+      "section": "General vocabulary fields",
+      "subtopic": "Stock exchange",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Stock exchange in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Stock exchange is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Stock exchange",
+      "section": "General vocabulary fields",
+      "subtopic": "Stock exchange",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Stock exchange in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Stock exchange is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Stock exchange",
+      "section": "General vocabulary fields",
+      "subtopic": "Stock exchange",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Stock exchange in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Stock exchange is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Health",
+      "section": "General vocabulary fields",
+      "subtopic": "Health",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Health in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Health is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Health",
+      "section": "General vocabulary fields",
+      "subtopic": "Health",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Health in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Health is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Health",
+      "section": "General vocabulary fields",
+      "subtopic": "Health",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Health in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Health is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Environment",
+      "section": "General vocabulary fields",
+      "subtopic": "Environment",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Environment in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Environment is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Environment",
+      "section": "General vocabulary fields",
+      "subtopic": "Environment",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Environment in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Environment is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Environment",
+      "section": "General vocabulary fields",
+      "subtopic": "Environment",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Environment in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Environment is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Culture, Institutions and Ceremonies",
+      "section": "General vocabulary fields",
+      "subtopic": "Culture, Institutions and Ceremonies",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Culture, Institutions and Ceremonies in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Culture, Institutions and Ceremonies is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Culture, Institutions and Ceremonies",
+      "section": "General vocabulary fields",
+      "subtopic": "Culture, Institutions and Ceremonies",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Culture, Institutions and Ceremonies in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Culture, Institutions and Ceremonies is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "Culture, Institutions and Ceremonies",
+      "section": "General vocabulary fields",
+      "subtopic": "Culture, Institutions and Ceremonies",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Culture, Institutions and Ceremonies in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Culture, Institutions and Ceremonies is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Law and Order",
+      "section": "General vocabulary fields",
+      "subtopic": "Law and Order",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Law and Order in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Law and Order is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Law and Order",
+      "section": "General vocabulary fields",
+      "subtopic": "Law and Order",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Law and Order in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Law and Order is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Law and Order",
+      "section": "General vocabulary fields",
+      "subtopic": "Law and Order",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Law and Order in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Law and Order is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Motor Vehicles and Travelling",
+      "section": "General vocabulary fields",
+      "subtopic": "Motor Vehicles and Travelling",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Motor Vehicles and Travelling in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Motor Vehicles and Travelling is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Motor Vehicles and Travelling",
+      "section": "General vocabulary fields",
+      "subtopic": "Motor Vehicles and Travelling",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Motor Vehicles and Travelling in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Motor Vehicles and Travelling is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Motor Vehicles and Travelling",
+      "section": "General vocabulary fields",
+      "subtopic": "Motor Vehicles and Travelling",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Motor Vehicles and Travelling in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Motor Vehicles and Travelling is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Government and Administration",
+      "section": "General vocabulary fields",
+      "subtopic": "Government and Administration",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Government and Administration in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Government and Administration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Government and Administration",
+      "section": "General vocabulary fields",
+      "subtopic": "Government and Administration",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Government and Administration in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Government and Administration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Government and Administration",
+      "section": "General vocabulary fields",
+      "subtopic": "Government and Administration",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Government and Administration in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Government and Administration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "Sports",
+      "section": "General vocabulary fields",
+      "subtopic": "Sports",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Sports in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Sports is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Sports",
+      "section": "General vocabulary fields",
+      "subtopic": "Sports",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Sports in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Sports is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Sports",
+      "section": "General vocabulary fields",
+      "subtopic": "Sports",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Sports in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Sports is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "Religion",
+      "section": "General vocabulary fields",
+      "subtopic": "Religion",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Religion in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Religion is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "Religion",
+      "section": "General vocabulary fields",
+      "subtopic": "Religion",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Religion in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Religion is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Religion",
+      "section": "General vocabulary fields",
+      "subtopic": "Religion",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Religion in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Religion is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Science and Technology",
+      "section": "General vocabulary fields",
+      "subtopic": "Science and Technology",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Science and Technology in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Science and Technology is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Science and Technology",
+      "section": "General vocabulary fields",
+      "subtopic": "Science and Technology",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Science and Technology in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Science and Technology is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Science and Technology",
+      "section": "General vocabulary fields",
+      "subtopic": "Science and Technology",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Science and Technology in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Science and Technology is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Animal husbandry",
+      "section": "General vocabulary fields",
+      "subtopic": "Animal husbandry",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Animal husbandry in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Animal husbandry is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Animal husbandry",
+      "section": "General vocabulary fields",
+      "subtopic": "Animal husbandry",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Animal husbandry in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Animal husbandry is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Animal husbandry",
+      "section": "General vocabulary fields",
+      "subtopic": "Animal husbandry",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Animal husbandry in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Animal husbandry is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Advertising",
+      "section": "General vocabulary fields",
+      "subtopic": "Advertising",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Advertising in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Advertising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Advertising",
+      "section": "General vocabulary fields",
+      "subtopic": "Advertising",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Advertising in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Advertising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Advertising",
+      "section": "General vocabulary fields",
+      "subtopic": "Advertising",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Advertising in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Advertising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Human Internal Body system and function",
+      "section": "General vocabulary fields",
+      "subtopic": "Human Internal Body system and function",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Human Internal Body system and function in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Human Internal Body system and function is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Human Internal Body system and function",
+      "section": "General vocabulary fields",
+      "subtopic": "Human Internal Body system and function",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Human Internal Body system and function in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Human Internal Body system and function is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Human Internal Body system and function",
+      "section": "General vocabulary fields",
+      "subtopic": "Human Internal Body system and function",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Human Internal Body system and function in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Human Internal Body system and function is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "idioms",
+      "section": "Lexis",
+      "subtopic": "idioms",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about idioms in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "idioms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "idioms",
+      "section": "Lexis",
+      "subtopic": "idioms",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about idioms in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "idioms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "idioms",
+      "section": "Lexis",
+      "subtopic": "idioms",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about idioms in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "idioms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "structural elements",
+      "section": "Lexis",
+      "subtopic": "structural elements",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about structural elements in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "structural elements is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "structural elements",
+      "section": "Lexis",
+      "subtopic": "structural elements",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about structural elements in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "structural elements is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "structural elements",
+      "section": "Lexis",
+      "subtopic": "structural elements",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about structural elements in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "structural elements is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "figurative usage",
+      "section": "Lexis",
+      "subtopic": "figurative usage",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about figurative usage in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "figurative usage is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "figurative usage",
+      "section": "Lexis",
+      "subtopic": "figurative usage",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about figurative usage in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "figurative usage is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "figurative usage",
+      "section": "Lexis",
+      "subtopic": "figurative usage",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about figurative usage in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "figurative usage is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "sense relations",
+      "section": "Lexis",
+      "subtopic": "sense relations",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about sense relations in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "sense relations is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "sense relations",
+      "section": "Lexis",
+      "subtopic": "sense relations",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about sense relations in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "sense relations is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "sense relations",
+      "section": "Lexis",
+      "subtopic": "sense relations",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about sense relations in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "sense relations is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Patterns of changes in word-forms which indicate number, tense, degree, etc.",
+      "section": "Includes",
+      "subtopic": "Patterns of changes in word-forms which indicate number, tense, degree, etc.",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Personal pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Relative pronoun"
+      },
+      "answer": "D",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 77,
+      "topic": "Patterns of changes in word-forms which indicate number, tense, degree, etc.",
+      "section": "Includes",
+      "subtopic": "Patterns of changes in word-forms which indicate number, tense, degree, etc.",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Personal pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "A",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 78,
+      "topic": "Patterns of changes in word-forms which indicate number, tense, degree, etc.",
+      "section": "Includes",
+      "subtopic": "Patterns of changes in word-forms which indicate number, tense, degree, etc.",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Personal pronoun",
+        "B": "Relative pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "B",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 79,
+      "topic": "Patterns in which different categories of words regularly combine to form groups and sentences.",
+      "section": "Includes",
+      "subtopic": "Patterns in which different categories of words regularly combine to form groups and sentences.",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Personal pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "A",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 80,
+      "topic": "Patterns in which different categories of words regularly combine to form groups and sentences.",
+      "section": "Includes",
+      "subtopic": "Patterns in which different categories of words regularly combine to form groups and sentences.",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Demonstrative pronoun",
+        "B": "Relative pronoun",
+        "C": "Reflexive pronoun",
+        "D": "Personal pronoun"
+      },
+      "answer": "B",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 81,
+      "topic": "Patterns in which different categories of words regularly combine to form groups and sentences.",
+      "section": "Includes",
+      "subtopic": "Patterns in which different categories of words regularly combine to form groups and sentences.",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Demonstrative pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Relative pronoun",
+        "D": "Personal pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 82,
+      "topic": "Use of structural words e.g. conjunctions, determiners, prepositions, etc.",
+      "section": "Includes",
+      "subtopic": "Use of structural words e.g. conjunctions, determiners, prepositions, etc.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Use of structural words e.g. conjunctions, determiners, prepositions, etc. in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Use of structural words e.g. conjunctions, determiners, prepositions, etc. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Use of structural words e.g. conjunctions, determiners, prepositions, etc.",
+      "section": "Includes",
+      "subtopic": "Use of structural words e.g. conjunctions, determiners, prepositions, etc.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Use of structural words e.g. conjunctions, determiners, prepositions, etc. in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Use of structural words e.g. conjunctions, determiners, prepositions, etc. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Use of structural words e.g. conjunctions, determiners, prepositions, etc.",
+      "section": "Includes",
+      "subtopic": "Use of structural words e.g. conjunctions, determiners, prepositions, etc.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Use of structural words e.g. conjunctions, determiners, prepositions, etc. in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Use of structural words e.g. conjunctions, determiners, prepositions, etc. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Building",
+      "section": "Lexis fields",
+      "subtopic": "Building",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Building in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Building is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Building",
+      "section": "Lexis fields",
+      "subtopic": "Building",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Building in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Building is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "Building",
+      "section": "Lexis fields",
+      "subtopic": "Building",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Building in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Building is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Plumbing",
+      "section": "Lexis fields",
+      "subtopic": "Plumbing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Plumbing in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Plumbing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "Plumbing",
+      "section": "Lexis fields",
+      "subtopic": "Plumbing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Plumbing in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Plumbing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "Plumbing",
+      "section": "Lexis fields",
+      "subtopic": "Plumbing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Plumbing in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Plumbing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 91,
+      "topic": "Fishing",
+      "section": "Lexis fields",
+      "subtopic": "Fishing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Fishing in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Fishing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 92,
+      "topic": "Fishing",
+      "section": "Lexis fields",
+      "subtopic": "Fishing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Fishing in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Fishing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 93,
+      "topic": "Fishing",
+      "section": "Lexis fields",
+      "subtopic": "Fishing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fishing in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Fishing is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 94,
+      "topic": "Finance – commerce, banking, stock exchange, insurance",
+      "section": "Lexis fields",
+      "subtopic": "Finance – commerce, banking, stock exchange, insurance",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Finance – commerce, banking, stock exchange, insurance in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Finance – commerce, banking, stock exchange, insurance is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 95,
+      "topic": "Finance – commerce, banking, stock exchange, insurance",
+      "section": "Lexis fields",
+      "subtopic": "Finance – commerce, banking, stock exchange, insurance",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Finance – commerce, banking, stock exchange, insurance in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Finance – commerce, banking, stock exchange, insurance is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 96,
+      "topic": "Finance – commerce, banking, stock exchange, insurance",
+      "section": "Lexis fields",
+      "subtopic": "Finance – commerce, banking, stock exchange, insurance",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Finance – commerce, banking, stock exchange, insurance in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Finance – commerce, banking, stock exchange, insurance is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 97,
+      "topic": "Photography",
+      "section": "Lexis fields",
+      "subtopic": "Photography",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Photography in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Photography is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 98,
+      "topic": "Photography",
+      "section": "Lexis fields",
+      "subtopic": "Photography",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Photography in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Photography is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 99,
+      "topic": "Photography",
+      "section": "Lexis fields",
+      "subtopic": "Photography",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Photography in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Photography is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 100,
+      "topic": "Mineral exploration",
+      "section": "Lexis fields",
+      "subtopic": "Mineral exploration",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Mineral exploration in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Mineral exploration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 101,
+      "topic": "Mineral exploration",
+      "section": "Lexis fields",
+      "subtopic": "Mineral exploration",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Mineral exploration in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Mineral exploration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 102,
+      "topic": "Mineral exploration",
+      "section": "Lexis fields",
+      "subtopic": "Mineral exploration",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Mineral exploration in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Mineral exploration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 103,
+      "topic": "Common manufacturing industries",
+      "section": "Lexis fields",
+      "subtopic": "Common manufacturing industries",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Common manufacturing industries in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Common manufacturing industries is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 104,
+      "topic": "Common manufacturing industries",
+      "section": "Lexis fields",
+      "subtopic": "Common manufacturing industries",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Common manufacturing industries in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Common manufacturing industries is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 105,
+      "topic": "Common manufacturing industries",
+      "section": "Lexis fields",
+      "subtopic": "Common manufacturing industries",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Common manufacturing industries in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Common manufacturing industries is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 106,
+      "topic": "Printing, publishing, the press and libraries",
+      "section": "Lexis fields",
+      "subtopic": "Printing, publishing, the press and libraries",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Printing, publishing, the press and libraries in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Printing, publishing, the press and libraries is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 107,
+      "topic": "Printing, publishing, the press and libraries",
+      "section": "Lexis fields",
+      "subtopic": "Printing, publishing, the press and libraries",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Printing, publishing, the press and libraries in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Printing, publishing, the press and libraries is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 108,
+      "topic": "Printing, publishing, the press and libraries",
+      "section": "Lexis fields",
+      "subtopic": "Printing, publishing, the press and libraries",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Printing, publishing, the press and libraries in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Printing, publishing, the press and libraries is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 109,
+      "topic": "Sea, road, rail and air transport",
+      "section": "Lexis fields",
+      "subtopic": "Sea, road, rail and air transport",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Sea, road, rail and air transport in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Sea, road, rail and air transport is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 110,
+      "topic": "Sea, road, rail and air transport",
+      "section": "Lexis fields",
+      "subtopic": "Sea, road, rail and air transport",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Sea, road, rail and air transport in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Sea, road, rail and air transport is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 111,
+      "topic": "Sea, road, rail and air transport",
+      "section": "Lexis fields",
+      "subtopic": "Sea, road, rail and air transport",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Sea, road, rail and air transport in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Sea, road, rail and air transport is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 112,
+      "topic": "Government and politics",
+      "section": "Lexis fields",
+      "subtopic": "Government and politics",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Government and politics in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Government and politics is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 113,
+      "topic": "Government and politics",
+      "section": "Lexis fields",
+      "subtopic": "Government and politics",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Government and politics in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Government and politics is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 114,
+      "topic": "Government and politics",
+      "section": "Lexis fields",
+      "subtopic": "Government and politics",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Government and politics in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Government and politics is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 115,
+      "topic": "Sports and entertainment",
+      "section": "Lexis fields",
+      "subtopic": "Sports and entertainment",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Sports and entertainment in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Sports and entertainment is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 116,
+      "topic": "Sports and entertainment",
+      "section": "Lexis fields",
+      "subtopic": "Sports and entertainment",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Sports and entertainment in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Sports and entertainment is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 117,
+      "topic": "Sports and entertainment",
+      "section": "Lexis fields",
+      "subtopic": "Sports and entertainment",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Sports and entertainment in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Sports and entertainment is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 118,
+      "topic": "Religion",
+      "section": "Lexis fields",
+      "subtopic": "Religion",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Religion in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Religion is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 119,
+      "topic": "Religion",
+      "section": "Lexis fields",
+      "subtopic": "Religion",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Religion in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Religion is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 120,
+      "topic": "Religion",
+      "section": "Lexis fields",
+      "subtopic": "Religion",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Religion in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Religion is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 121,
+      "topic": "Science and Technology",
+      "section": "Lexis fields",
+      "subtopic": "Science and Technology",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Science and Technology in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Science and Technology is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 122,
+      "topic": "Science and Technology",
+      "section": "Lexis fields",
+      "subtopic": "Science and Technology",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Science and Technology in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Science and Technology is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 123,
+      "topic": "Science and Technology",
+      "section": "Lexis fields",
+      "subtopic": "Science and Technology",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Science and Technology in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Science and Technology is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 124,
+      "topic": "Power production – hydro, thermal, solar",
+      "section": "Lexis fields",
+      "subtopic": "Power production – hydro, thermal, solar",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Power production – hydro, thermal, solar in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Power production – hydro, thermal, solar is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 125,
+      "topic": "Power production – hydro, thermal, solar",
+      "section": "Lexis fields",
+      "subtopic": "Power production – hydro, thermal, solar",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Power production – hydro, thermal, solar in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Power production – hydro, thermal, solar is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 126,
+      "topic": "Power production – hydro, thermal, solar",
+      "section": "Lexis fields",
+      "subtopic": "Power production – hydro, thermal, solar",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Power production – hydro, thermal, solar in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Power production – hydro, thermal, solar is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 127,
+      "topic": "Education",
+      "section": "Lexis fields",
+      "subtopic": "Education",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Education in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Education is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 128,
+      "topic": "Education",
+      "section": "Lexis fields",
+      "subtopic": "Education",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Education in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Education is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 129,
+      "topic": "Education",
+      "section": "Lexis fields",
+      "subtopic": "Education",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Education in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Education is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 130,
+      "topic": "Communication",
+      "section": "Lexis fields",
+      "subtopic": "Communication",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Communication in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Communication is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 131,
+      "topic": "Communication",
+      "section": "Lexis fields",
+      "subtopic": "Communication",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Communication in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Communication is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 132,
+      "topic": "Communication",
+      "section": "Lexis fields",
+      "subtopic": "Communication",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Communication in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Communication is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 133,
+      "topic": "Military",
+      "section": "Lexis fields",
+      "subtopic": "Military",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Military in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Military is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 134,
+      "topic": "Military",
+      "section": "Lexis fields",
+      "subtopic": "Military",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Military in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Military is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 135,
+      "topic": "Military",
+      "section": "Lexis fields",
+      "subtopic": "Military",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Military in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Military is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 136,
+      "topic": "Journalism and Advertising",
+      "section": "Lexis fields",
+      "subtopic": "Journalism and Advertising",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Journalism and Advertising in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Journalism and Advertising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 137,
+      "topic": "Journalism and Advertising",
+      "section": "Lexis fields",
+      "subtopic": "Journalism and Advertising",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Journalism and Advertising in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Journalism and Advertising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 138,
+      "topic": "Journalism and Advertising",
+      "section": "Lexis fields",
+      "subtopic": "Journalism and Advertising",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Journalism and Advertising in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Journalism and Advertising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 139,
+      "topic": "questions",
+      "section": "Section a essay",
+      "subtopic": "questions",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about questions in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "questions is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 140,
+      "topic": "questions",
+      "section": "Section a essay",
+      "subtopic": "questions",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about questions in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "questions is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 141,
+      "topic": "questions",
+      "section": "Section a essay",
+      "subtopic": "questions",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about questions in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "questions is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 142,
+      "topic": "Letter",
+      "section": "Types of writing",
+      "subtopic": "Letter",
+      "difficulty": "hard",
+      "question": "An essay that tells a story is called:",
+      "options": {
+        "A": "Descriptive essay",
+        "B": "Expository essay",
+        "C": "Narrative essay",
+        "D": "Argumentative essay"
+      },
+      "answer": "C",
+      "explanation": "A narrative essay tells a story with a plot, characters, setting, and often a chronological sequence of events."
+    },
+    {
+      "id": 143,
+      "topic": "Letter",
+      "section": "Types of writing",
+      "subtopic": "Letter",
+      "difficulty": "easy",
+      "question": "An essay that tells a story is called:",
+      "options": {
+        "A": "Argumentative essay",
+        "B": "Descriptive essay",
+        "C": "Narrative essay",
+        "D": "Expository essay"
+      },
+      "answer": "C",
+      "explanation": "A narrative essay tells a story with a plot, characters, setting, and often a chronological sequence of events."
+    },
+    {
+      "id": 144,
+      "topic": "Letter",
+      "section": "Types of writing",
+      "subtopic": "Letter",
+      "difficulty": "medium",
+      "question": "An essay that tells a story is called:",
+      "options": {
+        "A": "Expository essay",
+        "B": "Descriptive essay",
+        "C": "Argumentative essay",
+        "D": "Narrative essay"
+      },
+      "answer": "D",
+      "explanation": "A narrative essay tells a story with a plot, characters, setting, and often a chronological sequence of events."
+    },
+    {
+      "id": 145,
+      "topic": "Speech",
+      "section": "Types of writing",
+      "subtopic": "Speech",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Speech in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Speech is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 146,
+      "topic": "Speech",
+      "section": "Types of writing",
+      "subtopic": "Speech",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Speech in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Speech is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 147,
+      "topic": "Speech",
+      "section": "Types of writing",
+      "subtopic": "Speech",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Speech in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Speech is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 148,
+      "topic": "Narration",
+      "section": "Types of writing",
+      "subtopic": "Narration",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Narration in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Narration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 149,
+      "topic": "Narration",
+      "section": "Types of writing",
+      "subtopic": "Narration",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Narration in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Narration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 150,
+      "topic": "Narration",
+      "section": "Types of writing",
+      "subtopic": "Narration",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Narration in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Narration is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 151,
+      "topic": "Argument/Debate",
+      "section": "Types of writing",
+      "subtopic": "Argument/Debate",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Argument/Debate in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Argument/Debate is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 152,
+      "topic": "Argument/Debate",
+      "section": "Types of writing",
+      "subtopic": "Argument/Debate",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Argument/Debate in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Argument/Debate is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 153,
+      "topic": "Argument/Debate",
+      "section": "Types of writing",
+      "subtopic": "Argument/Debate",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Argument/Debate in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Argument/Debate is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 154,
+      "topic": "Report",
+      "section": "Types of writing",
+      "subtopic": "Report",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Report in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Report is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 155,
+      "topic": "Report",
+      "section": "Types of writing",
+      "subtopic": "Report",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Report in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Report is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 156,
+      "topic": "Report",
+      "section": "Types of writing",
+      "subtopic": "Report",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Report in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Report is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 157,
+      "topic": "Article",
+      "section": "Types of writing",
+      "subtopic": "Article",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Article in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Article is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 158,
+      "topic": "Article",
+      "section": "Types of writing",
+      "subtopic": "Article",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Article in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Article is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 159,
+      "topic": "Article",
+      "section": "Types of writing",
+      "subtopic": "Article",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Article in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Article is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 160,
+      "topic": "Exposition",
+      "section": "Types of writing",
+      "subtopic": "Exposition",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Exposition in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Exposition is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 161,
+      "topic": "Exposition",
+      "section": "Types of writing",
+      "subtopic": "Exposition",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Exposition in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Exposition is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 162,
+      "topic": "Exposition",
+      "section": "Types of writing",
+      "subtopic": "Exposition",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Exposition in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Exposition is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 163,
+      "topic": "Creative writing",
+      "section": "Types of writing",
+      "subtopic": "Creative writing",
+      "difficulty": "easy",
+      "question": "An essay that tells a story is called:",
+      "options": {
+        "A": "Narrative essay",
+        "B": "Descriptive essay",
+        "C": "Argumentative essay",
+        "D": "Expository essay"
+      },
+      "answer": "A",
+      "explanation": "A narrative essay tells a story with a plot, characters, setting, and often a chronological sequence of events."
+    },
+    {
+      "id": 164,
+      "topic": "Creative writing",
+      "section": "Types of writing",
+      "subtopic": "Creative writing",
+      "difficulty": "medium",
+      "question": "An essay that tells a story is called:",
+      "options": {
+        "A": "Descriptive essay",
+        "B": "Argumentative essay",
+        "C": "Narrative essay",
+        "D": "Expository essay"
+      },
+      "answer": "C",
+      "explanation": "A narrative essay tells a story with a plot, characters, setting, and often a chronological sequence of events."
+    },
+    {
+      "id": 165,
+      "topic": "Creative writing",
+      "section": "Types of writing",
+      "subtopic": "Creative writing",
+      "difficulty": "hard",
+      "question": "An essay that tells a story is called:",
+      "options": {
+        "A": "Narrative essay",
+        "B": "Descriptive essay",
+        "C": "Expository essay",
+        "D": "Argumentative essay"
+      },
+      "answer": "A",
+      "explanation": "A narrative essay tells a story with a plot, characters, setting, and often a chronological sequence of events."
+    },
+    {
+      "id": 166,
+      "topic": "Content: relevance of ideas to the topic",
+      "section": "Assessment criteria",
+      "subtopic": "Content: relevance of ideas to the topic",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Content: relevance of ideas to the topic in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Content: relevance of ideas to the topic is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 167,
+      "topic": "Content: relevance of ideas to the topic",
+      "section": "Assessment criteria",
+      "subtopic": "Content: relevance of ideas to the topic",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Content: relevance of ideas to the topic in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Content: relevance of ideas to the topic is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 168,
+      "topic": "Content: relevance of ideas to the topic",
+      "section": "Assessment criteria",
+      "subtopic": "Content: relevance of ideas to the topic",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Content: relevance of ideas to the topic in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Content: relevance of ideas to the topic is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 169,
+      "topic": "Organization: formal features, paragraphing, emphasis and arrangement of ideas",
+      "section": "Assessment criteria",
+      "subtopic": "Organization: formal features, paragraphing, emphasis and arrangement of ideas",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Organization: formal features, paragraphing, emphasis and arrangement of ideas in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Organization: formal features, paragraphing, emphasis and arrangement of ideas is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 170,
+      "topic": "Organization: formal features, paragraphing, emphasis and arrangement of ideas",
+      "section": "Assessment criteria",
+      "subtopic": "Organization: formal features, paragraphing, emphasis and arrangement of ideas",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Organization: formal features, paragraphing, emphasis and arrangement of ideas in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Organization: formal features, paragraphing, emphasis and arrangement of ideas is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 171,
+      "topic": "Organization: formal features, paragraphing, emphasis and arrangement of ideas",
+      "section": "Assessment criteria",
+      "subtopic": "Organization: formal features, paragraphing, emphasis and arrangement of ideas",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Organization: formal features, paragraphing, emphasis and arrangement of ideas in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Organization: formal features, paragraphing, emphasis and arrangement of ideas is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 172,
+      "topic": "Expression: effective control of vocabulary and sentence structure",
+      "section": "Assessment criteria",
+      "subtopic": "Expression: effective control of vocabulary and sentence structure",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Personal pronoun",
+        "B": "Demonstrative pronoun",
+        "C": "Relative pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 173,
+      "topic": "Expression: effective control of vocabulary and sentence structure",
+      "section": "Assessment criteria",
+      "subtopic": "Expression: effective control of vocabulary and sentence structure",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Personal pronoun",
+        "C": "Reflexive pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "A",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 174,
+      "topic": "Expression: effective control of vocabulary and sentence structure",
+      "section": "Assessment criteria",
+      "subtopic": "Expression: effective control of vocabulary and sentence structure",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Personal pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "A",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 175,
+      "topic": "Mechanical Accuracy: grammar, punctuation, spelling",
+      "section": "Assessment criteria",
+      "subtopic": "Mechanical Accuracy: grammar, punctuation, spelling",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Personal pronoun",
+        "C": "Relative pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 176,
+      "topic": "Mechanical Accuracy: grammar, punctuation, spelling",
+      "section": "Assessment criteria",
+      "subtopic": "Mechanical Accuracy: grammar, punctuation, spelling",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Demonstrative pronoun",
+        "B": "Relative pronoun",
+        "C": "Personal pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "B",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 177,
+      "topic": "Mechanical Accuracy: grammar, punctuation, spelling",
+      "section": "Assessment criteria",
+      "subtopic": "Mechanical Accuracy: grammar, punctuation, spelling",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Personal pronoun",
+        "B": "Relative pronoun",
+        "C": "Reflexive pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "B",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 178,
+      "topic": "passage length",
+      "section": "Section b comprehension",
+      "subtopic": "passage length",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A grammatical error",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A direct quotation"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 179,
+      "topic": "passage length",
+      "section": "Section b comprehension",
+      "subtopic": "passage length",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A direct quotation",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "The main title"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 180,
+      "topic": "passage length",
+      "section": "Section b comprehension",
+      "subtopic": "passage length",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A direct quotation",
+        "C": "The main title",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 181,
+      "topic": "Find appropriate equivalents for selected words or phrases",
+      "section": "Skills tested",
+      "subtopic": "Find appropriate equivalents for selected words or phrases",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Personal pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "A",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 182,
+      "topic": "Find appropriate equivalents for selected words or phrases",
+      "section": "Skills tested",
+      "subtopic": "Find appropriate equivalents for selected words or phrases",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Demonstrative pronoun",
+        "C": "Relative pronoun",
+        "D": "Personal pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 183,
+      "topic": "Find appropriate equivalents for selected words or phrases",
+      "section": "Skills tested",
+      "subtopic": "Find appropriate equivalents for selected words or phrases",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Personal pronoun",
+        "B": "Demonstrative pronoun",
+        "C": "Relative pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 184,
+      "topic": "Understand factual content",
+      "section": "Skills tested",
+      "subtopic": "Understand factual content",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Understand factual content in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Understand factual content is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 185,
+      "topic": "Understand factual content",
+      "section": "Skills tested",
+      "subtopic": "Understand factual content",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Understand factual content in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Understand factual content is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 186,
+      "topic": "Understand factual content",
+      "section": "Skills tested",
+      "subtopic": "Understand factual content",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Understand factual content in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Understand factual content is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 187,
+      "topic": "Make inferences",
+      "section": "Skills tested",
+      "subtopic": "Make inferences",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "The main title",
+        "C": "A direct quotation",
+        "D": "A grammatical error"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 188,
+      "topic": "Make inferences",
+      "section": "Skills tested",
+      "subtopic": "Make inferences",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A grammatical error",
+        "C": "The main title",
+        "D": "A direct quotation"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 189,
+      "topic": "Make inferences",
+      "section": "Skills tested",
+      "subtopic": "Make inferences",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A grammatical error",
+        "D": "A direct quotation"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 190,
+      "topic": "Understand expressions revealing sentiments/emotions/attitudes",
+      "section": "Skills tested",
+      "subtopic": "Understand expressions revealing sentiments/emotions/attitudes",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Understand expressions revealing sentiments/emotions/attitudes in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Understand expressions revealing sentiments/emotions/attitudes is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 191,
+      "topic": "Understand expressions revealing sentiments/emotions/attitudes",
+      "section": "Skills tested",
+      "subtopic": "Understand expressions revealing sentiments/emotions/attitudes",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Understand expressions revealing sentiments/emotions/attitudes in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Understand expressions revealing sentiments/emotions/attitudes is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 192,
+      "topic": "Understand expressions revealing sentiments/emotions/attitudes",
+      "section": "Skills tested",
+      "subtopic": "Understand expressions revealing sentiments/emotions/attitudes",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Understand expressions revealing sentiments/emotions/attitudes in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Understand expressions revealing sentiments/emotions/attitudes is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 193,
+      "topic": "Identify and label grammatical structures and explain functions",
+      "section": "Skills tested",
+      "subtopic": "Identify and label grammatical structures and explain functions",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Identify and label grammatical structures and explain functions in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Identify and label grammatical structures and explain functions is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 194,
+      "topic": "Identify and label grammatical structures and explain functions",
+      "section": "Skills tested",
+      "subtopic": "Identify and label grammatical structures and explain functions",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Identify and label grammatical structures and explain functions in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Identify and label grammatical structures and explain functions is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 195,
+      "topic": "Identify and label grammatical structures and explain functions",
+      "section": "Skills tested",
+      "subtopic": "Identify and label grammatical structures and explain functions",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Identify and label grammatical structures and explain functions in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Identify and label grammatical structures and explain functions is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 196,
+      "topic": "Identify and explain basic literary terms",
+      "section": "Skills tested",
+      "subtopic": "Identify and explain basic literary terms",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Identify and explain basic literary terms in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Identify and explain basic literary terms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 197,
+      "topic": "Identify and explain basic literary terms",
+      "section": "Skills tested",
+      "subtopic": "Identify and explain basic literary terms",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Identify and explain basic literary terms in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Identify and explain basic literary terms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 198,
+      "topic": "Identify and explain basic literary terms",
+      "section": "Skills tested",
+      "subtopic": "Identify and explain basic literary terms",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Identify and explain basic literary terms in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Identify and explain basic literary terms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 199,
+      "topic": "Recast phrases or sentences into grammatical alternatives",
+      "section": "Skills tested",
+      "subtopic": "Recast phrases or sentences into grammatical alternatives",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Demonstrative pronoun",
+        "C": "Personal pronoun",
+        "D": "Relative pronoun"
+      },
+      "answer": "D",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 200,
+      "topic": "Recast phrases or sentences into grammatical alternatives",
+      "section": "Skills tested",
+      "subtopic": "Recast phrases or sentences into grammatical alternatives",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Demonstrative pronoun",
+        "B": "Personal pronoun",
+        "C": "Relative pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 201,
+      "topic": "Recast phrases or sentences into grammatical alternatives",
+      "section": "Skills tested",
+      "subtopic": "Recast phrases or sentences into grammatical alternatives",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Demonstrative pronoun",
+        "C": "Relative pronoun",
+        "D": "Personal pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 202,
+      "topic": "passage length",
+      "section": "Section c summary",
+      "subtopic": "passage length",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A grammatical error",
+        "D": "A direct quotation"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 203,
+      "topic": "passage length",
+      "section": "Section c summary",
+      "subtopic": "passage length",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A direct quotation",
+        "C": "A grammatical error",
+        "D": "The main title"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 204,
+      "topic": "passage length",
+      "section": "Section c summary",
+      "subtopic": "passage length",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "A grammatical error"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 205,
+      "topic": "Extract relevant information",
+      "section": "Skills tested",
+      "subtopic": "Extract relevant information",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Extract relevant information in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "Extract relevant information is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 206,
+      "topic": "Extract relevant information",
+      "section": "Skills tested",
+      "subtopic": "Extract relevant information",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Extract relevant information in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Extract relevant information is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 207,
+      "topic": "Extract relevant information",
+      "section": "Skills tested",
+      "subtopic": "Extract relevant information",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Extract relevant information in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Extract relevant information is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 208,
+      "topic": "Summarize points in clear, concise English avoiding repetition",
+      "section": "Skills tested",
+      "subtopic": "Summarize points in clear, concise English avoiding repetition",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Summarize points in clear, concise English avoiding repetition in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Summarize points in clear, concise English avoiding repetition is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 209,
+      "topic": "Summarize points in clear, concise English avoiding repetition",
+      "section": "Skills tested",
+      "subtopic": "Summarize points in clear, concise English avoiding repetition",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Summarize points in clear, concise English avoiding repetition in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Summarize points in clear, concise English avoiding repetition is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 210,
+      "topic": "Summarize points in clear, concise English avoiding repetition",
+      "section": "Skills tested",
+      "subtopic": "Summarize points in clear, concise English avoiding repetition",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Summarize points in clear, concise English avoiding repetition in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Summarize points in clear, concise English avoiding repetition is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 211,
+      "topic": "Present summary of specific aspects",
+      "section": "Skills tested",
+      "subtopic": "Present summary of specific aspects",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A grammatical error",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A direct quotation"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 212,
+      "topic": "Present summary of specific aspects",
+      "section": "Skills tested",
+      "subtopic": "Present summary of specific aspects",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "The main title",
+        "C": "A direct quotation",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 213,
+      "topic": "Present summary of specific aspects",
+      "section": "Skills tested",
+      "subtopic": "Present summary of specific aspects",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 214,
+      "topic": "The Gambia",
+      "section": "Countries",
+      "subtopic": "The Gambia",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about The Gambia in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "The Gambia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 215,
+      "topic": "The Gambia",
+      "section": "Countries",
+      "subtopic": "The Gambia",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about The Gambia in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "The Gambia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 216,
+      "topic": "The Gambia",
+      "section": "Countries",
+      "subtopic": "The Gambia",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about The Gambia in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "The Gambia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 217,
+      "topic": "Sierra Leone",
+      "section": "Countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Sierra Leone in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Sierra Leone is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 218,
+      "topic": "Sierra Leone",
+      "section": "Countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Sierra Leone in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Sierra Leone is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 219,
+      "topic": "Sierra Leone",
+      "section": "Countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Sierra Leone in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Sierra Leone is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 220,
+      "topic": "Section 1: Word final voiced/voiceless consonants and clusters",
+      "section": "Listening comprehension",
+      "subtopic": "Section 1: Word final voiced/voiceless consonants and clusters",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Relative pronoun",
+        "C": "Personal pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "B",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 221,
+      "topic": "Section 1: Word final voiced/voiceless consonants and clusters",
+      "section": "Listening comprehension",
+      "subtopic": "Section 1: Word final voiced/voiceless consonants and clusters",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Personal pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Relative pronoun"
+      },
+      "answer": "D",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 222,
+      "topic": "Section 1: Word final voiced/voiceless consonants and clusters",
+      "section": "Listening comprehension",
+      "subtopic": "Section 1: Word final voiced/voiceless consonants and clusters",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Personal pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "A",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 223,
+      "topic": "Section 2: Vowel quality in isolated words",
+      "section": "Listening comprehension",
+      "subtopic": "Section 2: Vowel quality in isolated words",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section 2: Vowel quality in isolated words in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Section 2: Vowel quality in isolated words is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 224,
+      "topic": "Section 2: Vowel quality in isolated words",
+      "section": "Listening comprehension",
+      "subtopic": "Section 2: Vowel quality in isolated words",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section 2: Vowel quality in isolated words in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Section 2: Vowel quality in isolated words is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 225,
+      "topic": "Section 2: Vowel quality in isolated words",
+      "section": "Listening comprehension",
+      "subtopic": "Section 2: Vowel quality in isolated words",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section 2: Vowel quality in isolated words in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Section 2: Vowel quality in isolated words is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 226,
+      "topic": "Section 3: Vowel quality and consonant contrasts",
+      "section": "Listening comprehension",
+      "subtopic": "Section 3: Vowel quality and consonant contrasts",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section 3: Vowel quality and consonant contrasts in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Section 3: Vowel quality and consonant contrasts is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 227,
+      "topic": "Section 3: Vowel quality and consonant contrasts",
+      "section": "Listening comprehension",
+      "subtopic": "Section 3: Vowel quality and consonant contrasts",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section 3: Vowel quality and consonant contrasts in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Section 3: Vowel quality and consonant contrasts is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 228,
+      "topic": "Section 3: Vowel quality and consonant contrasts",
+      "section": "Listening comprehension",
+      "subtopic": "Section 3: Vowel quality and consonant contrasts",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section 3: Vowel quality and consonant contrasts in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Section 3: Vowel quality and consonant contrasts is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 229,
+      "topic": "Section 4: Vowel/consonant contrasts (sentence, isolated words, or rhymes)",
+      "section": "Listening comprehension",
+      "subtopic": "Section 4: Vowel/consonant contrasts (sentence, isolated words, or rhymes)",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Personal pronoun"
+      },
+      "answer": "A",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 230,
+      "topic": "Section 4: Vowel/consonant contrasts (sentence, isolated words, or rhymes)",
+      "section": "Listening comprehension",
+      "subtopic": "Section 4: Vowel/consonant contrasts (sentence, isolated words, or rhymes)",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Demonstrative pronoun",
+        "B": "Personal pronoun",
+        "C": "Reflexive pronoun",
+        "D": "Relative pronoun"
+      },
+      "answer": "D",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 231,
+      "topic": "Section 4: Vowel/consonant contrasts (sentence, isolated words, or rhymes)",
+      "section": "Listening comprehension",
+      "subtopic": "Section 4: Vowel/consonant contrasts (sentence, isolated words, or rhymes)",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Personal pronoun",
+        "B": "Relative pronoun",
+        "C": "Reflexive pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "B",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 232,
+      "topic": "Section 5: Rhymes",
+      "section": "Listening comprehension",
+      "subtopic": "Section 5: Rhymes",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section 5: Rhymes in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Section 5: Rhymes is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 233,
+      "topic": "Section 5: Rhymes",
+      "section": "Listening comprehension",
+      "subtopic": "Section 5: Rhymes",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section 5: Rhymes in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Section 5: Rhymes is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 234,
+      "topic": "Section 5: Rhymes",
+      "section": "Listening comprehension",
+      "subtopic": "Section 5: Rhymes",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section 5: Rhymes in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Section 5: Rhymes is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 235,
+      "topic": "Section 6: Emphatic stress",
+      "section": "Listening comprehension",
+      "subtopic": "Section 6: Emphatic stress",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section 6: Emphatic stress in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Section 6: Emphatic stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 236,
+      "topic": "Section 6: Emphatic stress",
+      "section": "Listening comprehension",
+      "subtopic": "Section 6: Emphatic stress",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section 6: Emphatic stress in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Section 6: Emphatic stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 237,
+      "topic": "Section 6: Emphatic stress",
+      "section": "Listening comprehension",
+      "subtopic": "Section 6: Emphatic stress",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section 6: Emphatic stress in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Section 6: Emphatic stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 238,
+      "topic": "Section 7: Comprehension of longer dialogues and narratives",
+      "section": "Listening comprehension",
+      "subtopic": "Section 7: Comprehension of longer dialogues and narratives",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A direct quotation",
+        "C": "A grammatical error",
+        "D": "The main title"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 239,
+      "topic": "Section 7: Comprehension of longer dialogues and narratives",
+      "section": "Listening comprehension",
+      "subtopic": "Section 7: Comprehension of longer dialogues and narratives",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A grammatical error",
+        "C": "The main title",
+        "D": "A direct quotation"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 240,
+      "topic": "Section 7: Comprehension of longer dialogues and narratives",
+      "section": "Listening comprehension",
+      "subtopic": "Section 7: Comprehension of longer dialogues and narratives",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "The main title",
+        "C": "A direct quotation",
+        "D": "A grammatical error"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 241,
+      "topic": "Nigeria",
+      "section": "Countries",
+      "subtopic": "Nigeria",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Nigeria in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Nigeria is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 242,
+      "topic": "Nigeria",
+      "section": "Countries",
+      "subtopic": "Nigeria",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Nigeria in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Nigeria is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 243,
+      "topic": "Nigeria",
+      "section": "Countries",
+      "subtopic": "Nigeria",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Nigeria in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Nigeria is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 244,
+      "topic": "Liberia",
+      "section": "Countries",
+      "subtopic": "Liberia",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Liberia in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Liberia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 245,
+      "topic": "Liberia",
+      "section": "Countries",
+      "subtopic": "Liberia",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Liberia in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Liberia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 246,
+      "topic": "Liberia",
+      "section": "Countries",
+      "subtopic": "Liberia",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Liberia in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Liberia is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 247,
+      "topic": "single",
+      "section": "Consonants",
+      "subtopic": "single",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about single in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "single is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 248,
+      "topic": "single",
+      "section": "Consonants",
+      "subtopic": "single",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about single in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "single is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 249,
+      "topic": "single",
+      "section": "Consonants",
+      "subtopic": "single",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about single in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "single is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 250,
+      "topic": "clusters",
+      "section": "Consonants",
+      "subtopic": "clusters",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about clusters in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "clusters is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 251,
+      "topic": "clusters",
+      "section": "Consonants",
+      "subtopic": "clusters",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about clusters in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "clusters is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 252,
+      "topic": "clusters",
+      "section": "Consonants",
+      "subtopic": "clusters",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about clusters in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "clusters is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 253,
+      "topic": "pure vowels",
+      "section": "Vowels",
+      "subtopic": "pure vowels",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about pure vowels in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "pure vowels is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 254,
+      "topic": "pure vowels",
+      "section": "Vowels",
+      "subtopic": "pure vowels",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about pure vowels in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "pure vowels is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 255,
+      "topic": "pure vowels",
+      "section": "Vowels",
+      "subtopic": "pure vowels",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about pure vowels in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "pure vowels is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 256,
+      "topic": "diphthongs",
+      "section": "Vowels",
+      "subtopic": "diphthongs",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about diphthongs in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "diphthongs is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 257,
+      "topic": "diphthongs",
+      "section": "Vowels",
+      "subtopic": "diphthongs",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about diphthongs in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "diphthongs is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 258,
+      "topic": "diphthongs",
+      "section": "Vowels",
+      "subtopic": "diphthongs",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about diphthongs in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "diphthongs is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 259,
+      "topic": "word stress",
+      "section": "Stress",
+      "subtopic": "word stress",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about word stress in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "word stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 260,
+      "topic": "word stress",
+      "section": "Stress",
+      "subtopic": "word stress",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about word stress in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "word stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 261,
+      "topic": "word stress",
+      "section": "Stress",
+      "subtopic": "word stress",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about word stress in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "word stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 262,
+      "topic": "sentence stress",
+      "section": "Stress",
+      "subtopic": "sentence stress",
+      "difficulty": "easy",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Personal pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Relative pronoun"
+      },
+      "answer": "D",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 263,
+      "topic": "sentence stress",
+      "section": "Stress",
+      "subtopic": "sentence stress",
+      "difficulty": "medium",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Personal pronoun",
+        "C": "Relative pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "C",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 264,
+      "topic": "sentence stress",
+      "section": "Stress",
+      "subtopic": "sentence stress",
+      "difficulty": "hard",
+      "question": "Identify the grammatical function of the underlined word: \"The man WHO CAME HERE is my uncle.\"",
+      "options": {
+        "A": "Personal pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Relative pronoun"
+      },
+      "answer": "D",
+      "explanation": "\"Who\" introduces a relative clause and refers back to \"the man,\" making it a relative pronoun."
+    },
+    {
+      "id": 265,
+      "topic": "Falling",
+      "section": "Patterns",
+      "subtopic": "Falling",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Falling in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Falling is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 266,
+      "topic": "Falling",
+      "section": "Patterns",
+      "subtopic": "Falling",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Falling in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Falling is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 267,
+      "topic": "Falling",
+      "section": "Patterns",
+      "subtopic": "Falling",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Falling in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Falling is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 268,
+      "topic": "Rising",
+      "section": "Patterns",
+      "subtopic": "Rising",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Rising in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Rising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 269,
+      "topic": "Rising",
+      "section": "Patterns",
+      "subtopic": "Rising",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Rising in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "Rising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 270,
+      "topic": "Rising",
+      "section": "Patterns",
+      "subtopic": "Rising",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Rising in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Rising is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 271,
+      "topic": "emphatic stress",
+      "section": "Intonation",
+      "subtopic": "emphatic stress",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about emphatic stress in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "emphatic stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 272,
+      "topic": "emphatic stress",
+      "section": "Intonation",
+      "subtopic": "emphatic stress",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about emphatic stress in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "emphatic stress is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 273,
+      "topic": "emphatic stress",
+      "section": "Intonation",
+      "subtopic": "emphatic stress",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about emphatic stress in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "emphatic stress is a core component of the Use of English syllabus."
+    }
+  ]
+}

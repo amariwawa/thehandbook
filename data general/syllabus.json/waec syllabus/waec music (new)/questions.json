@@ -1,0 +1,2356 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Notation: Staff, Clefs (C, G, and F)",
+      "section": "Subsections",
+      "subtopic": "Notation: Staff, Clefs (C, G, and F)",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 2,
+      "topic": "Notation: Staff, Clefs (C, G, and F)",
+      "section": "Subsections",
+      "subtopic": "Notation: Staff, Clefs (C, G, and F)",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 3,
+      "topic": "Notation: Staff, Clefs (C, G, and F)",
+      "section": "Subsections",
+      "subtopic": "Notation: Staff, Clefs (C, G, and F)",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 4,
+      "topic": "Scales (Western): Diatonic – Major and Minor (natural, harmonic and melodic); Chromatic (melodic only)",
+      "section": "Subsections",
+      "subtopic": "Scales (Western): Diatonic – Major and Minor (natural, harmonic and melodic); Chromatic (melodic only)",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Texture",
+        "C": "Colour harmony",
+        "D": "Composition"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 5,
+      "topic": "Scales (Western): Diatonic – Major and Minor (natural, harmonic and melodic); Chromatic (melodic only)",
+      "section": "Subsections",
+      "subtopic": "Scales (Western): Diatonic – Major and Minor (natural, harmonic and melodic); Chromatic (melodic only)",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Colour harmony",
+        "C": "Texture",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 6,
+      "topic": "Scales (Western): Diatonic – Major and Minor (natural, harmonic and melodic); Chromatic (melodic only)",
+      "section": "Subsections",
+      "subtopic": "Scales (Western): Diatonic – Major and Minor (natural, harmonic and melodic); Chromatic (melodic only)",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Composition",
+        "C": "Texture",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 7,
+      "topic": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone)",
+      "section": "Subsections",
+      "subtopic": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone)",
+      "difficulty": "hard",
+      "question": "Which statement about Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone)",
+      "section": "Subsections",
+      "subtopic": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone)",
+      "difficulty": "easy",
+      "question": "Which statement about Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone)",
+      "section": "Subsections",
+      "subtopic": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone)",
+      "difficulty": "medium",
+      "question": "Which statement about Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "Keys and Key Signatures",
+      "section": "Subsections",
+      "subtopic": "Keys and Key Signatures",
+      "difficulty": "easy",
+      "question": "Which statement about Keys and Key Signatures is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Keys and Key Signatures is included in the Art/Music syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "Keys and Key Signatures",
+      "section": "Subsections",
+      "subtopic": "Keys and Key Signatures",
+      "difficulty": "medium",
+      "question": "Which statement about Keys and Key Signatures is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Keys and Key Signatures is included in the Art/Music syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "Keys and Key Signatures",
+      "section": "Subsections",
+      "subtopic": "Keys and Key Signatures",
+      "difficulty": "hard",
+      "question": "Which statement about Keys and Key Signatures is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Keys and Key Signatures is included in the Art/Music syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "Time Signatures: Simple and Compound",
+      "section": "Subsections",
+      "subtopic": "Time Signatures: Simple and Compound",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 14,
+      "topic": "Time Signatures: Simple and Compound",
+      "section": "Subsections",
+      "subtopic": "Time Signatures: Simple and Compound",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Three beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 15,
+      "topic": "Time Signatures: Simple and Compound",
+      "section": "Subsections",
+      "subtopic": "Time Signatures: Simple and Compound",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 16,
+      "topic": "Intervals",
+      "section": "Subsections",
+      "subtopic": "Intervals",
+      "difficulty": "hard",
+      "question": "Which statement about Intervals is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Intervals is included in the Art/Music syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Intervals",
+      "section": "Subsections",
+      "subtopic": "Intervals",
+      "difficulty": "easy",
+      "question": "Which statement about Intervals is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Intervals is included in the Art/Music syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Intervals",
+      "section": "Subsections",
+      "subtopic": "Intervals",
+      "difficulty": "medium",
+      "question": "Which statement about Intervals is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Intervals is included in the Art/Music syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "Transcription (Staff notation into Solfa and vice versa)",
+      "section": "Subsections",
+      "subtopic": "Transcription (Staff notation into Solfa and vice versa)",
+      "difficulty": "easy",
+      "question": "Which statement about Transcription (Staff notation into Solfa and vice versa) is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Transcription (Staff notation into Solfa and vice versa) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Transcription (Staff notation into Solfa and vice versa)",
+      "section": "Subsections",
+      "subtopic": "Transcription (Staff notation into Solfa and vice versa)",
+      "difficulty": "medium",
+      "question": "Which statement about Transcription (Staff notation into Solfa and vice versa) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Transcription (Staff notation into Solfa and vice versa) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Transcription (Staff notation into Solfa and vice versa)",
+      "section": "Subsections",
+      "subtopic": "Transcription (Staff notation into Solfa and vice versa)",
+      "difficulty": "hard",
+      "question": "Which statement about Transcription (Staff notation into Solfa and vice versa) is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Transcription (Staff notation into Solfa and vice versa) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Transposition, including writing for transposing instruments",
+      "section": "Subsections",
+      "subtopic": "Transposition, including writing for transposing instruments",
+      "difficulty": "medium",
+      "question": "Which statement about Transposition, including writing for transposing instruments is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Transposition, including writing for transposing instruments is included in the Art/Music syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Transposition, including writing for transposing instruments",
+      "section": "Subsections",
+      "subtopic": "Transposition, including writing for transposing instruments",
+      "difficulty": "hard",
+      "question": "Which statement about Transposition, including writing for transposing instruments is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Transposition, including writing for transposing instruments is included in the Art/Music syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Transposition, including writing for transposing instruments",
+      "section": "Subsections",
+      "subtopic": "Transposition, including writing for transposing instruments",
+      "difficulty": "easy",
+      "question": "Which statement about Transposition, including writing for transposing instruments is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Transposition, including writing for transposing instruments is included in the Art/Music syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Musical terms, signs, ornaments and abbreviations",
+      "section": "Subsections",
+      "subtopic": "Musical terms, signs, ornaments and abbreviations",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "Four beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 26,
+      "topic": "Musical terms, signs, ornaments and abbreviations",
+      "section": "Subsections",
+      "subtopic": "Musical terms, signs, ornaments and abbreviations",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 27,
+      "topic": "Musical terms, signs, ornaments and abbreviations",
+      "section": "Subsections",
+      "subtopic": "Musical terms, signs, ornaments and abbreviations",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Four beats",
+        "C": "Three beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 28,
+      "topic": "Chords/Triads: Primary (I/i, IV/iv, V and inversions), Secondary (ii, iii, vi and inversions), Chord vii° and inversions, Dominant 7th chords and inversions",
+      "section": "Subsections",
+      "subtopic": "Chords/Triads: Primary (I/i, IV/iv, V and inversions), Secondary (ii, iii, vi and inversions), Chord vii° and inversions, Dominant 7th chords and inversions",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Orange, Purple, Green",
+        "C": "Red, Yellow, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 29,
+      "topic": "Chords/Triads: Primary (I/i, IV/iv, V and inversions), Secondary (ii, iii, vi and inversions), Chord vii° and inversions, Dominant 7th chords and inversions",
+      "section": "Subsections",
+      "subtopic": "Chords/Triads: Primary (I/i, IV/iv, V and inversions), Secondary (ii, iii, vi and inversions), Chord vii° and inversions, Dominant 7th chords and inversions",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Red, Yellow, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Black, White, Grey"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 30,
+      "topic": "Chords/Triads: Primary (I/i, IV/iv, V and inversions), Secondary (ii, iii, vi and inversions), Chord vii° and inversions, Dominant 7th chords and inversions",
+      "section": "Subsections",
+      "subtopic": "Chords/Triads: Primary (I/i, IV/iv, V and inversions), Secondary (ii, iii, vi and inversions), Chord vii° and inversions, Dominant 7th chords and inversions",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Red, Yellow, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 31,
+      "topic": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys",
+      "section": "Subsections",
+      "subtopic": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys",
+      "difficulty": "medium",
+      "question": "Which statement about Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys is included in the Art/Music syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys",
+      "section": "Subsections",
+      "subtopic": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys",
+      "difficulty": "hard",
+      "question": "Which statement about Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys is included in the Art/Music syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys",
+      "section": "Subsections",
+      "subtopic": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys",
+      "difficulty": "easy",
+      "question": "Which statement about Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys is included in the Art/Music syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Use of primary and secondary triads in harmonising a given melody",
+      "section": "Subsections",
+      "subtopic": "Use of primary and secondary triads in harmonising a given melody",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Red, Yellow, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Black, White, Grey"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 35,
+      "topic": "Use of primary and secondary triads in harmonising a given melody",
+      "section": "Subsections",
+      "subtopic": "Use of primary and secondary triads in harmonising a given melody",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Red, Yellow, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 36,
+      "topic": "Use of primary and secondary triads in harmonising a given melody",
+      "section": "Subsections",
+      "subtopic": "Use of primary and secondary triads in harmonising a given melody",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Black, White, Grey",
+        "C": "Red, Green, Blue",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 37,
+      "topic": "Use of six-four chords (cadential and passing)",
+      "section": "Subsections",
+      "subtopic": "Use of six-four chords (cadential and passing)",
+      "difficulty": "easy",
+      "question": "Which statement about Use of six-four chords (cadential and passing) is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Use of six-four chords (cadential and passing) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Use of six-four chords (cadential and passing)",
+      "section": "Subsections",
+      "subtopic": "Use of six-four chords (cadential and passing)",
+      "difficulty": "medium",
+      "question": "Which statement about Use of six-four chords (cadential and passing) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Use of six-four chords (cadential and passing) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Use of six-four chords (cadential and passing)",
+      "section": "Subsections",
+      "subtopic": "Use of six-four chords (cadential and passing)",
+      "difficulty": "hard",
+      "question": "Which statement about Use of six-four chords (cadential and passing) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Use of six-four chords (cadential and passing) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation",
+      "section": "Subsections",
+      "subtopic": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation",
+      "difficulty": "medium",
+      "question": "Which statement about Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation is included in the Art/Music syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation",
+      "section": "Subsections",
+      "subtopic": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation",
+      "difficulty": "hard",
+      "question": "Which statement about Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation is included in the Art/Music syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation",
+      "section": "Subsections",
+      "subtopic": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation",
+      "difficulty": "easy",
+      "question": "Which statement about Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation is included in the Art/Music syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Two-part free Counterpoint (adding a part above or below a given melody)",
+      "section": "Subsections",
+      "subtopic": "Two-part free Counterpoint (adding a part above or below a given melody)",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 44,
+      "topic": "Two-part free Counterpoint (adding a part above or below a given melody)",
+      "section": "Subsections",
+      "subtopic": "Two-part free Counterpoint (adding a part above or below a given melody)",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 45,
+      "topic": "Two-part free Counterpoint (adding a part above or below a given melody)",
+      "section": "Subsections",
+      "subtopic": "Two-part free Counterpoint (adding a part above or below a given melody)",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 46,
+      "topic": "Four-part harmony (SATB)",
+      "section": "Subsections",
+      "subtopic": "Four-part harmony (SATB)",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Green, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 47,
+      "topic": "Four-part harmony (SATB)",
+      "section": "Subsections",
+      "subtopic": "Four-part harmony (SATB)",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Red, Green, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 48,
+      "topic": "Four-part harmony (SATB)",
+      "section": "Subsections",
+      "subtopic": "Four-part harmony (SATB)",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Green, Blue",
+        "C": "Red, Yellow, Blue",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 49,
+      "topic": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key)",
+      "section": "Subsections",
+      "subtopic": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key)",
+      "difficulty": "medium",
+      "question": "Which statement about Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key)",
+      "section": "Subsections",
+      "subtopic": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key)",
+      "difficulty": "hard",
+      "question": "Which statement about Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key)",
+      "section": "Subsections",
+      "subtopic": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key)",
+      "difficulty": "easy",
+      "question": "Which statement about Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Setting a given text in English to music",
+      "section": "Subsections",
+      "subtopic": "Setting a given text in English to music",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "One beat"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 53,
+      "topic": "Setting a given text in English to music",
+      "section": "Subsections",
+      "subtopic": "Setting a given text in English to music",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Four beats",
+        "C": "One beat",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 54,
+      "topic": "Setting a given text in English to music",
+      "section": "Subsections",
+      "subtopic": "Setting a given text in English to music",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 55,
+      "topic": "Simple forms: binary, ternary, rondo, etc.",
+      "section": "Subsections",
+      "subtopic": "Simple forms: binary, ternary, rondo, etc.",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Composition",
+        "C": "Colour harmony",
+        "D": "Texture"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 56,
+      "topic": "Simple forms: binary, ternary, rondo, etc.",
+      "section": "Subsections",
+      "subtopic": "Simple forms: binary, ternary, rondo, etc.",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Composition",
+        "C": "Colour harmony",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 57,
+      "topic": "Simple forms: binary, ternary, rondo, etc.",
+      "section": "Subsections",
+      "subtopic": "Simple forms: binary, ternary, rondo, etc.",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Colour harmony",
+        "C": "Texture",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 58,
+      "topic": "Extended forms: overture, oratorio, opera, cantata, suite, sonata, symphony, concerto, etc.",
+      "section": "Subsections",
+      "subtopic": "Extended forms: overture, oratorio, opera, cantata, suite, sonata, symphony, concerto, etc.",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Texture",
+        "C": "Colour harmony",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 59,
+      "topic": "Extended forms: overture, oratorio, opera, cantata, suite, sonata, symphony, concerto, etc.",
+      "section": "Subsections",
+      "subtopic": "Extended forms: overture, oratorio, opera, cantata, suite, sonata, symphony, concerto, etc.",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Colour harmony",
+        "C": "Composition",
+        "D": "Texture"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 60,
+      "topic": "Extended forms: overture, oratorio, opera, cantata, suite, sonata, symphony, concerto, etc.",
+      "section": "Subsections",
+      "subtopic": "Extended forms: overture, oratorio, opera, cantata, suite, sonata, symphony, concerto, etc.",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Texture",
+        "C": "Perspective",
+        "D": "Composition"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 61,
+      "topic": "Form in traditional African music (antiphony: Call and Response, Cantor/Chorus, Call and Refrain; Repetitive/Cyclic forms, etc.)",
+      "section": "Subsections",
+      "subtopic": "Form in traditional African music (antiphony: Call and Response, Cantor/Chorus, Call and Refrain; Repetitive/Cyclic forms, etc.)",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Perspective",
+        "C": "Texture",
+        "D": "Colour harmony"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 62,
+      "topic": "Form in traditional African music (antiphony: Call and Response, Cantor/Chorus, Call and Refrain; Repetitive/Cyclic forms, etc.)",
+      "section": "Subsections",
+      "subtopic": "Form in traditional African music (antiphony: Call and Response, Cantor/Chorus, Call and Refrain; Repetitive/Cyclic forms, etc.)",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Composition",
+        "C": "Texture",
+        "D": "Colour harmony"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 63,
+      "topic": "Form in traditional African music (antiphony: Call and Response, Cantor/Chorus, Call and Refrain; Repetitive/Cyclic forms, etc.)",
+      "section": "Subsections",
+      "subtopic": "Form in traditional African music (antiphony: Call and Response, Cantor/Chorus, Call and Refrain; Repetitive/Cyclic forms, etc.)",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Texture",
+        "C": "Perspective",
+        "D": "Composition"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 64,
+      "topic": "Form in contemporary African art music (emphasis on melody, rhythm, harmony, instrumentation, through-composed pieces, etc.)",
+      "section": "Subsections",
+      "subtopic": "Form in contemporary African art music (emphasis on melody, rhythm, harmony, instrumentation, through-composed pieces, etc.)",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Red, Yellow, Blue",
+        "C": "Black, White, Grey",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 65,
+      "topic": "Form in contemporary African art music (emphasis on melody, rhythm, harmony, instrumentation, through-composed pieces, etc.)",
+      "section": "Subsections",
+      "subtopic": "Form in contemporary African art music (emphasis on melody, rhythm, harmony, instrumentation, through-composed pieces, etc.)",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Orange, Purple, Green",
+        "C": "Black, White, Grey",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 66,
+      "topic": "Form in contemporary African art music (emphasis on melody, rhythm, harmony, instrumentation, through-composed pieces, etc.)",
+      "section": "Subsections",
+      "subtopic": "Form in contemporary African art music (emphasis on melody, rhythm, harmony, instrumentation, through-composed pieces, etc.)",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Yellow, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 67,
+      "topic": "Analysis of prescribed set-works (Western or African) for each year",
+      "section": "Subsections",
+      "subtopic": "Analysis of prescribed set-works (Western or African) for each year",
+      "difficulty": "medium",
+      "question": "Which statement about Analysis of prescribed set-works (Western or African) for each year is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Analysis of prescribed set-works (Western or African) for each year is included in the Art/Music syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Analysis of prescribed set-works (Western or African) for each year",
+      "section": "Subsections",
+      "subtopic": "Analysis of prescribed set-works (Western or African) for each year",
+      "difficulty": "hard",
+      "question": "Which statement about Analysis of prescribed set-works (Western or African) for each year is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Analysis of prescribed set-works (Western or African) for each year is included in the Art/Music syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Analysis of prescribed set-works (Western or African) for each year",
+      "section": "Subsections",
+      "subtopic": "Analysis of prescribed set-works (Western or African) for each year",
+      "difficulty": "easy",
+      "question": "Which statement about Analysis of prescribed set-works (Western or African) for each year is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Analysis of prescribed set-works (Western or African) for each year is included in the Art/Music syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Rhythmic Dictation (up to 4 bars)",
+      "section": "Subsections",
+      "subtopic": "Rhythmic Dictation (up to 4 bars)",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 71,
+      "topic": "Rhythmic Dictation (up to 4 bars)",
+      "section": "Subsections",
+      "subtopic": "Rhythmic Dictation (up to 4 bars)",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 72,
+      "topic": "Rhythmic Dictation (up to 4 bars)",
+      "section": "Subsections",
+      "subtopic": "Rhythmic Dictation (up to 4 bars)",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "One beat",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 73,
+      "topic": "Melodic Dictation (up to 4 bars, may include African music elements)",
+      "section": "Subsections",
+      "subtopic": "Melodic Dictation (up to 4 bars, may include African music elements)",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 74,
+      "topic": "Melodic Dictation (up to 4 bars, may include African music elements)",
+      "section": "Subsections",
+      "subtopic": "Melodic Dictation (up to 4 bars, may include African music elements)",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Two beats",
+        "D": "Four beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 75,
+      "topic": "Melodic Dictation (up to 4 bars, may include African music elements)",
+      "section": "Subsections",
+      "subtopic": "Melodic Dictation (up to 4 bars, may include African music elements)",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 76,
+      "topic": "Writing the upper or lower part of a two-part phrase",
+      "section": "Subsections",
+      "subtopic": "Writing the upper or lower part of a two-part phrase",
+      "difficulty": "medium",
+      "question": "Which statement about Writing the upper or lower part of a two-part phrase is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Writing the upper or lower part of a two-part phrase is included in the Art/Music syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Writing the upper or lower part of a two-part phrase",
+      "section": "Subsections",
+      "subtopic": "Writing the upper or lower part of a two-part phrase",
+      "difficulty": "hard",
+      "question": "Which statement about Writing the upper or lower part of a two-part phrase is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Writing the upper or lower part of a two-part phrase is included in the Art/Music syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Writing the upper or lower part of a two-part phrase",
+      "section": "Subsections",
+      "subtopic": "Writing the upper or lower part of a two-part phrase",
+      "difficulty": "easy",
+      "question": "Which statement about Writing the upper or lower part of a two-part phrase is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Writing the upper or lower part of a two-part phrase is included in the Art/Music syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Identification of chords in a progression",
+      "section": "Subsections",
+      "subtopic": "Identification of chords in a progression",
+      "difficulty": "hard",
+      "question": "Which statement about Identification of chords in a progression is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Identification of chords in a progression is included in the Art/Music syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "Identification of chords in a progression",
+      "section": "Subsections",
+      "subtopic": "Identification of chords in a progression",
+      "difficulty": "easy",
+      "question": "Which statement about Identification of chords in a progression is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Identification of chords in a progression is included in the Art/Music syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "Identification of chords in a progression",
+      "section": "Subsections",
+      "subtopic": "Identification of chords in a progression",
+      "difficulty": "medium",
+      "question": "Which statement about Identification of chords in a progression is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Identification of chords in a progression is included in the Art/Music syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "Recognition of cadences",
+      "section": "Subsections",
+      "subtopic": "Recognition of cadences",
+      "difficulty": "easy",
+      "question": "Which statement about Recognition of cadences is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Recognition of cadences is included in the Art/Music syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Recognition of cadences",
+      "section": "Subsections",
+      "subtopic": "Recognition of cadences",
+      "difficulty": "medium",
+      "question": "Which statement about Recognition of cadences is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Recognition of cadences is included in the Art/Music syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Recognition of cadences",
+      "section": "Subsections",
+      "subtopic": "Recognition of cadences",
+      "difficulty": "hard",
+      "question": "Which statement about Recognition of cadences is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Recognition of cadences is included in the Art/Music syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Recognition of modulations (to dominant, subdominant, relative major/minor)",
+      "section": "Subsections",
+      "subtopic": "Recognition of modulations (to dominant, subdominant, relative major/minor)",
+      "difficulty": "medium",
+      "question": "Which statement about Recognition of modulations (to dominant, subdominant, relative major/minor) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Recognition of modulations (to dominant, subdominant, relative major/minor) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Recognition of modulations (to dominant, subdominant, relative major/minor)",
+      "section": "Subsections",
+      "subtopic": "Recognition of modulations (to dominant, subdominant, relative major/minor)",
+      "difficulty": "hard",
+      "question": "Which statement about Recognition of modulations (to dominant, subdominant, relative major/minor) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Recognition of modulations (to dominant, subdominant, relative major/minor) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "Recognition of modulations (to dominant, subdominant, relative major/minor)",
+      "section": "Subsections",
+      "subtopic": "Recognition of modulations (to dominant, subdominant, relative major/minor)",
+      "difficulty": "easy",
+      "question": "Which statement about Recognition of modulations (to dominant, subdominant, relative major/minor) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Recognition of modulations (to dominant, subdominant, relative major/minor) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Identification/Description of themes or excerpts (form, style, genre, instruments, scale/mode, meter)",
+      "section": "Subsections",
+      "subtopic": "Identification/Description of themes or excerpts (form, style, genre, instruments, scale/mode, meter)",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Colour harmony",
+        "C": "Composition",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 89,
+      "topic": "Identification/Description of themes or excerpts (form, style, genre, instruments, scale/mode, meter)",
+      "section": "Subsections",
+      "subtopic": "Identification/Description of themes or excerpts (form, style, genre, instruments, scale/mode, meter)",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Composition",
+        "C": "Colour harmony",
+        "D": "Texture"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 90,
+      "topic": "Identification/Description of themes or excerpts (form, style, genre, instruments, scale/mode, meter)",
+      "section": "Subsections",
+      "subtopic": "Identification/Description of themes or excerpts (form, style, genre, instruments, scale/mode, meter)",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Texture",
+        "C": "Perspective",
+        "D": "Colour harmony"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 91,
+      "topic": "Performance on chosen instrument/voice: Voice (Soprano, Alto, Tenor, Baritone/Bass), Pianoforte/Electronic keyboard, Violin, Guitar, Recorder (descant/treble), Atenteben, Flute, B flat trumpet, E flat alto-saxophone, etc.",
+      "section": "Subsections",
+      "subtopic": "Performance on chosen instrument/voice: Voice (Soprano, Alto, Tenor, Baritone/Bass), Pianoforte/Electronic keyboard, Violin, Guitar, Recorder (descant/treble), Atenteben, Flute, B flat trumpet, E flat alto-saxophone, etc.",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Colour harmony",
+        "C": "Perspective",
+        "D": "Texture"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 92,
+      "topic": "Performance on chosen instrument/voice: Voice (Soprano, Alto, Tenor, Baritone/Bass), Pianoforte/Electronic keyboard, Violin, Guitar, Recorder (descant/treble), Atenteben, Flute, B flat trumpet, E flat alto-saxophone, etc.",
+      "section": "Subsections",
+      "subtopic": "Performance on chosen instrument/voice: Voice (Soprano, Alto, Tenor, Baritone/Bass), Pianoforte/Electronic keyboard, Violin, Guitar, Recorder (descant/treble), Atenteben, Flute, B flat trumpet, E flat alto-saxophone, etc.",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Composition",
+        "C": "Colour harmony",
+        "D": "Texture"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 93,
+      "topic": "Performance on chosen instrument/voice: Voice (Soprano, Alto, Tenor, Baritone/Bass), Pianoforte/Electronic keyboard, Violin, Guitar, Recorder (descant/treble), Atenteben, Flute, B flat trumpet, E flat alto-saxophone, etc.",
+      "section": "Subsections",
+      "subtopic": "Performance on chosen instrument/voice: Voice (Soprano, Alto, Tenor, Baritone/Bass), Pianoforte/Electronic keyboard, Violin, Guitar, Recorder (descant/treble), Atenteben, Flute, B flat trumpet, E flat alto-saxophone, etc.",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Perspective",
+        "C": "Colour harmony",
+        "D": "Composition"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 94,
+      "topic": "Sight-reading",
+      "section": "Subsections",
+      "subtopic": "Sight-reading",
+      "difficulty": "medium",
+      "question": "Which statement about Sight-reading is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Sight-reading is included in the Art/Music syllabus."
+    },
+    {
+      "id": 95,
+      "topic": "Sight-reading",
+      "section": "Subsections",
+      "subtopic": "Sight-reading",
+      "difficulty": "hard",
+      "question": "Which statement about Sight-reading is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Sight-reading is included in the Art/Music syllabus."
+    },
+    {
+      "id": 96,
+      "topic": "Sight-reading",
+      "section": "Subsections",
+      "subtopic": "Sight-reading",
+      "difficulty": "easy",
+      "question": "Which statement about Sight-reading is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Sight-reading is included in the Art/Music syllabus."
+    },
+    {
+      "id": 97,
+      "topic": "Technical exercises, scales and arpeggios",
+      "section": "Subsections",
+      "subtopic": "Technical exercises, scales and arpeggios",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Composition",
+        "C": "Colour harmony",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 98,
+      "topic": "Technical exercises, scales and arpeggios",
+      "section": "Subsections",
+      "subtopic": "Technical exercises, scales and arpeggios",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Composition",
+        "C": "Texture",
+        "D": "Colour harmony"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 99,
+      "topic": "Technical exercises, scales and arpeggios",
+      "section": "Subsections",
+      "subtopic": "Technical exercises, scales and arpeggios",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Colour harmony",
+        "C": "Texture",
+        "D": "Composition"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 100,
+      "topic": "Pieces from approved list",
+      "section": "Subsections",
+      "subtopic": "Pieces from approved list",
+      "difficulty": "easy",
+      "question": "Which statement about Pieces from approved list is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Pieces from approved list is included in the Art/Music syllabus."
+    },
+    {
+      "id": 101,
+      "topic": "Pieces from approved list",
+      "section": "Subsections",
+      "subtopic": "Pieces from approved list",
+      "difficulty": "medium",
+      "question": "Which statement about Pieces from approved list is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Pieces from approved list is included in the Art/Music syllabus."
+    },
+    {
+      "id": 102,
+      "topic": "Pieces from approved list",
+      "section": "Subsections",
+      "subtopic": "Pieces from approved list",
+      "difficulty": "hard",
+      "question": "Which statement about Pieces from approved list is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Pieces from approved list is included in the Art/Music syllabus."
+    },
+    {
+      "id": 103,
+      "topic": "Medieval (ca. 450-1400)",
+      "section": "Periods",
+      "subtopic": "Medieval (ca. 450-1400)",
+      "difficulty": "medium",
+      "question": "Which statement about Medieval (ca. 450-1400) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Medieval (ca. 450-1400) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 104,
+      "topic": "Medieval (ca. 450-1400)",
+      "section": "Periods",
+      "subtopic": "Medieval (ca. 450-1400)",
+      "difficulty": "hard",
+      "question": "Which statement about Medieval (ca. 450-1400) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Medieval (ca. 450-1400) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 105,
+      "topic": "Medieval (ca. 450-1400)",
+      "section": "Periods",
+      "subtopic": "Medieval (ca. 450-1400)",
+      "difficulty": "easy",
+      "question": "Which statement about Medieval (ca. 450-1400) is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Medieval (ca. 450-1400) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 106,
+      "topic": "Renaissance (ca. 1400-1600)",
+      "section": "Periods",
+      "subtopic": "Renaissance (ca. 1400-1600)",
+      "difficulty": "hard",
+      "question": "Which statement about Renaissance (ca. 1400-1600) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Renaissance (ca. 1400-1600) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 107,
+      "topic": "Renaissance (ca. 1400-1600)",
+      "section": "Periods",
+      "subtopic": "Renaissance (ca. 1400-1600)",
+      "difficulty": "easy",
+      "question": "Which statement about Renaissance (ca. 1400-1600) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Renaissance (ca. 1400-1600) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 108,
+      "topic": "Renaissance (ca. 1400-1600)",
+      "section": "Periods",
+      "subtopic": "Renaissance (ca. 1400-1600)",
+      "difficulty": "medium",
+      "question": "Which statement about Renaissance (ca. 1400-1600) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Renaissance (ca. 1400-1600) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 109,
+      "topic": "Baroque (ca. 1600-1750)",
+      "section": "Periods",
+      "subtopic": "Baroque (ca. 1600-1750)",
+      "difficulty": "easy",
+      "question": "Which statement about Baroque (ca. 1600-1750) is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Baroque (ca. 1600-1750) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 110,
+      "topic": "Baroque (ca. 1600-1750)",
+      "section": "Periods",
+      "subtopic": "Baroque (ca. 1600-1750)",
+      "difficulty": "medium",
+      "question": "Which statement about Baroque (ca. 1600-1750) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Baroque (ca. 1600-1750) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 111,
+      "topic": "Baroque (ca. 1600-1750)",
+      "section": "Periods",
+      "subtopic": "Baroque (ca. 1600-1750)",
+      "difficulty": "hard",
+      "question": "Which statement about Baroque (ca. 1600-1750) is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Baroque (ca. 1600-1750) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 112,
+      "topic": "Classical (ca. 1750-1820)",
+      "section": "Periods",
+      "subtopic": "Classical (ca. 1750-1820)",
+      "difficulty": "medium",
+      "question": "Which statement about Classical (ca. 1750-1820) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Classical (ca. 1750-1820) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 113,
+      "topic": "Classical (ca. 1750-1820)",
+      "section": "Periods",
+      "subtopic": "Classical (ca. 1750-1820)",
+      "difficulty": "hard",
+      "question": "Which statement about Classical (ca. 1750-1820) is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Classical (ca. 1750-1820) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 114,
+      "topic": "Classical (ca. 1750-1820)",
+      "section": "Periods",
+      "subtopic": "Classical (ca. 1750-1820)",
+      "difficulty": "easy",
+      "question": "Which statement about Classical (ca. 1750-1820) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Classical (ca. 1750-1820) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 115,
+      "topic": "Romantic (ca. 1820-1900)",
+      "section": "Periods",
+      "subtopic": "Romantic (ca. 1820-1900)",
+      "difficulty": "hard",
+      "question": "Which statement about Romantic (ca. 1820-1900) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Romantic (ca. 1820-1900) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 116,
+      "topic": "Romantic (ca. 1820-1900)",
+      "section": "Periods",
+      "subtopic": "Romantic (ca. 1820-1900)",
+      "difficulty": "easy",
+      "question": "Which statement about Romantic (ca. 1820-1900) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Romantic (ca. 1820-1900) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 117,
+      "topic": "Romantic (ca. 1820-1900)",
+      "section": "Periods",
+      "subtopic": "Romantic (ca. 1820-1900)",
+      "difficulty": "medium",
+      "question": "Which statement about Romantic (ca. 1820-1900) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Romantic (ca. 1820-1900) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 118,
+      "topic": "20th Century (ca. 1900-2000)",
+      "section": "Periods",
+      "subtopic": "20th Century (ca. 1900-2000)",
+      "difficulty": "easy",
+      "question": "Which statement about 20th Century (ca. 1900-2000) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "20th Century (ca. 1900-2000) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 119,
+      "topic": "20th Century (ca. 1900-2000)",
+      "section": "Periods",
+      "subtopic": "20th Century (ca. 1900-2000)",
+      "difficulty": "medium",
+      "question": "Which statement about 20th Century (ca. 1900-2000) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "20th Century (ca. 1900-2000) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 120,
+      "topic": "20th Century (ca. 1900-2000)",
+      "section": "Periods",
+      "subtopic": "20th Century (ca. 1900-2000)",
+      "difficulty": "hard",
+      "question": "Which statement about 20th Century (ca. 1900-2000) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "20th Century (ca. 1900-2000) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 121,
+      "topic": "composers",
+      "section": "Subsections",
+      "subtopic": "composers",
+      "difficulty": "medium",
+      "question": "Which statement about composers is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "composers is included in the Art/Music syllabus."
+    },
+    {
+      "id": 122,
+      "topic": "composers",
+      "section": "Subsections",
+      "subtopic": "composers",
+      "difficulty": "hard",
+      "question": "Which statement about composers is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "composers is included in the Art/Music syllabus."
+    },
+    {
+      "id": 123,
+      "topic": "composers",
+      "section": "Subsections",
+      "subtopic": "composers",
+      "difficulty": "easy",
+      "question": "Which statement about composers is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "composers is included in the Art/Music syllabus."
+    },
+    {
+      "id": 124,
+      "topic": "Role of music in traditional African society",
+      "section": "Subsections",
+      "subtopic": "Role of music in traditional African society",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "One beat"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 125,
+      "topic": "Role of music in traditional African society",
+      "section": "Subsections",
+      "subtopic": "Role of music in traditional African society",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 126,
+      "topic": "Role of music in traditional African society",
+      "section": "Subsections",
+      "subtopic": "Role of music in traditional African society",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 127,
+      "topic": "Musical instruments: Names, description, classification, functions",
+      "section": "Subsections",
+      "subtopic": "Musical instruments: Names, description, classification, functions",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 128,
+      "topic": "Musical instruments: Names, description, classification, functions",
+      "section": "Subsections",
+      "subtopic": "Musical instruments: Names, description, classification, functions",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 129,
+      "topic": "Musical instruments: Names, description, classification, functions",
+      "section": "Subsections",
+      "subtopic": "Musical instruments: Names, description, classification, functions",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Two beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 130,
+      "topic": "General characteristics: Scales/Modes, Rhythm (cross-rhythm, hemiola, syncopation, polyrhythm), Polyphony, Form, Vocal styles, Texture, Instrumentation",
+      "section": "Subsections",
+      "subtopic": "General characteristics: Scales/Modes, Rhythm (cross-rhythm, hemiola, syncopation, polyrhythm), Polyphony, Form, Vocal styles, Texture, Instrumentation",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Perspective",
+        "C": "Composition",
+        "D": "Colour harmony"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 131,
+      "topic": "General characteristics: Scales/Modes, Rhythm (cross-rhythm, hemiola, syncopation, polyrhythm), Polyphony, Form, Vocal styles, Texture, Instrumentation",
+      "section": "Subsections",
+      "subtopic": "General characteristics: Scales/Modes, Rhythm (cross-rhythm, hemiola, syncopation, polyrhythm), Polyphony, Form, Vocal styles, Texture, Instrumentation",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Texture",
+        "C": "Perspective",
+        "D": "Composition"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 132,
+      "topic": "General characteristics: Scales/Modes, Rhythm (cross-rhythm, hemiola, syncopation, polyrhythm), Polyphony, Form, Vocal styles, Texture, Instrumentation",
+      "section": "Subsections",
+      "subtopic": "General characteristics: Scales/Modes, Rhythm (cross-rhythm, hemiola, syncopation, polyrhythm), Polyphony, Form, Vocal styles, Texture, Instrumentation",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Composition",
+        "C": "Texture",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 133,
+      "topic": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.)",
+      "section": "Subsections",
+      "subtopic": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.)",
+      "difficulty": "hard",
+      "question": "Which statement about Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.) is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 134,
+      "topic": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.)",
+      "section": "Subsections",
+      "subtopic": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.)",
+      "difficulty": "easy",
+      "question": "Which statement about Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 135,
+      "topic": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.)",
+      "section": "Subsections",
+      "subtopic": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.)",
+      "difficulty": "medium",
+      "question": "Which statement about Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.) is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.) is included in the Art/Music syllabus."
+    },
+    {
+      "id": 136,
+      "topic": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions",
+      "section": "Subsections",
+      "subtopic": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions",
+      "difficulty": "easy",
+      "question": "Which statement about Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions is included in the Art/Music syllabus."
+    },
+    {
+      "id": 137,
+      "topic": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions",
+      "section": "Subsections",
+      "subtopic": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions",
+      "difficulty": "medium",
+      "question": "Which statement about Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions is included in the Art/Music syllabus."
+    },
+    {
+      "id": 138,
+      "topic": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions",
+      "section": "Subsections",
+      "subtopic": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions",
+      "difficulty": "hard",
+      "question": "Which statement about Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions is included in the Art/Music syllabus."
+    },
+    {
+      "id": 139,
+      "topic": "Contemporary African Art Musicians (Nigeria and Ghana lists)",
+      "section": "Subsections",
+      "subtopic": "Contemporary African Art Musicians (Nigeria and Ghana lists)",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 140,
+      "topic": "Contemporary African Art Musicians (Nigeria and Ghana lists)",
+      "section": "Subsections",
+      "subtopic": "Contemporary African Art Musicians (Nigeria and Ghana lists)",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 141,
+      "topic": "Contemporary African Art Musicians (Nigeria and Ghana lists)",
+      "section": "Subsections",
+      "subtopic": "Contemporary African Art Musicians (Nigeria and Ghana lists)",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 142,
+      "topic": "Popular musicians and genres in Nigeria and Ghana (Highlife, Juju, Fuji, Afrobeat, Hip-Hop, etc.)",
+      "section": "Subsections",
+      "subtopic": "Popular musicians and genres in Nigeria and Ghana (Highlife, Juju, Fuji, Afrobeat, Hip-Hop, etc.)",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 143,
+      "topic": "Popular musicians and genres in Nigeria and Ghana (Highlife, Juju, Fuji, Afrobeat, Hip-Hop, etc.)",
+      "section": "Subsections",
+      "subtopic": "Popular musicians and genres in Nigeria and Ghana (Highlife, Juju, Fuji, Afrobeat, Hip-Hop, etc.)",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 144,
+      "topic": "Popular musicians and genres in Nigeria and Ghana (Highlife, Juju, Fuji, Afrobeat, Hip-Hop, etc.)",
+      "section": "Subsections",
+      "subtopic": "Popular musicians and genres in Nigeria and Ghana (Highlife, Juju, Fuji, Afrobeat, Hip-Hop, etc.)",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Two beats",
+        "D": "Four beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 145,
+      "topic": "Black Music in the Diaspora (Jazz, Blues, Gospel, Soul, Calypso, Reggae, etc. and key artists)",
+      "section": "Subsections",
+      "subtopic": "Black Music in the Diaspora (Jazz, Blues, Gospel, Soul, Calypso, Reggae, etc. and key artists)",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 146,
+      "topic": "Black Music in the Diaspora (Jazz, Blues, Gospel, Soul, Calypso, Reggae, etc. and key artists)",
+      "section": "Subsections",
+      "subtopic": "Black Music in the Diaspora (Jazz, Blues, Gospel, Soul, Calypso, Reggae, etc. and key artists)",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Two beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 147,
+      "topic": "Black Music in the Diaspora (Jazz, Blues, Gospel, Soul, Calypso, Reggae, etc. and key artists)",
+      "section": "Subsections",
+      "subtopic": "Black Music in the Diaspora (Jazz, Blues, Gospel, Soul, Calypso, Reggae, etc. and key artists)",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "One beat",
+        "C": "Three beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    }
+  ]
+}

@@ -1,0 +1,1431 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO ANIMAL HUSBANDRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ANIMAL HUSBANDRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO ANIMAL HUSBANDRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ANIMAL HUSBANDRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO ANIMAL HUSBANDRY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ANIMAL HUSBANDRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "section": "General",
+      "subtopic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "difficulty": "medium",
+      "question": "Which statement about ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "section": "General",
+      "subtopic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "difficulty": "hard",
+      "question": "Which statement about ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "section": "General",
+      "subtopic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "difficulty": "easy",
+      "question": "Which statement about ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "hard",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "easy",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "medium",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "section": "General",
+      "subtopic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "section": "General",
+      "subtopic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "section": "General",
+      "subtopic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 20,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "TIG welding",
+        "B": "MIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "A",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 21,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 22,
+      "topic": "RUMINANT PRODUCTION",
+      "section": "General",
+      "subtopic": "RUMINANT PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about RUMINANT PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "RUMINANT PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "RUMINANT PRODUCTION",
+      "section": "General",
+      "subtopic": "RUMINANT PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about RUMINANT PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RUMINANT PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "RUMINANT PRODUCTION",
+      "section": "General",
+      "subtopic": "RUMINANT PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about RUMINANT PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RUMINANT PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "practical notes",
+      "section": "General",
+      "subtopic": "practical notes",
+      "difficulty": "medium",
+      "question": "Which statement about practical notes is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "practical notes is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "practical notes",
+      "section": "General",
+      "subtopic": "practical notes",
+      "difficulty": "hard",
+      "question": "Which statement about practical notes is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "practical notes is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "practical notes",
+      "section": "General",
+      "subtopic": "practical notes",
+      "difficulty": "easy",
+      "question": "Which statement about practical notes is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "practical notes is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "hard",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "TIG welding",
+        "B": "MIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "A",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 38,
+      "topic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "section": "General",
+      "subtopic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "easy",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO ANIMAL HUSBANDRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO ANIMAL HUSBANDRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 44,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "MIG welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 46,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "Arc welding,Oxy-acetylene welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 51,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "TIG welding",
+        "B": "MIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "A",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 53,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "TIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 54,
+      "topic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "section": "General",
+      "subtopic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "difficulty": "easy",
+      "question": "Which statement about ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "section": "General",
+      "subtopic": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO ANIMAL HUSBANDRY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO ANIMAL HUSBANDRY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "RUMINANT PRODUCTION",
+      "section": "General",
+      "subtopic": "RUMINANT PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about RUMINANT PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "RUMINANT PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "RUMINANT PRODUCTION",
+      "section": "General",
+      "subtopic": "RUMINANT PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about RUMINANT PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "RUMINANT PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 65,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "easy",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "practical notes",
+      "section": "General",
+      "subtopic": "practical notes",
+      "difficulty": "easy",
+      "question": "Which statement about practical notes is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "practical notes is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "TIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 69,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "section": "General",
+      "subtopic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "difficulty": "easy",
+      "question": "Which statement about ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "practical notes",
+      "section": "General",
+      "subtopic": "practical notes",
+      "difficulty": "medium",
+      "question": "Which statement about practical notes is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "practical notes is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "medium",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "RUMINANT PRODUCTION",
+      "section": "General",
+      "subtopic": "RUMINANT PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about RUMINANT PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "RUMINANT PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "RANGE AND PASTURE MANAGEMENT",
+      "section": "General",
+      "subtopic": "RANGE AND PASTURE MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about RANGE AND PASTURE MANAGEMENT is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "RANGE AND PASTURE MANAGEMENT is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "RUMINANT PRODUCTION",
+      "section": "General",
+      "subtopic": "RUMINANT PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about RUMINANT PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "RUMINANT PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "practical notes",
+      "section": "General",
+      "subtopic": "practical notes",
+      "difficulty": "medium",
+      "question": "Which statement about practical notes is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "practical notes is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 82,
+      "topic": "ANIMAL NUTRITION",
+      "section": "General",
+      "subtopic": "ANIMAL NUTRITION",
+      "difficulty": "easy",
+      "question": "Which statement about ANIMAL NUTRITION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "ANIMAL NUTRITION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "section": "General",
+      "subtopic": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "TIG welding",
+        "C": "MIG welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 85,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "section": "General",
+      "subtopic": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about NON-TRADITIONAL ANIMAL PRODUCTION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "NON-TRADITIONAL ANIMAL PRODUCTION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "ANIMAL HEALTH",
+      "section": "General",
+      "subtopic": "ANIMAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which statement about ANIMAL HEALTH is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "ANIMAL HEALTH is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "section": "General",
+      "subtopic": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "difficulty": "medium",
+      "question": "Which statement about ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "practical notes",
+      "section": "General",
+      "subtopic": "practical notes",
+      "difficulty": "hard",
+      "question": "Which statement about practical notes is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "practical notes is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY is part of the technical/vocational syllabus."
+    }
+  ]
+}

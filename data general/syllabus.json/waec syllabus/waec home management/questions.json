@@ -1,0 +1,5188 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "(a) Planning",
+      "section": "Subparts",
+      "subtopic": "(a) Planning",
+      "difficulty": "easy",
+      "question": "Which statement about (a) Planning is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "(a) Planning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "(a) Planning",
+      "section": "Subparts",
+      "subtopic": "(a) Planning",
+      "difficulty": "medium",
+      "question": "Which statement about (a) Planning is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "(a) Planning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "(a) Planning",
+      "section": "Subparts",
+      "subtopic": "(a) Planning",
+      "difficulty": "hard",
+      "question": "Which statement about (a) Planning is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "(a) Planning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "(b) Organization",
+      "section": "Subparts",
+      "subtopic": "(b) Organization",
+      "difficulty": "medium",
+      "question": "Which statement about (b) Organization is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "(b) Organization is part of the Home Economics syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "(b) Organization",
+      "section": "Subparts",
+      "subtopic": "(b) Organization",
+      "difficulty": "hard",
+      "question": "Which statement about (b) Organization is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "(b) Organization is part of the Home Economics syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "(b) Organization",
+      "section": "Subparts",
+      "subtopic": "(b) Organization",
+      "difficulty": "easy",
+      "question": "Which statement about (b) Organization is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "(b) Organization is part of the Home Economics syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "(c) Implementation",
+      "section": "Subparts",
+      "subtopic": "(c) Implementation",
+      "difficulty": "hard",
+      "question": "Which statement about (c) Implementation is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "(c) Implementation is part of the Home Economics syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "(c) Implementation",
+      "section": "Subparts",
+      "subtopic": "(c) Implementation",
+      "difficulty": "easy",
+      "question": "Which statement about (c) Implementation is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "(c) Implementation is part of the Home Economics syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "(c) Implementation",
+      "section": "Subparts",
+      "subtopic": "(c) Implementation",
+      "difficulty": "medium",
+      "question": "Which statement about (c) Implementation is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "(c) Implementation is part of the Home Economics syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "(d) Evaluation",
+      "section": "Subparts",
+      "subtopic": "(d) Evaluation",
+      "difficulty": "easy",
+      "question": "Which statement about (d) Evaluation is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "(d) Evaluation is part of the Home Economics syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "(d) Evaluation",
+      "section": "Subparts",
+      "subtopic": "(d) Evaluation",
+      "difficulty": "medium",
+      "question": "Which statement about (d) Evaluation is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "(d) Evaluation is part of the Home Economics syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "(d) Evaluation",
+      "section": "Subparts",
+      "subtopic": "(d) Evaluation",
+      "difficulty": "hard",
+      "question": "Which statement about (d) Evaluation is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "(d) Evaluation is part of the Home Economics syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "Human (time, energy, skill, work simplification as it applies to the home)",
+      "section": "Kinds",
+      "subtopic": "Human (time, energy, skill, work simplification as it applies to the home)",
+      "difficulty": "medium",
+      "question": "Which statement about Human (time, energy, skill, work simplification as it applies to the home) is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Human (time, energy, skill, work simplification as it applies to the home) is part of the Home Economics syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "Human (time, energy, skill, work simplification as it applies to the home)",
+      "section": "Kinds",
+      "subtopic": "Human (time, energy, skill, work simplification as it applies to the home)",
+      "difficulty": "hard",
+      "question": "Which statement about Human (time, energy, skill, work simplification as it applies to the home) is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Human (time, energy, skill, work simplification as it applies to the home) is part of the Home Economics syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "Human (time, energy, skill, work simplification as it applies to the home)",
+      "section": "Kinds",
+      "subtopic": "Human (time, energy, skill, work simplification as it applies to the home)",
+      "difficulty": "easy",
+      "question": "Which statement about Human (time, energy, skill, work simplification as it applies to the home) is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Human (time, energy, skill, work simplification as it applies to the home) is part of the Home Economics syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Non-human/material",
+      "section": "Kinds",
+      "subtopic": "Non-human/material",
+      "difficulty": "hard",
+      "question": "Which statement about Non-human/material is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Non-human/material is part of the Home Economics syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Non-human/material",
+      "section": "Kinds",
+      "subtopic": "Non-human/material",
+      "difficulty": "easy",
+      "question": "Which statement about Non-human/material is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Non-human/material is part of the Home Economics syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Non-human/material",
+      "section": "Kinds",
+      "subtopic": "Non-human/material",
+      "difficulty": "medium",
+      "question": "Which statement about Non-human/material is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Non-human/material is part of the Home Economics syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "community",
+      "section": "Kinds",
+      "subtopic": "community",
+      "difficulty": "easy",
+      "question": "Which statement about community is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "community is part of the Home Economics syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "community",
+      "section": "Kinds",
+      "subtopic": "community",
+      "difficulty": "medium",
+      "question": "Which statement about community is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "community is part of the Home Economics syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "community",
+      "section": "Kinds",
+      "subtopic": "community",
+      "difficulty": "hard",
+      "question": "Which statement about community is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "community is part of the Home Economics syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "nuclear",
+      "section": "Kinds",
+      "subtopic": "nuclear",
+      "difficulty": "medium",
+      "question": "Which statement about nuclear is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "nuclear is part of the Home Economics syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "nuclear",
+      "section": "Kinds",
+      "subtopic": "nuclear",
+      "difficulty": "hard",
+      "question": "Which statement about nuclear is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "nuclear is part of the Home Economics syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "nuclear",
+      "section": "Kinds",
+      "subtopic": "nuclear",
+      "difficulty": "easy",
+      "question": "Which statement about nuclear is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "nuclear is part of the Home Economics syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Monogamous",
+      "section": "Kinds",
+      "subtopic": "Monogamous",
+      "difficulty": "hard",
+      "question": "Which statement about Monogamous is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Monogamous is part of the Home Economics syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Monogamous",
+      "section": "Kinds",
+      "subtopic": "Monogamous",
+      "difficulty": "easy",
+      "question": "Which statement about Monogamous is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Monogamous is part of the Home Economics syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Monogamous",
+      "section": "Kinds",
+      "subtopic": "Monogamous",
+      "difficulty": "medium",
+      "question": "Which statement about Monogamous is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Monogamous is part of the Home Economics syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Polygamous",
+      "section": "Kinds",
+      "subtopic": "Polygamous",
+      "difficulty": "easy",
+      "question": "Which statement about Polygamous is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Polygamous is part of the Home Economics syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Polygamous",
+      "section": "Kinds",
+      "subtopic": "Polygamous",
+      "difficulty": "medium",
+      "question": "Which statement about Polygamous is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Polygamous is part of the Home Economics syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Polygamous",
+      "section": "Kinds",
+      "subtopic": "Polygamous",
+      "difficulty": "hard",
+      "question": "Which statement about Polygamous is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Polygamous is part of the Home Economics syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Extended",
+      "section": "Kinds",
+      "subtopic": "Extended",
+      "difficulty": "medium",
+      "question": "Which statement about Extended is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Extended is part of the Home Economics syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Extended",
+      "section": "Kinds",
+      "subtopic": "Extended",
+      "difficulty": "hard",
+      "question": "Which statement about Extended is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Extended is part of the Home Economics syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Extended",
+      "section": "Kinds",
+      "subtopic": "Extended",
+      "difficulty": "easy",
+      "question": "Which statement about Extended is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Extended is part of the Home Economics syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "beginning",
+      "section": "Family life cycle",
+      "subtopic": "beginning",
+      "difficulty": "hard",
+      "question": "Which statement about beginning is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "beginning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "beginning",
+      "section": "Family life cycle",
+      "subtopic": "beginning",
+      "difficulty": "easy",
+      "question": "Which statement about beginning is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "beginning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "beginning",
+      "section": "Family life cycle",
+      "subtopic": "beginning",
+      "difficulty": "medium",
+      "question": "Which statement about beginning is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "beginning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Expanding",
+      "section": "Family life cycle",
+      "subtopic": "Expanding",
+      "difficulty": "easy",
+      "question": "Which statement about Expanding is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Expanding is part of the Home Economics syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Expanding",
+      "section": "Family life cycle",
+      "subtopic": "Expanding",
+      "difficulty": "medium",
+      "question": "Which statement about Expanding is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Expanding is part of the Home Economics syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Expanding",
+      "section": "Family life cycle",
+      "subtopic": "Expanding",
+      "difficulty": "hard",
+      "question": "Which statement about Expanding is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "Expanding is part of the Home Economics syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "contracting",
+      "section": "Family life cycle",
+      "subtopic": "contracting",
+      "difficulty": "medium",
+      "question": "Which statement about contracting is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "contracting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "contracting",
+      "section": "Family life cycle",
+      "subtopic": "contracting",
+      "difficulty": "hard",
+      "question": "Which statement about contracting is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "contracting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "contracting",
+      "section": "Family life cycle",
+      "subtopic": "contracting",
+      "difficulty": "easy",
+      "question": "Which statement about contracting is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "contracting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Empty-nest",
+      "section": "Family life cycle",
+      "subtopic": "Empty-nest",
+      "difficulty": "hard",
+      "question": "Which statement about Empty-nest is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Empty-nest is part of the Home Economics syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Empty-nest",
+      "section": "Family life cycle",
+      "subtopic": "Empty-nest",
+      "difficulty": "easy",
+      "question": "Which statement about Empty-nest is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Empty-nest is part of the Home Economics syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Empty-nest",
+      "section": "Family life cycle",
+      "subtopic": "Empty-nest",
+      "difficulty": "medium",
+      "question": "Which statement about Empty-nest is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Empty-nest is part of the Home Economics syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "mother",
+      "section": "Roles responsibilities",
+      "subtopic": "mother",
+      "difficulty": "easy",
+      "question": "Which statement about mother is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "mother is part of the Home Economics syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "mother",
+      "section": "Roles responsibilities",
+      "subtopic": "mother",
+      "difficulty": "medium",
+      "question": "Which statement about mother is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "mother is part of the Home Economics syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "mother",
+      "section": "Roles responsibilities",
+      "subtopic": "mother",
+      "difficulty": "hard",
+      "question": "Which statement about mother is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "mother is part of the Home Economics syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "father",
+      "section": "Roles responsibilities",
+      "subtopic": "father",
+      "difficulty": "medium",
+      "question": "Which statement about father is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "father is part of the Home Economics syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "father",
+      "section": "Roles responsibilities",
+      "subtopic": "father",
+      "difficulty": "hard",
+      "question": "Which statement about father is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "father is part of the Home Economics syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "father",
+      "section": "Roles responsibilities",
+      "subtopic": "father",
+      "difficulty": "easy",
+      "question": "Which statement about father is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "father is part of the Home Economics syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Children",
+      "section": "Roles responsibilities",
+      "subtopic": "Children",
+      "difficulty": "hard",
+      "question": "Which statement about Children is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Children is part of the Home Economics syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Children",
+      "section": "Roles responsibilities",
+      "subtopic": "Children",
+      "difficulty": "easy",
+      "question": "Which statement about Children is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Children is part of the Home Economics syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Children",
+      "section": "Roles responsibilities",
+      "subtopic": "Children",
+      "difficulty": "medium",
+      "question": "Which statement about Children is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Children is part of the Home Economics syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "working mothers",
+      "section": "Roles responsibilities",
+      "subtopic": "working mothers",
+      "difficulty": "easy",
+      "question": "Which statement about working mothers is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "working mothers is part of the Home Economics syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "working mothers",
+      "section": "Roles responsibilities",
+      "subtopic": "working mothers",
+      "difficulty": "medium",
+      "question": "Which statement about working mothers is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "working mothers is part of the Home Economics syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "working mothers",
+      "section": "Roles responsibilities",
+      "subtopic": "working mothers",
+      "difficulty": "hard",
+      "question": "Which statement about working mothers is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "working mothers is part of the Home Economics syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "single Parent etc.",
+      "section": "Roles responsibilities",
+      "subtopic": "single Parent etc.",
+      "difficulty": "medium",
+      "question": "Which statement about single Parent etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "single Parent etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "single Parent etc.",
+      "section": "Roles responsibilities",
+      "subtopic": "single Parent etc.",
+      "difficulty": "hard",
+      "question": "Which statement about single Parent etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "single Parent etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "single Parent etc.",
+      "section": "Roles responsibilities",
+      "subtopic": "single Parent etc.",
+      "difficulty": "easy",
+      "question": "Which statement about single Parent etc. is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "single Parent etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "husband and wife",
+      "section": "Family relationships",
+      "subtopic": "husband and wife",
+      "difficulty": "hard",
+      "question": "Which statement about husband and wife is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "husband and wife is part of the Home Economics syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "husband and wife",
+      "section": "Family relationships",
+      "subtopic": "husband and wife",
+      "difficulty": "easy",
+      "question": "Which statement about husband and wife is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "husband and wife is part of the Home Economics syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "husband and wife",
+      "section": "Family relationships",
+      "subtopic": "husband and wife",
+      "difficulty": "medium",
+      "question": "Which statement about husband and wife is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "husband and wife is part of the Home Economics syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "parent/child",
+      "section": "Family relationships",
+      "subtopic": "parent/child",
+      "difficulty": "easy",
+      "question": "Which statement about parent/child is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "parent/child is part of the Home Economics syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "parent/child",
+      "section": "Family relationships",
+      "subtopic": "parent/child",
+      "difficulty": "medium",
+      "question": "Which statement about parent/child is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "parent/child is part of the Home Economics syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "parent/child",
+      "section": "Family relationships",
+      "subtopic": "parent/child",
+      "difficulty": "hard",
+      "question": "Which statement about parent/child is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "parent/child is part of the Home Economics syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "sibling/sibling",
+      "section": "Family relationships",
+      "subtopic": "sibling/sibling",
+      "difficulty": "medium",
+      "question": "Which statement about sibling/sibling is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "sibling/sibling is part of the Home Economics syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "sibling/sibling",
+      "section": "Family relationships",
+      "subtopic": "sibling/sibling",
+      "difficulty": "hard",
+      "question": "Which statement about sibling/sibling is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "sibling/sibling is part of the Home Economics syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "sibling/sibling",
+      "section": "Family relationships",
+      "subtopic": "sibling/sibling",
+      "difficulty": "easy",
+      "question": "Which statement about sibling/sibling is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "sibling/sibling is part of the Home Economics syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "nuclear and extended families",
+      "section": "Family relationships",
+      "subtopic": "nuclear and extended families",
+      "difficulty": "hard",
+      "question": "Which statement about nuclear and extended families is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "nuclear and extended families is part of the Home Economics syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "nuclear and extended families",
+      "section": "Family relationships",
+      "subtopic": "nuclear and extended families",
+      "difficulty": "easy",
+      "question": "Which statement about nuclear and extended families is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "nuclear and extended families is part of the Home Economics syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "nuclear and extended families",
+      "section": "Family relationships",
+      "subtopic": "nuclear and extended families",
+      "difficulty": "medium",
+      "question": "Which statement about nuclear and extended families is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "nuclear and extended families is part of the Home Economics syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "communication",
+      "section": "Factors affecting",
+      "subtopic": "communication",
+      "difficulty": "easy",
+      "question": "Which statement about communication is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "communication is part of the Home Economics syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "communication",
+      "section": "Factors affecting",
+      "subtopic": "communication",
+      "difficulty": "medium",
+      "question": "Which statement about communication is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "communication is part of the Home Economics syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "communication",
+      "section": "Factors affecting",
+      "subtopic": "communication",
+      "difficulty": "hard",
+      "question": "Which statement about communication is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "communication is part of the Home Economics syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Family values",
+      "section": "Factors affecting",
+      "subtopic": "Family values",
+      "difficulty": "medium",
+      "question": "Which statement about Family values is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Family values is part of the Home Economics syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Family values",
+      "section": "Factors affecting",
+      "subtopic": "Family values",
+      "difficulty": "hard",
+      "question": "Which statement about Family values is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Family values is part of the Home Economics syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Family values",
+      "section": "Factors affecting",
+      "subtopic": "Family values",
+      "difficulty": "easy",
+      "question": "Which statement about Family values is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Family values is part of the Home Economics syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "blood group",
+      "section": "Factors",
+      "subtopic": "blood group",
+      "difficulty": "hard",
+      "question": "Which statement about blood group is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "blood group is part of the Home Economics syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "blood group",
+      "section": "Factors",
+      "subtopic": "blood group",
+      "difficulty": "easy",
+      "question": "Which statement about blood group is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "blood group is part of the Home Economics syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "blood group",
+      "section": "Factors",
+      "subtopic": "blood group",
+      "difficulty": "medium",
+      "question": "Which statement about blood group is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "blood group is part of the Home Economics syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "geno-type",
+      "section": "Factors",
+      "subtopic": "geno-type",
+      "difficulty": "easy",
+      "question": "Which statement about geno-type is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "geno-type is part of the Home Economics syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "geno-type",
+      "section": "Factors",
+      "subtopic": "geno-type",
+      "difficulty": "medium",
+      "question": "Which statement about geno-type is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "geno-type is part of the Home Economics syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "geno-type",
+      "section": "Factors",
+      "subtopic": "geno-type",
+      "difficulty": "hard",
+      "question": "Which statement about geno-type is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "geno-type is part of the Home Economics syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "HIV status",
+      "section": "Factors",
+      "subtopic": "HIV status",
+      "difficulty": "medium",
+      "question": "Which statement about HIV status is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "HIV status is part of the Home Economics syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "HIV status",
+      "section": "Factors",
+      "subtopic": "HIV status",
+      "difficulty": "hard",
+      "question": "Which statement about HIV status is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "HIV status is part of the Home Economics syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "HIV status",
+      "section": "Factors",
+      "subtopic": "HIV status",
+      "difficulty": "easy",
+      "question": "Which statement about HIV status is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HIV status is part of the Home Economics syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "where to live",
+      "section": "Readiness",
+      "subtopic": "where to live",
+      "difficulty": "hard",
+      "question": "Which statement about where to live is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "where to live is part of the Home Economics syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "where to live",
+      "section": "Readiness",
+      "subtopic": "where to live",
+      "difficulty": "easy",
+      "question": "Which statement about where to live is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "where to live is part of the Home Economics syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "where to live",
+      "section": "Readiness",
+      "subtopic": "where to live",
+      "difficulty": "medium",
+      "question": "Which statement about where to live is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "where to live is part of the Home Economics syllabus."
+    },
+    {
+      "id": 91,
+      "topic": "Maturity",
+      "section": "Readiness",
+      "subtopic": "Maturity",
+      "difficulty": "easy",
+      "question": "Which statement about Maturity is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Maturity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 92,
+      "topic": "Maturity",
+      "section": "Readiness",
+      "subtopic": "Maturity",
+      "difficulty": "medium",
+      "question": "Which statement about Maturity is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Maturity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 93,
+      "topic": "Maturity",
+      "section": "Readiness",
+      "subtopic": "Maturity",
+      "difficulty": "hard",
+      "question": "Which statement about Maturity is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Maturity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 94,
+      "topic": "finances",
+      "section": "Readiness",
+      "subtopic": "finances",
+      "difficulty": "medium",
+      "question": "Which statement about finances is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "finances is part of the Home Economics syllabus."
+    },
+    {
+      "id": 95,
+      "topic": "finances",
+      "section": "Readiness",
+      "subtopic": "finances",
+      "difficulty": "hard",
+      "question": "Which statement about finances is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "finances is part of the Home Economics syllabus."
+    },
+    {
+      "id": 96,
+      "topic": "finances",
+      "section": "Readiness",
+      "subtopic": "finances",
+      "difficulty": "easy",
+      "question": "Which statement about finances is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "finances is part of the Home Economics syllabus."
+    },
+    {
+      "id": 97,
+      "topic": "marriage ceremony",
+      "section": "2.2 Courtship and marriage",
+      "subtopic": "marriage ceremony",
+      "difficulty": "hard",
+      "question": "Which statement about marriage ceremony is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "marriage ceremony is part of the Home Economics syllabus."
+    },
+    {
+      "id": 98,
+      "topic": "marriage ceremony",
+      "section": "2.2 Courtship and marriage",
+      "subtopic": "marriage ceremony",
+      "difficulty": "easy",
+      "question": "Which statement about marriage ceremony is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "marriage ceremony is part of the Home Economics syllabus."
+    },
+    {
+      "id": 99,
+      "topic": "marriage ceremony",
+      "section": "2.2 Courtship and marriage",
+      "subtopic": "marriage ceremony",
+      "difficulty": "medium",
+      "question": "Which statement about marriage ceremony is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "marriage ceremony is part of the Home Economics syllabus."
+    },
+    {
+      "id": 100,
+      "topic": "Immunization",
+      "section": "Post natal care",
+      "subtopic": "Immunization",
+      "difficulty": "easy",
+      "question": "Which statement about Immunization is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Immunization is part of the Home Economics syllabus."
+    },
+    {
+      "id": 101,
+      "topic": "Immunization",
+      "section": "Post natal care",
+      "subtopic": "Immunization",
+      "difficulty": "medium",
+      "question": "Which statement about Immunization is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Immunization is part of the Home Economics syllabus."
+    },
+    {
+      "id": 102,
+      "topic": "Immunization",
+      "section": "Post natal care",
+      "subtopic": "Immunization",
+      "difficulty": "hard",
+      "question": "Which statement about Immunization is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Immunization is part of the Home Economics syllabus."
+    },
+    {
+      "id": 103,
+      "topic": "provision of needs",
+      "section": "Responsibilities",
+      "subtopic": "provision of needs",
+      "difficulty": "medium",
+      "question": "Which statement about provision of needs is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "provision of needs is part of the Home Economics syllabus."
+    },
+    {
+      "id": 104,
+      "topic": "provision of needs",
+      "section": "Responsibilities",
+      "subtopic": "provision of needs",
+      "difficulty": "hard",
+      "question": "Which statement about provision of needs is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "provision of needs is part of the Home Economics syllabus."
+    },
+    {
+      "id": 105,
+      "topic": "provision of needs",
+      "section": "Responsibilities",
+      "subtopic": "provision of needs",
+      "difficulty": "easy",
+      "question": "Which statement about provision of needs is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "provision of needs is part of the Home Economics syllabus."
+    },
+    {
+      "id": 106,
+      "topic": "bathing",
+      "section": "Responsibilities",
+      "subtopic": "bathing",
+      "difficulty": "hard",
+      "question": "Which statement about bathing is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "bathing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 107,
+      "topic": "bathing",
+      "section": "Responsibilities",
+      "subtopic": "bathing",
+      "difficulty": "easy",
+      "question": "Which statement about bathing is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "bathing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 108,
+      "topic": "bathing",
+      "section": "Responsibilities",
+      "subtopic": "bathing",
+      "difficulty": "medium",
+      "question": "Which statement about bathing is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "bathing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 109,
+      "topic": "infants",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "infants",
+      "difficulty": "easy",
+      "question": "Which statement about infants is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "infants is part of the Home Economics syllabus."
+    },
+    {
+      "id": 110,
+      "topic": "infants",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "infants",
+      "difficulty": "medium",
+      "question": "Which statement about infants is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "infants is part of the Home Economics syllabus."
+    },
+    {
+      "id": 111,
+      "topic": "infants",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "infants",
+      "difficulty": "hard",
+      "question": "Which statement about infants is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "infants is part of the Home Economics syllabus."
+    },
+    {
+      "id": 112,
+      "topic": "toddlers",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "toddlers",
+      "difficulty": "medium",
+      "question": "Which statement about toddlers is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "toddlers is part of the Home Economics syllabus."
+    },
+    {
+      "id": 113,
+      "topic": "toddlers",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "toddlers",
+      "difficulty": "hard",
+      "question": "Which statement about toddlers is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "toddlers is part of the Home Economics syllabus."
+    },
+    {
+      "id": 114,
+      "topic": "toddlers",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "toddlers",
+      "difficulty": "easy",
+      "question": "Which statement about toddlers is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "toddlers is part of the Home Economics syllabus."
+    },
+    {
+      "id": 115,
+      "topic": "adolescents",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "adolescents",
+      "difficulty": "hard",
+      "question": "Which statement about adolescents is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "adolescents is part of the Home Economics syllabus."
+    },
+    {
+      "id": 116,
+      "topic": "adolescents",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "adolescents",
+      "difficulty": "easy",
+      "question": "Which statement about adolescents is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "adolescents is part of the Home Economics syllabus."
+    },
+    {
+      "id": 117,
+      "topic": "adolescents",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "adolescents",
+      "difficulty": "medium",
+      "question": "Which statement about adolescents is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "adolescents is part of the Home Economics syllabus."
+    },
+    {
+      "id": 118,
+      "topic": "adults",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "adults",
+      "difficulty": "easy",
+      "question": "Which statement about adults is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "adults is part of the Home Economics syllabus."
+    },
+    {
+      "id": 119,
+      "topic": "adults",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "adults",
+      "difficulty": "medium",
+      "question": "Which statement about adults is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "adults is part of the Home Economics syllabus."
+    },
+    {
+      "id": 120,
+      "topic": "adults",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "adults",
+      "difficulty": "hard",
+      "question": "Which statement about adults is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "adults is part of the Home Economics syllabus."
+    },
+    {
+      "id": 121,
+      "topic": "pregnant women",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "pregnant women",
+      "difficulty": "medium",
+      "question": "Which statement about pregnant women is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "pregnant women is part of the Home Economics syllabus."
+    },
+    {
+      "id": 122,
+      "topic": "pregnant women",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "pregnant women",
+      "difficulty": "hard",
+      "question": "Which statement about pregnant women is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "pregnant women is part of the Home Economics syllabus."
+    },
+    {
+      "id": 123,
+      "topic": "pregnant women",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "pregnant women",
+      "difficulty": "easy",
+      "question": "Which statement about pregnant women is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "pregnant women is part of the Home Economics syllabus."
+    },
+    {
+      "id": 124,
+      "topic": "lactating women",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "lactating women",
+      "difficulty": "hard",
+      "question": "Which statement about lactating women is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "lactating women is part of the Home Economics syllabus."
+    },
+    {
+      "id": 125,
+      "topic": "lactating women",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "lactating women",
+      "difficulty": "easy",
+      "question": "Which statement about lactating women is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "lactating women is part of the Home Economics syllabus."
+    },
+    {
+      "id": 126,
+      "topic": "lactating women",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "lactating women",
+      "difficulty": "medium",
+      "question": "Which statement about lactating women is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "lactating women is part of the Home Economics syllabus."
+    },
+    {
+      "id": 127,
+      "topic": "the aged",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "the aged",
+      "difficulty": "easy",
+      "question": "Which statement about the aged is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "the aged is part of the Home Economics syllabus."
+    },
+    {
+      "id": 128,
+      "topic": "the aged",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "the aged",
+      "difficulty": "medium",
+      "question": "Which statement about the aged is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "the aged is part of the Home Economics syllabus."
+    },
+    {
+      "id": 129,
+      "topic": "the aged",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "the aged",
+      "difficulty": "hard",
+      "question": "Which statement about the aged is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "the aged is part of the Home Economics syllabus."
+    },
+    {
+      "id": 130,
+      "topic": "convalescents",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "convalescents",
+      "difficulty": "medium",
+      "question": "Which statement about convalescents is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "convalescents is part of the Home Economics syllabus."
+    },
+    {
+      "id": 131,
+      "topic": "convalescents",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "convalescents",
+      "difficulty": "hard",
+      "question": "Which statement about convalescents is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "convalescents is part of the Home Economics syllabus."
+    },
+    {
+      "id": 132,
+      "topic": "convalescents",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "convalescents",
+      "difficulty": "easy",
+      "question": "Which statement about convalescents is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "convalescents is part of the Home Economics syllabus."
+    },
+    {
+      "id": 133,
+      "topic": "invalids",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "invalids",
+      "difficulty": "hard",
+      "question": "Which statement about invalids is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "invalids is part of the Home Economics syllabus."
+    },
+    {
+      "id": 134,
+      "topic": "invalids",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "invalids",
+      "difficulty": "easy",
+      "question": "Which statement about invalids is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "invalids is part of the Home Economics syllabus."
+    },
+    {
+      "id": 135,
+      "topic": "invalids",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "invalids",
+      "difficulty": "medium",
+      "question": "Which statement about invalids is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "invalids is part of the Home Economics syllabus."
+    },
+    {
+      "id": 136,
+      "topic": "vegetarians",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "vegetarians",
+      "difficulty": "easy",
+      "question": "Which statement about vegetarians is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "vegetarians is part of the Home Economics syllabus."
+    },
+    {
+      "id": 137,
+      "topic": "vegetarians",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "vegetarians",
+      "difficulty": "medium",
+      "question": "Which statement about vegetarians is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "vegetarians is part of the Home Economics syllabus."
+    },
+    {
+      "id": 138,
+      "topic": "vegetarians",
+      "section": "3.4 Special nutrition needs",
+      "subtopic": "vegetarians",
+      "difficulty": "hard",
+      "question": "Which statement about vegetarians is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "vegetarians is part of the Home Economics syllabus."
+    },
+    {
+      "id": 139,
+      "topic": "Meaning, types, functions",
+      "section": "4.1 Clothing",
+      "subtopic": "Meaning, types, functions",
+      "difficulty": "medium",
+      "question": "Which statement about Meaning, types, functions is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Meaning, types, functions is part of the Home Economics syllabus."
+    },
+    {
+      "id": 140,
+      "topic": "Meaning, types, functions",
+      "section": "4.1 Clothing",
+      "subtopic": "Meaning, types, functions",
+      "difficulty": "hard",
+      "question": "Which statement about Meaning, types, functions is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Meaning, types, functions is part of the Home Economics syllabus."
+    },
+    {
+      "id": 141,
+      "topic": "Meaning, types, functions",
+      "section": "4.1 Clothing",
+      "subtopic": "Meaning, types, functions",
+      "difficulty": "easy",
+      "question": "Which statement about Meaning, types, functions is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Meaning, types, functions is part of the Home Economics syllabus."
+    },
+    {
+      "id": 142,
+      "topic": "Origin of fibres",
+      "section": "4.3 Textiles",
+      "subtopic": "Origin of fibres",
+      "difficulty": "hard",
+      "question": "Which statement about Origin of fibres is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Origin of fibres is part of the Home Economics syllabus."
+    },
+    {
+      "id": 143,
+      "topic": "Origin of fibres",
+      "section": "4.3 Textiles",
+      "subtopic": "Origin of fibres",
+      "difficulty": "easy",
+      "question": "Which statement about Origin of fibres is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Origin of fibres is part of the Home Economics syllabus."
+    },
+    {
+      "id": 144,
+      "topic": "Origin of fibres",
+      "section": "4.3 Textiles",
+      "subtopic": "Origin of fibres",
+      "difficulty": "medium",
+      "question": "Which statement about Origin of fibres is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Origin of fibres is part of the Home Economics syllabus."
+    },
+    {
+      "id": 145,
+      "topic": "Classification of fibres/fabrics",
+      "section": "4.3 Textiles",
+      "subtopic": "Classification of fibres/fabrics",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Back stitch",
+        "B": "Running stitch",
+        "C": "Overcasting stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 146,
+      "topic": "Classification of fibres/fabrics",
+      "section": "4.3 Textiles",
+      "subtopic": "Classification of fibres/fabrics",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Hemming stitch",
+        "C": "Overcasting stitch",
+        "D": "Back stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 147,
+      "topic": "Classification of fibres/fabrics",
+      "section": "4.3 Textiles",
+      "subtopic": "Classification of fibres/fabrics",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Back stitch",
+        "B": "Running stitch",
+        "C": "Overcasting stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 148,
+      "topic": "Weaving, knitting, crocheting etc.",
+      "section": "4.4 Fabric construction",
+      "subtopic": "Weaving, knitting, crocheting etc.",
+      "difficulty": "medium",
+      "question": "Which statement about Weaving, knitting, crocheting etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Weaving, knitting, crocheting etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 149,
+      "topic": "Weaving, knitting, crocheting etc.",
+      "section": "4.4 Fabric construction",
+      "subtopic": "Weaving, knitting, crocheting etc.",
+      "difficulty": "hard",
+      "question": "Which statement about Weaving, knitting, crocheting etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Weaving, knitting, crocheting etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 150,
+      "topic": "Weaving, knitting, crocheting etc.",
+      "section": "4.4 Fabric construction",
+      "subtopic": "Weaving, knitting, crocheting etc.",
+      "difficulty": "easy",
+      "question": "Which statement about Weaving, knitting, crocheting etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "Weaving, knitting, crocheting etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 151,
+      "topic": "agents – water, Detergents, fabric rinses, Stiffening agents, bleaches",
+      "section": "Laundry",
+      "subtopic": "agents – water, Detergents, fabric rinses, Stiffening agents, bleaches",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Running stitch",
+        "C": "Back stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 152,
+      "topic": "agents – water, Detergents, fabric rinses, Stiffening agents, bleaches",
+      "section": "Laundry",
+      "subtopic": "agents – water, Detergents, fabric rinses, Stiffening agents, bleaches",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Hemming stitch",
+        "C": "Running stitch",
+        "D": "Back stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 153,
+      "topic": "agents – water, Detergents, fabric rinses, Stiffening agents, bleaches",
+      "section": "Laundry",
+      "subtopic": "agents – water, Detergents, fabric rinses, Stiffening agents, bleaches",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Running stitch",
+        "C": "Back stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 154,
+      "topic": "equipment and tools",
+      "section": "Laundry",
+      "subtopic": "equipment and tools",
+      "difficulty": "easy",
+      "question": "Which statement about equipment and tools is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "equipment and tools is part of the Home Economics syllabus."
+    },
+    {
+      "id": 155,
+      "topic": "equipment and tools",
+      "section": "Laundry",
+      "subtopic": "equipment and tools",
+      "difficulty": "medium",
+      "question": "Which statement about equipment and tools is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "equipment and tools is part of the Home Economics syllabus."
+    },
+    {
+      "id": 156,
+      "topic": "equipment and tools",
+      "section": "Laundry",
+      "subtopic": "equipment and tools",
+      "difficulty": "hard",
+      "question": "Which statement about equipment and tools is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "equipment and tools is part of the Home Economics syllabus."
+    },
+    {
+      "id": 157,
+      "topic": "management of the family wash",
+      "section": "Laundry",
+      "subtopic": "management of the family wash",
+      "difficulty": "medium",
+      "question": "Which statement about management of the family wash is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "management of the family wash is part of the Home Economics syllabus."
+    },
+    {
+      "id": 158,
+      "topic": "management of the family wash",
+      "section": "Laundry",
+      "subtopic": "management of the family wash",
+      "difficulty": "hard",
+      "question": "Which statement about management of the family wash is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "management of the family wash is part of the Home Economics syllabus."
+    },
+    {
+      "id": 159,
+      "topic": "management of the family wash",
+      "section": "Laundry",
+      "subtopic": "management of the family wash",
+      "difficulty": "easy",
+      "question": "Which statement about management of the family wash is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "management of the family wash is part of the Home Economics syllabus."
+    },
+    {
+      "id": 160,
+      "topic": "Stains and stain removal",
+      "section": "Laundry",
+      "subtopic": "Stains and stain removal",
+      "difficulty": "hard",
+      "question": "Which statement about Stains and stain removal is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "Stains and stain removal is part of the Home Economics syllabus."
+    },
+    {
+      "id": 161,
+      "topic": "Stains and stain removal",
+      "section": "Laundry",
+      "subtopic": "Stains and stain removal",
+      "difficulty": "easy",
+      "question": "Which statement about Stains and stain removal is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Stains and stain removal is part of the Home Economics syllabus."
+    },
+    {
+      "id": 162,
+      "topic": "Stains and stain removal",
+      "section": "Laundry",
+      "subtopic": "Stains and stain removal",
+      "difficulty": "medium",
+      "question": "Which statement about Stains and stain removal is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Stains and stain removal is part of the Home Economics syllabus."
+    },
+    {
+      "id": 163,
+      "topic": "Care of special garments",
+      "section": "Laundry",
+      "subtopic": "Care of special garments",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Overcasting stitch",
+        "C": "Back stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "B",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 164,
+      "topic": "Care of special garments",
+      "section": "Laundry",
+      "subtopic": "Care of special garments",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Running stitch",
+        "C": "Back stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 165,
+      "topic": "Care of special garments",
+      "section": "Laundry",
+      "subtopic": "Care of special garments",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Hemming stitch",
+        "C": "Back stitch",
+        "D": "Running stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 166,
+      "topic": "storey building",
+      "section": "Types",
+      "subtopic": "storey building",
+      "difficulty": "medium",
+      "question": "Which statement about storey building is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "storey building is part of the Home Economics syllabus."
+    },
+    {
+      "id": 167,
+      "topic": "storey building",
+      "section": "Types",
+      "subtopic": "storey building",
+      "difficulty": "hard",
+      "question": "Which statement about storey building is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "storey building is part of the Home Economics syllabus."
+    },
+    {
+      "id": 168,
+      "topic": "storey building",
+      "section": "Types",
+      "subtopic": "storey building",
+      "difficulty": "easy",
+      "question": "Which statement about storey building is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "storey building is part of the Home Economics syllabus."
+    },
+    {
+      "id": 169,
+      "topic": "bungalow",
+      "section": "Types",
+      "subtopic": "bungalow",
+      "difficulty": "hard",
+      "question": "Which statement about bungalow is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "bungalow is part of the Home Economics syllabus."
+    },
+    {
+      "id": 170,
+      "topic": "bungalow",
+      "section": "Types",
+      "subtopic": "bungalow",
+      "difficulty": "easy",
+      "question": "Which statement about bungalow is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "bungalow is part of the Home Economics syllabus."
+    },
+    {
+      "id": 171,
+      "topic": "bungalow",
+      "section": "Types",
+      "subtopic": "bungalow",
+      "difficulty": "medium",
+      "question": "Which statement about bungalow is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "bungalow is part of the Home Economics syllabus."
+    },
+    {
+      "id": 172,
+      "topic": "duplex etc.",
+      "section": "Types",
+      "subtopic": "duplex etc.",
+      "difficulty": "easy",
+      "question": "Which statement about duplex etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "duplex etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 173,
+      "topic": "duplex etc.",
+      "section": "Types",
+      "subtopic": "duplex etc.",
+      "difficulty": "medium",
+      "question": "Which statement about duplex etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "duplex etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 174,
+      "topic": "duplex etc.",
+      "section": "Types",
+      "subtopic": "duplex etc.",
+      "difficulty": "hard",
+      "question": "Which statement about duplex etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "duplex etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 175,
+      "topic": "traditional and modern",
+      "section": "Classification",
+      "subtopic": "traditional and modern",
+      "difficulty": "medium",
+      "question": "Which statement about traditional and modern is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "traditional and modern is part of the Home Economics syllabus."
+    },
+    {
+      "id": 176,
+      "topic": "traditional and modern",
+      "section": "Classification",
+      "subtopic": "traditional and modern",
+      "difficulty": "hard",
+      "question": "Which statement about traditional and modern is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "traditional and modern is part of the Home Economics syllabus."
+    },
+    {
+      "id": 177,
+      "topic": "traditional and modern",
+      "section": "Classification",
+      "subtopic": "traditional and modern",
+      "difficulty": "easy",
+      "question": "Which statement about traditional and modern is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "traditional and modern is part of the Home Economics syllabus."
+    },
+    {
+      "id": 178,
+      "topic": "Renting",
+      "section": "Acquiring a house",
+      "subtopic": "Renting",
+      "difficulty": "hard",
+      "question": "Which statement about Renting is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Renting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 179,
+      "topic": "Renting",
+      "section": "Acquiring a house",
+      "subtopic": "Renting",
+      "difficulty": "easy",
+      "question": "Which statement about Renting is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Renting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 180,
+      "topic": "Renting",
+      "section": "Acquiring a house",
+      "subtopic": "Renting",
+      "difficulty": "medium",
+      "question": "Which statement about Renting is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Renting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 181,
+      "topic": "Mortgage",
+      "section": "Acquiring a house",
+      "subtopic": "Mortgage",
+      "difficulty": "easy",
+      "question": "Which statement about Mortgage is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Mortgage is part of the Home Economics syllabus."
+    },
+    {
+      "id": 182,
+      "topic": "Mortgage",
+      "section": "Acquiring a house",
+      "subtopic": "Mortgage",
+      "difficulty": "medium",
+      "question": "Which statement about Mortgage is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "Mortgage is part of the Home Economics syllabus."
+    },
+    {
+      "id": 183,
+      "topic": "Mortgage",
+      "section": "Acquiring a house",
+      "subtopic": "Mortgage",
+      "difficulty": "hard",
+      "question": "Which statement about Mortgage is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Mortgage is part of the Home Economics syllabus."
+    },
+    {
+      "id": 184,
+      "topic": "Building",
+      "section": "Acquiring a house",
+      "subtopic": "Building",
+      "difficulty": "medium",
+      "question": "Which statement about Building is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Building is part of the Home Economics syllabus."
+    },
+    {
+      "id": 185,
+      "topic": "Building",
+      "section": "Acquiring a house",
+      "subtopic": "Building",
+      "difficulty": "hard",
+      "question": "Which statement about Building is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Building is part of the Home Economics syllabus."
+    },
+    {
+      "id": 186,
+      "topic": "Building",
+      "section": "Acquiring a house",
+      "subtopic": "Building",
+      "difficulty": "easy",
+      "question": "Which statement about Building is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Building is part of the Home Economics syllabus."
+    },
+    {
+      "id": 187,
+      "topic": "Buying",
+      "section": "Acquiring a house",
+      "subtopic": "Buying",
+      "difficulty": "hard",
+      "question": "Which statement about Buying is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Buying is part of the Home Economics syllabus."
+    },
+    {
+      "id": 188,
+      "topic": "Buying",
+      "section": "Acquiring a house",
+      "subtopic": "Buying",
+      "difficulty": "easy",
+      "question": "Which statement about Buying is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Buying is part of the Home Economics syllabus."
+    },
+    {
+      "id": 189,
+      "topic": "Buying",
+      "section": "Acquiring a house",
+      "subtopic": "Buying",
+      "difficulty": "medium",
+      "question": "Which statement about Buying is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Buying is part of the Home Economics syllabus."
+    },
+    {
+      "id": 190,
+      "topic": "inheritance",
+      "section": "Acquiring a house",
+      "subtopic": "inheritance",
+      "difficulty": "easy",
+      "question": "Which statement about inheritance is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "inheritance is part of the Home Economics syllabus."
+    },
+    {
+      "id": 191,
+      "topic": "inheritance",
+      "section": "Acquiring a house",
+      "subtopic": "inheritance",
+      "difficulty": "medium",
+      "question": "Which statement about inheritance is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "inheritance is part of the Home Economics syllabus."
+    },
+    {
+      "id": 192,
+      "topic": "inheritance",
+      "section": "Acquiring a house",
+      "subtopic": "inheritance",
+      "difficulty": "hard",
+      "question": "Which statement about inheritance is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "inheritance is part of the Home Economics syllabus."
+    },
+    {
+      "id": 193,
+      "topic": "Economic",
+      "section": "Factors influencing choice",
+      "subtopic": "Economic",
+      "difficulty": "medium",
+      "question": "Which statement about Economic is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Economic is part of the Home Economics syllabus."
+    },
+    {
+      "id": 194,
+      "topic": "Economic",
+      "section": "Factors influencing choice",
+      "subtopic": "Economic",
+      "difficulty": "hard",
+      "question": "Which statement about Economic is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Economic is part of the Home Economics syllabus."
+    },
+    {
+      "id": 195,
+      "topic": "Economic",
+      "section": "Factors influencing choice",
+      "subtopic": "Economic",
+      "difficulty": "easy",
+      "question": "Which statement about Economic is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Economic is part of the Home Economics syllabus."
+    },
+    {
+      "id": 196,
+      "topic": "Social",
+      "section": "Factors influencing choice",
+      "subtopic": "Social",
+      "difficulty": "hard",
+      "question": "Which statement about Social is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Social is part of the Home Economics syllabus."
+    },
+    {
+      "id": 197,
+      "topic": "Social",
+      "section": "Factors influencing choice",
+      "subtopic": "Social",
+      "difficulty": "easy",
+      "question": "Which statement about Social is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Social is part of the Home Economics syllabus."
+    },
+    {
+      "id": 198,
+      "topic": "Social",
+      "section": "Factors influencing choice",
+      "subtopic": "Social",
+      "difficulty": "medium",
+      "question": "Which statement about Social is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Social is part of the Home Economics syllabus."
+    },
+    {
+      "id": 199,
+      "topic": "Psychological",
+      "section": "Factors influencing choice",
+      "subtopic": "Psychological",
+      "difficulty": "easy",
+      "question": "Which statement about Psychological is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Psychological is part of the Home Economics syllabus."
+    },
+    {
+      "id": 200,
+      "topic": "Psychological",
+      "section": "Factors influencing choice",
+      "subtopic": "Psychological",
+      "difficulty": "medium",
+      "question": "Which statement about Psychological is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Psychological is part of the Home Economics syllabus."
+    },
+    {
+      "id": 201,
+      "topic": "Psychological",
+      "section": "Factors influencing choice",
+      "subtopic": "Psychological",
+      "difficulty": "hard",
+      "question": "Which statement about Psychological is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Psychological is part of the Home Economics syllabus."
+    },
+    {
+      "id": 202,
+      "topic": "ventilation in the house",
+      "section": "Factors influencing choice",
+      "subtopic": "ventilation in the house",
+      "difficulty": "medium",
+      "question": "Which statement about ventilation in the house is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ventilation in the house is part of the Home Economics syllabus."
+    },
+    {
+      "id": 203,
+      "topic": "ventilation in the house",
+      "section": "Factors influencing choice",
+      "subtopic": "ventilation in the house",
+      "difficulty": "hard",
+      "question": "Which statement about ventilation in the house is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ventilation in the house is part of the Home Economics syllabus."
+    },
+    {
+      "id": 204,
+      "topic": "ventilation in the house",
+      "section": "Factors influencing choice",
+      "subtopic": "ventilation in the house",
+      "difficulty": "easy",
+      "question": "Which statement about ventilation in the house is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "ventilation in the house is part of the Home Economics syllabus."
+    },
+    {
+      "id": 205,
+      "topic": "Design",
+      "section": "Factors influencing choice",
+      "subtopic": "Design",
+      "difficulty": "hard",
+      "question": "Which statement about Design is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Design is part of the Home Economics syllabus."
+    },
+    {
+      "id": 206,
+      "topic": "Design",
+      "section": "Factors influencing choice",
+      "subtopic": "Design",
+      "difficulty": "easy",
+      "question": "Which statement about Design is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Design is part of the Home Economics syllabus."
+    },
+    {
+      "id": 207,
+      "topic": "Design",
+      "section": "Factors influencing choice",
+      "subtopic": "Design",
+      "difficulty": "medium",
+      "question": "Which statement about Design is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Design is part of the Home Economics syllabus."
+    },
+    {
+      "id": 208,
+      "topic": "Large and small Equipment",
+      "section": "Equipment and furnishing",
+      "subtopic": "Large and small Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Large and small Equipment is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Large and small Equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 209,
+      "topic": "Large and small Equipment",
+      "section": "Equipment and furnishing",
+      "subtopic": "Large and small Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Large and small Equipment is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Large and small Equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 210,
+      "topic": "Large and small Equipment",
+      "section": "Equipment and furnishing",
+      "subtopic": "Large and small Equipment",
+      "difficulty": "hard",
+      "question": "Which statement about Large and small Equipment is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Large and small Equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 211,
+      "topic": "Hard and soft Furnishing",
+      "section": "Equipment and furnishing",
+      "subtopic": "Hard and soft Furnishing",
+      "difficulty": "medium",
+      "question": "Which statement about Hard and soft Furnishing is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Hard and soft Furnishing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 212,
+      "topic": "Hard and soft Furnishing",
+      "section": "Equipment and furnishing",
+      "subtopic": "Hard and soft Furnishing",
+      "difficulty": "hard",
+      "question": "Which statement about Hard and soft Furnishing is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Hard and soft Furnishing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 213,
+      "topic": "Hard and soft Furnishing",
+      "section": "Equipment and furnishing",
+      "subtopic": "Hard and soft Furnishing",
+      "difficulty": "easy",
+      "question": "Which statement about Hard and soft Furnishing is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Hard and soft Furnishing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 214,
+      "topic": "Fixture",
+      "section": "Equipment and furnishing",
+      "subtopic": "Fixture",
+      "difficulty": "hard",
+      "question": "Which statement about Fixture is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "Fixture is part of the Home Economics syllabus."
+    },
+    {
+      "id": 215,
+      "topic": "Fixture",
+      "section": "Equipment and furnishing",
+      "subtopic": "Fixture",
+      "difficulty": "easy",
+      "question": "Which statement about Fixture is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Fixture is part of the Home Economics syllabus."
+    },
+    {
+      "id": 216,
+      "topic": "Fixture",
+      "section": "Equipment and furnishing",
+      "subtopic": "Fixture",
+      "difficulty": "medium",
+      "question": "Which statement about Fixture is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Fixture is part of the Home Economics syllabus."
+    },
+    {
+      "id": 217,
+      "topic": "colours",
+      "section": "Elements and principles of art and design",
+      "subtopic": "colours",
+      "difficulty": "easy",
+      "question": "Which statement about colours is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "colours is part of the Home Economics syllabus."
+    },
+    {
+      "id": 218,
+      "topic": "colours",
+      "section": "Elements and principles of art and design",
+      "subtopic": "colours",
+      "difficulty": "medium",
+      "question": "Which statement about colours is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "colours is part of the Home Economics syllabus."
+    },
+    {
+      "id": 219,
+      "topic": "colours",
+      "section": "Elements and principles of art and design",
+      "subtopic": "colours",
+      "difficulty": "hard",
+      "question": "Which statement about colours is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "colours is part of the Home Economics syllabus."
+    },
+    {
+      "id": 220,
+      "topic": "Textures",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Textures",
+      "difficulty": "medium",
+      "question": "Which statement about Textures is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Textures is part of the Home Economics syllabus."
+    },
+    {
+      "id": 221,
+      "topic": "Textures",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Textures",
+      "difficulty": "hard",
+      "question": "Which statement about Textures is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Textures is part of the Home Economics syllabus."
+    },
+    {
+      "id": 222,
+      "topic": "Textures",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Textures",
+      "difficulty": "easy",
+      "question": "Which statement about Textures is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Textures is part of the Home Economics syllabus."
+    },
+    {
+      "id": 223,
+      "topic": "Proportion",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Proportion",
+      "difficulty": "hard",
+      "question": "Which statement about Proportion is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Proportion is part of the Home Economics syllabus."
+    },
+    {
+      "id": 224,
+      "topic": "Proportion",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Proportion",
+      "difficulty": "easy",
+      "question": "Which statement about Proportion is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Proportion is part of the Home Economics syllabus."
+    },
+    {
+      "id": 225,
+      "topic": "Proportion",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Proportion",
+      "difficulty": "medium",
+      "question": "Which statement about Proportion is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Proportion is part of the Home Economics syllabus."
+    },
+    {
+      "id": 226,
+      "topic": "Rhythm etc.",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Rhythm etc.",
+      "difficulty": "easy",
+      "question": "Which statement about Rhythm etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Rhythm etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 227,
+      "topic": "Rhythm etc.",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Rhythm etc.",
+      "difficulty": "medium",
+      "question": "Which statement about Rhythm etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Rhythm etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 228,
+      "topic": "Rhythm etc.",
+      "section": "Elements and principles of art and design",
+      "subtopic": "Rhythm etc.",
+      "difficulty": "hard",
+      "question": "Which statement about Rhythm etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Rhythm etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 229,
+      "topic": "Sources, uses, Purification, storage",
+      "section": "Water",
+      "subtopic": "Sources, uses, Purification, storage",
+      "difficulty": "medium",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Refrigeration",
+        "B": "Drying",
+        "C": "Salting",
+        "D": "Smoking"
+      },
+      "answer": "A",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 230,
+      "topic": "Sources, uses, Purification, storage",
+      "section": "Water",
+      "subtopic": "Sources, uses, Purification, storage",
+      "difficulty": "hard",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Refrigeration",
+        "B": "Smoking",
+        "C": "Salting",
+        "D": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 231,
+      "topic": "Sources, uses, Purification, storage",
+      "section": "Water",
+      "subtopic": "Sources, uses, Purification, storage",
+      "difficulty": "easy",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Refrigeration",
+        "B": "Salting",
+        "C": "Smoking",
+        "D": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 232,
+      "topic": "electricity – meter reading, Electric bill",
+      "section": "Light",
+      "subtopic": "electricity – meter reading, Electric bill",
+      "difficulty": "hard",
+      "question": "Which statement about electricity – meter reading, Electric bill is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "electricity – meter reading, Electric bill is part of the Home Economics syllabus."
+    },
+    {
+      "id": 233,
+      "topic": "electricity – meter reading, Electric bill",
+      "section": "Light",
+      "subtopic": "electricity – meter reading, Electric bill",
+      "difficulty": "easy",
+      "question": "Which statement about electricity – meter reading, Electric bill is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "electricity – meter reading, Electric bill is part of the Home Economics syllabus."
+    },
+    {
+      "id": 234,
+      "topic": "electricity – meter reading, Electric bill",
+      "section": "Light",
+      "subtopic": "electricity – meter reading, Electric bill",
+      "difficulty": "medium",
+      "question": "Which statement about electricity – meter reading, Electric bill is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "electricity – meter reading, Electric bill is part of the Home Economics syllabus."
+    },
+    {
+      "id": 235,
+      "topic": "cooking gas",
+      "section": "Fuels",
+      "subtopic": "cooking gas",
+      "difficulty": "easy",
+      "question": "Which statement about cooking gas is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "cooking gas is part of the Home Economics syllabus."
+    },
+    {
+      "id": 236,
+      "topic": "cooking gas",
+      "section": "Fuels",
+      "subtopic": "cooking gas",
+      "difficulty": "medium",
+      "question": "Which statement about cooking gas is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "cooking gas is part of the Home Economics syllabus."
+    },
+    {
+      "id": 237,
+      "topic": "cooking gas",
+      "section": "Fuels",
+      "subtopic": "cooking gas",
+      "difficulty": "hard",
+      "question": "Which statement about cooking gas is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "cooking gas is part of the Home Economics syllabus."
+    },
+    {
+      "id": 238,
+      "topic": "kerosene",
+      "section": "Fuels",
+      "subtopic": "kerosene",
+      "difficulty": "medium",
+      "question": "Which statement about kerosene is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "kerosene is part of the Home Economics syllabus."
+    },
+    {
+      "id": 239,
+      "topic": "kerosene",
+      "section": "Fuels",
+      "subtopic": "kerosene",
+      "difficulty": "hard",
+      "question": "Which statement about kerosene is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "kerosene is part of the Home Economics syllabus."
+    },
+    {
+      "id": 240,
+      "topic": "kerosene",
+      "section": "Fuels",
+      "subtopic": "kerosene",
+      "difficulty": "easy",
+      "question": "Which statement about kerosene is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "kerosene is part of the Home Economics syllabus."
+    },
+    {
+      "id": 241,
+      "topic": "fire wood",
+      "section": "Fuels",
+      "subtopic": "fire wood",
+      "difficulty": "hard",
+      "question": "Which statement about fire wood is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "fire wood is part of the Home Economics syllabus."
+    },
+    {
+      "id": 242,
+      "topic": "fire wood",
+      "section": "Fuels",
+      "subtopic": "fire wood",
+      "difficulty": "easy",
+      "question": "Which statement about fire wood is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "fire wood is part of the Home Economics syllabus."
+    },
+    {
+      "id": 243,
+      "topic": "fire wood",
+      "section": "Fuels",
+      "subtopic": "fire wood",
+      "difficulty": "medium",
+      "question": "Which statement about fire wood is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "fire wood is part of the Home Economics syllabus."
+    },
+    {
+      "id": 244,
+      "topic": "charcoal",
+      "section": "Fuels",
+      "subtopic": "charcoal",
+      "difficulty": "easy",
+      "question": "Which statement about charcoal is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "charcoal is part of the Home Economics syllabus."
+    },
+    {
+      "id": 245,
+      "topic": "charcoal",
+      "section": "Fuels",
+      "subtopic": "charcoal",
+      "difficulty": "medium",
+      "question": "Which statement about charcoal is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "charcoal is part of the Home Economics syllabus."
+    },
+    {
+      "id": 246,
+      "topic": "charcoal",
+      "section": "Fuels",
+      "subtopic": "charcoal",
+      "difficulty": "hard",
+      "question": "Which statement about charcoal is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "charcoal is part of the Home Economics syllabus."
+    },
+    {
+      "id": 247,
+      "topic": "electricity",
+      "section": "Fuels",
+      "subtopic": "electricity",
+      "difficulty": "medium",
+      "question": "Which statement about electricity is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "electricity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 248,
+      "topic": "electricity",
+      "section": "Fuels",
+      "subtopic": "electricity",
+      "difficulty": "hard",
+      "question": "Which statement about electricity is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "electricity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 249,
+      "topic": "electricity",
+      "section": "Fuels",
+      "subtopic": "electricity",
+      "difficulty": "easy",
+      "question": "Which statement about electricity is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "electricity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 250,
+      "topic": "abrasives",
+      "section": "Cleaning agents and materials",
+      "subtopic": "abrasives",
+      "difficulty": "hard",
+      "question": "Which statement about abrasives is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "abrasives is part of the Home Economics syllabus."
+    },
+    {
+      "id": 251,
+      "topic": "abrasives",
+      "section": "Cleaning agents and materials",
+      "subtopic": "abrasives",
+      "difficulty": "easy",
+      "question": "Which statement about abrasives is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "abrasives is part of the Home Economics syllabus."
+    },
+    {
+      "id": 252,
+      "topic": "abrasives",
+      "section": "Cleaning agents and materials",
+      "subtopic": "abrasives",
+      "difficulty": "medium",
+      "question": "Which statement about abrasives is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "abrasives is part of the Home Economics syllabus."
+    },
+    {
+      "id": 253,
+      "topic": "polishes",
+      "section": "Cleaning agents and materials",
+      "subtopic": "polishes",
+      "difficulty": "easy",
+      "question": "Which statement about polishes is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "polishes is part of the Home Economics syllabus."
+    },
+    {
+      "id": 254,
+      "topic": "polishes",
+      "section": "Cleaning agents and materials",
+      "subtopic": "polishes",
+      "difficulty": "medium",
+      "question": "Which statement about polishes is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "polishes is part of the Home Economics syllabus."
+    },
+    {
+      "id": 255,
+      "topic": "polishes",
+      "section": "Cleaning agents and materials",
+      "subtopic": "polishes",
+      "difficulty": "hard",
+      "question": "Which statement about polishes is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "polishes is part of the Home Economics syllabus."
+    },
+    {
+      "id": 256,
+      "topic": "formica",
+      "section": "Care of surfaces",
+      "subtopic": "formica",
+      "difficulty": "medium",
+      "question": "Which statement about formica is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "formica is part of the Home Economics syllabus."
+    },
+    {
+      "id": 257,
+      "topic": "formica",
+      "section": "Care of surfaces",
+      "subtopic": "formica",
+      "difficulty": "hard",
+      "question": "Which statement about formica is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "formica is part of the Home Economics syllabus."
+    },
+    {
+      "id": 258,
+      "topic": "formica",
+      "section": "Care of surfaces",
+      "subtopic": "formica",
+      "difficulty": "easy",
+      "question": "Which statement about formica is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "formica is part of the Home Economics syllabus."
+    },
+    {
+      "id": 259,
+      "topic": "concrete",
+      "section": "Care of surfaces",
+      "subtopic": "concrete",
+      "difficulty": "hard",
+      "question": "Which statement about concrete is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "concrete is part of the Home Economics syllabus."
+    },
+    {
+      "id": 260,
+      "topic": "concrete",
+      "section": "Care of surfaces",
+      "subtopic": "concrete",
+      "difficulty": "easy",
+      "question": "Which statement about concrete is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "concrete is part of the Home Economics syllabus."
+    },
+    {
+      "id": 261,
+      "topic": "concrete",
+      "section": "Care of surfaces",
+      "subtopic": "concrete",
+      "difficulty": "medium",
+      "question": "Which statement about concrete is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "concrete is part of the Home Economics syllabus."
+    },
+    {
+      "id": 262,
+      "topic": "Carpets",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "Carpets",
+      "difficulty": "easy",
+      "question": "Which statement about Carpets is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Carpets is part of the Home Economics syllabus."
+    },
+    {
+      "id": 263,
+      "topic": "Carpets",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "Carpets",
+      "difficulty": "medium",
+      "question": "Which statement about Carpets is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Carpets is part of the Home Economics syllabus."
+    },
+    {
+      "id": 264,
+      "topic": "Carpets",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "Carpets",
+      "difficulty": "hard",
+      "question": "Which statement about Carpets is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Carpets is part of the Home Economics syllabus."
+    },
+    {
+      "id": 265,
+      "topic": "Linoleums",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "Linoleums",
+      "difficulty": "medium",
+      "question": "Which statement about Linoleums is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Linoleums is part of the Home Economics syllabus."
+    },
+    {
+      "id": 266,
+      "topic": "Linoleums",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "Linoleums",
+      "difficulty": "hard",
+      "question": "Which statement about Linoleums is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Linoleums is part of the Home Economics syllabus."
+    },
+    {
+      "id": 267,
+      "topic": "Linoleums",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "Linoleums",
+      "difficulty": "easy",
+      "question": "Which statement about Linoleums is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Linoleums is part of the Home Economics syllabus."
+    },
+    {
+      "id": 268,
+      "topic": "terrazzo",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "terrazzo",
+      "difficulty": "hard",
+      "question": "Which statement about terrazzo is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "terrazzo is part of the Home Economics syllabus."
+    },
+    {
+      "id": 269,
+      "topic": "terrazzo",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "terrazzo",
+      "difficulty": "easy",
+      "question": "Which statement about terrazzo is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "terrazzo is part of the Home Economics syllabus."
+    },
+    {
+      "id": 270,
+      "topic": "terrazzo",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "terrazzo",
+      "difficulty": "medium",
+      "question": "Which statement about terrazzo is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "terrazzo is part of the Home Economics syllabus."
+    },
+    {
+      "id": 271,
+      "topic": "parquet etc.",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "parquet etc.",
+      "difficulty": "easy",
+      "question": "Which statement about parquet etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "parquet etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 272,
+      "topic": "parquet etc.",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "parquet etc.",
+      "difficulty": "medium",
+      "question": "Which statement about parquet etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "parquet etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 273,
+      "topic": "parquet etc.",
+      "section": "Care of floors and floor coverings",
+      "subtopic": "parquet etc.",
+      "difficulty": "hard",
+      "question": "Which statement about parquet etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "parquet etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 274,
+      "topic": "ceramics",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "ceramics",
+      "difficulty": "medium",
+      "question": "Which statement about ceramics is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "ceramics is part of the Home Economics syllabus."
+    },
+    {
+      "id": 275,
+      "topic": "ceramics",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "ceramics",
+      "difficulty": "hard",
+      "question": "Which statement about ceramics is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "ceramics is part of the Home Economics syllabus."
+    },
+    {
+      "id": 276,
+      "topic": "ceramics",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "ceramics",
+      "difficulty": "easy",
+      "question": "Which statement about ceramics is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "ceramics is part of the Home Economics syllabus."
+    },
+    {
+      "id": 277,
+      "topic": "metals",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "metals",
+      "difficulty": "hard",
+      "question": "Which statement about metals is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "metals is part of the Home Economics syllabus."
+    },
+    {
+      "id": 278,
+      "topic": "metals",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "metals",
+      "difficulty": "easy",
+      "question": "Which statement about metals is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "metals is part of the Home Economics syllabus."
+    },
+    {
+      "id": 279,
+      "topic": "metals",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "metals",
+      "difficulty": "medium",
+      "question": "Which statement about metals is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "metals is part of the Home Economics syllabus."
+    },
+    {
+      "id": 280,
+      "topic": "collage etc.",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "collage etc.",
+      "difficulty": "easy",
+      "question": "Which statement about collage etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "collage etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 281,
+      "topic": "collage etc.",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "collage etc.",
+      "difficulty": "medium",
+      "question": "Which statement about collage etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "collage etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 282,
+      "topic": "collage etc.",
+      "section": "Care of home furnishing and ornaments",
+      "subtopic": "collage etc.",
+      "difficulty": "hard",
+      "question": "Which statement about collage etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "collage etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 283,
+      "topic": "House hold waste",
+      "section": "Waste disposal",
+      "subtopic": "House hold waste",
+      "difficulty": "medium",
+      "question": "Which statement about House hold waste is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "House hold waste is part of the Home Economics syllabus."
+    },
+    {
+      "id": 284,
+      "topic": "House hold waste",
+      "section": "Waste disposal",
+      "subtopic": "House hold waste",
+      "difficulty": "hard",
+      "question": "Which statement about House hold waste is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "House hold waste is part of the Home Economics syllabus."
+    },
+    {
+      "id": 285,
+      "topic": "House hold waste",
+      "section": "Waste disposal",
+      "subtopic": "House hold waste",
+      "difficulty": "easy",
+      "question": "Which statement about House hold waste is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "House hold waste is part of the Home Economics syllabus."
+    },
+    {
+      "id": 286,
+      "topic": "Drainage system",
+      "section": "Waste disposal",
+      "subtopic": "Drainage system",
+      "difficulty": "hard",
+      "question": "Which statement about Drainage system is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Drainage system is part of the Home Economics syllabus."
+    },
+    {
+      "id": 287,
+      "topic": "Drainage system",
+      "section": "Waste disposal",
+      "subtopic": "Drainage system",
+      "difficulty": "easy",
+      "question": "Which statement about Drainage system is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Drainage system is part of the Home Economics syllabus."
+    },
+    {
+      "id": 288,
+      "topic": "Drainage system",
+      "section": "Waste disposal",
+      "subtopic": "Drainage system",
+      "difficulty": "medium",
+      "question": "Which statement about Drainage system is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Drainage system is part of the Home Economics syllabus."
+    },
+    {
+      "id": 289,
+      "topic": "Disposal methods",
+      "section": "Waste disposal",
+      "subtopic": "Disposal methods",
+      "difficulty": "easy",
+      "question": "Which statement about Disposal methods is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Disposal methods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 290,
+      "topic": "Disposal methods",
+      "section": "Waste disposal",
+      "subtopic": "Disposal methods",
+      "difficulty": "medium",
+      "question": "Which statement about Disposal methods is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "Disposal methods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 291,
+      "topic": "Disposal methods",
+      "section": "Waste disposal",
+      "subtopic": "Disposal methods",
+      "difficulty": "hard",
+      "question": "Which statement about Disposal methods is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Disposal methods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 292,
+      "topic": "pollution and health hazards",
+      "section": "Waste disposal",
+      "subtopic": "pollution and health hazards",
+      "difficulty": "medium",
+      "question": "Which statement about pollution and health hazards is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "pollution and health hazards is part of the Home Economics syllabus."
+    },
+    {
+      "id": 293,
+      "topic": "pollution and health hazards",
+      "section": "Waste disposal",
+      "subtopic": "pollution and health hazards",
+      "difficulty": "hard",
+      "question": "Which statement about pollution and health hazards is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "pollution and health hazards is part of the Home Economics syllabus."
+    },
+    {
+      "id": 294,
+      "topic": "pollution and health hazards",
+      "section": "Waste disposal",
+      "subtopic": "pollution and health hazards",
+      "difficulty": "easy",
+      "question": "Which statement about pollution and health hazards is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "pollution and health hazards is part of the Home Economics syllabus."
+    },
+    {
+      "id": 295,
+      "topic": "Creativity",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Creativity",
+      "difficulty": "hard",
+      "question": "Which statement about Creativity is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "Creativity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 296,
+      "topic": "Creativity",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Creativity",
+      "difficulty": "easy",
+      "question": "Which statement about Creativity is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Creativity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 297,
+      "topic": "Creativity",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Creativity",
+      "difficulty": "medium",
+      "question": "Which statement about Creativity is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Creativity is part of the Home Economics syllabus."
+    },
+    {
+      "id": 298,
+      "topic": "Management",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Management",
+      "difficulty": "easy",
+      "question": "Which statement about Management is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Management is part of the Home Economics syllabus."
+    },
+    {
+      "id": 299,
+      "topic": "Management",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Management",
+      "difficulty": "medium",
+      "question": "Which statement about Management is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Management is part of the Home Economics syllabus."
+    },
+    {
+      "id": 300,
+      "topic": "Management",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Management",
+      "difficulty": "hard",
+      "question": "Which statement about Management is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Management is part of the Home Economics syllabus."
+    },
+    {
+      "id": 301,
+      "topic": "Communication",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Communication",
+      "difficulty": "medium",
+      "question": "Which statement about Communication is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Communication is part of the Home Economics syllabus."
+    },
+    {
+      "id": 302,
+      "topic": "Communication",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Communication",
+      "difficulty": "hard",
+      "question": "Which statement about Communication is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Communication is part of the Home Economics syllabus."
+    },
+    {
+      "id": 303,
+      "topic": "Communication",
+      "section": "Entrepreneurial skills",
+      "subtopic": "Communication",
+      "difficulty": "easy",
+      "question": "Which statement about Communication is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Communication is part of the Home Economics syllabus."
+    },
+    {
+      "id": 304,
+      "topic": "Fashion designing",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Fashion designing",
+      "difficulty": "hard",
+      "question": "Which statement about Fashion designing is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Fashion designing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 305,
+      "topic": "Fashion designing",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Fashion designing",
+      "difficulty": "easy",
+      "question": "Which statement about Fashion designing is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Fashion designing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 306,
+      "topic": "Fashion designing",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Fashion designing",
+      "difficulty": "medium",
+      "question": "Which statement about Fashion designing is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Fashion designing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 307,
+      "topic": "Hair dressing",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Hair dressing",
+      "difficulty": "easy",
+      "question": "Which statement about Hair dressing is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Hair dressing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 308,
+      "topic": "Hair dressing",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Hair dressing",
+      "difficulty": "medium",
+      "question": "Which statement about Hair dressing is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Hair dressing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 309,
+      "topic": "Hair dressing",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Hair dressing",
+      "difficulty": "hard",
+      "question": "Which statement about Hair dressing is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "Hair dressing is part of the Home Economics syllabus."
+    },
+    {
+      "id": 310,
+      "topic": "Fast Foods",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Fast Foods",
+      "difficulty": "medium",
+      "question": "Which statement about Fast Foods is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Fast Foods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 311,
+      "topic": "Fast Foods",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Fast Foods",
+      "difficulty": "hard",
+      "question": "Which statement about Fast Foods is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Fast Foods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 312,
+      "topic": "Fast Foods",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Fast Foods",
+      "difficulty": "easy",
+      "question": "Which statement about Fast Foods is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "Fast Foods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 313,
+      "topic": "Bead making etc.",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Bead making etc.",
+      "difficulty": "hard",
+      "question": "Which statement about Bead making etc. is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Bead making etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 314,
+      "topic": "Bead making etc.",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Bead making etc.",
+      "difficulty": "easy",
+      "question": "Which statement about Bead making etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Bead making etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 315,
+      "topic": "Bead making etc.",
+      "section": "Entrepreneurial activities",
+      "subtopic": "Bead making etc.",
+      "difficulty": "medium",
+      "question": "Which statement about Bead making etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "Bead making etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 316,
+      "topic": "family budget",
+      "section": "6.2 Money Management",
+      "subtopic": "family budget",
+      "difficulty": "easy",
+      "question": "Which statement about family budget is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "family budget is part of the Home Economics syllabus."
+    },
+    {
+      "id": 317,
+      "topic": "family budget",
+      "section": "6.2 Money Management",
+      "subtopic": "family budget",
+      "difficulty": "medium",
+      "question": "Which statement about family budget is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "family budget is part of the Home Economics syllabus."
+    },
+    {
+      "id": 318,
+      "topic": "family budget",
+      "section": "6.2 Money Management",
+      "subtopic": "family budget",
+      "difficulty": "hard",
+      "question": "Which statement about family budget is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "family budget is part of the Home Economics syllabus."
+    },
+    {
+      "id": 319,
+      "topic": "Saving, investment, trading etc.",
+      "section": "Ways",
+      "subtopic": "Saving, investment, trading etc.",
+      "difficulty": "medium",
+      "question": "Which statement about Saving, investment, trading etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Saving, investment, trading etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 320,
+      "topic": "Saving, investment, trading etc.",
+      "section": "Ways",
+      "subtopic": "Saving, investment, trading etc.",
+      "difficulty": "hard",
+      "question": "Which statement about Saving, investment, trading etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Saving, investment, trading etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 321,
+      "topic": "Saving, investment, trading etc.",
+      "section": "Ways",
+      "subtopic": "Saving, investment, trading etc.",
+      "difficulty": "easy",
+      "question": "Which statement about Saving, investment, trading etc. is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Saving, investment, trading etc. is part of the Home Economics syllabus."
+    },
+    {
+      "id": 322,
+      "topic": "Stocks, shares, treasury bill",
+      "section": "Investment opportunities",
+      "subtopic": "Stocks, shares, treasury bill",
+      "difficulty": "hard",
+      "question": "Which statement about Stocks, shares, treasury bill is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "Stocks, shares, treasury bill is part of the Home Economics syllabus."
+    },
+    {
+      "id": 323,
+      "topic": "Stocks, shares, treasury bill",
+      "section": "Investment opportunities",
+      "subtopic": "Stocks, shares, treasury bill",
+      "difficulty": "easy",
+      "question": "Which statement about Stocks, shares, treasury bill is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "Stocks, shares, treasury bill is part of the Home Economics syllabus."
+    },
+    {
+      "id": 324,
+      "topic": "Stocks, shares, treasury bill",
+      "section": "Investment opportunities",
+      "subtopic": "Stocks, shares, treasury bill",
+      "difficulty": "medium",
+      "question": "Which statement about Stocks, shares, treasury bill is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "Stocks, shares, treasury bill is part of the Home Economics syllabus."
+    }
+  ]
+}

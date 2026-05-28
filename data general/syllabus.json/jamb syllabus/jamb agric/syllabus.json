@@ -1,0 +1,252 @@
+{
+  "syllabus_title": "JAMB UTME Agriculture Syllabus",
+  "exam_body": "Joint Admissions and Matriculation Board (JAMB)",
+  "sections": [
+    {
+      "section": "A",
+      "title": "General Agriculture",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Meaning and Scope of Agriculture",
+          "subtopics": ["Definition of Agriculture", "Branches of Agriculture", "Types of Agriculture (subsistence and commercial)"],
+          "objectives": ["Use the definition of Agriculture in modern terms as it relates to production, processing and marketing.", "Differentiate between the various branches of Agriculture.", "Differentiate between the various types of Agriculture."]
+        },
+        {
+          "topic_number": 2,
+          "title": "Importance of Agriculture",
+          "subtopics": ["Provision of raw materials for agro-allied industries", "Provision of employment", "Development of rural areas, etc."],
+          "objectives": ["Relate agro-allied industries to their respective raw materials.", "Relate the various contributions of Agriculture to economic development in West Africa."]
+        },
+        {
+          "topic_number": 3,
+          "title": "Agricultural Ecology",
+          "subtopics": ["Ecological zones of West Africa", "Agricultural products of each ecological zone", "Environmental factors and their effects on crop and livestock production"],
+          "objectives": ["Differentiate between the features of the ecological zones in West Africa.", "Classify agricultural products according to each ecological zone.", "Differentiate abiotic from biotic factors affecting agricultural production."]
+        },
+        {
+          "topic_number": 4,
+          "title": "Genetics",
+          "subtopics": ["First and second laws of Mendel", "Cell division", "Terminologies e.g. locus, alleles, genotype, dominance"],
+          "objectives": ["Apply the first and second laws of Mendel to genetics.", "Differentiate between the types of cell division.", "Determine the outcome of genetic crossing involving homozygous and heterozygous traits.", "Compute simple probability ratios."]
+        },
+        {
+          "topic_number": 5,
+          "title": "Farm Inputs",
+          "subtopics": ["Planting materials, agrochemicals, etc."],
+          "objectives": ["Classify different types of farm inputs and their uses."]
+        },
+        {
+          "topic_number": 6,
+          "title": "History of Agricultural Development in West Africa",
+          "subtopics": ["Agricultural systems e.g. shifting cultivation, bush fallowing etc.", "Problems of Agricultural development e.g. land tenure systems, inadequate infrastructure, finance, pollution etc.", "Establishment of national and international research institutes (NCRI, IAR, IITA, etc.)", "Agricultural Development Projects (ADPs) e.g. RTEP, FADAMA", "National agricultural programmes (OFN, NAFPP, Green Revolution, etc.)"],
+          "objectives": ["Compare various agricultural systems.", "Identify problems and proffer solutions.", "Trace history and assess role of research institutes.", "Evaluate contributions of ADPs and national programmes."]
+        },
+        {
+          "topic_number": 7,
+          "title": "Roles of Government and NGOs in Agricultural Development",
+          "subtopics": ["Fiscal policies (import duties, ban on importation etc.)", "Agricultural laws and reforms (e.g. Land Use Act)", "Government programmes (subsidies, credit facilities)", "Provision of infrastructures", "Contribution of NGOs"],
+          "objectives": ["Evaluate effects of government policies.", "Identify laws and their effects.", "Assess incentives and infrastructure.", "Examine roles of NGOs."]
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "Agronomy",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Rocks and Soil Formation",
+          "subtopics": ["Factors affecting rock weathering and soil formation", "Physical properties of soil (profile, texture, structure)", "Chemical properties of soil (acidity, alkalinity, silicate)"],
+          "objectives": ["Identify types and properties of rocks and soils.", "Differentiate soil horizons and components.", "Determine soil pH and water-holding capacity."]
+        },
+        {
+          "topic_number": 2,
+          "title": "Soil Water and Soil Conservation",
+          "subtopics": ["Soil water (importance, sources, movement, management)", "Soil conservation (causes and control of erosion, leaching etc.)", "Irrigation and drainage methods"],
+          "objectives": ["Compare types of soil water.", "Identify causes and control methods of erosion/leaching.", "Classify irrigation and drainage systems."]
+        },
+        {
+          "topic_number": 3,
+          "title": "Soil Fertility",
+          "subtopics": ["Macro and micro-nutrients, carbon/water/nitrogen cycles", "Soil flora and fauna", "Maintenance of soil fertility (cover crops, manures, fertilizers)", "Nutrient deficiency symptoms"],
+          "objectives": ["Classify nutrients and factors affecting availability.", "Examine roles of soil organisms.", "Compare maintenance methods and fertilizers.", "Identify deficiency symptoms and remedies."]
+        },
+        {
+          "topic_number": 4,
+          "title": "Land Preparation and Soil Tillage",
+          "subtopics": ["Principles and practices of land preparation", "Factors affecting choice of tillage methods (zero, minimum tillage etc.)"],
+          "objectives": ["Compare methods and advantages/disadvantages.", "Give reasons for choice of tillage methods."]
+        },
+        {
+          "topic_number": 5,
+          "title": "Plant Forms and Functions",
+          "subtopics": ["Parts of monocot and dicot plants and functions", "Anatomy and morphology of storage organs"],
+          "objectives": ["Identify plant parts and distinguish monocot/dicot.", "Differentiate storage organs."]
+        },
+        {
+          "topic_number": 6,
+          "title": "Growth, Development and Reproduction",
+          "subtopics": ["Gametogenesis", "Pollination", "Fertilization", "Embryo formation and development"],
+          "objectives": ["Examine gamete formation, pollination types, fertilization, and embryo development."]
+        },
+        {
+          "topic_number": 7,
+          "title": "Plant Propagation Methods",
+          "subtopics": ["Sexual (seeds, viability, germination)", "Asexual/vegetative propagation (cutting, grafting etc.)", "Nursery and nursery management"],
+          "objectives": ["Classify crops and determine viability/seed rate.", "Classify vegetative methods.", "Determine nursery practices."]
+        },
+        {
+          "topic_number": 8,
+          "title": "Cropping Systems, Planting Patterns and Plant Densities",
+          "subtopics": ["Cropping systems (monocropping, intercropping, rotational etc.)", "Planting patterns (broadcasting, row spacing, drilling)", "Plant densities (single, double, multiple)"],
+          "objectives": ["Compare systems and solve problems.", "Differentiate patterns.", "Examine densities and compute per hectare."]
+        },
+        {
+          "topic_number": 9,
+          "title": "Crop Husbandry",
+          "subtopics": ["Groups: Cereals, Legumes, Tubers, Vegetables/Spices, Fruits, Beverages, Oils, Latex, Fibres, Sugars"],
+          "objectives": ["Apply propagation, husbandry, harvesting, processing, storage.", "Identify diseases/pests and economic importance."]
+        },
+        {
+          "topic_number": 10,
+          "title": "Pasture and Forage Crops",
+          "subtopics": ["Morphology, propagation, husbandry of grasses and legumes", "Natural grasslands and range management"],
+          "objectives": ["Classify pastures/forage crops.", "Establish, maintain, and conserve pastures."]
+        },
+        {
+          "topic_number": 11,
+          "title": "Weeds",
+          "subtopics": ["Gross morphology, reproduction, dispersal", "Weed control methods"],
+          "objectives": ["Identify and classify weeds.", "Apply control methods."]
+        },
+        {
+          "topic_number": 12,
+          "title": "Crop Diseases and Pests",
+          "subtopics": ["Identification of organisms (fungi, bacteria, viruses, nematodes)", "Symptoms, transmission, control methods"],
+          "objectives": ["Identify organisms, symptoms, and control methods."]
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "Animal Production",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Forms and Classification of Major Farm Animals",
+          "subtopics": ["Cattle, sheep, goat, pig, rabbit, poultry etc."],
+          "objectives": ["Classify and identify common farm animals."]
+        },
+        {
+          "topic_number": 2,
+          "title": "General Characteristics and Anatomy",
+          "subtopics": ["External and internal anatomy of farm animals"],
+          "objectives": ["Describe anatomy and relate to functions."]
+        },
+        {
+          "topic_number": 3,
+          "title": "Reproduction and Growth in Farm Animals",
+          "subtopics": ["Reproductive systems, gestation periods, lactation etc."],
+          "objectives": ["Understand reproductive processes."]
+        },
+        {
+          "topic_number": 4,
+          "title": "Livestock Management",
+          "subtopics": ["Housing, feeding, sanitation, veterinary care under different systems (intensive, extensive)"],
+          "objectives": ["Apply management practices."]
+        },
+        {
+          "topic_number": 5,
+          "title": "Animal Health",
+          "subtopics": ["Diseases (pathology), parasites (parasitology), prevention and control"],
+          "objectives": ["Identify diseases, parasites, and control methods."]
+        },
+        {
+          "topic_number": 6,
+          "title": "Fisheries and Wildlife",
+          "subtopics": ["Fish culture systems, harvesting, processing", "Wildlife management, reserves"],
+          "objectives": ["Differentiate fish farming systems and wildlife practices."]
+        },
+        {
+          "topic_number": 7,
+          "title": "Bee Keeping (Apiculture)",
+          "subtopics": ["Types of bees, methods, equipment"],
+          "objectives": ["Understand importance and practices of apiculture."]
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "Agricultural Economics and Extension",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Factors of Agricultural Production",
+          "subtopics": ["Land, Labour, Capital, Management"],
+          "objectives": ["Understand features and effects."]
+        },
+        {
+          "topic_number": 2,
+          "title": "Basic Economic Principles",
+          "subtopics": ["Demand and supply, production function, diminishing returns etc."],
+          "objectives": ["Relate to agricultural production."]
+        },
+        {
+          "topic_number": 3,
+          "title": "Labour Management",
+          "subtopics": ["Types and sources of labour, national labour laws"],
+          "objectives": ["Understand labour efficiency and relations."]
+        },
+        {
+          "topic_number": 4,
+          "title": "Farm Management",
+          "subtopics": ["Qualities of farm manager, records, profit/loss, insurance"],
+          "objectives": ["Manage farm records and evaluate performance."]
+        },
+        {
+          "topic_number": 5,
+          "title": "Agricultural Marketing and Cooperatives",
+          "subtopics": ["Marketing channels, price determination, cooperatives"],
+          "objectives": ["Understand marketing and cooperative roles."]
+        },
+        {
+          "topic_number": 6,
+          "title": "Agricultural Extension",
+          "subtopics": ["Meaning, importance, methods of extension"],
+          "objectives": ["Understand extension services."]
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "title": "Agricultural Technology",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Farm Machinery and Implements",
+          "subtopics": ["Types, uses, maintenance"],
+          "objectives": ["Identify and maintain machinery."]
+        },
+        {
+          "topic_number": 2,
+          "title": "Farm Surveying and Planning",
+          "subtopics": ["Principles and uses of surveying"],
+          "objectives": ["Understand surveying techniques."]
+        },
+        {
+          "topic_number": 3,
+          "title": "Agricultural Processing and Storage",
+          "subtopics": ["Methods of processing and storage"],
+          "objectives": ["Apply preservation techniques."]
+        },
+        {
+          "topic_number": 4,
+          "title": "Introduction to Biotechnology",
+          "subtopics": ["Applications in agriculture"],
+          "objectives": ["Understand basic biotechnology."]
+        }
+      ]
+    }
+  ]
+}

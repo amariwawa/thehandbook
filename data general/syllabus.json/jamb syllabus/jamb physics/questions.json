@@ -1,0 +1,1828 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Measurements and Units",
+      "section": "General",
+      "subtopic": "Measurements and Units",
+      "difficulty": "easy",
+      "question": "Which statement about Measurements and Units is correct?",
+      "options": {
+        "A": "It is not part of the standard syllabus",
+        "B": "It is exclusive to chemical reactions",
+        "C": "It is a key physics concept in Measurements and Units",
+        "D": "It does not apply to physical systems"
+      },
+      "answer": "C",
+      "explanation": "Measurements and Units is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 2,
+      "topic": "Measurements and Units",
+      "section": "General",
+      "subtopic": "Measurements and Units",
+      "difficulty": "medium",
+      "question": "Which statement about Measurements and Units is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is not part of the standard syllabus",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is a key physics concept in Measurements and Units"
+      },
+      "answer": "D",
+      "explanation": "Measurements and Units is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 3,
+      "topic": "Measurements and Units",
+      "section": "General",
+      "subtopic": "Measurements and Units",
+      "difficulty": "hard",
+      "question": "Which statement about Measurements and Units is correct?",
+      "options": {
+        "A": "It is a key physics concept in Measurements and Units",
+        "B": "It does not apply to physical systems",
+        "C": "It is not part of the standard syllabus",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "A",
+      "explanation": "Measurements and Units is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 4,
+      "topic": "Motion",
+      "section": "General",
+      "subtopic": "Motion",
+      "difficulty": "medium",
+      "question": "Calculate the force acting on a body of mass 10kg accelerating at 2m/s².",
+      "options": {
+        "A": "40N",
+        "B": "30N",
+        "C": "20N",
+        "D": "12N"
+      },
+      "answer": "C",
+      "explanation": "Newton's 2nd Law: F = ma = 10 × 2 = 20N."
+    },
+    {
+      "id": 5,
+      "topic": "Motion",
+      "section": "General",
+      "subtopic": "Motion",
+      "difficulty": "hard",
+      "question": "Calculate the force acting on a body of mass 5kg accelerating at 10m/s².",
+      "options": {
+        "A": "60N",
+        "B": "100N",
+        "C": "15N",
+        "D": "50N"
+      },
+      "answer": "D",
+      "explanation": "Newton's 2nd Law: F = ma = 5 × 10 = 50N."
+    },
+    {
+      "id": 6,
+      "topic": "Motion",
+      "section": "General",
+      "subtopic": "Motion",
+      "difficulty": "easy",
+      "question": "Calculate the force acting on a body of mass 7kg accelerating at 10m/s².",
+      "options": {
+        "A": "70N",
+        "B": "17N",
+        "C": "140N",
+        "D": "80N"
+      },
+      "answer": "A",
+      "explanation": "Newton's 2nd Law: F = ma = 7 × 10 = 70N."
+    },
+    {
+      "id": 7,
+      "topic": "Gravitational Field",
+      "section": "General",
+      "subtopic": "Gravitational Field",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Copper",
+        "C": "Aluminium",
+        "D": "Iron"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 8,
+      "topic": "Gravitational Field",
+      "section": "General",
+      "subtopic": "Gravitational Field",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Iron",
+        "C": "Steel",
+        "D": "Copper"
+      },
+      "answer": "C",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 9,
+      "topic": "Gravitational Field",
+      "section": "General",
+      "subtopic": "Gravitational Field",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 10,
+      "topic": "Equilibrium of Forces",
+      "section": "General",
+      "subtopic": "Equilibrium of Forces",
+      "difficulty": "easy",
+      "question": "Calculate the force acting on a body of mass 5kg accelerating at 4m/s².",
+      "options": {
+        "A": "20N",
+        "B": "30N",
+        "C": "9N",
+        "D": "40N"
+      },
+      "answer": "A",
+      "explanation": "Newton's 2nd Law: F = ma = 5 × 4 = 20N."
+    },
+    {
+      "id": 11,
+      "topic": "Equilibrium of Forces",
+      "section": "General",
+      "subtopic": "Equilibrium of Forces",
+      "difficulty": "medium",
+      "question": "Calculate the force acting on a body of mass 3kg accelerating at 5m/s².",
+      "options": {
+        "A": "8N",
+        "B": "25N",
+        "C": "30N",
+        "D": "15N"
+      },
+      "answer": "D",
+      "explanation": "Newton's 2nd Law: F = ma = 3 × 5 = 15N."
+    },
+    {
+      "id": 12,
+      "topic": "Equilibrium of Forces",
+      "section": "General",
+      "subtopic": "Equilibrium of Forces",
+      "difficulty": "hard",
+      "question": "Calculate the force acting on a body of mass 7kg accelerating at 3m/s².",
+      "options": {
+        "A": "31N",
+        "B": "10N",
+        "C": "21N",
+        "D": "42N"
+      },
+      "answer": "C",
+      "explanation": "Newton's 2nd Law: F = ma = 7 × 3 = 21N."
+    },
+    {
+      "id": 13,
+      "topic": "Work, Energy and Power",
+      "section": "General",
+      "subtopic": "Work, Energy and Power",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 6kg mass moving at 4m/s.",
+      "options": {
+        "A": "10J",
+        "B": "58J",
+        "C": "24J",
+        "D": "48J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 6 × 4² = 48J."
+    },
+    {
+      "id": 14,
+      "topic": "Work, Energy and Power",
+      "section": "General",
+      "subtopic": "Work, Energy and Power",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 8kg mass moving at 3m/s.",
+      "options": {
+        "A": "11J",
+        "B": "46J",
+        "C": "36J",
+        "D": "24J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 8 × 3² = 36J."
+    },
+    {
+      "id": 15,
+      "topic": "Work, Energy and Power",
+      "section": "General",
+      "subtopic": "Work, Energy and Power",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 6kg mass moving at 9m/s.",
+      "options": {
+        "A": "243J",
+        "B": "253J",
+        "C": "15J",
+        "D": "54J"
+      },
+      "answer": "A",
+      "explanation": "KE = ½mv² = 0.5 × 6 × 9² = 243J."
+    },
+    {
+      "id": 16,
+      "topic": "Friction",
+      "section": "General",
+      "subtopic": "Friction",
+      "difficulty": "hard",
+      "question": "Which statement about Friction is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is exclusive to chemical reactions",
+        "C": "It is a key physics concept in Friction",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "C",
+      "explanation": "Friction is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 17,
+      "topic": "Friction",
+      "section": "General",
+      "subtopic": "Friction",
+      "difficulty": "easy",
+      "question": "Which statement about Friction is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It is not part of the standard syllabus",
+        "C": "It does not apply to physical systems",
+        "D": "It is a key physics concept in Friction"
+      },
+      "answer": "D",
+      "explanation": "Friction is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 18,
+      "topic": "Friction",
+      "section": "General",
+      "subtopic": "Friction",
+      "difficulty": "medium",
+      "question": "Which statement about Friction is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It is not part of the standard syllabus",
+        "C": "It does not apply to physical systems",
+        "D": "It is a key physics concept in Friction"
+      },
+      "answer": "D",
+      "explanation": "Friction is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 19,
+      "topic": "Simple Machines",
+      "section": "General",
+      "subtopic": "Simple Machines",
+      "difficulty": "easy",
+      "question": "Which statement about Simple Machines is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It is a key physics concept in Simple Machines",
+        "C": "It is not part of the standard syllabus",
+        "D": "It does not apply to physical systems"
+      },
+      "answer": "B",
+      "explanation": "Simple Machines is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 20,
+      "topic": "Simple Machines",
+      "section": "General",
+      "subtopic": "Simple Machines",
+      "difficulty": "medium",
+      "question": "Which statement about Simple Machines is correct?",
+      "options": {
+        "A": "It is not part of the standard syllabus",
+        "B": "It does not apply to physical systems",
+        "C": "It is a key physics concept in Simple Machines",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "C",
+      "explanation": "Simple Machines is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 21,
+      "topic": "Simple Machines",
+      "section": "General",
+      "subtopic": "Simple Machines",
+      "difficulty": "hard",
+      "question": "Which statement about Simple Machines is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It does not apply to physical systems",
+        "C": "It is a key physics concept in Simple Machines",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "C",
+      "explanation": "Simple Machines is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 22,
+      "topic": "Elasticity",
+      "section": "General",
+      "subtopic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Which statement about Elasticity is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is not part of the standard syllabus",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is a key physics concept in Elasticity"
+      },
+      "answer": "D",
+      "explanation": "Elasticity is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 23,
+      "topic": "Elasticity",
+      "section": "General",
+      "subtopic": "Elasticity",
+      "difficulty": "hard",
+      "question": "Which statement about Elasticity is correct?",
+      "options": {
+        "A": "It is a key physics concept in Elasticity",
+        "B": "It is not part of the standard syllabus",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It does not apply to physical systems"
+      },
+      "answer": "A",
+      "explanation": "Elasticity is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 24,
+      "topic": "Elasticity",
+      "section": "General",
+      "subtopic": "Elasticity",
+      "difficulty": "easy",
+      "question": "Which statement about Elasticity is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is a key physics concept in Elasticity",
+        "C": "It is not part of the standard syllabus",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "B",
+      "explanation": "Elasticity is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 25,
+      "topic": "Pressure",
+      "section": "General",
+      "subtopic": "Pressure",
+      "difficulty": "hard",
+      "question": "Which statement about Pressure is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It is a key physics concept in Pressure",
+        "C": "It does not apply to physical systems",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "B",
+      "explanation": "Pressure is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 26,
+      "topic": "Pressure",
+      "section": "General",
+      "subtopic": "Pressure",
+      "difficulty": "easy",
+      "question": "Which statement about Pressure is correct?",
+      "options": {
+        "A": "It is a key physics concept in Pressure",
+        "B": "It does not apply to physical systems",
+        "C": "It is not part of the standard syllabus",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "A",
+      "explanation": "Pressure is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 27,
+      "topic": "Pressure",
+      "section": "General",
+      "subtopic": "Pressure",
+      "difficulty": "medium",
+      "question": "Which statement about Pressure is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is not part of the standard syllabus",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is a key physics concept in Pressure"
+      },
+      "answer": "D",
+      "explanation": "Pressure is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 28,
+      "topic": "Liquids At Rest",
+      "section": "General",
+      "subtopic": "Liquids At Rest",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Rotational motion",
+        "B": "Brownian motion",
+        "C": "Simple harmonic motion",
+        "D": "Circular motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 29,
+      "topic": "Liquids At Rest",
+      "section": "General",
+      "subtopic": "Liquids At Rest",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Circular motion",
+        "B": "Rotational motion",
+        "C": "Brownian motion",
+        "D": "Simple harmonic motion"
+      },
+      "answer": "C",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 30,
+      "topic": "Liquids At Rest",
+      "section": "General",
+      "subtopic": "Liquids At Rest",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Brownian motion",
+        "C": "Rotational motion",
+        "D": "Circular motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 31,
+      "topic": "Temperature and Its Measurement",
+      "section": "General",
+      "subtopic": "Temperature and Its Measurement",
+      "difficulty": "medium",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Thermal conductivity",
+        "C": "Latent heat",
+        "D": "Specific heat capacity"
+      },
+      "answer": "D",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 32,
+      "topic": "Temperature and Its Measurement",
+      "section": "General",
+      "subtopic": "Temperature and Its Measurement",
+      "difficulty": "hard",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Thermal conductivity",
+        "B": "Latent heat",
+        "C": "Heat capacity",
+        "D": "Specific heat capacity"
+      },
+      "answer": "D",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 33,
+      "topic": "Temperature and Its Measurement",
+      "section": "General",
+      "subtopic": "Temperature and Its Measurement",
+      "difficulty": "easy",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Specific heat capacity",
+        "B": "Latent heat",
+        "C": "Thermal conductivity",
+        "D": "Heat capacity"
+      },
+      "answer": "A",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 34,
+      "topic": "Thermal Expansion",
+      "section": "General",
+      "subtopic": "Thermal Expansion",
+      "difficulty": "hard",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Specific heat capacity",
+        "B": "Heat capacity",
+        "C": "Thermal conductivity",
+        "D": "Latent heat"
+      },
+      "answer": "A",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 35,
+      "topic": "Thermal Expansion",
+      "section": "General",
+      "subtopic": "Thermal Expansion",
+      "difficulty": "easy",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Latent heat",
+        "B": "Thermal conductivity",
+        "C": "Specific heat capacity",
+        "D": "Heat capacity"
+      },
+      "answer": "C",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 36,
+      "topic": "Thermal Expansion",
+      "section": "General",
+      "subtopic": "Thermal Expansion",
+      "difficulty": "medium",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Specific heat capacity",
+        "B": "Heat capacity",
+        "C": "Thermal conductivity",
+        "D": "Latent heat"
+      },
+      "answer": "A",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 37,
+      "topic": "Gas Laws",
+      "section": "General",
+      "subtopic": "Gas Laws",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Circular motion",
+        "B": "Rotational motion",
+        "C": "Simple harmonic motion",
+        "D": "Brownian motion"
+      },
+      "answer": "D",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 38,
+      "topic": "Gas Laws",
+      "section": "General",
+      "subtopic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Circular motion",
+        "B": "Brownian motion",
+        "C": "Rotational motion",
+        "D": "Simple harmonic motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 39,
+      "topic": "Gas Laws",
+      "section": "General",
+      "subtopic": "Gas Laws",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Rotational motion",
+        "B": "Brownian motion",
+        "C": "Circular motion",
+        "D": "Simple harmonic motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 40,
+      "topic": "Quantity of Heat",
+      "section": "General",
+      "subtopic": "Quantity of Heat",
+      "difficulty": "medium",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Specific heat capacity",
+        "B": "Thermal conductivity",
+        "C": "Latent heat",
+        "D": "Heat capacity"
+      },
+      "answer": "A",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 41,
+      "topic": "Quantity of Heat",
+      "section": "General",
+      "subtopic": "Quantity of Heat",
+      "difficulty": "hard",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Latent heat",
+        "B": "Heat capacity",
+        "C": "Thermal conductivity",
+        "D": "Specific heat capacity"
+      },
+      "answer": "D",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 42,
+      "topic": "Quantity of Heat",
+      "section": "General",
+      "subtopic": "Quantity of Heat",
+      "difficulty": "easy",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Latent heat",
+        "C": "Specific heat capacity",
+        "D": "Thermal conductivity"
+      },
+      "answer": "C",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 43,
+      "topic": "Change of State",
+      "section": "General",
+      "subtopic": "Change of State",
+      "difficulty": "hard",
+      "question": "Which statement about Change of State is correct?",
+      "options": {
+        "A": "It is a key physics concept in Change of State",
+        "B": "It does not apply to physical systems",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "A",
+      "explanation": "Change of State is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 44,
+      "topic": "Change of State",
+      "section": "General",
+      "subtopic": "Change of State",
+      "difficulty": "easy",
+      "question": "Which statement about Change of State is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It is a key physics concept in Change of State",
+        "C": "It does not apply to physical systems",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "B",
+      "explanation": "Change of State is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 45,
+      "topic": "Change of State",
+      "section": "General",
+      "subtopic": "Change of State",
+      "difficulty": "medium",
+      "question": "Which statement about Change of State is correct?",
+      "options": {
+        "A": "It is not part of the standard syllabus",
+        "B": "It does not apply to physical systems",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is a key physics concept in Change of State"
+      },
+      "answer": "D",
+      "explanation": "Change of State is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 46,
+      "topic": "Vapours",
+      "section": "General",
+      "subtopic": "Vapours",
+      "difficulty": "easy",
+      "question": "Which statement about Vapours is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is exclusive to chemical reactions",
+        "C": "It is a key physics concept in Vapours",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "C",
+      "explanation": "Vapours is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 47,
+      "topic": "Vapours",
+      "section": "General",
+      "subtopic": "Vapours",
+      "difficulty": "medium",
+      "question": "Which statement about Vapours is correct?",
+      "options": {
+        "A": "It is a key physics concept in Vapours",
+        "B": "It does not apply to physical systems",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "A",
+      "explanation": "Vapours is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 48,
+      "topic": "Vapours",
+      "section": "General",
+      "subtopic": "Vapours",
+      "difficulty": "hard",
+      "question": "Which statement about Vapours is correct?",
+      "options": {
+        "A": "It is a key physics concept in Vapours",
+        "B": "It does not apply to physical systems",
+        "C": "It is not part of the standard syllabus",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "A",
+      "explanation": "Vapours is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 49,
+      "topic": "Structure of Matter and Kinetic Theory",
+      "section": "General",
+      "subtopic": "Structure of Matter and Kinetic Theory",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 3kg mass moving at 9m/s.",
+      "options": {
+        "A": "131.5J",
+        "B": "27J",
+        "C": "121.5J",
+        "D": "12J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 3 × 9² = 121.5J."
+    },
+    {
+      "id": 50,
+      "topic": "Structure of Matter and Kinetic Theory",
+      "section": "General",
+      "subtopic": "Structure of Matter and Kinetic Theory",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 6kg mass moving at 3m/s.",
+      "options": {
+        "A": "18J",
+        "B": "37J",
+        "C": "27J",
+        "D": "9J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 6 × 3² = 27J."
+    },
+    {
+      "id": 51,
+      "topic": "Structure of Matter and Kinetic Theory",
+      "section": "General",
+      "subtopic": "Structure of Matter and Kinetic Theory",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 8kg mass moving at 8m/s.",
+      "options": {
+        "A": "266J",
+        "B": "256J",
+        "C": "64J",
+        "D": "16J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 8 × 8² = 256J."
+    },
+    {
+      "id": 52,
+      "topic": "Heat Transfer",
+      "section": "General",
+      "subtopic": "Heat Transfer",
+      "difficulty": "hard",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Latent heat",
+        "B": "Heat capacity",
+        "C": "Thermal conductivity",
+        "D": "Specific heat capacity"
+      },
+      "answer": "D",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 53,
+      "topic": "Heat Transfer",
+      "section": "General",
+      "subtopic": "Heat Transfer",
+      "difficulty": "easy",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Latent heat",
+        "B": "Specific heat capacity",
+        "C": "Thermal conductivity",
+        "D": "Heat capacity"
+      },
+      "answer": "B",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 54,
+      "topic": "Heat Transfer",
+      "section": "General",
+      "subtopic": "Heat Transfer",
+      "difficulty": "medium",
+      "question": "The amount of heat required to raise the temperature of 1kg of a substance by 1°C is called:",
+      "options": {
+        "A": "Specific heat capacity",
+        "B": "Latent heat",
+        "C": "Heat capacity",
+        "D": "Thermal conductivity"
+      },
+      "answer": "A",
+      "explanation": "Specific heat capacity (c) is defined as the heat required to raise the temperature of 1kg of a substance by 1°C."
+    },
+    {
+      "id": 55,
+      "topic": "Propagation of Sound Waves",
+      "section": "General",
+      "subtopic": "Propagation of Sound Waves",
+      "difficulty": "easy",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Refraction",
+        "C": "Reflection",
+        "D": "Dispersion"
+      },
+      "answer": "B",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 56,
+      "topic": "Propagation of Sound Waves",
+      "section": "General",
+      "subtopic": "Propagation of Sound Waves",
+      "difficulty": "medium",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Refraction",
+        "C": "Reflection",
+        "D": "Dispersion"
+      },
+      "answer": "B",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 57,
+      "topic": "Propagation of Sound Waves",
+      "section": "General",
+      "subtopic": "Propagation of Sound Waves",
+      "difficulty": "hard",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Diffraction",
+        "C": "Dispersion",
+        "D": "Refraction"
+      },
+      "answer": "D",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 58,
+      "topic": "Characteristics of Sound Waves",
+      "section": "General",
+      "subtopic": "Characteristics of Sound Waves",
+      "difficulty": "medium",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Dispersion",
+        "C": "Refraction",
+        "D": "Diffraction"
+      },
+      "answer": "C",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 59,
+      "topic": "Characteristics of Sound Waves",
+      "section": "General",
+      "subtopic": "Characteristics of Sound Waves",
+      "difficulty": "hard",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Diffraction",
+        "C": "Dispersion",
+        "D": "Refraction"
+      },
+      "answer": "D",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 60,
+      "topic": "Characteristics of Sound Waves",
+      "section": "General",
+      "subtopic": "Characteristics of Sound Waves",
+      "difficulty": "easy",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Refraction",
+        "B": "Dispersion",
+        "C": "Reflection",
+        "D": "Diffraction"
+      },
+      "answer": "A",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 61,
+      "topic": "Light Energy",
+      "section": "General",
+      "subtopic": "Light Energy",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 4kg mass moving at 9m/s.",
+      "options": {
+        "A": "172J",
+        "B": "162J",
+        "C": "36J",
+        "D": "13J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 4 × 9² = 162J."
+    },
+    {
+      "id": 62,
+      "topic": "Light Energy",
+      "section": "General",
+      "subtopic": "Light Energy",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 3kg mass moving at 6m/s.",
+      "options": {
+        "A": "18J",
+        "B": "64J",
+        "C": "9J",
+        "D": "54J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 3 × 6² = 54J."
+    },
+    {
+      "id": 63,
+      "topic": "Light Energy",
+      "section": "General",
+      "subtopic": "Light Energy",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 7kg mass moving at 6m/s.",
+      "options": {
+        "A": "42J",
+        "B": "13J",
+        "C": "126J",
+        "D": "136J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 7 × 6² = 126J."
+    },
+    {
+      "id": 64,
+      "topic": "Reflection of Light",
+      "section": "General",
+      "subtopic": "Reflection of Light",
+      "difficulty": "easy",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Dispersion",
+        "C": "Diffraction",
+        "D": "Refraction"
+      },
+      "answer": "D",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 65,
+      "topic": "Reflection of Light",
+      "section": "General",
+      "subtopic": "Reflection of Light",
+      "difficulty": "medium",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Dispersion",
+        "B": "Diffraction",
+        "C": "Reflection",
+        "D": "Refraction"
+      },
+      "answer": "D",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 66,
+      "topic": "Reflection of Light",
+      "section": "General",
+      "subtopic": "Reflection of Light",
+      "difficulty": "hard",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Refraction",
+        "B": "Diffraction",
+        "C": "Reflection",
+        "D": "Dispersion"
+      },
+      "answer": "A",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 67,
+      "topic": "Refraction of Light",
+      "section": "General",
+      "subtopic": "Refraction of Light",
+      "difficulty": "medium",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Refraction",
+        "C": "Dispersion",
+        "D": "Diffraction"
+      },
+      "answer": "B",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 68,
+      "topic": "Refraction of Light",
+      "section": "General",
+      "subtopic": "Refraction of Light",
+      "difficulty": "hard",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Refraction",
+        "C": "Dispersion",
+        "D": "Diffraction"
+      },
+      "answer": "B",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 69,
+      "topic": "Refraction of Light",
+      "section": "General",
+      "subtopic": "Refraction of Light",
+      "difficulty": "easy",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Refraction",
+        "B": "Reflection",
+        "C": "Diffraction",
+        "D": "Dispersion"
+      },
+      "answer": "A",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 70,
+      "topic": "Optical Instruments",
+      "section": "General",
+      "subtopic": "Optical Instruments",
+      "difficulty": "hard",
+      "question": "Which statement about Optical Instruments is correct?",
+      "options": {
+        "A": "It is a key physics concept in Optical Instruments",
+        "B": "It does not apply to physical systems",
+        "C": "It is not part of the standard syllabus",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "A",
+      "explanation": "Optical Instruments is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 71,
+      "topic": "Optical Instruments",
+      "section": "General",
+      "subtopic": "Optical Instruments",
+      "difficulty": "easy",
+      "question": "Which statement about Optical Instruments is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It does not apply to physical systems",
+        "C": "It is not part of the standard syllabus",
+        "D": "It is a key physics concept in Optical Instruments"
+      },
+      "answer": "D",
+      "explanation": "Optical Instruments is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 72,
+      "topic": "Optical Instruments",
+      "section": "General",
+      "subtopic": "Optical Instruments",
+      "difficulty": "medium",
+      "question": "Which statement about Optical Instruments is correct?",
+      "options": {
+        "A": "It is a key physics concept in Optical Instruments",
+        "B": "It is not part of the standard syllabus",
+        "C": "It does not apply to physical systems",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "A",
+      "explanation": "Optical Instruments is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 73,
+      "topic": "Dispersion of Light and Colours",
+      "section": "General",
+      "subtopic": "Dispersion of Light and Colours",
+      "difficulty": "easy",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Reflection",
+        "C": "Dispersion",
+        "D": "Refraction"
+      },
+      "answer": "D",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 74,
+      "topic": "Dispersion of Light and Colours",
+      "section": "General",
+      "subtopic": "Dispersion of Light and Colours",
+      "difficulty": "medium",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Reflection",
+        "C": "Dispersion",
+        "D": "Refraction"
+      },
+      "answer": "D",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 75,
+      "topic": "Dispersion of Light and Colours",
+      "section": "General",
+      "subtopic": "Dispersion of Light and Colours",
+      "difficulty": "hard",
+      "question": "The bending of light as it passes from air into water is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Dispersion",
+        "C": "Refraction",
+        "D": "Diffraction"
+      },
+      "answer": "C",
+      "explanation": "Refraction is the change in direction of light due to a change in speed when moving between media of different optical densities."
+    },
+    {
+      "id": 76,
+      "topic": "Electromagnetic Spectrum",
+      "section": "General",
+      "subtopic": "Electromagnetic Spectrum",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Steel",
+        "C": "Copper",
+        "D": "Iron"
+      },
+      "answer": "B",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 77,
+      "topic": "Electromagnetic Spectrum",
+      "section": "General",
+      "subtopic": "Electromagnetic Spectrum",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Copper",
+        "B": "Iron",
+        "C": "Aluminium",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 78,
+      "topic": "Electromagnetic Spectrum",
+      "section": "General",
+      "subtopic": "Electromagnetic Spectrum",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Iron",
+        "B": "Steel",
+        "C": "Copper",
+        "D": "Aluminium"
+      },
+      "answer": "B",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 79,
+      "topic": "Electrostatics",
+      "section": "General",
+      "subtopic": "Electrostatics",
+      "difficulty": "hard",
+      "question": "Which statement about Electrostatics is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is not part of the standard syllabus",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is a key physics concept in Electrostatics"
+      },
+      "answer": "D",
+      "explanation": "Electrostatics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 80,
+      "topic": "Electrostatics",
+      "section": "General",
+      "subtopic": "Electrostatics",
+      "difficulty": "easy",
+      "question": "Which statement about Electrostatics is correct?",
+      "options": {
+        "A": "It is not part of the standard syllabus",
+        "B": "It is exclusive to chemical reactions",
+        "C": "It is a key physics concept in Electrostatics",
+        "D": "It does not apply to physical systems"
+      },
+      "answer": "C",
+      "explanation": "Electrostatics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 81,
+      "topic": "Electrostatics",
+      "section": "General",
+      "subtopic": "Electrostatics",
+      "difficulty": "medium",
+      "question": "Which statement about Electrostatics is correct?",
+      "options": {
+        "A": "It is not part of the standard syllabus",
+        "B": "It is a key physics concept in Electrostatics",
+        "C": "It does not apply to physical systems",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "B",
+      "explanation": "Electrostatics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 82,
+      "topic": "Capacitors",
+      "section": "General",
+      "subtopic": "Capacitors",
+      "difficulty": "easy",
+      "question": "A resistor of 2Ω is connected to a 6V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "8A",
+        "B": "0.3333333333333333A",
+        "C": "3A",
+        "D": "12A"
+      },
+      "answer": "C",
+      "explanation": "Ohm's Law: I = V/R = 6/2 = 3A."
+    },
+    {
+      "id": 83,
+      "topic": "Capacitors",
+      "section": "General",
+      "subtopic": "Capacitors",
+      "difficulty": "medium",
+      "question": "A resistor of 5Ω is connected to a 15V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "0.3333333333333333A",
+        "B": "20A",
+        "C": "3A",
+        "D": "75A"
+      },
+      "answer": "C",
+      "explanation": "Ohm's Law: I = V/R = 15/5 = 3A."
+    },
+    {
+      "id": 84,
+      "topic": "Capacitors",
+      "section": "General",
+      "subtopic": "Capacitors",
+      "difficulty": "hard",
+      "question": "A resistor of 4Ω is connected to a 12V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "3A",
+        "B": "0.3333333333333333A",
+        "C": "16A",
+        "D": "48A"
+      },
+      "answer": "A",
+      "explanation": "Ohm's Law: I = V/R = 12/4 = 3A."
+    },
+    {
+      "id": 85,
+      "topic": "Electric Cells",
+      "section": "General",
+      "subtopic": "Electric Cells",
+      "difficulty": "medium",
+      "question": "A resistor of 2Ω is connected to a 20V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "22A",
+        "B": "10A",
+        "C": "40A",
+        "D": "0.1A"
+      },
+      "answer": "B",
+      "explanation": "Ohm's Law: I = V/R = 20/2 = 10A."
+    },
+    {
+      "id": 86,
+      "topic": "Electric Cells",
+      "section": "General",
+      "subtopic": "Electric Cells",
+      "difficulty": "hard",
+      "question": "A resistor of 4Ω is connected to a 6V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "1.5A",
+        "B": "0.6666666666666666A",
+        "C": "24A",
+        "D": "10A"
+      },
+      "answer": "A",
+      "explanation": "Ohm's Law: I = V/R = 6/4 = 1.5A."
+    },
+    {
+      "id": 87,
+      "topic": "Electric Cells",
+      "section": "General",
+      "subtopic": "Electric Cells",
+      "difficulty": "easy",
+      "question": "A resistor of 2Ω is connected to a 11V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "22A",
+        "B": "13A",
+        "C": "5.5A",
+        "D": "0.18181818181818182A"
+      },
+      "answer": "C",
+      "explanation": "Ohm's Law: I = V/R = 11/2 = 5.5A."
+    },
+    {
+      "id": 88,
+      "topic": "Current Electricity",
+      "section": "General",
+      "subtopic": "Current Electricity",
+      "difficulty": "hard",
+      "question": "A resistor of 5Ω is connected to a 5V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "1A",
+        "B": "1A",
+        "C": "10A",
+        "D": "25A"
+      },
+      "answer": "B",
+      "explanation": "Ohm's Law: I = V/R = 5/5 = 1A."
+    },
+    {
+      "id": 89,
+      "topic": "Current Electricity",
+      "section": "General",
+      "subtopic": "Current Electricity",
+      "difficulty": "easy",
+      "question": "A resistor of 2Ω is connected to a 15V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "30A",
+        "B": "0.13333333333333333A",
+        "C": "17A",
+        "D": "7.5A"
+      },
+      "answer": "D",
+      "explanation": "Ohm's Law: I = V/R = 15/2 = 7.5A."
+    },
+    {
+      "id": 90,
+      "topic": "Current Electricity",
+      "section": "General",
+      "subtopic": "Current Electricity",
+      "difficulty": "medium",
+      "question": "A resistor of 10Ω is connected to a 5V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "0.5A",
+        "B": "2A",
+        "C": "15A",
+        "D": "50A"
+      },
+      "answer": "A",
+      "explanation": "Ohm's Law: I = V/R = 5/10 = 0.5A."
+    },
+    {
+      "id": 91,
+      "topic": "Electrical Energy and Power",
+      "section": "General",
+      "subtopic": "Electrical Energy and Power",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 5kg mass moving at 10m/s.",
+      "options": {
+        "A": "260J",
+        "B": "15J",
+        "C": "250J",
+        "D": "50J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 5 × 10² = 250J."
+    },
+    {
+      "id": 92,
+      "topic": "Electrical Energy and Power",
+      "section": "General",
+      "subtopic": "Electrical Energy and Power",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 8kg mass moving at 4m/s.",
+      "options": {
+        "A": "32J",
+        "B": "64J",
+        "C": "74J",
+        "D": "12J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 8 × 4² = 64J."
+    },
+    {
+      "id": 93,
+      "topic": "Electrical Energy and Power",
+      "section": "General",
+      "subtopic": "Electrical Energy and Power",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 4kg mass moving at 3m/s.",
+      "options": {
+        "A": "12J",
+        "B": "18J",
+        "C": "28J",
+        "D": "7J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 4 × 3² = 18J."
+    },
+    {
+      "id": 94,
+      "topic": "Magnets and Magnetic Fields",
+      "section": "General",
+      "subtopic": "Magnets and Magnetic Fields",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Iron",
+        "B": "Aluminium",
+        "C": "Steel",
+        "D": "Copper"
+      },
+      "answer": "C",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 95,
+      "topic": "Magnets and Magnetic Fields",
+      "section": "General",
+      "subtopic": "Magnets and Magnetic Fields",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Iron",
+        "B": "Copper",
+        "C": "Aluminium",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 96,
+      "topic": "Magnets and Magnetic Fields",
+      "section": "General",
+      "subtopic": "Magnets and Magnetic Fields",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Aluminium",
+        "C": "Copper",
+        "D": "Iron"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 97,
+      "topic": "Force on a Current-Carrying Conductor",
+      "section": "General",
+      "subtopic": "Force on a Current-Carrying Conductor",
+      "difficulty": "hard",
+      "question": "Calculate the force acting on a body of mass 4kg accelerating at 3m/s².",
+      "options": {
+        "A": "12N",
+        "B": "22N",
+        "C": "7N",
+        "D": "24N"
+      },
+      "answer": "A",
+      "explanation": "Newton's 2nd Law: F = ma = 4 × 3 = 12N."
+    },
+    {
+      "id": 98,
+      "topic": "Force on a Current-Carrying Conductor",
+      "section": "General",
+      "subtopic": "Force on a Current-Carrying Conductor",
+      "difficulty": "easy",
+      "question": "Calculate the force acting on a body of mass 2kg accelerating at 9m/s².",
+      "options": {
+        "A": "36N",
+        "B": "28N",
+        "C": "18N",
+        "D": "11N"
+      },
+      "answer": "C",
+      "explanation": "Newton's 2nd Law: F = ma = 2 × 9 = 18N."
+    },
+    {
+      "id": 99,
+      "topic": "Force on a Current-Carrying Conductor",
+      "section": "General",
+      "subtopic": "Force on a Current-Carrying Conductor",
+      "difficulty": "medium",
+      "question": "Calculate the force acting on a body of mass 7kg accelerating at 8m/s².",
+      "options": {
+        "A": "66N",
+        "B": "56N",
+        "C": "15N",
+        "D": "112N"
+      },
+      "answer": "B",
+      "explanation": "Newton's 2nd Law: F = ma = 7 × 8 = 56N."
+    },
+    {
+      "id": 100,
+      "topic": "Electromagnetic Induction",
+      "section": "General",
+      "subtopic": "Electromagnetic Induction",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Copper",
+        "B": "Iron",
+        "C": "Aluminium",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 101,
+      "topic": "Electromagnetic Induction",
+      "section": "General",
+      "subtopic": "Electromagnetic Induction",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Steel",
+        "C": "Iron",
+        "D": "Copper"
+      },
+      "answer": "B",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 102,
+      "topic": "Electromagnetic Induction",
+      "section": "General",
+      "subtopic": "Electromagnetic Induction",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Iron",
+        "C": "Aluminium",
+        "D": "Copper"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 103,
+      "topic": "Simple A.C. Circuits",
+      "section": "General",
+      "subtopic": "Simple A.C. Circuits",
+      "difficulty": "medium",
+      "question": "A resistor of 4Ω is connected to a 12V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "16A",
+        "B": "3A",
+        "C": "0.3333333333333333A",
+        "D": "48A"
+      },
+      "answer": "B",
+      "explanation": "Ohm's Law: I = V/R = 12/4 = 3A."
+    },
+    {
+      "id": 104,
+      "topic": "Simple A.C. Circuits",
+      "section": "General",
+      "subtopic": "Simple A.C. Circuits",
+      "difficulty": "hard",
+      "question": "A resistor of 4Ω is connected to a 14V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "18A",
+        "B": "3.5A",
+        "C": "56A",
+        "D": "0.2857142857142857A"
+      },
+      "answer": "B",
+      "explanation": "Ohm's Law: I = V/R = 14/4 = 3.5A."
+    },
+    {
+      "id": 105,
+      "topic": "Simple A.C. Circuits",
+      "section": "General",
+      "subtopic": "Simple A.C. Circuits",
+      "difficulty": "easy",
+      "question": "A resistor of 5Ω is connected to a 10V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "15A",
+        "B": "2A",
+        "C": "0.5A",
+        "D": "50A"
+      },
+      "answer": "B",
+      "explanation": "Ohm's Law: I = V/R = 10/5 = 2A."
+    },
+    {
+      "id": 106,
+      "topic": "Conduction of Electricity Through Liquids",
+      "section": "General",
+      "subtopic": "Conduction of Electricity Through Liquids",
+      "difficulty": "hard",
+      "question": "A resistor of 10Ω is connected to a 5V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "0.5A",
+        "B": "50A",
+        "C": "2A",
+        "D": "15A"
+      },
+      "answer": "A",
+      "explanation": "Ohm's Law: I = V/R = 5/10 = 0.5A."
+    },
+    {
+      "id": 107,
+      "topic": "Conduction of Electricity Through Liquids",
+      "section": "General",
+      "subtopic": "Conduction of Electricity Through Liquids",
+      "difficulty": "easy",
+      "question": "A resistor of 5Ω is connected to a 12V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "17A",
+        "B": "2.4A",
+        "C": "0.4166666666666667A",
+        "D": "60A"
+      },
+      "answer": "B",
+      "explanation": "Ohm's Law: I = V/R = 12/5 = 2.4A."
+    },
+    {
+      "id": 108,
+      "topic": "Conduction of Electricity Through Liquids",
+      "section": "General",
+      "subtopic": "Conduction of Electricity Through Liquids",
+      "difficulty": "medium",
+      "question": "A resistor of 2Ω is connected to a 9V supply. Calculate the current flowing through it.",
+      "options": {
+        "A": "0.2222222222222222A",
+        "B": "4.5A",
+        "C": "11A",
+        "D": "18A"
+      },
+      "answer": "B",
+      "explanation": "Ohm's Law: I = V/R = 9/2 = 4.5A."
+    },
+    {
+      "id": 109,
+      "topic": "Elementary Modern Physics",
+      "section": "General",
+      "subtopic": "Elementary Modern Physics",
+      "difficulty": "easy",
+      "question": "Which statement about Elementary Modern Physics is correct?",
+      "options": {
+        "A": "It is exclusive to chemical reactions",
+        "B": "It is a key physics concept in Elementary Modern Physics",
+        "C": "It does not apply to physical systems",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "B",
+      "explanation": "Elementary Modern Physics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 110,
+      "topic": "Elementary Modern Physics",
+      "section": "General",
+      "subtopic": "Elementary Modern Physics",
+      "difficulty": "medium",
+      "question": "Which statement about Elementary Modern Physics is correct?",
+      "options": {
+        "A": "It is a key physics concept in Elementary Modern Physics",
+        "B": "It does not apply to physical systems",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "A",
+      "explanation": "Elementary Modern Physics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 111,
+      "topic": "Elementary Modern Physics",
+      "section": "General",
+      "subtopic": "Elementary Modern Physics",
+      "difficulty": "hard",
+      "question": "Which statement about Elementary Modern Physics is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is a key physics concept in Elementary Modern Physics",
+        "C": "It is exclusive to chemical reactions",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "B",
+      "explanation": "Elementary Modern Physics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 112,
+      "topic": "Introductory Electronics",
+      "section": "General",
+      "subtopic": "Introductory Electronics",
+      "difficulty": "medium",
+      "question": "Which statement about Introductory Electronics is correct?",
+      "options": {
+        "A": "It is not part of the standard syllabus",
+        "B": "It is exclusive to chemical reactions",
+        "C": "It does not apply to physical systems",
+        "D": "It is a key physics concept in Introductory Electronics"
+      },
+      "answer": "D",
+      "explanation": "Introductory Electronics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 113,
+      "topic": "Introductory Electronics",
+      "section": "General",
+      "subtopic": "Introductory Electronics",
+      "difficulty": "hard",
+      "question": "Which statement about Introductory Electronics is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is not part of the standard syllabus",
+        "C": "It is a key physics concept in Introductory Electronics",
+        "D": "It is exclusive to chemical reactions"
+      },
+      "answer": "C",
+      "explanation": "Introductory Electronics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    },
+    {
+      "id": 114,
+      "topic": "Introductory Electronics",
+      "section": "General",
+      "subtopic": "Introductory Electronics",
+      "difficulty": "easy",
+      "question": "Which statement about Introductory Electronics is correct?",
+      "options": {
+        "A": "It does not apply to physical systems",
+        "B": "It is exclusive to chemical reactions",
+        "C": "It is a key physics concept in Introductory Electronics",
+        "D": "It is not part of the standard syllabus"
+      },
+      "answer": "C",
+      "explanation": "Introductory Electronics is a fundamental physics concept regularly examined in JAMB and WAEC."
+    }
+  ]
+}

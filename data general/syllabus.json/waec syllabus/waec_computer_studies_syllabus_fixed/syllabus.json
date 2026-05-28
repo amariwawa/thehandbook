@@ -1,0 +1,247 @@
+{
+  "A. COMPUTER_EVOLUTION": {
+    "1. Computing_Devices_I": {
+      "period": "Pre-computing age - 19th century",
+      "topics": [
+        "Abacus",
+        "Slide Rule",
+        "Napier's bone",
+        "Pascal's calculator",
+        "Leibnitz multiplier",
+        "Jacquard loom",
+        "Charles Babbage analytical engine",
+        "Hollerith Census Machine",
+        "Burrough's Machine"
+      ],
+      "focus": [
+        "Features",
+        "Components",
+        "Uses",
+        "Contributions to modern computers"
+      ]
+    },
+    "2. Computing_Devices_II": {
+      "period": "20th century to date",
+      "topics": [
+        "ENIAC",
+        "EDVAC",
+        "UNIVAC I",
+        "Desktop Personal Computers",
+        "Laptop and Notebook computers",
+        "Palmtop"
+      ]
+    }
+  },
+  "B. FUNDAMENTALS_OF_COMPUTING": {
+    "1. Overview_of_Computing_System": [
+      "Definition of computer",
+      "Computer hardware",
+      "Computer software",
+      "Classification of hardware and software",
+      "Functional parts of a computer",
+      "Characteristics of computers"
+    ],
+    "2. Data_and_Information": [
+      "Definition of data and information",
+      "Examples of data and information",
+      "Differences between data and information"
+    ]
+  },
+  "C. COMPUTER_ETHICS_AND_HUMAN_ISSUES": {
+    "1. Security_and_Ethics": {
+      "Sources_of_security_breaches": [
+        "Virus",
+        "Worms",
+        "Trojan horses",
+        "Poor network implementation",
+        "Lack of ICT policies",
+        "Hackers",
+        "Spammers"
+      ],
+      "Preventive_measures": [
+        "Antivirus software",
+        "Firewall",
+        "Encryption",
+        "Proper network implementation",
+        "Use of secure websites"
+      ],
+      "Legal_Issues": [
+        "Copyright",
+        "Privacy",
+        "Cyber crimes",
+        "Identity theft",
+        "Internet fraud",
+        "Hacking"
+      ]
+    }
+  },
+  "D. COMPUTER_HARDWARE": {
+    "1. Input_Devices": [
+      "Keyboard",
+      "Mouse",
+      "Scanner",
+      "Joystick",
+      "Light pen"
+    ],
+    "2. Output_Devices": [
+      "Monitor",
+      "Printer",
+      "Speaker",
+      "Plotter"
+    ],
+    "3. CPU": [
+      "Arithmetic Logic Unit",
+      "Control Unit"
+    ],
+    "4. Memory_Unit": {
+      "Primary_Memory": [
+        "ROM",
+        "RAM"
+      ],
+      "Secondary_Memory": [
+        "Floppy disk",
+        "Hard disk",
+        "CD",
+        "Flash disk",
+        "DVD"
+      ]
+    },
+    "5. Logic_Circuits": [
+      "AND gate",
+      "OR gate",
+      "NOT gate",
+      "NAND gate",
+      "NOR gate",
+      "Truth tables",
+      "XOR comparator"
+    ]
+  },
+  "E. COMPUTER_SOFTWARE": {
+    "1. System_Software": {
+      "Operating_Systems": [
+        "MS Windows",
+        "Linux",
+        "UNIX",
+        "MS-DOS"
+      ],
+      "Translators": [
+        "Assembler",
+        "Compiler",
+        "Interpreter"
+      ],
+      "Utilities": [
+        "Editor",
+        "Antivirus"
+      ]
+    },
+    "2. Application_Software": {
+      "Packages": [
+        "Word processing",
+        "Spreadsheet",
+        "Database",
+        "Graphics"
+      ],
+      "Examples": [
+        "MS Word",
+        "MS Excel",
+        "MS Access"
+      ]
+    }
+  },
+  "F. COMPUTER_APPLICATION": {
+    "1. Word_Processing": [
+      "MS Word",
+      "Wordstar",
+      "WordPerfect",
+      "Create",
+      "Edit",
+      "Save",
+      "Print",
+      "Formatting",
+      "Spell checking"
+    ],
+    "2. Spreadsheet": [
+      "VisiCalc",
+      "MS Excel",
+      "SuperCalc",
+      "Data entry",
+      "Charts",
+      "Formulas",
+      "Built-in functions"
+    ],
+    "3. Database": [
+      "Dbase IV",
+      "Foxbase",
+      "MS Access",
+      "Oracle",
+      "File",
+      "Record",
+      "Field",
+      "Key"
+    ],
+    "4. Graphics": [
+      "Paint",
+      "Photoshop",
+      "CorelDraw",
+      "Business card design",
+      "School logo design"
+    ],
+    "5. Presentation_Package": [
+      "MS PowerPoint",
+      "Create presentation",
+      "Insert pictures",
+      "Animations",
+      "Slide show"
+    ]
+  },
+  "G. MANAGING_COMPUTER_FILES": {
+    "1. Concept_of_Computer_Files": [
+      "Computer file",
+      "Record",
+      "Field",
+      "Data item",
+      "Serial organization",
+      "Sequential organization",
+      "Indexed organization",
+      "Random organization"
+    ],
+    "2. Handling_Computer_Files": [
+      "Delete",
+      "Retrieve",
+      "Insert",
+      "Copy",
+      "View",
+      "Update",
+      "Backup",
+      "Password security"
+    ]
+  },
+  "H. BASIC_COMPUTER_OPERATIONS": {
+    "1. Booting_and_Shutting_Down": [
+      "Cold booting",
+      "Warm booting",
+      "Desktop features"
+    ],
+    "2. Computer_Data_Conversion": [
+      "Registers",
+      "Address",
+      "Bus",
+      "Input-Process-Output cycle",
+      "Bus speed",
+      "Bus width"
+    ]
+  },
+  "I. ICT": {
+    "1. Communication_Systems": [
+      "Broadcasting",
+      "Telecommunication",
+      "Data Network",
+      "Information Systems",
+      "Satellite Communication",
+      "Radio broadcasting",
+      "Television broadcasting",
+      "Mobile phone systems",
+      "PSTN"
+    ]
+  }
+}

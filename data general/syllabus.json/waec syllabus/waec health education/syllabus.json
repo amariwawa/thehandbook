@@ -1,0 +1,443 @@
+{
+  "detailed_syllabus": {
+    "A": {
+      "title": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "topics": [
+        {
+          "subtopic": "Meaning and setting for Health Education",
+          "details": [
+            "(a) Meaning",
+            "(b) Settings: (i) home-based; (ii) school-based; (iii) community-based; (iv) health facility-based; (v) work place-based.",
+            "(c) Meaning of health promotion."
+          ]
+        }
+      ]
+    },
+    "B": {
+      "title": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "topics": [
+        {
+          "subtopic": "1. Cells and tissues of Human Body",
+          "details": [
+            "(a) Types of cell: (i) somatic cells; (ii) sex cells.",
+            "(b) Cell division: (i) Mitosis; (ii) Meiosis.",
+            "(c) Cell differentiation: Formation of tissues.",
+            "(d) Structure of a typical animal cell and functions of its parts."
+          ]
+        },
+        {
+          "subtopic": "2. Sense Organs",
+          "details": [
+            "(a) Structure and functions of: (i) eye; (ii) ear; (iii) skin; (iv) nose; (v) tongue.",
+            "Accommodation, process of hearing and balancing."
+          ]
+        },
+        {
+          "subtopic": "3. Systems of the Body",
+          "details": [
+            "(a) Growth and development (differences, factors affecting).",
+            "(b) Skeletal system and muscles: General plan of axial and appendicular skeleton, functions, joints (structures and types), muscles (structures, types, movement).",
+            "(c) Circulatory System: Structure and functions of heart, blood and lymph vessels, composition of blood and lymph, blood clotting, blood groups, rhesus factor, haemoglobin, genotype, diseases/disorders (sickle cell anaemia, leukaemia, etc.).",
+            "(d) Digestive system: Organs and functions, process of digestion, absorption, assimilation, metabolism, diseases/disorders and prevention.",
+            "(e) Excretory System: Structure and functions of kidney and skin, process of urine formation, diseases.",
+            "(f) Respiratory System: Structure and functions, process of respiration (mechanism of breathing, gaseous exchange, tissue respiration), diseases/disorders.",
+            "(g) Nervous System: Structure and functions of components, voluntary and involuntary actions, reflex arc, diseases/disorders.",
+            "(h) Endocrine System: Location of glands, hormones and functions, effects of over/under secretion.",
+            "(i) Homeostasis: Physiological factors (body temperature, blood sugar, water balance, etc.), feedback mechanisms."
+          ]
+        },
+        {
+          "subtopic": "4. Posture and Postural Defects",
+          "details": [
+            "(i) Definition and characteristics of correct posture.",
+            "(ii) Determination of correct postures.",
+            "(iii) Types of postural defects: Flat foot, scoliosis, kyphosis, lordosis.",
+            "(iv) Effects of incorrect posture.",
+            "(v) Causes and correction (orthopaedic hospital, physiotherapy)."
+          ]
+        }
+      ]
+    },
+    "C": {
+      "title": "PERSONAL HEALTH",
+      "topics": [
+        {
+          "subtopic": "1. Meaning and importance of physical health",
+          "details": []
+        },
+        {
+          "subtopic": "2. Personal hygiene",
+          "details": [
+            "Care of body parts including teeth, mouth, hair, hands, nails."
+          ]
+        },
+        {
+          "subtopic": "3. Promotion and maintenance of health",
+          "details": [
+            "(a) Definition",
+            "(b) Factors and their roles."
+          ]
+        },
+        {
+          "subtopic": "4. Health Screening",
+          "details": [
+            "(a) Eye defects and corrections: Myopia, Hypermetropia, Astigmatism, Presbyopia, Squints.",
+            "(b) Auditory defects and conductive impairment.",
+            "(c) Neurosensory impairment, disorders of the skin.",
+            "(d) Care of eye, ear and skin."
+          ]
+        },
+        {
+          "subtopic": "5. Dental health education",
+          "details": [
+            "(i) Meaning and types.",
+            "(ii) Types and structure/functions of human teeth.",
+            "(iii) Teeth diseases: Dental caries, gingivitis."
+          ]
+        }
+      ]
+    },
+    "D": {
+      "title": "COMMUNITY HEALTH",
+      "topics": [
+        {
+          "subtopic": "1. Community health services",
+          "details": [
+            "(a) Definition",
+            "(b) Providers: Orthodox (e.g. primary health care), Traditional (e.g. bone setters, birth attendants).",
+            "(c) Community efforts in health promotion, advantages/disadvantages of traditional medicine."
+          ]
+        },
+        {
+          "subtopic": "2. School health programme",
+          "details": [
+            "(a) Definition",
+            "(b) Components: Skill-based health education, healthful school environment, school feeding services, school health and nutrition services, school-home-community relationship.",
+            "(c) Goals and objectives.",
+            "(d) Linkages/initiatives: Health Promoting School (HPS), Child-Friendly School (CFS), FRESH, Life Skills (LS), Education for All (EFA)."
+          ]
+        },
+        {
+          "subtopic": "3. Family health",
+          "details": [
+            "(a) Meaning",
+            "(b) Different aspects: Maternal and child health (antenatal care, immunization, ORT, breastfeeding, safe motherhood).",
+            "(c) Family size and budgeting."
+          ]
+        },
+        {
+          "subtopic": "4. Ageing and death education",
+          "details": [
+            "(a) Definition and features of the elderly.",
+            "(b) Ways of relating with the elderly.",
+            "(c) Meaning of grief and death.",
+            "(d) Common causes of death."
+          ]
+        },
+        {
+          "subtopic": "5. Epidemiology and vital statistics",
+          "details": [
+            "(a) Definitions",
+            "(b) Components: Birth rate, mortality rate, morbidity rate.",
+            "(c) Uses of vital statistics."
+          ]
+        }
+      ]
+    },
+    "E": {
+      "title": "ENVIRONMENTAL HEALTH",
+      "topics": [
+        {
+          "subtopic": "1. Housing",
+          "details": [
+            "(a) Criteria for good housing (siting, ventilation, lighting, sanitation).",
+            "(b) Components of a standard house.",
+            "Effects of substandard housing."
+          ]
+        },
+        {
+          "subtopic": "2. Water supply",
+          "details": [
+            "(a) Definition and sources (rain, borehole, rivers, etc.).",
+            "(b) Purification and uses."
+          ]
+        },
+        {
+          "subtopic": "3. Waste disposal",
+          "details": [
+            "(a) Meaning",
+            "(b) Types: refuse, sewage.",
+            "(c) Methods (advantages and disadvantages)."
+          ]
+        },
+        {
+          "subtopic": "4. Pollution",
+          "details": [
+            "(a) Meaning",
+            "(b) Types: air, water, soil, noise.",
+            "(c) Sources and health consequences."
+          ]
+        },
+        {
+          "subtopic": "Industrial occupation",
+          "details": [
+            "(a) Meaning",
+            "(b) Programmes: Industrial health services.",
+            "(c) Occupation hazards."
+          ]
+        },
+        {
+          "subtopic": "Pests and vectors control",
+          "details": [
+            "(a) Meaning",
+            "(b) Habitats.",
+            "(c) Harmful effects and control."
+          ]
+        }
+      ]
+    },
+    "F": {
+      "title": "NUTRITION AND FOOD NUTRIENTS",
+      "topics": [
+        {
+          "subtopic": "Nutrition",
+          "details": [
+            "(i) Classes, sources and functions of food nutrients.",
+            "(ii) Caloric value of food nutrients."
+          ]
+        },
+        {
+          "subtopic": "2. Balanced/adequate diets",
+          "details": [
+            "(a) Definition",
+            "(b) Classification",
+            "(c) Nutritional problems (deficiency diseases)."
+          ]
+        },
+        {
+          "subtopic": "3. Factors influencing feeding habits/choice of foods",
+          "details": []
+        },
+        {
+          "subtopic": "4. Water",
+          "details": [
+            "Role in nutrition."
+          ]
+        },
+        {
+          "subtopic": "5. Nutritional processes",
+          "details": [
+            "Ingestion, digestion, absorption, assimilation, metabolism, defecation/ejection."
+          ]
+        },
+        {
+          "subtopic": "6. Beverages",
+          "details": [
+            "(a) Definition",
+            "(b) Types and effects (positive/negative)."
+          ]
+        },
+        {
+          "subtopic": "7. Diet for different groups of people",
+          "details": [
+            "Children, adolescents, athletes, pregnant women, adults, aged."
+          ]
+        },
+        {
+          "subtopic": "8. Food hygiene, preservation and storage",
+          "details": [
+            "(a) Meaning and principles of food hygiene.",
+            "(b) Effects of methods of food preparation on nutrients.",
+            "(c) Methods of food preservation: Smoking/drying, freezing, addition of chemicals/sugar/salt, bottling/pickling/canning."
+          ]
+        }
+      ]
+    },
+    "G": {
+      "title": "SAFETY EDUCATION AND FIRST AID",
+      "topics": [
+        {
+          "subtopic": "First Aid",
+          "details": [
+            "(a) Meaning, aims and principles.",
+            "(b) First aid kit.",
+            "(c) Specific emergency conditions: cuts, wounds, bleeding, fractures, burns, shocks, poisoning, etc.",
+            "(d) Agencies providing First Aid Services.",
+            "(e) Disaster: Meaning, types, relief activities.",
+            "(f) Accident: Types, causes, prevention.",
+            "(g) Disability and rehabilitation: Meaning, types, prevention."
+          ]
+        }
+      ]
+    },
+    "H": {
+      "title": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "topics": [
+        {
+          "subtopic": "1. Drug Education",
+          "details": [
+            "(a) Terminologies: drug abuse, dependence, misuse, addiction, self-medication.",
+            "(b) Classes of drugs commonly abused.",
+            "(c) Ways of taking drugs (oral, injection, etc.).",
+            "(d) Drug abuse and consequences of self-medication.",
+            "Prevention."
+          ]
+        },
+        {
+          "subtopic": "2. Behaviour altering chemicals",
+          "details": [
+            "(a) Tobacco: Components, effects of smoking.",
+            "(b) Alcohol: Effects on health.",
+            "(c) Drugs: Effects on health."
+          ]
+        }
+      ]
+    },
+    "I": {
+      "title": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "topics": [
+        {
+          "subtopic": "1. Diseases",
+          "details": [
+            "Meaning and classes."
+          ]
+        },
+        {
+          "subtopic": "2. Communicable diseases",
+          "details": [
+            "(a) Definition",
+            "(b) Classification:",
+            "- Air-borne/Respiratory: Common cold, measles, whooping cough, etc.",
+            "- Water/food-borne: Dysentery, cholera, typhoid, etc.",
+            "- Insect-borne: Malaria, yellow fever, etc.",
+            "- Worm infections: Roundworm, tapeworm, hookworm, guinea worm.",
+            "- Animal-borne, Contact diseases (including STIs and AIDS).",
+            "(c) Factors: Causative agent, susceptible host, transmission route."
+          ]
+        },
+        {
+          "subtopic": "Non-communicable diseases",
+          "details": [
+            "Types: Deficiency diseases, hereditary/growth disorders (cancer, diabetes, hypertension, sickle cell, etc.)."
+          ]
+        }
+      ]
+    },
+    "J": {
+      "title": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "topics": [
+        {
+          "subtopic": "1. Human Reproduction",
+          "details": [
+            "(a) Definition of terms: reproduction, gametes, ovulation, menstruation, fertilization, pregnancy, gestation.",
+            "(b) Structures and functions of male and female reproductive organs.",
+            "(c) Conception, pregnancy, foetal development, child birth.",
+            "(d) Diseases/disorders of the reproductive system, infertility, artificial insemination."
+          ]
+        },
+        {
+          "subtopic": "2. Human Sexuality Education",
+          "details": [
+            "(a) Meaning and importance, life skills (assertiveness, negotiation, communication).",
+            "Secondary sexual characteristics, sexuality, SRHR, gender equality."
+          ]
+        },
+        {
+          "subtopic": "3. Family and family member roles",
+          "details": [
+            "(a) The family – Meaning and types.",
+            "(b) Family size."
+          ]
+        },
+        {
+          "subtopic": "4. Family life challenges",
+          "details": [
+            "Widowhood, single parenthood, pre-marital/extra-marital affairs, in-laws, etc."
+          ]
+        },
+        {
+          "subtopic": "5. Family planning and safe motherhood",
+          "details": [
+            "(a) Meaning and need.",
+            "(b) Birth control methods.",
+            "(c) Safe motherhood."
+          ]
+        },
+        {
+          "subtopic": "6. Population Education",
+          "details": [
+            "(a) Meaning of population and population education.",
+            "(b) Census and its problems.",
+            "(c) Small and large population."
+          ]
+        }
+      ]
+    },
+    "K": {
+      "title": "EMOTIONAL AND SOCIAL HEALTH",
+      "topics": [
+        {
+          "subtopic": "1. Interrelationship",
+          "details": []
+        },
+        {
+          "subtopic": "2. Attributes",
+          "details": [
+            "(a) Definition of personality and personality traits.",
+            "(b) Personality problems and solutions."
+          ]
+        },
+        {
+          "subtopic": "3. Mental health",
+          "details": [
+            "(a) Definition",
+            "(b) Promotion",
+            "(c) Types and prevention",
+            "(d) Importance."
+          ]
+        }
+      ]
+    },
+    "L": {
+      "title": "CONSUMER HEALTH EDUCATION",
+      "topics": [
+        {
+          "subtopic": "1. Consumer health products and services",
+          "details": []
+        },
+        {
+          "subtopic": "2. Laws protecting the consumer",
+          "details": []
+        },
+        {
+          "subtopic": "3. Factors influencing choice of consumer products",
+          "details": [
+            "Authenticity, cost, availability, accessibility, advertisement."
+          ]
+        },
+        {
+          "subtopic": "4. Consumer health care services",
+          "details": []
+        },
+        {
+          "subtopic": "5. Quacks and quackery",
+          "details": [
+            "Meaning, types (mechanical, electrical, drug, etc.), dangers."
+          ]
+        },
+        {
+          "subtopic": "6. Health insurance and advertisement of health products and services",
+          "details": []
+        },
+        {
+          "subtopic": "7. Nostrum",
+          "details": [
+            "(a) Definition and types (health tonic, miracle substances, etc.).",
+            "(b) Reasons for avoiding."
+          ]
+        }
+      ]
+    }
+  },
+  "notes": "This JSON captures the detailed syllabus structure from the WAEC Health Education/Health Science document, excluding preamble and examination scheme as requested. Topics and sub-details are organized hierarchically based on the document's sections (A-L). Practical notes, observations, and specific examples (e.g., disease lists) are summarized where relevant."
+}

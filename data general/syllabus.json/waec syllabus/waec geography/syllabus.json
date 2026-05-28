@@ -1,0 +1,134 @@
+{
+  "detailed_syllabus": {
+    "elements_of_practical_and_physical_geography": {
+      "map_work": "Map reading and interpretation based on contoured survey maps of parts of West Africa: scale, measurement of distances, direction and bearing, map reduction and enlargement, identification of physical features such as spurs, valleys, etc. and cultural features such as city walls, settlements, communication routes, etc.; measurement of gradients, drawing of cross profiles, inter-visibility, description and explanation of drainage characteristics and pattern; patterns of communication, settlement and land use.",
+      "principles_of_elementary_surveying": "Definitions of terms, instruments, chain and prismatic compass, plotting of traverse, avoiding obstacles in the field.",
+      "geographic_information_system_gis": "GIS: Basic concepts, components (hardware, software, data, procedures and experts); sources of data (land surveying, remote sensing, map digitizing, map scanning, field investigation and tabular data etc); uses (defence, agriculture, urban development, mapping, surveying, transportation, census etc), problems (power, personnel, capital etc).",
+      "statistical_maps_and_diagrams": "Graphical representation of statistical data: Bar graphs, Line graphs, flow charts, dot maps, proportional circles, density maps, isopleth maps.",
+      "elements_of_physical_geography": {
+        "the_earth_as_a_planet": "The earth as a planet in relation to the sun, latitude and distance, longitude and time, earth’s rotation and revolution and their effects, structure of the earth (internal and external).",
+        "hydrosphere": "Ocean basins, salinity, ocean current (causes, types and their effects on the temperature of adjacent coastlands), lakes, rivers, lagoons, water as an environmental resource.",
+        "rocks": "Types, characteristics, formation and uses.",
+        "tectonic_processes": "Vulcanicity, earthquake, landforms: Mountains, plains, karsts and coastal landforms (formation, characteristics and importance).",
+        "denudational_processes": "Agencies modifying landforms such as weathering, mass movement, running water, underground water, wind and waves.",
+        "weather_and_climate": {
+          "simple_weather_study": "Simple weather study based on local observation, description of the Stevenson’s screen and uses of basic weather instruments e.g. rain gauge, thermometer, barometer, wind vane etc.",
+          "elements": "Rainfall, sunshine, air pressure, wind, humidity, temperature and cloud. Factors affecting climatic elements e.g. altitude, latitude, ocean currents, land and sea breezes, continentality, aspect. Interpretation of climatic charts and data.",
+          "classification": "Major types of climate (Hot climate – Equatorial, Tropical Continental, Desert; Temperate climate – warm and cool). Classification of climate based on Greek and Koppen.",
+          "climate_change": "Meaning, causes, effects and remedies."
+        },
+        "vegetation": "Major types (Tropical Rainforest, cool/warm temperate woodland, Tropical Grassland); characteristics, distribution, factors affecting their distribution, plant communities. Vegetation as an environmental resource. Conservation of vegetation resources.",
+        "soil": "Definition, local types and characteristics. Factors and processes of soil formation, soil profile, importance to man and the effects of human activities on soil. Soil erosion and conservation.",
+        "the_environment": {
+          "environmental_resources": "Meaning, classification (renewable and non renewable) types (vegetation, water, mineral, atmospheric, etc) and the importance of each.",
+          "environmental_problems_hazards": "Types (soil erosion, drought, desert encroachment, flooding and pollution), causes, effects and prevention of each.",
+          "environmental_conservation": "Meaning, importance, methods, problems and solutions."
+        }
+      }
+    },
+    "economic_and_human_geography": {
+      "world_population": "Factors and patterns of growth, distribution and movement, growth rate problems.",
+      "settlement": "Types (rural and urban); patterns and factors affecting location; growth and size; functions of rural and urban settlements; interaction patterns (urban-rural, rural-urban, urban-urban, rural-rural); migration.",
+      "transportation": "Modes (roads, railways, water, air, pipeline, cables, ropeways etc.) Transportation and economic development (movement of people and commodities, national and international trade, diffusion of ideas and technology, national integration); problems of transportation and their solutions.",
+      "industry": "Classification (primary, secondary and tertiary); types (heavy and light industry); factors of industrial location; contributions to development; problems/solutions.",
+      "trade": "Meaning, types (national and international), reasons for trade, importance.",
+      "tourism": "Meaning, centres, reasons (leisure, recreation, education etc); importance, problems and solutions."
+    },
+    "regional_geography": {
+      "nigeria": {
+        "broad_outline": "Location, position, size, distance and political divisions.",
+        "physical_setting": "Relief, drainage, climate, vegetation.",
+        "population": "Size, distribution, structure, population quality, population movement, population data (sources and problems/solutions).",
+        "resources": {
+          "mineral": "Mineral (petroleum, gas, coal, tin/columbite, iron ore, limestone)- distribution, methods of extraction, problems and solutions.",
+          "power": "Power (Petroleum, gas, coal HEP, solar energy).",
+          "water": "Water (rivers, lakes, dams, sea, underground water).",
+          "vegetation": "Vegetation (trees, food and cash crops; timber,etc)- forest, savanna, biosphere."
+        },
+        "agriculture": "Types of agricultural practices, food and cash crops, importance, problems and solutions.",
+        "transportation": "Mode, advantages and disadvantages, problems and solutions, influence of transportation on human activities.",
+        "communication": "Communication networks, advantages and disadvantages, importance, problems and solutions.",
+        "industry": "Definition, types, major industrial zones, factors of location, importance, problems and solutions.",
+        "trade": "Meaning, types (national and international), stock exchange, capital market, forex, major commercial areas, importance of commercial activities.",
+        "tourism": "Meaning, centres, reasons for tourism, importance, problems and solutions.",
+        "issues_on_development_and_environmental_concerns": "Issues of Development and Environmental Conservation: Rural and regional development, resource management and conservation, environmental pollution e.g. air, water, soil, noise; waste disposal, etc.",
+        "ecowas": "Meaning, member countries, purposes/mandate, advantages/benefits, disadvantages, problems and solutions.",
+        "geo_political_issues": "Geo-political issues-Land reclamation."
+      },
+      "ghana": {
+        "broad_outline": "Location, position, size, distance and political divisions.",
+        "physical_setting": "Physical environment (geology, relief, drainage, climate, vegetation and soils).",
+        "population": "Size, growth, distribution and density, age/sex structure: fertility, morbidity and mortality, migration.",
+        "settlement": "Origin, types (rural and urban), characteristics, hierarchy, land use, urbanization processes, problems and solutions.",
+        "primary_economic_activities": {
+          "agriculture": "Subsistence (intensive and extensive) commercial (vegetable, livestock, dairying, commercial grain), plantation, problems and solutions.",
+          "fishing": "Inland and ocean (in-shore/off shore), methods, types of fish, storage and marketing, importance, problems and solutions.",
+          "lumbering": "Sources of timber, methods of exploitation, types of species (for internal use and for export), problems and solutions, conservation.",
+          "mining": "Types, distribution of minerals, methods of extraction, importance, problems and solutions."
+        },
+        "manufacturing": "Types of manufacturing industries, distribution, factors influencing location of industries, problems of industrialization.",
+        "trade_and_commerce": "Services, transport and communication, recreation and tourism, administration. Meaning, types (national and international), stock exchange, capital market, forex, major commercial areas, importance of commercial activities.",
+        "tourism": "Meaning, centres, reasons for tourism, importance, problems and solutions.",
+        "energy_and_power": "Water (Akosombo and Kpong Hydro-electric Power projects – benefits and side effects), fuel wood and charcoal, petroleum and natural gas (Saltpond), solar, wave and wind energies (Donkokrom and Kokrobite), Biogas e.g. cow dung.",
+        "issues_on_development_and_environmental_concerns": "Issues of Development and Environmental Conservation: Rural and regional development, resource management and conservation, environmental pollution e.g. air, water, soil, noise; waste disposal etc."
+      },
+      "sierra_leone": {
+        "broad_outline": "Size and location, physical environment, people and settlements.",
+        "primary_economic_activities": {
+          "agriculture": "Meaning of agriculture, Subsistence (intensive and extensive) commercial (vegetable, livestock, dairying, commercial grain production), plantation, problems and solutions.",
+          "fishing": "Meaning of fishing, Inland and ocean (in-shore/off shore), methods, types of fish, storage and marketing, importance, problems and solutions.",
+          "lumbering": "Meaning of lumbering, Sources of timber, methods of exploitation, types of species (for internal use and for export), problems and solutions, conservation.",
+          "mining": "Types, distribution of minerals, methods of extraction, importance, problems and solutions."
+        },
+        "manufacturing": "Types of manufacturing industries, distribution, factors influencing location of industries, problems of industrialization.",
+        "transport_and_communication": "Services, transport and communication, recreation and tourism, administration.",
+        "trade": "Major commodities of trade (agricultural, manufactured goods, minerals, etc.), patterns of trade (internal and external), problems of trade.",
+        "population": "Size, growth, distribution and migration.",
+        "tourism": "Meaning, development of tourism, problems of tourism & solutions, socio-economic effects of tourism. Main tourism areas, factors responsible for its development, economic importance."
+      },
+      "liberia": {
+        "broad_outline": "Location, position, size, distance and political divisions.",
+        "physical_setting": "Relief, drainage, climate, vegetation and soil.",
+        "population": "Size, distribution, structure, population quality, population movement, population data (sources, problems & solutions).",
+        "resources": "Mineral, power, water and vegetation resources, importance of resources to development.",
+        "agriculture": "Types of agricultural practices, food and cash crops, importance, problems and solutions.",
+        "transportation": "Mode, advantages and disadvantages, problems and solutions, influence of transportation on human activities.",
+        "communication": "Communication networks, advantages and disadvantages, importance, problems & solutions.",
+        "industry": "Definition, types, major industrial zones, factors of location, importance, problems and solutions.",
+        "trade": "Meaning, types (national and international), forex, major commercial areas, importance of commercial activities.",
+        "tourism": "Meaning, centres, reasons for tourism, importance, problems and solutions.",
+        "fishing": "Meaning of fishing, Inland and ocean (in-shore/off shore), methods, types of fish, storage and marketing, importance, problems and solutions.",
+        "mining": "Types, distribution of minerals, methods of extraction, problems and solutions."
+      },
+      "senegambia": {
+        "broad_outline": "Location, position, size, distance and political divisions.",
+        "physical_setting": "Relief, drainage, climate, vegetation and soil.",
+        "population": "Size, distribution, structure, population quality, population movement, population data (sources, problems & solutions).",
+        "resources": "Mineral, power, water and vegetation resources, importance of resources to development.",
+        "agriculture": "Types of agricultural practices, food and cash crops, importance, problems and solutions.",
+        "transportation": "Mode, advantages and disadvantages, influence of transportation on human activities, problems and solutions.",
+        "communication": "Communication networks, advantages and disadvantages, importance, problems and solutions.",
+        "industry": "Definition, types, major industrial zones, factors of location, importance, problems and solutions.",
+        "mining": "Types, distribution, methods of extraction, problems and solutions.",
+        "fishing": "Meaning of fishing, Inland and ocean (in-shore/off shore), methods, types of fish, storage and marketing, problems and solutions.",
+        "issues_on_development_and_environmental_concerns": "Issues of Development and Environmental Conservation: Rural and regional development, resource management and conservation, environmental pollution e.g. air, water, soil, noise, waste disposal etc.",
+        "trade": "Meaning, types (national and international), forex, major commercial areas, importance of commercial activities, problems and solutions.",
+        "tourism": "Meaning, centres, reasons for tourism, importance, problems and solutions."
+      },
+      "africa": {
+        "broad_outline": "Location, size, position, political divisions and associated islands, physical features and their economic importance (relief, drainage, climate and vegetation), distribution of minerals.",
+        "selected_topics": {
+          "irrigation_agriculture": "Irrigation agriculture in the Nile Basin and the Niger Basin.",
+          "plantation_agriculture": "Plantation agriculture in West and East Africa.",
+          "oil_production": "Oil production in Nigeria, Ghana and Libya.",
+          "lumbering": "Lumbering in Equatorial Africa (with particular reference to Cote d’Ivoire and Zaire).",
+          "gold_mining": "Gold mining in South Africa.",
+          "copper_mining": "Copper mining in Zambia and Zaire.",
+          "population": "Population distribution in West Africa.",
+          "ecowas": "Meaning, member countries, purposes/mandate, advantages/benefits, disadvantages, problems and solutions."
+        }
+      }
+    },
+    "field_work": "Fieldwork on any one of the following topics should be based on local geography of candidate’s home country: (i) Land use (rural or urban): rural – crop farming (e.g. rice, cocoa, etc.), urban crop farming, mining (e.g. coal, tin, petroleum etc.), fishing. urban – commercial activities, ports, factories, recreational etc. (ii) Market survey – rural or urban. (iii) Traffic flow – rural or urban. (iv) Patterns of journey to work – rural or urban. (v) Rate of erosion in the locality, etc."
+  }
+}

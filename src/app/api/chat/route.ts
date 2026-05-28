@@ -3,16 +3,50 @@ import { NextRequest, NextResponse } from "next/server";
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
 async function callGeminiDirect(messages: any[]) {
-  const apiKey = process.env.NEXT_PUBLIC_GEMINI_API_KEY || 
+  const apiKey = process.env.GEMINI_API_KEY || 
                  process.env.GOOGLE_AI_API_KEY || 
-                 process.env.GEMINI_API_KEY;
+                 process.env.NEXT_PUBLIC_GEMINI_API_KEY;
 
   if (!apiKey) throw new Error("API Key missing from server environment.");
 
-  // Format messages for direct Google API
+  // Helper to format messages with attachments for direct Google API
+  const formatMessageParts = (msg: any) => {
+    const parts: any[] = [];
+    
+    if (msg.content) {
+      parts.push({ text: msg.content });
+    }
+
+    if (msg.attachments && Array.isArray(msg.attachments)) {
+      for (const attachment of msg.attachments) {
+        if (attachment.type === 'photo' || attachment.type === 'file') {
+          if (attachment.data && attachment.mimeType) {
+            // Strip any browser data URL prefix (e.g., "data:image/png;base64,")
+            const base64Data = attachment.data.replace(/^data:[^;]+;base64,/, "");
+            parts.push({
+              inlineData: {
+                mimeType: attachment.mimeType,
+                data: base64Data
+              }
+            });
+          }
+        } else if (attachment.type === 'link') {
+          parts.push({ text: `\n[Attached Link: ${attachment.name}]` });
+        }
+      }
+    }
+
+    // Enforce at least one part for Gemini API schema validity
+    if (parts.length === 0) {
+      parts.push({ text: "" });
+    }
+
+    return parts;
+  };
+
   const history = messages.slice(0, -1).map((msg: any) => ({
     role: msg.role === "user" ? "user" : "model",
-    parts: [{ text: msg.content || "" }]
+    parts: formatMessageParts(msg)
   }));
 
   const lastMessage = messages[messages.length - 1];
@@ -21,7 +55,7 @@ async function callGeminiDirect(messages: any[]) {
       ...history,
       {
         role: "user",
-        parts: [{ text: lastMessage.content || "" }]
+        parts: formatMessageParts(lastMessage)
       }
     ],
     system_instruction: {

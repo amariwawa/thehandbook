@@ -1,0 +1,315 @@
+{
+  "detailed_syllabus": {
+    "1": {
+      "title": "INTRODUCTION TO COMMERCE",
+      "notes": [
+        "Definition of Commerce and E-Commerce",
+        "History/Background of Commerce",
+        "Scope of Commerce and E-Commerce",
+        "Functions of Commerce and E-Commerce"
+      ]
+    },
+    "2": {
+      "title": "OCCUPATION",
+      "notes": [
+        "Meaning of Occupation",
+        "Types: Industrial, Commercial, Service Occupation",
+        "Factors that determine types of occupation/employment",
+        "Career Opportunities"
+      ]
+    },
+    "3": {
+      "title": "PRODUCTION",
+      "notes": [
+        "Meaning",
+        "Factors: land, labour, capital and entrepreneurship",
+        "Types: Primary, Secondary and Tertiary production",
+        "Division of labour/specialization - meaning, types, advantages and disadvantages, limitations",
+        "Inter-relationship between production and exchange"
+      ]
+    },
+    "4": {
+      "title": "BUSINESS UNITS",
+      "notes": [
+        "Meaning and objectives of business",
+        "Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies",
+        "Types, Formation, characteristics, comparison, advantages and disadvantages",
+        "Sources of capital of each form of business",
+        "Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel",
+        "Dissolution/Liquidation of Companies/Partnership"
+      ]
+    },
+    "5": {
+      "title": "TRADE ASSOCIATIONS",
+      "notes": [
+        "Aims and functions of Trade Association",
+        "Chamber of Commerce, Employers Association",
+        "Consumer Association/Consumerism"
+      ]
+    },
+    "6": {
+      "title": "BUSINESS CAPITAL AND PROFITS",
+      "notes": [
+        "Meaning and types of capital: Authorized/Registered/Normal capital, called-up, paid-up capital, capital owned, liquid/circulating capital",
+        "Credit - Meaning, Sources, Instrument and Functions",
+        "Calculation of working capital, the Importance of working capital",
+        "Profits - Meaning, types and calculation of profit",
+        "Turnover - Meaning, calculations and factors affecting turnover"
+      ]
+    },
+    "7": {
+      "title": "TRADE",
+      "subsections": {
+        "a": {
+          "title": "HOME TRADE",
+          "notes": [
+            "Purpose and branches of trade – Home Trade and Foreign Trade – Meaning and Differences",
+            "Retail trade: Functions of retailer, Factors to consider in starting a retail business, Reasons for success/failure of retail business",
+            "Small scale and large scale retailing – Types of Retail Outlets (Unit shops, Stalls, Hawkers, Kiosks, Mobile shops, Supermarket, Chain Stores, Department Stores, Shopping malls, Hypermarkets, Mail Order business), characteristics, advantages and disadvantages",
+            "Modern trends in retailing – branding, self service, Vouchers, Vending machines, credit cards",
+            "Wholesale trade - Functions of Wholesalers, Types of Wholesalers (Merchant and agent), Factors making for elimination and survival of middlemen",
+            "Channel of Distribution: Meaning, Types, Factors for choice of Channel"
+          ]
+        },
+        "b": {
+          "title": "FOREIGN TRADE",
+          "notes": [
+            "Meaning, Types: Import, export and entrepot",
+            "Basic concepts in International trade - terms of trade, balance of trade, balance of payment (favourable, unfavourable, visible and invisible items), bilateral and multilateral agreements and counter trade",
+            "Advantages and Disadvantages",
+            "Barriers to Foreign trade",
+            "Tariffs – Meaning, Reasons for tariffs",
+            "Functions of port and Airports Authorities, Customs and Excise Authority, Shipping, Clearing and forwarding Agents, Exports promotion Council"
+          ]
+        }
+      }
+    },
+    "8": {
+      "title": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE",
+      "notes": [
+        "Procedure and documents used in business: Order, Indent, Consular Invoice, Ordinary Invoice, Credit/Debit notes, Proforma Invoice, Letter of hypothecation, documentary credit, certificate of origin, certificate of inspection, insurance certificate",
+        "Price Quotation: Trade discount, Cash discount, Quantity discount, COD, CWO, CIF, FOB, E & OE, Ex-works, LOCO, FAS, FOR and Franco",
+        "Terms of Payment: Cash/Spot Payment, Purchase and deferred payment",
+        "Means of payment: Legal tender (bank notes and coins), cheques, standing order, bank draft, stamps, postal-orders, money orders, bills of exchange and promissory Note, mail transfer, traveller’s cheques, telegraphic transfer, E-payment"
+      ]
+    },
+    "9": {
+      "title": "FINANCE AND FINANCIAL INSTITUTIONS",
+      "subsections": {
+        "A": {
+          "title": "MONEY",
+          "notes": [
+            "Meaning",
+            "Evolution/History",
+            "Forms",
+            "Qualities and functions"
+          ]
+        },
+        "B": {
+          "title": "BANKS",
+          "notes": [
+            "Types of Banks: Central Bank, Commercial Banks and other specialized banks (Development Bank, Mortgage Bank, Building Society, Micro finance institutions) - features and Functions",
+            "Bureau-de-change (Meaning and Functions)",
+            "E-Banking – Meaning, forms (ATM, Money transfer, online transfer)",
+            "Types of Accounts: Current, Savings and Fixed Deposit Account - Their main features"
+          ]
+        },
+        "C": {
+          "title": "INSURANCE",
+          "notes": [
+            "Meaning and basic principles: utmost good faith, insurable interest, indemnity and subrogation, Contribution and proximate cause",
+            "Types of Insurance: Life Insurance (Whole life Assurance, Endowment), Non-life Insurance (Motor vehicle, Fire, Fidelity, Burglary/Robbery/Theft, Accidents, Consequential Loss, Marine)",
+            "Types of Risk: Insurable Risk (fundamental risks, Pure risk, Particular risk), Uninsurable risk (speculative risk)",
+            "Importance of Insurance to business and individual",
+            "Procedure for taking an Insurance Policy",
+            "Underwriting - meaning",
+            "Re-insurance - Meaning and purpose"
+          ]
+        },
+        "D": {
+          "title": "CAPITAL MARKET",
+          "notes": [
+            "Meaning",
+            "Functions",
+            "Methods of raising funds by companies: offer for sale, offer for subscription, rights issue, private placement, issue by tender",
+            "Second tier Security market: meaning and functions, Advantages to Companies/Public, Requirement for listing"
+          ]
+        },
+        "E": {
+          "title": "STOCK EXCHANGE (first tier)",
+          "notes": [
+            "Meaning and functions",
+            "Importance",
+            "Transactions on the stock exchange",
+            "Speculators - Meaning and Types",
+            "Types of Security: Shares, Stock, Bond, gilt edge, debentures/Convertible loans"
+          ]
+        },
+        "F": {
+          "title": "COMMODITY EXCHANGE",
+          "notes": [
+            "Meaning",
+            "Types of tradable commodities",
+            "Requirements for trading: Grading, Standardizing, Warehousing, Clearing system",
+            "Method of Trading: open outcry and electronic mechanisms",
+            "Benefit of Commodity exchange"
+          ]
+        }
+      }
+    },
+    "10": {
+      "title": "TRANSPORT, TOURISM, COMMUNICATION AND WAREHOUSING",
+      "subsections": {
+        "A": {
+          "title": "TRANSPORT",
+          "notes": [
+            "Meaning",
+            "Importance",
+            "Choice of transport",
+            "Forms: Land, Water, Air, Pipeline",
+            "Advantages and disadvantages of each form",
+            "Documents: Waybills, Consignment note, tickets and manifest"
+          ]
+        },
+        "B": {
+          "title": "TOURISM",
+          "notes": [
+            "Meaning",
+            "Advantages and disadvantages"
+          ]
+        },
+        "C": {
+          "title": "COMMUNICATION",
+          "notes": [
+            "Meaning",
+            "Types: Oral, Written, Visual, Non-verbal, Non-visual, Traditional",
+            "Advantages and Disadvantages",
+            "Importance and services of Post Office",
+            "Courier Agencies and other communication agencies: Telephone system, satellite services, internet, E-mail",
+            "Computer Appreciation: meaning, component parts, advantages and disadvantages"
+          ]
+        },
+        "D": {
+          "title": "WAREHOUSING",
+          "notes": [
+            "Meaning",
+            "Importance",
+            "Functions",
+            "Types",
+            "Advantages"
+          ]
+        }
+      }
+    },
+    "11": {
+      "title": "ADVERTISING",
+      "notes": [
+        "Meaning",
+        "Roles, advantages and disadvantages",
+        "Types: informative, persuasive, Competitive, mass/specific",
+        "Methods: direct and indirect",
+        "Media: meaning, choice and types"
+      ]
+    },
+    "12": {
+      "title": "INTRODUCTION TO MARKETING",
+      "subsections": {
+        "A": {
+          "title": "MARKETING",
+          "notes": [
+            "Meaning",
+            "Importance",
+            "Functions",
+            "Differences between market and marketing, market and marketing research"
+          ]
+        },
+        "B": {
+          "title": "Marketing Concept",
+          "notes": []
+        },
+        "C": {
+          "title": "The Marketing Mix (4Ps)",
+          "notes": [
+            "Meaning",
+            "Components: Product, price, place and promotion"
+          ]
+        },
+        "D": {
+          "title": "Customer Services",
+          "notes": [
+            "Types – Pre and after sales services"
+          ]
+        },
+        "E": {
+          "title": "Sales Promotion",
+          "notes": [
+            "Meaning",
+            "Methods: Trade fairs, exhibitions, gifts, demonstration",
+            "Personal Selling: Meaning, Importance"
+          ]
+        }
+      }
+    },
+    "13": {
+      "title": "LEGAL ASPECT OF BUSINESS",
+      "notes": [
+        "Areas of law that relate to Business",
+        "Contract: Meaning, Elements of a valid contract, Discharge of a contract",
+        "Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination",
+        "Sales of Goods Act",
+        "Hire Purchase Act",
+        "Rights and Obligations of employer and Employee",
+        "Government regulation of Business: patents, copyright, Trade mark",
+        "Registration of Business",
+        "Consumer Protection: Meaning and uses, Need for protection, Means of protection, Consumerism, Government Legislation (food and drugs Act, standard organization Act, Price Control Act, Factory, Shops and Offices Act, Product quality)"
+      ]
+    },
+    "14": {
+      "title": "GOVERNMENT POLICIES RELATING TO BUSINESS",
+      "subsections": {
+        "A": "Commercialisation",
+        "B": "Privatisation",
+        "C": "Deregulation"
+      },
+      "notes": [
+        "Meaning and Reasons",
+        "Advantages and disadvantages",
+        "Comparison/differences"
+      ]
+    },
+    "15": {
+      "title": "INTRODUCTION TO BUSINESS MANAGEMENT",
+      "notes": [
+        "Meaning",
+        "Objectives of business",
+        "Meaning of Business Management",
+        "Functions",
+        "Business Resources: Man, Money, Materials, Opportunities/Goodwill",
+        "Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control",
+        "Business and its environment: Economical, Political, Competition, Technological etc.",
+        "Social responsibility of Business to the Society",
+        "Importance of Inter and Intra departmental communications"
+      ]
+    },
+    "16": {
+      "title": "ECONOMIC GROUPINGS",
+      "subsections": {
+        "A": {
+          "title": "ECOWAS",
+          "notes": [
+            "History",
+            "Membership",
+            "Objectives",
+            "Achievements",
+            "Problems/Obstacles"
+          ]
+        },
+        "B": "NIGER BASIN COMMISSION (NBC)",
+        "C": "LAKE CHAD BASIN COMMISSION (LCBC)",
+        "D": "MANO-RIVER UNION",
+        "E": "EUROPEAN UNION",
+        "F": "WEST AFRICAN CLEARING HOUSE"
+      }
+    }
+  }
+}

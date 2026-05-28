@@ -1,0 +1,233 @@
+{
+  "exam": "BECE",
+  "subject": "History",
+  "syllabus": [
+    {
+      "section": "A",
+      "theme": "Meaning of History",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Meaning of History",
+          "objectives": [
+            "Meaning of History",
+            "Differences between History and storytelling"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Sources of History",
+          "objectives": [
+            "Meaning of sources of History",
+            "Primary sources of History",
+            "Secondary sources of History",
+            "Tertiary sources of History",
+            "How to access sources of History"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Importance of History",
+          "objectives": [
+            "Importance of History to individuals",
+            "Importance of History to society",
+            "Importance of History to the nation"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "theme": "Geography and Environment",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Nok",
+          "objectives": [
+            "Location of Nok on the map of Nigeria",
+            "Meaning of Nok culture",
+            "Artifacts of Nok culture",
+            "The Nok people",
+            "Occupational activities of Nok people",
+            "Significance of Nok culture in Nigerian history"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Ile-Ife",
+          "objectives": [
+            "Location of Ile-Ife on the map of Nigeria",
+            "Place of Ife in Yoruba history",
+            "Ife figures and artifacts",
+            "The Ife people",
+            "Occupational activities of Ife people",
+            "Significance of Ife culture in Nigerian history"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Benin",
+          "objectives": [
+            "Location of Benin on the map of Nigeria",
+            "Edo (Benin) culture and history",
+            "Artifacts of Benin",
+            "The Benin people",
+            "Occupational activities of Benin people",
+            "Significance of Benin culture in Nigerian history"
+          ]
+        },
+        {
+          "topic_number": 4,
+          "title": "Igbo-Ukwu",
+          "objectives": [
+            "Location of Igbo-Ukwu on the map of Nigeria",
+            "Meaning of Igbo-Ukwu culture",
+            "Artifacts of Igbo-Ukwu",
+            "The Igbo-Ukwu people",
+            "Occupational activities of Igbo-Ukwu people",
+            "Significance of Igbo-Ukwu culture in Nigerian history"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "theme": "Political Developments in Nigeria",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Major Centralized States in Pre-Colonial Nigeria",
+          "objectives": [
+            "Meaning of centralized states",
+            "Characteristics of centralized states",
+            "Examples of centralized states in pre-colonial Nigeria"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Non-Centralized States in Pre-Colonial Nigeria",
+          "objectives": [
+            "Meaning of non-centralized states",
+            "Characteristics of non-centralized states",
+            "Examples of non-centralized states in pre-colonial Nigeria"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Interrelationships of Centres of Civilization in Pre-Colonial Nigeria",
+          "objectives": [
+            "Relationships between centres of civilization",
+            "Differences between centres of civilization",
+            "Areas of interaction among centres of civilization"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "theme": "Geographical Environment",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Ghana Empire",
+          "objectives": [
+            "Location of Ghana Empire on the map of Africa",
+            "Socio-political structure of Ghana Empire",
+            "Factors that led to the rise of Ghana Empire",
+            "Factors that led to the fall of Ghana Empire"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Mali Empire",
+          "objectives": [
+            "Location of Mali Empire on the map of Africa",
+            "Socio-political structure of Mali Empire",
+            "Factors that led to the rise of Mali Empire",
+            "Factors that led to the fall of Mali Empire"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Songhai Empire",
+          "objectives": [
+            "Location of Songhai Empire on the map of Africa",
+            "Socio-political structure of Songhai Empire",
+            "Factors that led to the rise of Songhai Empire",
+            "Factors that led to the fall of Songhai Empire"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "theme": "External Contacts and Trade",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Origin and Organization of Trans-Saharan Trade",
+          "objectives": [
+            "Origin and nature of Trans-Saharan Trade",
+            "Commodities traded during Trans-Saharan Trade",
+            "Trade routes during Trans-Saharan Trade",
+            "Effects of Trans-Saharan Trade"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Early European Contacts with Nigeria",
+          "objectives": [
+            "Nature of early European contacts with Nigeria",
+            "Early Europeans that came to Nigeria",
+            "Nature of Trans-Atlantic slave trade",
+            "Legitimate trade"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "F",
+      "theme": "Political Developments in Nigeria",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "British Colonization of Nigerian Territories",
+          "objectives": [
+            "British contact with Nigeria",
+            "How the British conquered Nigerian territories",
+            "British system of colonialism"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Evolution of the Nigerian State",
+          "objectives": [
+            "The Berlin Treaty",
+            "Roles of the Royal Niger Company",
+            "Colonial conquest and administration"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "The Amalgamation of Nigeria",
+          "objectives": [
+            "Meaning of Amalgamation",
+            "Reasons for the Amalgamation",
+            "Process of the Amalgamation",
+            "Key personalities and their roles"
+          ]
+        },
+        {
+          "topic_number": 4,
+          "title": "The Independence Movement",
+          "objectives": [
+            "Meaning of Nationalism",
+            "Factors that contributed to Nigerian Nationalism",
+            "Nature of Nigerian Nationalism",
+            "Attainment of Independence in 1960"
+          ]
+        }
+      ]
+    }
+  ]
+}

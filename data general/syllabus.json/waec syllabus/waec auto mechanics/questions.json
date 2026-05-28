@@ -1,0 +1,3604 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "exam type",
+      "section": "General",
+      "subtopic": "exam type",
+      "difficulty": "easy",
+      "question": "Which statement about exam type is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "exam type is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "exam type",
+      "section": "General",
+      "subtopic": "exam type",
+      "difficulty": "medium",
+      "question": "Which statement about exam type is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "exam type is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "exam type",
+      "section": "General",
+      "subtopic": "exam type",
+      "difficulty": "hard",
+      "question": "Which statement about exam type is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "exam type is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "Workshop safety and regulations",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 5,
+      "topic": "Workshop safety and regulations",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 6,
+      "topic": "Workshop safety and regulations",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 7,
+      "topic": "Workshop safety and regulations: Define safety and regulation",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Define safety and regulation",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 8,
+      "topic": "Workshop safety and regulations: Define safety and regulation",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Define safety and regulation",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 9,
+      "topic": "Workshop safety and regulations: Define safety and regulation",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Define safety and regulation",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 10,
+      "topic": "Workshop safety and regulations: Causes of workshop accidents",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Causes of workshop accidents",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 11,
+      "topic": "Workshop safety and regulations: Causes of workshop accidents",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Causes of workshop accidents",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 12,
+      "topic": "Workshop safety and regulations: Causes of workshop accidents",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Causes of workshop accidents",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 13,
+      "topic": "Workshop safety and regulations: Accident prevention techniques and safety devices e.g. sand buckets, fire extinguishers, etc.",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Accident prevention techniques and safety devices e.g. sand buckets, fire extinguishers, etc.",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 14,
+      "topic": "Workshop safety and regulations: Accident prevention techniques and safety devices e.g. sand buckets, fire extinguishers, etc.",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Accident prevention techniques and safety devices e.g. sand buckets, fire extinguishers, etc.",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 15,
+      "topic": "Workshop safety and regulations: Accident prevention techniques and safety devices e.g. sand buckets, fire extinguishers, etc.",
+      "section": "General",
+      "subtopic": "Workshop safety and regulations: Accident prevention techniques and safety devices e.g. sand buckets, fire extinguishers, etc.",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 16,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Micrometer",
+        "D": "Try square"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 17,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 18,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Try square",
+        "C": "Micrometer",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 19,
+      "topic": "Tools and equipment: Types and uses of tools e.g. marking, measuring, holding and cutting tools.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Types and uses of tools e.g. marking, measuring, holding and cutting tools.",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Vernier caliper",
+        "C": "Steel rule",
+        "D": "Try square"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 20,
+      "topic": "Tools and equipment: Types and uses of tools e.g. marking, measuring, holding and cutting tools.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Types and uses of tools e.g. marking, measuring, holding and cutting tools.",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 21,
+      "topic": "Tools and equipment: Types and uses of tools e.g. marking, measuring, holding and cutting tools.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Types and uses of tools e.g. marking, measuring, holding and cutting tools.",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Vernier caliper",
+        "C": "Steel rule",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 22,
+      "topic": "Tools and equipment: Types and uses of equipment e.g. hand valve, grinding, tool etc.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Types and uses of equipment e.g. hand valve, grinding, tool etc.",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Micrometer",
+        "C": "Steel rule",
+        "D": "Try square"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 23,
+      "topic": "Tools and equipment: Types and uses of equipment e.g. hand valve, grinding, tool etc.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Types and uses of equipment e.g. hand valve, grinding, tool etc.",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Micrometer",
+        "C": "Vernier caliper",
+        "D": "Try square"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 24,
+      "topic": "Tools and equipment: Types and uses of equipment e.g. hand valve, grinding, tool etc.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Types and uses of equipment e.g. hand valve, grinding, tool etc.",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Micrometer",
+        "C": "Vernier caliper",
+        "D": "Steel rule"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 25,
+      "topic": "Tools and equipment: Maintenance of tools and equipment.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Maintenance of tools and equipment.",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Micrometer",
+        "C": "Try square",
+        "D": "Steel rule"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 26,
+      "topic": "Tools and equipment: Maintenance of tools and equipment.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Maintenance of tools and equipment.",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 27,
+      "topic": "Tools and equipment: Maintenance of tools and equipment.",
+      "section": "General",
+      "subtopic": "Tools and equipment: Maintenance of tools and equipment.",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Try square",
+        "C": "Vernier caliper",
+        "D": "Steel rule"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 28,
+      "topic": "Vehicle layout",
+      "section": "General",
+      "subtopic": "Vehicle layout",
+      "difficulty": "easy",
+      "question": "Which statement about Vehicle layout is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Vehicle layout is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Vehicle layout",
+      "section": "General",
+      "subtopic": "Vehicle layout",
+      "difficulty": "medium",
+      "question": "Which statement about Vehicle layout is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Vehicle layout is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Vehicle layout",
+      "section": "General",
+      "subtopic": "Vehicle layout",
+      "difficulty": "hard",
+      "question": "Which statement about Vehicle layout is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Vehicle layout is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Vehicle layout: Types of motor vehicle chassis",
+      "section": "General",
+      "subtopic": "Vehicle layout: Types of motor vehicle chassis",
+      "difficulty": "medium",
+      "question": "Which statement about Vehicle layout: Types of motor vehicle chassis is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Vehicle layout: Types of motor vehicle chassis is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Vehicle layout: Types of motor vehicle chassis",
+      "section": "General",
+      "subtopic": "Vehicle layout: Types of motor vehicle chassis",
+      "difficulty": "hard",
+      "question": "Which statement about Vehicle layout: Types of motor vehicle chassis is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Vehicle layout: Types of motor vehicle chassis is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Vehicle layout: Types of motor vehicle chassis",
+      "section": "General",
+      "subtopic": "Vehicle layout: Types of motor vehicle chassis",
+      "difficulty": "easy",
+      "question": "Which statement about Vehicle layout: Types of motor vehicle chassis is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Vehicle layout: Types of motor vehicle chassis is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.)",
+      "section": "General",
+      "subtopic": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.)",
+      "difficulty": "hard",
+      "question": "Which statement about Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.)",
+      "section": "General",
+      "subtopic": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.)",
+      "difficulty": "easy",
+      "question": "Which statement about Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.) is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.)",
+      "section": "General",
+      "subtopic": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.)",
+      "difficulty": "medium",
+      "question": "Which statement about Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.) is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Vehicle layout: Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Vehicle layout: Chassis maintenance.",
+      "section": "General",
+      "subtopic": "Vehicle layout: Chassis maintenance.",
+      "difficulty": "easy",
+      "question": "Which statement about Vehicle layout: Chassis maintenance. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Vehicle layout: Chassis maintenance. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Vehicle layout: Chassis maintenance.",
+      "section": "General",
+      "subtopic": "Vehicle layout: Chassis maintenance.",
+      "difficulty": "medium",
+      "question": "Which statement about Vehicle layout: Chassis maintenance. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Vehicle layout: Chassis maintenance. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Vehicle layout: Chassis maintenance.",
+      "section": "General",
+      "subtopic": "Vehicle layout: Chassis maintenance.",
+      "difficulty": "hard",
+      "question": "Which statement about Vehicle layout: Chassis maintenance. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Vehicle layout: Chassis maintenance. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Automobile Engine",
+      "section": "General",
+      "subtopic": "Automobile Engine",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Automobile Engine",
+      "section": "General",
+      "subtopic": "Automobile Engine",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Automobile Engine is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Automobile Engine",
+      "section": "General",
+      "subtopic": "Automobile Engine",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Automobile Engine: Types of engine design.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Types of engine design.",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine: Types of engine design. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Types of engine design. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Automobile Engine: Types of engine design.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Types of engine design.",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine: Types of engine design. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Automobile Engine: Types of engine design. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Automobile Engine: Types of engine design.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Types of engine design.",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine: Types of engine design. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Automobile Engine: Types of engine design. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "Automobile Engine: Identification of the main component of an engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Identification of the main component of an engine.",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine: Identification of the main component of an engine. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Automobile Engine: Identification of the main component of an engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Automobile Engine: Identification of the main component of an engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Identification of the main component of an engine.",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine: Identification of the main component of an engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Identification of the main component of an engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Automobile Engine: Identification of the main component of an engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Identification of the main component of an engine.",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine: Identification of the main component of an engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Automobile Engine: Identification of the main component of an engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "Automobile Engine: Line diagram of a multi‑cylinder engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Line diagram of a multi‑cylinder engine.",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine: Line diagram of a multi‑cylinder engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Automobile Engine: Line diagram of a multi‑cylinder engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "Automobile Engine: Line diagram of a multi‑cylinder engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Line diagram of a multi‑cylinder engine.",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine: Line diagram of a multi‑cylinder engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Line diagram of a multi‑cylinder engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Automobile Engine: Line diagram of a multi‑cylinder engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Line diagram of a multi‑cylinder engine.",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine: Line diagram of a multi‑cylinder engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Automobile Engine: Line diagram of a multi‑cylinder engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Automobile Engine: Types of cylinder liners.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Types of cylinder liners.",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine: Types of cylinder liners. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Types of cylinder liners. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Automobile Engine: Types of cylinder liners.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Types of cylinder liners.",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine: Types of cylinder liners. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Types of cylinder liners. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Automobile Engine: Types of cylinder liners.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Types of cylinder liners.",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine: Types of cylinder liners. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Automobile Engine: Types of cylinder liners. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine).",
+      "section": "General",
+      "subtopic": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine).",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine). is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine). is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine).",
+      "section": "General",
+      "subtopic": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine).",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine). is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine). is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine).",
+      "section": "General",
+      "subtopic": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine).",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine). is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine). is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine.",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine.",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine.",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Automobile Engine: Advantages of a four‑stroke cycle over a two‑stroke cycle engine. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Automobile Engine: Engine maintenance and servicing.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Engine maintenance and servicing.",
+      "difficulty": "hard",
+      "question": "Which statement about Automobile Engine: Engine maintenance and servicing. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Automobile Engine: Engine maintenance and servicing. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Automobile Engine: Engine maintenance and servicing.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Engine maintenance and servicing.",
+      "difficulty": "easy",
+      "question": "Which statement about Automobile Engine: Engine maintenance and servicing. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Automobile Engine: Engine maintenance and servicing. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Automobile Engine: Engine maintenance and servicing.",
+      "section": "General",
+      "subtopic": "Automobile Engine: Engine maintenance and servicing.",
+      "difficulty": "medium",
+      "question": "Which statement about Automobile Engine: Engine maintenance and servicing. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Automobile Engine: Engine maintenance and servicing. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "Transmission system",
+      "section": "General",
+      "subtopic": "Transmission system",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transmission system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Transmission system",
+      "section": "General",
+      "subtopic": "Transmission system",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Transmission system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Transmission system",
+      "section": "General",
+      "subtopic": "Transmission system",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Transmission system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Transmission system: Transmission system layout.",
+      "section": "General",
+      "subtopic": "Transmission system: Transmission system layout.",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system: Transmission system layout. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Transmission system layout. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Transmission system: Transmission system layout.",
+      "section": "General",
+      "subtopic": "Transmission system: Transmission system layout.",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system: Transmission system layout. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Transmission system layout. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Transmission system: Transmission system layout.",
+      "section": "General",
+      "subtopic": "Transmission system: Transmission system layout.",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system: Transmission system layout. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Transmission system layout. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Transmission system: Types of drives.",
+      "section": "General",
+      "subtopic": "Transmission system: Types of drives.",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system: Types of drives. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Transmission system: Types of drives. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Transmission system: Types of drives.",
+      "section": "General",
+      "subtopic": "Transmission system: Types of drives.",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system: Types of drives. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Types of drives. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Transmission system: Types of drives.",
+      "section": "General",
+      "subtopic": "Transmission system: Types of drives.",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system: Types of drives. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Transmission system: Types of drives. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc.",
+      "section": "General",
+      "subtopic": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc.",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system: Components of transmission systems e.g. clutches and gear boxes etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc.",
+      "section": "General",
+      "subtopic": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc.",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system: Components of transmission systems e.g. clutches and gear boxes etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc.",
+      "section": "General",
+      "subtopic": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc.",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system: Components of transmission systems e.g. clutches and gear boxes etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Transmission system: Components of transmission systems e.g. clutches and gear boxes etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Transmission system: Operation of simple plate clutch.",
+      "section": "General",
+      "subtopic": "Transmission system: Operation of simple plate clutch.",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system: Operation of simple plate clutch. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Operation of simple plate clutch. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Transmission system: Operation of simple plate clutch.",
+      "section": "General",
+      "subtopic": "Transmission system: Operation of simple plate clutch.",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system: Operation of simple plate clutch. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Transmission system: Operation of simple plate clutch. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Transmission system: Operation of simple plate clutch.",
+      "section": "General",
+      "subtopic": "Transmission system: Operation of simple plate clutch.",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system: Operation of simple plate clutch. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transmission system: Operation of simple plate clutch. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Transmission system: Types and operation of the gearbox.",
+      "section": "General",
+      "subtopic": "Transmission system: Types and operation of the gearbox.",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system: Types and operation of the gearbox. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transmission system: Types and operation of the gearbox. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "Transmission system: Types and operation of the gearbox.",
+      "section": "General",
+      "subtopic": "Transmission system: Types and operation of the gearbox.",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system: Types and operation of the gearbox. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Types and operation of the gearbox. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "Transmission system: Types and operation of the gearbox.",
+      "section": "General",
+      "subtopic": "Transmission system: Types and operation of the gearbox.",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system: Types and operation of the gearbox. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Transmission system: Types and operation of the gearbox. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "Transmission system: Introduction to automatic transmission systems.",
+      "section": "General",
+      "subtopic": "Transmission system: Introduction to automatic transmission systems.",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system: Introduction to automatic transmission systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transmission system: Introduction to automatic transmission systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Transmission system: Introduction to automatic transmission systems.",
+      "section": "General",
+      "subtopic": "Transmission system: Introduction to automatic transmission systems.",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system: Introduction to automatic transmission systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transmission system: Introduction to automatic transmission systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Transmission system: Introduction to automatic transmission systems.",
+      "section": "General",
+      "subtopic": "Transmission system: Introduction to automatic transmission systems.",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system: Introduction to automatic transmission systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transmission system: Introduction to automatic transmission systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Transmission system: Conventional layout of the transmission system.",
+      "section": "General",
+      "subtopic": "Transmission system: Conventional layout of the transmission system.",
+      "difficulty": "medium",
+      "question": "Which statement about Transmission system: Conventional layout of the transmission system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Conventional layout of the transmission system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Transmission system: Conventional layout of the transmission system.",
+      "section": "General",
+      "subtopic": "Transmission system: Conventional layout of the transmission system.",
+      "difficulty": "hard",
+      "question": "Which statement about Transmission system: Conventional layout of the transmission system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Conventional layout of the transmission system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "Transmission system: Conventional layout of the transmission system.",
+      "section": "General",
+      "subtopic": "Transmission system: Conventional layout of the transmission system.",
+      "difficulty": "easy",
+      "question": "Which statement about Transmission system: Conventional layout of the transmission system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Transmission system: Conventional layout of the transmission system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Suspension system",
+      "section": "General",
+      "subtopic": "Suspension system",
+      "difficulty": "hard",
+      "question": "Which statement about Suspension system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Suspension system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "Suspension system",
+      "section": "General",
+      "subtopic": "Suspension system",
+      "difficulty": "easy",
+      "question": "Which statement about Suspension system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Suspension system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "Suspension system",
+      "section": "General",
+      "subtopic": "Suspension system",
+      "difficulty": "medium",
+      "question": "Which statement about Suspension system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Suspension system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 91,
+      "topic": "Suspension system: Types and functions of suspension systems.",
+      "section": "General",
+      "subtopic": "Suspension system: Types and functions of suspension systems.",
+      "difficulty": "easy",
+      "question": "Which statement about Suspension system: Types and functions of suspension systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Suspension system: Types and functions of suspension systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 92,
+      "topic": "Suspension system: Types and functions of suspension systems.",
+      "section": "General",
+      "subtopic": "Suspension system: Types and functions of suspension systems.",
+      "difficulty": "medium",
+      "question": "Which statement about Suspension system: Types and functions of suspension systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Suspension system: Types and functions of suspension systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 93,
+      "topic": "Suspension system: Types and functions of suspension systems.",
+      "section": "General",
+      "subtopic": "Suspension system: Types and functions of suspension systems.",
+      "difficulty": "hard",
+      "question": "Which statement about Suspension system: Types and functions of suspension systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Suspension system: Types and functions of suspension systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 94,
+      "topic": "Suspension system: Fault finding, maintenance and repair of the suspension system.",
+      "section": "General",
+      "subtopic": "Suspension system: Fault finding, maintenance and repair of the suspension system.",
+      "difficulty": "medium",
+      "question": "Which statement about Suspension system: Fault finding, maintenance and repair of the suspension system. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Suspension system: Fault finding, maintenance and repair of the suspension system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 95,
+      "topic": "Suspension system: Fault finding, maintenance and repair of the suspension system.",
+      "section": "General",
+      "subtopic": "Suspension system: Fault finding, maintenance and repair of the suspension system.",
+      "difficulty": "hard",
+      "question": "Which statement about Suspension system: Fault finding, maintenance and repair of the suspension system. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Suspension system: Fault finding, maintenance and repair of the suspension system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 96,
+      "topic": "Suspension system: Fault finding, maintenance and repair of the suspension system.",
+      "section": "General",
+      "subtopic": "Suspension system: Fault finding, maintenance and repair of the suspension system.",
+      "difficulty": "easy",
+      "question": "Which statement about Suspension system: Fault finding, maintenance and repair of the suspension system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Suspension system: Fault finding, maintenance and repair of the suspension system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 97,
+      "topic": "Steering system",
+      "section": "General",
+      "subtopic": "Steering system",
+      "difficulty": "hard",
+      "question": "Which statement about Steering system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Steering system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 98,
+      "topic": "Steering system",
+      "section": "General",
+      "subtopic": "Steering system",
+      "difficulty": "easy",
+      "question": "Which statement about Steering system is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Steering system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 99,
+      "topic": "Steering system",
+      "section": "General",
+      "subtopic": "Steering system",
+      "difficulty": "medium",
+      "question": "Which statement about Steering system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Steering system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 100,
+      "topic": "Steering system: Components and functions of the steering system.",
+      "section": "General",
+      "subtopic": "Steering system: Components and functions of the steering system.",
+      "difficulty": "easy",
+      "question": "Which statement about Steering system: Components and functions of the steering system. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Steering system: Components and functions of the steering system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 101,
+      "topic": "Steering system: Components and functions of the steering system.",
+      "section": "General",
+      "subtopic": "Steering system: Components and functions of the steering system.",
+      "difficulty": "medium",
+      "question": "Which statement about Steering system: Components and functions of the steering system. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Steering system: Components and functions of the steering system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 102,
+      "topic": "Steering system: Components and functions of the steering system.",
+      "section": "General",
+      "subtopic": "Steering system: Components and functions of the steering system.",
+      "difficulty": "hard",
+      "question": "Which statement about Steering system: Components and functions of the steering system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Steering system: Components and functions of the steering system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 103,
+      "topic": "Steering system: Types of steering gearbox.",
+      "section": "General",
+      "subtopic": "Steering system: Types of steering gearbox.",
+      "difficulty": "medium",
+      "question": "Which statement about Steering system: Types of steering gearbox. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Steering system: Types of steering gearbox. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 104,
+      "topic": "Steering system: Types of steering gearbox.",
+      "section": "General",
+      "subtopic": "Steering system: Types of steering gearbox.",
+      "difficulty": "hard",
+      "question": "Which statement about Steering system: Types of steering gearbox. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Steering system: Types of steering gearbox. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 105,
+      "topic": "Steering system: Types of steering gearbox.",
+      "section": "General",
+      "subtopic": "Steering system: Types of steering gearbox.",
+      "difficulty": "easy",
+      "question": "Which statement about Steering system: Types of steering gearbox. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Steering system: Types of steering gearbox. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 106,
+      "topic": "Steering system: Manual steering fault and repairs",
+      "section": "General",
+      "subtopic": "Steering system: Manual steering fault and repairs",
+      "difficulty": "hard",
+      "question": "Which statement about Steering system: Manual steering fault and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Steering system: Manual steering fault and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 107,
+      "topic": "Steering system: Manual steering fault and repairs",
+      "section": "General",
+      "subtopic": "Steering system: Manual steering fault and repairs",
+      "difficulty": "easy",
+      "question": "Which statement about Steering system: Manual steering fault and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Steering system: Manual steering fault and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 108,
+      "topic": "Steering system: Manual steering fault and repairs",
+      "section": "General",
+      "subtopic": "Steering system: Manual steering fault and repairs",
+      "difficulty": "medium",
+      "question": "Which statement about Steering system: Manual steering fault and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Steering system: Manual steering fault and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 109,
+      "topic": "Steering system: Operation of power‑assisted steering.",
+      "section": "General",
+      "subtopic": "Steering system: Operation of power‑assisted steering.",
+      "difficulty": "easy",
+      "question": "Which statement about Steering system: Operation of power‑assisted steering. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Steering system: Operation of power‑assisted steering. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 110,
+      "topic": "Steering system: Operation of power‑assisted steering.",
+      "section": "General",
+      "subtopic": "Steering system: Operation of power‑assisted steering.",
+      "difficulty": "medium",
+      "question": "Which statement about Steering system: Operation of power‑assisted steering. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Steering system: Operation of power‑assisted steering. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 111,
+      "topic": "Steering system: Operation of power‑assisted steering.",
+      "section": "General",
+      "subtopic": "Steering system: Operation of power‑assisted steering.",
+      "difficulty": "hard",
+      "question": "Which statement about Steering system: Operation of power‑assisted steering. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Steering system: Operation of power‑assisted steering. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 112,
+      "topic": "Steering system: Steering geometry",
+      "section": "General",
+      "subtopic": "Steering system: Steering geometry",
+      "difficulty": "medium",
+      "question": "Which statement about Steering system: Steering geometry is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Steering system: Steering geometry is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 113,
+      "topic": "Steering system: Steering geometry",
+      "section": "General",
+      "subtopic": "Steering system: Steering geometry",
+      "difficulty": "hard",
+      "question": "Which statement about Steering system: Steering geometry is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Steering system: Steering geometry is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 114,
+      "topic": "Steering system: Steering geometry",
+      "section": "General",
+      "subtopic": "Steering system: Steering geometry",
+      "difficulty": "easy",
+      "question": "Which statement about Steering system: Steering geometry is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Steering system: Steering geometry is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 115,
+      "topic": "Engine lubrication system",
+      "section": "General",
+      "subtopic": "Engine lubrication system",
+      "difficulty": "hard",
+      "question": "Which statement about Engine lubrication system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Engine lubrication system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 116,
+      "topic": "Engine lubrication system",
+      "section": "General",
+      "subtopic": "Engine lubrication system",
+      "difficulty": "easy",
+      "question": "Which statement about Engine lubrication system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Engine lubrication system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 117,
+      "topic": "Engine lubrication system",
+      "section": "General",
+      "subtopic": "Engine lubrication system",
+      "difficulty": "medium",
+      "question": "Which statement about Engine lubrication system is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Engine lubrication system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 118,
+      "topic": "Engine lubrication system: Purpose and type of lubrication system.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Purpose and type of lubrication system.",
+      "difficulty": "easy",
+      "question": "Which statement about Engine lubrication system: Purpose and type of lubrication system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Engine lubrication system: Purpose and type of lubrication system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 119,
+      "topic": "Engine lubrication system: Purpose and type of lubrication system.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Purpose and type of lubrication system.",
+      "difficulty": "medium",
+      "question": "Which statement about Engine lubrication system: Purpose and type of lubrication system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Engine lubrication system: Purpose and type of lubrication system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 120,
+      "topic": "Engine lubrication system: Purpose and type of lubrication system.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Purpose and type of lubrication system.",
+      "difficulty": "hard",
+      "question": "Which statement about Engine lubrication system: Purpose and type of lubrication system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Engine lubrication system: Purpose and type of lubrication system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 121,
+      "topic": "Engine lubrication system: Friction and its disadvantages.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Friction and its disadvantages.",
+      "difficulty": "medium",
+      "question": "Which statement about Engine lubrication system: Friction and its disadvantages. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Engine lubrication system: Friction and its disadvantages. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 122,
+      "topic": "Engine lubrication system: Friction and its disadvantages.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Friction and its disadvantages.",
+      "difficulty": "hard",
+      "question": "Which statement about Engine lubrication system: Friction and its disadvantages. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Engine lubrication system: Friction and its disadvantages. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 123,
+      "topic": "Engine lubrication system: Friction and its disadvantages.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Friction and its disadvantages.",
+      "difficulty": "easy",
+      "question": "Which statement about Engine lubrication system: Friction and its disadvantages. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Engine lubrication system: Friction and its disadvantages. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 124,
+      "topic": "Engine lubrication system: Component part of the lubrication system.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Component part of the lubrication system.",
+      "difficulty": "hard",
+      "question": "Which statement about Engine lubrication system: Component part of the lubrication system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Engine lubrication system: Component part of the lubrication system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 125,
+      "topic": "Engine lubrication system: Component part of the lubrication system.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Component part of the lubrication system.",
+      "difficulty": "easy",
+      "question": "Which statement about Engine lubrication system: Component part of the lubrication system. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Engine lubrication system: Component part of the lubrication system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 126,
+      "topic": "Engine lubrication system: Component part of the lubrication system.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Component part of the lubrication system.",
+      "difficulty": "medium",
+      "question": "Which statement about Engine lubrication system: Component part of the lubrication system. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Engine lubrication system: Component part of the lubrication system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 127,
+      "topic": "Engine lubrication system: Quality and viscosity of lubricants.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Quality and viscosity of lubricants.",
+      "difficulty": "easy",
+      "question": "Which statement about Engine lubrication system: Quality and viscosity of lubricants. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Engine lubrication system: Quality and viscosity of lubricants. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 128,
+      "topic": "Engine lubrication system: Quality and viscosity of lubricants.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Quality and viscosity of lubricants.",
+      "difficulty": "medium",
+      "question": "Which statement about Engine lubrication system: Quality and viscosity of lubricants. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Engine lubrication system: Quality and viscosity of lubricants. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 129,
+      "topic": "Engine lubrication system: Quality and viscosity of lubricants.",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Quality and viscosity of lubricants.",
+      "difficulty": "hard",
+      "question": "Which statement about Engine lubrication system: Quality and viscosity of lubricants. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Engine lubrication system: Quality and viscosity of lubricants. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 130,
+      "topic": "Engine lubrication system: Oil additive and its importance",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Oil additive and its importance",
+      "difficulty": "medium",
+      "question": "Which statement about Engine lubrication system: Oil additive and its importance is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Engine lubrication system: Oil additive and its importance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 131,
+      "topic": "Engine lubrication system: Oil additive and its importance",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Oil additive and its importance",
+      "difficulty": "hard",
+      "question": "Which statement about Engine lubrication system: Oil additive and its importance is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Engine lubrication system: Oil additive and its importance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 132,
+      "topic": "Engine lubrication system: Oil additive and its importance",
+      "section": "General",
+      "subtopic": "Engine lubrication system: Oil additive and its importance",
+      "difficulty": "easy",
+      "question": "Which statement about Engine lubrication system: Oil additive and its importance is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Engine lubrication system: Oil additive and its importance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 133,
+      "topic": "Cooling system",
+      "section": "General",
+      "subtopic": "Cooling system",
+      "difficulty": "hard",
+      "question": "Which statement about Cooling system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Cooling system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 134,
+      "topic": "Cooling system",
+      "section": "General",
+      "subtopic": "Cooling system",
+      "difficulty": "easy",
+      "question": "Which statement about Cooling system is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Cooling system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 135,
+      "topic": "Cooling system",
+      "section": "General",
+      "subtopic": "Cooling system",
+      "difficulty": "medium",
+      "question": "Which statement about Cooling system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Cooling system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 136,
+      "topic": "Cooling system: Function and type of cooling system",
+      "section": "General",
+      "subtopic": "Cooling system: Function and type of cooling system",
+      "difficulty": "easy",
+      "question": "Which statement about Cooling system: Function and type of cooling system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Cooling system: Function and type of cooling system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 137,
+      "topic": "Cooling system: Function and type of cooling system",
+      "section": "General",
+      "subtopic": "Cooling system: Function and type of cooling system",
+      "difficulty": "medium",
+      "question": "Which statement about Cooling system: Function and type of cooling system is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Cooling system: Function and type of cooling system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 138,
+      "topic": "Cooling system: Function and type of cooling system",
+      "section": "General",
+      "subtopic": "Cooling system: Function and type of cooling system",
+      "difficulty": "hard",
+      "question": "Which statement about Cooling system: Function and type of cooling system is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Cooling system: Function and type of cooling system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 139,
+      "topic": "Cooling system: Components of water and air cooling systems.",
+      "section": "General",
+      "subtopic": "Cooling system: Components of water and air cooling systems.",
+      "difficulty": "medium",
+      "question": "Which statement about Cooling system: Components of water and air cooling systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Cooling system: Components of water and air cooling systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 140,
+      "topic": "Cooling system: Components of water and air cooling systems.",
+      "section": "General",
+      "subtopic": "Cooling system: Components of water and air cooling systems.",
+      "difficulty": "hard",
+      "question": "Which statement about Cooling system: Components of water and air cooling systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Cooling system: Components of water and air cooling systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 141,
+      "topic": "Cooling system: Components of water and air cooling systems.",
+      "section": "General",
+      "subtopic": "Cooling system: Components of water and air cooling systems.",
+      "difficulty": "easy",
+      "question": "Which statement about Cooling system: Components of water and air cooling systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Cooling system: Components of water and air cooling systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 142,
+      "topic": "Cooling system: Comparison of air and water cooling systems.",
+      "section": "General",
+      "subtopic": "Cooling system: Comparison of air and water cooling systems.",
+      "difficulty": "hard",
+      "question": "Which statement about Cooling system: Comparison of air and water cooling systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Cooling system: Comparison of air and water cooling systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 143,
+      "topic": "Cooling system: Comparison of air and water cooling systems.",
+      "section": "General",
+      "subtopic": "Cooling system: Comparison of air and water cooling systems.",
+      "difficulty": "easy",
+      "question": "Which statement about Cooling system: Comparison of air and water cooling systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Cooling system: Comparison of air and water cooling systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 144,
+      "topic": "Cooling system: Comparison of air and water cooling systems.",
+      "section": "General",
+      "subtopic": "Cooling system: Comparison of air and water cooling systems.",
+      "difficulty": "medium",
+      "question": "Which statement about Cooling system: Comparison of air and water cooling systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Cooling system: Comparison of air and water cooling systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 145,
+      "topic": "Fuels and combustion",
+      "section": "General",
+      "subtopic": "Fuels and combustion",
+      "difficulty": "easy",
+      "question": "Which statement about Fuels and combustion is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Fuels and combustion is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 146,
+      "topic": "Fuels and combustion",
+      "section": "General",
+      "subtopic": "Fuels and combustion",
+      "difficulty": "medium",
+      "question": "Which statement about Fuels and combustion is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fuels and combustion is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 147,
+      "topic": "Fuels and combustion",
+      "section": "General",
+      "subtopic": "Fuels and combustion",
+      "difficulty": "hard",
+      "question": "Which statement about Fuels and combustion is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fuels and combustion is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 148,
+      "topic": "Fuels and combustion: Fuel component system",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Fuel component system",
+      "difficulty": "medium",
+      "question": "Which statement about Fuels and combustion: Fuel component system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Fuels and combustion: Fuel component system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 149,
+      "topic": "Fuels and combustion: Fuel component system",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Fuel component system",
+      "difficulty": "hard",
+      "question": "Which statement about Fuels and combustion: Fuel component system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Fuels and combustion: Fuel component system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 150,
+      "topic": "Fuels and combustion: Fuel component system",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Fuel component system",
+      "difficulty": "easy",
+      "question": "Which statement about Fuels and combustion: Fuel component system is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fuels and combustion: Fuel component system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 151,
+      "topic": "Fuels and combustion: General layout and working principle of the fuel supply system.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: General layout and working principle of the fuel supply system.",
+      "difficulty": "hard",
+      "question": "Which statement about Fuels and combustion: General layout and working principle of the fuel supply system. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Fuels and combustion: General layout and working principle of the fuel supply system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 152,
+      "topic": "Fuels and combustion: General layout and working principle of the fuel supply system.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: General layout and working principle of the fuel supply system.",
+      "difficulty": "easy",
+      "question": "Which statement about Fuels and combustion: General layout and working principle of the fuel supply system. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Fuels and combustion: General layout and working principle of the fuel supply system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 153,
+      "topic": "Fuels and combustion: General layout and working principle of the fuel supply system.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: General layout and working principle of the fuel supply system.",
+      "difficulty": "medium",
+      "question": "Which statement about Fuels and combustion: General layout and working principle of the fuel supply system. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Fuels and combustion: General layout and working principle of the fuel supply system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 154,
+      "topic": "Fuels and combustion: Component parts and functions of the fuel supply system.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Component parts and functions of the fuel supply system.",
+      "difficulty": "easy",
+      "question": "Which statement about Fuels and combustion: Component parts and functions of the fuel supply system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Fuels and combustion: Component parts and functions of the fuel supply system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 155,
+      "topic": "Fuels and combustion: Component parts and functions of the fuel supply system.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Component parts and functions of the fuel supply system.",
+      "difficulty": "medium",
+      "question": "Which statement about Fuels and combustion: Component parts and functions of the fuel supply system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Fuels and combustion: Component parts and functions of the fuel supply system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 156,
+      "topic": "Fuels and combustion: Component parts and functions of the fuel supply system.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Component parts and functions of the fuel supply system.",
+      "difficulty": "hard",
+      "question": "Which statement about Fuels and combustion: Component parts and functions of the fuel supply system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Fuels and combustion: Component parts and functions of the fuel supply system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 157,
+      "topic": "Fuels and combustion: Types of carburetors, pumps and their maintenance",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Types of carburetors, pumps and their maintenance",
+      "difficulty": "medium",
+      "question": "Which statement about Fuels and combustion: Types of carburetors, pumps and their maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Fuels and combustion: Types of carburetors, pumps and their maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 158,
+      "topic": "Fuels and combustion: Types of carburetors, pumps and their maintenance",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Types of carburetors, pumps and their maintenance",
+      "difficulty": "hard",
+      "question": "Which statement about Fuels and combustion: Types of carburetors, pumps and their maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fuels and combustion: Types of carburetors, pumps and their maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 159,
+      "topic": "Fuels and combustion: Types of carburetors, pumps and their maintenance",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Types of carburetors, pumps and their maintenance",
+      "difficulty": "easy",
+      "question": "Which statement about Fuels and combustion: Types of carburetors, pumps and their maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fuels and combustion: Types of carburetors, pumps and their maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 160,
+      "topic": "Fuels and combustion: Types and properties of the fuel.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Types and properties of the fuel.",
+      "difficulty": "hard",
+      "question": "Which statement about Fuels and combustion: Types and properties of the fuel. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fuels and combustion: Types and properties of the fuel. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 161,
+      "topic": "Fuels and combustion: Types and properties of the fuel.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Types and properties of the fuel.",
+      "difficulty": "easy",
+      "question": "Which statement about Fuels and combustion: Types and properties of the fuel. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Fuels and combustion: Types and properties of the fuel. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 162,
+      "topic": "Fuels and combustion: Types and properties of the fuel.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Types and properties of the fuel.",
+      "difficulty": "medium",
+      "question": "Which statement about Fuels and combustion: Types and properties of the fuel. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Fuels and combustion: Types and properties of the fuel. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 163,
+      "topic": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps.",
+      "difficulty": "easy",
+      "question": "Which statement about Fuels and combustion: Comparison of mechanical and electrical fuel pumps. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 164,
+      "topic": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps.",
+      "difficulty": "medium",
+      "question": "Which statement about Fuels and combustion: Comparison of mechanical and electrical fuel pumps. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 165,
+      "topic": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps.",
+      "section": "General",
+      "subtopic": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps.",
+      "difficulty": "hard",
+      "question": "Which statement about Fuels and combustion: Comparison of mechanical and electrical fuel pumps. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Fuels and combustion: Comparison of mechanical and electrical fuel pumps. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 166,
+      "topic": "Manifold and air cleaner",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner",
+      "difficulty": "medium",
+      "question": "Which statement about Manifold and air cleaner is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Manifold and air cleaner is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 167,
+      "topic": "Manifold and air cleaner",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner",
+      "difficulty": "hard",
+      "question": "Which statement about Manifold and air cleaner is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Manifold and air cleaner is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 168,
+      "topic": "Manifold and air cleaner",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner",
+      "difficulty": "easy",
+      "question": "Which statement about Manifold and air cleaner is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Manifold and air cleaner is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 169,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of manifold",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of manifold",
+      "difficulty": "hard",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of manifold is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of manifold is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 170,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of manifold",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of manifold",
+      "difficulty": "easy",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of manifold is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of manifold is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 171,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of manifold",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of manifold",
+      "difficulty": "medium",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of manifold is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of manifold is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 172,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of air cleaner",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of air cleaner",
+      "difficulty": "easy",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of air cleaner is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of air cleaner is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 173,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of air cleaner",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of air cleaner",
+      "difficulty": "medium",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of air cleaner is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of air cleaner is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 174,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of air cleaner",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of air cleaner",
+      "difficulty": "hard",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of air cleaner is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of air cleaner is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 175,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of muffler",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of muffler",
+      "difficulty": "medium",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of muffler is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of muffler is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 176,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of muffler",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of muffler",
+      "difficulty": "hard",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of muffler is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of muffler is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 177,
+      "topic": "Manifold and air cleaner: Types, functions and maintenance of muffler",
+      "section": "General",
+      "subtopic": "Manifold and air cleaner: Types, functions and maintenance of muffler",
+      "difficulty": "easy",
+      "question": "Which statement about Manifold and air cleaner: Types, functions and maintenance of muffler is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Manifold and air cleaner: Types, functions and maintenance of muffler is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 178,
+      "topic": "Braking system",
+      "section": "General",
+      "subtopic": "Braking system",
+      "difficulty": "hard",
+      "question": "Which statement about Braking system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Braking system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 179,
+      "topic": "Braking system",
+      "section": "General",
+      "subtopic": "Braking system",
+      "difficulty": "easy",
+      "question": "Which statement about Braking system is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Braking system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 180,
+      "topic": "Braking system",
+      "section": "General",
+      "subtopic": "Braking system",
+      "difficulty": "medium",
+      "question": "Which statement about Braking system is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Braking system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 181,
+      "topic": "Braking system: Concept of friction, operating principles and types of braking systems.",
+      "section": "General",
+      "subtopic": "Braking system: Concept of friction, operating principles and types of braking systems.",
+      "difficulty": "easy",
+      "question": "Which statement about Braking system: Concept of friction, operating principles and types of braking systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Braking system: Concept of friction, operating principles and types of braking systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 182,
+      "topic": "Braking system: Concept of friction, operating principles and types of braking systems.",
+      "section": "General",
+      "subtopic": "Braking system: Concept of friction, operating principles and types of braking systems.",
+      "difficulty": "medium",
+      "question": "Which statement about Braking system: Concept of friction, operating principles and types of braking systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Braking system: Concept of friction, operating principles and types of braking systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 183,
+      "topic": "Braking system: Concept of friction, operating principles and types of braking systems.",
+      "section": "General",
+      "subtopic": "Braking system: Concept of friction, operating principles and types of braking systems.",
+      "difficulty": "hard",
+      "question": "Which statement about Braking system: Concept of friction, operating principles and types of braking systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Braking system: Concept of friction, operating principles and types of braking systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 184,
+      "topic": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems.",
+      "section": "General",
+      "subtopic": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems.",
+      "difficulty": "medium",
+      "question": "Which statement about Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 185,
+      "topic": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems.",
+      "section": "General",
+      "subtopic": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems.",
+      "difficulty": "hard",
+      "question": "Which statement about Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 186,
+      "topic": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems.",
+      "section": "General",
+      "subtopic": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems.",
+      "difficulty": "easy",
+      "question": "Which statement about Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Braking system: Faults and maintenance of mechanical and hydraulically operated braking systems. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 187,
+      "topic": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S).",
+      "section": "General",
+      "subtopic": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S).",
+      "difficulty": "hard",
+      "question": "Which statement about Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S). is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S). is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 188,
+      "topic": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S).",
+      "section": "General",
+      "subtopic": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S).",
+      "difficulty": "easy",
+      "question": "Which statement about Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S). is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S). is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 189,
+      "topic": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S).",
+      "section": "General",
+      "subtopic": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S).",
+      "difficulty": "medium",
+      "question": "Which statement about Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S). is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Braking system: Functions, advantages and disadvantages of the antilock braking system (A.B.S). is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 190,
+      "topic": "Braking system: Layout of the braking system.",
+      "section": "General",
+      "subtopic": "Braking system: Layout of the braking system.",
+      "difficulty": "easy",
+      "question": "Which statement about Braking system: Layout of the braking system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Braking system: Layout of the braking system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 191,
+      "topic": "Braking system: Layout of the braking system.",
+      "section": "General",
+      "subtopic": "Braking system: Layout of the braking system.",
+      "difficulty": "medium",
+      "question": "Which statement about Braking system: Layout of the braking system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Braking system: Layout of the braking system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 192,
+      "topic": "Braking system: Layout of the braking system.",
+      "section": "General",
+      "subtopic": "Braking system: Layout of the braking system.",
+      "difficulty": "hard",
+      "question": "Which statement about Braking system: Layout of the braking system. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Braking system: Layout of the braking system. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 193,
+      "topic": "Wheels and Tyres",
+      "section": "General",
+      "subtopic": "Wheels and Tyres",
+      "difficulty": "medium",
+      "question": "Which statement about Wheels and Tyres is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Wheels and Tyres is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 194,
+      "topic": "Wheels and Tyres",
+      "section": "General",
+      "subtopic": "Wheels and Tyres",
+      "difficulty": "hard",
+      "question": "Which statement about Wheels and Tyres is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Wheels and Tyres is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 195,
+      "topic": "Wheels and Tyres",
+      "section": "General",
+      "subtopic": "Wheels and Tyres",
+      "difficulty": "easy",
+      "question": "Which statement about Wheels and Tyres is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Wheels and Tyres is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 196,
+      "topic": "Wheels and Tyres: Types and functions of rims and tyres.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Types and functions of rims and tyres.",
+      "difficulty": "hard",
+      "question": "Which statement about Wheels and Tyres: Types and functions of rims and tyres. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Wheels and Tyres: Types and functions of rims and tyres. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 197,
+      "topic": "Wheels and Tyres: Types and functions of rims and tyres.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Types and functions of rims and tyres.",
+      "difficulty": "easy",
+      "question": "Which statement about Wheels and Tyres: Types and functions of rims and tyres. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Wheels and Tyres: Types and functions of rims and tyres. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 198,
+      "topic": "Wheels and Tyres: Types and functions of rims and tyres.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Types and functions of rims and tyres.",
+      "difficulty": "medium",
+      "question": "Which statement about Wheels and Tyres: Types and functions of rims and tyres. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Wheels and Tyres: Types and functions of rims and tyres. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 199,
+      "topic": "Wheels and Tyres: Vulcanizing",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Vulcanizing",
+      "difficulty": "easy",
+      "question": "Which statement about Wheels and Tyres: Vulcanizing is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Wheels and Tyres: Vulcanizing is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 200,
+      "topic": "Wheels and Tyres: Vulcanizing",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Vulcanizing",
+      "difficulty": "medium",
+      "question": "Which statement about Wheels and Tyres: Vulcanizing is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Wheels and Tyres: Vulcanizing is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 201,
+      "topic": "Wheels and Tyres: Vulcanizing",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Vulcanizing",
+      "difficulty": "hard",
+      "question": "Which statement about Wheels and Tyres: Vulcanizing is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Wheels and Tyres: Vulcanizing is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 202,
+      "topic": "Wheels and Tyres: Stating regulations for tyre interchange and pressure.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Stating regulations for tyre interchange and pressure.",
+      "difficulty": "medium",
+      "question": "Which statement about Wheels and Tyres: Stating regulations for tyre interchange and pressure. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Wheels and Tyres: Stating regulations for tyre interchange and pressure. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 203,
+      "topic": "Wheels and Tyres: Stating regulations for tyre interchange and pressure.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Stating regulations for tyre interchange and pressure.",
+      "difficulty": "hard",
+      "question": "Which statement about Wheels and Tyres: Stating regulations for tyre interchange and pressure. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Wheels and Tyres: Stating regulations for tyre interchange and pressure. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 204,
+      "topic": "Wheels and Tyres: Stating regulations for tyre interchange and pressure.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Stating regulations for tyre interchange and pressure.",
+      "difficulty": "easy",
+      "question": "Which statement about Wheels and Tyres: Stating regulations for tyre interchange and pressure. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Wheels and Tyres: Stating regulations for tyre interchange and pressure. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 205,
+      "topic": "Wheels and Tyres: Road wheel alignment and balancing.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Road wheel alignment and balancing.",
+      "difficulty": "hard",
+      "question": "Which statement about Wheels and Tyres: Road wheel alignment and balancing. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Wheels and Tyres: Road wheel alignment and balancing. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 206,
+      "topic": "Wheels and Tyres: Road wheel alignment and balancing.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Road wheel alignment and balancing.",
+      "difficulty": "easy",
+      "question": "Which statement about Wheels and Tyres: Road wheel alignment and balancing. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Wheels and Tyres: Road wheel alignment and balancing. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 207,
+      "topic": "Wheels and Tyres: Road wheel alignment and balancing.",
+      "section": "General",
+      "subtopic": "Wheels and Tyres: Road wheel alignment and balancing.",
+      "difficulty": "medium",
+      "question": "Which statement about Wheels and Tyres: Road wheel alignment and balancing. is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Wheels and Tyres: Road wheel alignment and balancing. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 208,
+      "topic": "Workshop management and enterprise",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 209,
+      "topic": "Workshop management and enterprise",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 210,
+      "topic": "Workshop management and enterprise",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 211,
+      "topic": "Workshop management and enterprise: Basic concept of management, planning, controlling, staffing, directing",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Basic concept of management, planning, controlling, staffing, directing",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 212,
+      "topic": "Workshop management and enterprise: Basic concept of management, planning, controlling, staffing, directing",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Basic concept of management, planning, controlling, staffing, directing",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 213,
+      "topic": "Workshop management and enterprise: Basic concept of management, planning, controlling, staffing, directing",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Basic concept of management, planning, controlling, staffing, directing",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 214,
+      "topic": "Workshop management and enterprise: Managing resources",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Managing resources",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 215,
+      "topic": "Workshop management and enterprise: Managing resources",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Managing resources",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 216,
+      "topic": "Workshop management and enterprise: Managing resources",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Managing resources",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 217,
+      "topic": "Workshop management and enterprise: Concept of authority and responsibilities in enterprising.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Concept of authority and responsibilities in enterprising.",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 218,
+      "topic": "Workshop management and enterprise: Concept of authority and responsibilities in enterprising.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Concept of authority and responsibilities in enterprising.",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 219,
+      "topic": "Workshop management and enterprise: Concept of authority and responsibilities in enterprising.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Concept of authority and responsibilities in enterprising.",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 220,
+      "topic": "Workshop management and enterprise: Types of enterprises.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Types of enterprises.",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 221,
+      "topic": "Workshop management and enterprise: Types of enterprises.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Types of enterprises.",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 222,
+      "topic": "Workshop management and enterprise: Types of enterprises.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Types of enterprises.",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 223,
+      "topic": "Workshop management and enterprise: Advantages and disadvantages of types of enterprise in automobile.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Advantages and disadvantages of types of enterprise in automobile.",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 224,
+      "topic": "Workshop management and enterprise: Advantages and disadvantages of types of enterprise in automobile.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Advantages and disadvantages of types of enterprise in automobile.",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 225,
+      "topic": "Workshop management and enterprise: Advantages and disadvantages of types of enterprise in automobile.",
+      "section": "General",
+      "subtopic": "Workshop management and enterprise: Advantages and disadvantages of types of enterprise in automobile.",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    }
+  ]
+}

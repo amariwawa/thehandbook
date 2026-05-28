@@ -1,0 +1,83 @@
+{
+  "detailed_syllabus": [
+    {
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS",
+      "subtopics": [
+        "Uses of ICT tools e.g. mobile phones, computers, Internet, television set, radio, etc.",
+        "Impact of ICT on Education, Social and Economic Development.",
+        "Information processing cycle; distinction between data and information.",
+        "Types and uses of computers."
+      ]
+    },
+    {
+      "topic": "COMPUTER HARDWARE",
+      "subtopics": [
+        "Categories of computer hardware:",
+        "- The system unit",
+        "- Peripherals",
+        "- Storage media."
+      ]
+    },
+    {
+      "topic": "COMPUTER SOFTWARE",
+      "subtopics": [
+        "Types of software: System and application software.",
+        "Open source and proprietary software."
+      ]
+    },
+    {
+      "topic": "THREATS TO COMPUTERS AND USERS",
+      "subtopics": [
+        "Meaning of computer threats.",
+        "Categories of computer threats.",
+        "Natural threats e.g. earthquakes, heat, floods, etc.",
+        "Human threats e.g. viruses, worms, intentional damage, etc.",
+        "Health hazards to computer users: causes and effects.",
+        "Remedies to threats and hazards."
+      ]
+    },
+    {
+      "topic": "WORD PROCESSING",
+      "subtopics": [
+        "Word Processing packages, their uses and importance.",
+        "Creating and saving documents.",
+        "Editing, formatting, and insertion of objects e.g. tables, graphics, etc.",
+        "Printing of documents.",
+        "Speed and Accuracy in typing at 30-35 words per minute."
+      ]
+    },
+    {
+      "topic": "SPREADSHEET",
+      "subtopics": [
+        "Spreadsheet packages, their uses and importance.",
+        "Types of data and their uses.",
+        "Creating and saving workbook.",
+        "Constructing and inserting formulae and functions.",
+        "Editing and formatting worksheets.",
+        "Printing worksheets."
+      ]
+    },
+    {
+      "topic": "PRESENTATION",
+      "subtopics": [
+        "Presentation Packages, uses and importance.",
+        "Creating and saving presentations.",
+        "Editing, formatting, and insertion of objects.",
+        "Slide shows.",
+        "Master slides.",
+        "Factors to consider before delivering a presentation.",
+        "Printing Presentation documents."
+      ]
+    },
+    {
+      "topic": "THE INTERNET",
+      "subtopics": [
+        "Meaning, concepts, terminologies, and requirements.",
+        "Features and uses of browser windows.",
+        "Rules and regulations in the use of the Internet (Netiquette).",
+        "Sending and accessing e-mail.",
+        "Internet-related tools for communication, e.g. chatting, downloading, uploading, search engines, Facebook, etc."
+      ]
+    }
+  ]
+}

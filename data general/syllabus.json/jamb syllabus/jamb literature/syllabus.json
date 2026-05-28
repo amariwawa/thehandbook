@@ -1,0 +1,202 @@
+{
+  "syllabus_title": "JAMB UTME Syllabus for Literature in English",
+  "sections": [
+    {
+      "section": "DRAMA",
+      "topics": {
+        "types": [
+          "Tragedy",
+          "Comedy",
+          "Tragicomedy",
+          "Melodrama",
+          "Farce",
+          "Opera"
+        ],
+        "dramatic_techniques": [
+          "Characterization",
+          "Dialogue",
+          "Flashback",
+          "Mime",
+          "Costume",
+          "Music/Dance",
+          "Décor/Scenery",
+          "Acts/Scenes",
+          "Soliloquy/Aside",
+          "Figures of Speech"
+        ],
+        "interpretation_of_prescribed_texts": [
+          "Theme",
+          "Plot",
+          "Socio-political context",
+          "Setting (Spatial and Temporal)"
+        ]
+      },
+      "objectives": [
+        "Identify the various types of drama",
+        "Analyse the contents of the various types of drama",
+        "Compare and contrast the features of different dramatic types",
+        "Demonstrate adequate knowledge of dramatic techniques used in each prescribed text",
+        "Differentiate between styles of selected playwrights",
+        "Determine the theme of any prescribed text",
+        "Identify the plot of the play",
+        "Apply the lessons of the play to everyday living",
+        "Identify the spatial and temporal setting of the play"
+      ]
+    },
+    {
+      "section": "PROSE",
+      "topics": {
+        "types": {
+          "fiction": ["Novel", "Novella/Novelette", "Short story"],
+          "non_fiction": ["Biography", "Autobiography", "Memoir"],
+          "faction": "Combination of fact and fiction"
+        },
+        "narrative_techniques": [
+          "Point of view (Omniscient/Third Person, First Person)",
+          "Characterisation (Round, flat, foil, hero, antihero, etc.)",
+          "Language"
+        ],
+        "textual_analysis": [
+          "Theme",
+          "Plot",
+          "Setting (Temporal/Spatial)",
+          "Socio-political context"
+        ]
+      },
+      "objectives": [
+        "Differentiate between types of prose",
+        "Identify the category that each prescribed text belongs to",
+        "Analyse the components of each type of prose",
+        "Identify the narrative techniques used in each of the prescribed texts",
+        "Determine an author's narrative style",
+        "Distinguish between one type of character from another",
+        "Determine the thematic pre-occupation of the author of the prescribed text",
+        "Indicate the plot of the novel",
+        "Identify the temporal and spatial setting of the novel",
+        "Relate the prescribed text to real-life situations"
+      ]
+    },
+    {
+      "section": "POETRY",
+      "topics": {
+        "types": [
+          "Sonnet",
+          "Ode",
+          "Lyrics",
+          "Elegy",
+          "Ballad",
+          "Panegyric",
+          "Epic",
+          "Blank Verse"
+        ],
+        "poetic_devices": [
+          "Structure",
+          "Imagery",
+          "Sound (Rhyme/Rhythm, repetition, pun, onomatopoeia, etc.)",
+          "Diction",
+          "Persona"
+        ],
+        "appreciation": [
+          "Thematic preoccupation",
+          "Socio-political relevance",
+          "Style"
+        ]
+      },
+      "objectives": [
+        "Identify different types of poetry",
+        "Compare and contrast the features of different poetic types",
+        "Determine the devices used by various poets",
+        "Show how poetic devices are used for aesthetic effect in each poem",
+        "Deduce the poet's preoccupation from the poem",
+        "Appraise poetry as an art with moral values",
+        "Apply the lessons from the poem to real-life situations"
+      ]
+    },
+    {
+      "section": "GENERAL LITERARY PRINCIPLES",
+      "topics": {
+        "literary_terms": "Foreshadowing, suspense, theatre, monologue, dialogue, soliloquy, symbolism, protagonist, antagonist, figures of speech, satire, stream of consciousness, etc. (in addition to those listed under genres)",
+        "literary_principles": [
+          "Direct imitation in play",
+          "Versification in drama and poetry",
+          "Narration of people's experiences",
+          "Achievement of aesthetic value"
+        ],
+        "relationship": "Relationship between literary terms and principles"
+      },
+      "objectives": [
+        "Identify literary terms in drama, prose, and poetry",
+        "Identify the general principles of Literature",
+        "Differentiate between literary terms and principles",
+        "Use literary terms appropriately"
+      ]
+    },
+    {
+      "section": "LITERARY APPRECIATION",
+      "topics": ["Unseen passages/extracts from Drama, Prose, and Poetry"],
+      "objectives": [
+        "Determine literary devices used in a given passage/extract",
+        "Provide a meaningful interpretation of the given passage/extract",
+        "Relate the extract to true life experiences"
+      ]
+    }
+  ],
+  "prescribed_texts": {
+    "drama": {
+      "african": [
+        "Efua Sutherland - The Marriage of Anansewa",
+        "Bosede Ademilua-Afolayan - Once Upon an Elephant"
+      ],
+      "non_african": [
+        "William Shakespeare - Antony and Cleopatra",
+        "J.B. Priestley - An Inspector Calls",
+        "Robert Bolt - A Man for all Seasons"
+      ]
+    },
+    "prose": {
+      "african": [
+        "Pede Hollist - So the Path Does Not Die",
+        "Elma Shaw - Redemption Road"
+      ],
+      "non_african": [
+        "Harper Lee - To Kill a Mockingbird",
+        "Susanne Bellefeuille - Path of Lucas: The Journey He Endured"
+      ]
+    },
+    "poetry": {
+      "african": [
+        "Gabriel Okara - Once Upon a Time",
+        "Elizabeth Kamara - New Tongue",
+        "Wole Soyinka - Night",
+        "Niyi Osundare - Not My Business",
+        "S.O.H. Afriyie-Vidza - Hearty Garlands",
+        "Syl Cheney Coker - The Breasts of the Sea"
+      ],
+      "non_african": [
+        "Lord Byron - She Walks in Beauty",
+        "Wilfred Wilson Gipson - The Stone",
+        "Geoffrey Chaucer - The Nun's Priest's Tale",
+        "Seamus Heaney - The Digging",
+        "Maya Angelou - Still I Rise",
+        "Fleur Adcock - The Telephone Call"
+      ]
+    }
+  },
+  "recommended_texts": {
+    "anthologies": [
+      "Gbemisola, A. (2005) Naked Soles, Ibadan: Kraft",
+      "Hayward, J. (ed.) (1968) The Penguin Book of English Verse",
+      "Johnson, R. et al (eds.) (1996) New Poetry from Africa",
+      "Kermode, F. et al (1964) Oxford Anthology of English Literature, Vol. II",
+      "Nwoga D. (ed.) (1967) West African Verse",
+      "Parker, E.W (ed.) (1980) A pageant of Longer poems",
+      "Senanu, K. E. and Vincent, T. (eds.) (1993) A Selection of African Poetry",
+      "Soyinka, W. (ed.) (1987) Poems of Black Africa"
+    ],
+    "critical_texts": [
+      "Abrams, M. H. (1981) A Glossary of Literary Terms (4th Edition)",
+      "Emeaba, O. E. (1982) A Dictionary of Literature",
+      "Murphy, M. J. (1972) Understanding Unseen"
+    ]
+  }
+}

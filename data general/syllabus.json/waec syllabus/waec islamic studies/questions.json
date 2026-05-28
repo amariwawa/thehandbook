@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 2,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "medium",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 3,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "hard",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 4,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "570 CE",
+        "C": "632 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 5,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "610 CE",
+        "C": "632 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 6,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "570 CE",
+        "C": "622 CE",
+        "D": "610 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 7,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Hadith and Sunnah",
+        "C": "Ijma",
+        "D": "Tafsir"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 8,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Hadith and Sunnah",
+        "C": "Tafsir",
+        "D": "Qur’an only"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 9,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Qur’an only",
+        "C": "Hadith and Sunnah",
+        "D": "Ijma"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 10,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 11,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Hadith and Sunnah",
+        "C": "Ijma",
+        "D": "Tafsir"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 12,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Hadith and Sunnah",
+        "C": "Tafsir",
+        "D": "Qur’an only"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 13,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Ijma",
+        "C": "Qur’an only",
+        "D": "Tafsir"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 14,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "medium",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 15,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Qur’an only",
+        "C": "Hadith and Sunnah",
+        "D": "Tafsir"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 16,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Ijma",
+        "C": "Hadith and Sunnah",
+        "D": "Tafsir"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 17,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Qur’an only",
+        "C": "Hadith and Sunnah",
+        "D": "Ijma"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 18,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "622 CE",
+        "B": "632 CE",
+        "C": "610 CE",
+        "D": "570 CE"
+      },
+      "answer": "A",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 19,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Hadith and Sunnah",
+        "C": "Tafsir",
+        "D": "Ijma"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 20,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "622 CE",
+        "C": "610 CE",
+        "D": "570 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 21,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "medium",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 22,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Hadith and Sunnah",
+        "C": "Tafsir",
+        "D": "Qur’an only"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 23,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Hadith and Sunnah",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 24,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 25,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Qur’an only",
+        "C": "Tafsir",
+        "D": "Hadith and Sunnah"
+      },
+      "answer": "D",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 26,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 27,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Tafsir",
+        "C": "Ijma",
+        "D": "Hadith and Sunnah"
+      },
+      "answer": "D",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 28,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Tafsir",
+        "C": "Hadith and Sunnah",
+        "D": "Qur’an only"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 29,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Ijma",
+        "D": "Qur’an only"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 30,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "622 CE",
+        "C": "610 CE",
+        "D": "632 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 31,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "570 CE",
+        "C": "610 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 32,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 33,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 34,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Tafsir",
+        "C": "Hadith and Sunnah",
+        "D": "Ijma"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 35,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 36,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 37,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Ijma",
+        "C": "Qur’an only",
+        "D": "Hadith and Sunnah"
+      },
+      "answer": "D",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 38,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 39,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "632 CE",
+        "C": "610 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 40,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "570 CE",
+        "C": "622 CE",
+        "D": "610 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 41,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "medium",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 42,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "hard",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 43,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "medium",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "A",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 44,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Hadith and Sunnah",
+        "C": "Tafsir",
+        "D": "Ijma"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 45,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "hard",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 46,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 47,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "632 CE",
+        "C": "622 CE",
+        "D": "570 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 48,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Tafsir",
+        "C": "Hadith and Sunnah",
+        "D": "Qur’an only"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 49,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "570 CE",
+        "C": "632 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 50,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "622 CE",
+        "C": "570 CE",
+        "D": "610 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 51,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Tafsir",
+        "C": "Hadith and Sunnah",
+        "D": "Qur’an only"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 52,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Qur’an only",
+        "C": "Tafsir",
+        "D": "Ijma"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 53,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Ijma",
+        "D": "Qur’an only"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 54,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Ijma",
+        "C": "Hadith and Sunnah",
+        "D": "Tafsir"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 55,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Qur’an only",
+        "C": "Ijma",
+        "D": "Hadith and Sunnah"
+      },
+      "answer": "D",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 56,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Qur’an only",
+        "C": "Hadith and Sunnah",
+        "D": "Ijma"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 57,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "hard",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 58,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Ijma",
+        "C": "Tafsir",
+        "D": "Qur’an only"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 59,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 60,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "610 CE",
+        "C": "622 CE",
+        "D": "632 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 61,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Hadith and Sunnah"
+      },
+      "answer": "D",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 62,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 63,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "622 CE",
+        "C": "610 CE",
+        "D": "570 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 64,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "hard",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 65,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "622 CE",
+        "C": "570 CE",
+        "D": "610 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 66,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Ijma",
+        "D": "Qur’an only"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 67,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "hard",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 68,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Hadith and Sunnah"
+      },
+      "answer": "D",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 69,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "hard",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a secular concept",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 70,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "610 CE",
+        "C": "622 CE",
+        "D": "570 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 71,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Hadith and Sunnah",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 72,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "622 CE",
+        "C": "570 CE",
+        "D": "632 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 73,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Hadith and Sunnah",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 74,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "medium",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 75,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 76,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "632 CE",
+        "C": "622 CE",
+        "D": "610 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 77,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "medium",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 78,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "610 CE",
+        "C": "570 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 79,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "632 CE",
+        "C": "570 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 80,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "632 CE",
+        "C": "622 CE",
+        "D": "570 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 81,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "570 CE",
+        "C": "622 CE",
+        "D": "610 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 82,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Qur’an only",
+        "C": "Tafsir",
+        "D": "Hadith and Sunnah"
+      },
+      "answer": "D",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 83,
+      "topic": "HADITH",
+      "section": "General",
+      "subtopic": "HADITH",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Qur’an only",
+        "B": "Hadith and Sunnah",
+        "C": "Tafsir",
+        "D": "Ijma"
+      },
+      "answer": "B",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 84,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "medium",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Tafsir",
+        "C": "Qur’an only",
+        "D": "Ijma"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 85,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "easy",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Hadith and Sunnah",
+        "B": "Qur’an only",
+        "C": "Ijma",
+        "D": "Tafsir"
+      },
+      "answer": "A",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 86,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 87,
+      "topic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "section": "General",
+      "subtopic": "TAWHID AND FIQH (ISLAMIC THEOLOGY AND JURISPRUDENCE)",
+      "difficulty": "hard",
+      "question": "The sayings and actions of Prophet Muhammad (SAW) are collectively known as:",
+      "options": {
+        "A": "Ijma",
+        "B": "Tafsir",
+        "C": "Hadith and Sunnah",
+        "D": "Qur’an only"
+      },
+      "answer": "C",
+      "explanation": "Hadith refers to the narrated sayings, and Sunnah refers to the practices of the Prophet, serving as secondary sources of Islamic law."
+    },
+    {
+      "id": 88,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 89,
+      "topic": "QUR’AN",
+      "section": "General",
+      "subtopic": "QUR’AN",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "622 CE",
+        "C": "570 CE",
+        "D": "610 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 90,
+      "topic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "section": "General",
+      "subtopic": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM)",
+      "difficulty": "easy",
+      "question": "Which statement about TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TARIKH (HISTORICAL DEVELOPMENT OF ISLAM) is essential knowledge for Islamic Studies examinations."
+    }
+  ]
+}

@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "easy",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "medium",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "medium",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "hard",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "hard",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "easy",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "easy",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "medium",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "medium",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "medium",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "medium",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "medium",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "easy",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "easy",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "hard",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "easy",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "easy",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "easy",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "medium",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "medium",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "easy",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "hard",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "easy",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "hard",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "hard",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "hard",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "hard",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "hard",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "hard",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "hard",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "easy",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "medium",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "section": "General",
+      "subtopic": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "difficulty": "easy",
+      "question": "Which statement about Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship is included in the Art/Music syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "medium",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "section": "General",
+      "subtopic": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "Historical Dimensions of Art",
+      "section": "General",
+      "subtopic": "Historical Dimensions of Art",
+      "difficulty": "easy",
+      "question": "Which statement about Historical Dimensions of Art is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Historical Dimensions of Art is included in the Art/Music syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "section": "General",
+      "subtopic": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "difficulty": "easy",
+      "question": "Which statement about Classification of Art, Elements and Principles of Design, Art Terms is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Classification of Art, Elements and Principles of Design, Art Terms is included in the Art/Music syllabus."
+    }
+  ]
+}

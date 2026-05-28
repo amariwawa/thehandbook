@@ -1,0 +1,191 @@
+{
+  "syllabus_title": "WAEC SSCE Office Practice Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "THE OFFICE",
+      "topics": [
+        {"topic": "Definition of the office"},
+        {"topic": "Functions of the office"},
+        {"topic": "Layout of the office"},
+        {
+          "topic": "Principles of office organization",
+          "subtopics": ["Span of control", "Unity of control", "Unity of function, etc."]
+        },
+        {"topic": "Office procedures"},
+        {"topic": "Sections of the office"}
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "DEPARTMENTS IN AN ORGANIZATION",
+      "topics": [
+        {"topic": "List of departments in an organization"},
+        {"topic": "Functions of each department in an organization"},
+        {"topic": "Organizational chart"}
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "OFFICE EQUIPMENT",
+      "topics": [
+        {"topic": "Meaning of office equipment"},
+        {
+          "topic": "Types of office equipment",
+          "subtopics": [
+            "Manual: Typewriter, Perforator, Stapling machine, Duplicating machine, etc.",
+            "Electrical: Typewriter, Photocopier, Shredding machine, Computer, Scanning machine, Facsimile machine, etc."
+          ]
+        },
+        {"topic": "Uses of office equipment"},
+        {"topic": "Care of office equipment"}
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "THE RECEPTION",
+      "topics": [
+        {"topic": "Meaning of the reception"},
+        {"topic": "Duties of the receptionist"},
+        {"topic": "Documents handled by a receptionist"},
+        {"topic": "Qualities of a receptionist"},
+        {"topic": "Procedures for handling telephone calls"}
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "OFFICE DOCUMENTS",
+      "topics": [
+        {"topic": "Meaning of office documents"},
+        {
+          "topic": "Types of office documents",
+          "subtopics": ["Administrative", "Sales", "Stores", "Purchasing"]
+        },
+        {"topic": "Uses of office documents"},
+        {"topic": "Preparation of office documents"}
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "OFFICE CORRESPONDENCE",
+      "topics": [
+        {"topic": "Meaning of office correspondence"},
+        {
+          "topic": "Types of office correspondence",
+          "subtopics": ["Memos", "Business letters", "Notice of meetings", "Minutes of meetings", "Reports", "Circulars"]
+        }
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "MAIL",
+      "topics": [
+        {
+          "topic": "Types of mail",
+          "subtopics": ["Personal mail", "Official mail", "Urgent mail", "Confidential mail"]
+        },
+        {
+          "topic": "Classification of mail",
+          "subtopics": ["Incoming mail", "Outgoing mail"]
+        },
+        {"topic": "Procedures for handling incoming and outgoing mail"}
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "FILING",
+      "topics": [
+        {"topic": "Definition of filing"},
+        {
+          "topic": "Systems of filing",
+          "subtopics": ["Vertical", "Lateral", "Electronic"]
+        },
+        {
+          "topic": "Classifications of filing",
+          "subtopics": ["Alphabetical", "Chronological", "Numerical", "Geographical", "Alpha-numerical", "Subject"]
+        },
+        {"topic": "Purposes of filing"},
+        {"topic": "Steps involved in filing"},
+        {"topic": "Filing equipment"}
+      ]
+    },
+    {
+      "section_number": 9,
+      "title": "COMMUNICATION",
+      "topics": [
+        {"topic": "Definition of communication"},
+        {"topic": "Importance of communication"},
+        {
+          "topic": "Types of communication",
+          "subtopics": [
+            "Verbal (Oral, Written)",
+            "Non verbal (Visual, Audio, Audio-visual)"
+          ]
+        },
+        {
+          "topic": "Methods/Media of communication",
+          "subtopics": [
+            "Print (newspapers, magazines, directories, handbills, flyers, etc.)",
+            "Electronic (radio, television, audio and video conferencing, etc.)"
+          ]
+        },
+        {
+          "topic": "Communication service providers",
+          "subtopics": ["NIPOST", "NITEL", "Media houses", "Satellite stations", "The internet", "Global System of Mobile Communication (GSM)"]
+        }
+      ]
+    },
+    {
+      "section_number": 10,
+      "title": "MEETINGS",
+      "topics": [
+        {"topic": "Definition of meeting"},
+        {"topic": "Purpose of meeting"},
+        {
+          "topic": "Types of meeting",
+          "subtopics": ["Statutory meeting", "Emergency meeting", "Board meeting", "Management meeting", "Annual General Meeting", "Staff meeting", "Committee meeting"]
+        },
+        {
+          "topic": "Procedure for conducting a meeting",
+          "subtopics": [
+            "Opening prayer", "Agenda", "Chairman’s opening remarks", "Reading of the last minutes", "Correction (if any)", "Adoption of the last minutes", "Matters arising from the last minutes", "Main business", "Any other business (AOB)", "Chairman’s closing remarks", "Adjournment/closing", "Closing prayer"
+          ]
+        },
+        {
+          "topic": "Meeting Terminologies",
+          "subtopics": ["Agenda", "Adoption", "AOB", "Adjournment, etc."]
+        },
+        {"topic": "Roles of the chairman/secretary"},
+        {"topic": "Writing the minutes"}
+      ]
+    },
+    {
+      "section_number": 11,
+      "title": "REPORT WRITING",
+      "topics": [
+        {"topic": "Meaning of report"},
+        {
+          "topic": "Types of report",
+          "subtopics": ["Short report", "Long report", "Investigative report", "Routine/Periodic"]
+        },
+        {"topic": "Parts of a report"},
+        {"topic": "Importance of report writing"}
+      ]
+    },
+    {
+      "section_number": 12,
+      "title": "INFORMATION",
+      "topics": [
+        {"topic": "Definition of information"},
+        {"topic": "Types of information"},
+        {"topic": "Uses of information"},
+        {"topic": "Sources of information"},
+        {"topic": "Storage of information"},
+        {
+          "topic": "Qualities of good information",
+          "subtopics": ["Timeliness", "Accuracy", "Speed of delivery", "Usability, etc."]
+        }
+      ]
+    }
+  ]
+}

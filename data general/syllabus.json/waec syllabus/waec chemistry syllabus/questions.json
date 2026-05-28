@@ -1,0 +1,2500 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO CHEMISTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY",
+      "difficulty": "easy",
+      "question": "Which of the following statements about INTRODUCTION TO CHEMISTRY is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in INTRODUCTION TO CHEMISTRY",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO CHEMISTRY is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO CHEMISTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY",
+      "difficulty": "medium",
+      "question": "Which of the following statements about INTRODUCTION TO CHEMISTRY is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in INTRODUCTION TO CHEMISTRY",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO CHEMISTRY is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO CHEMISTRY",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY",
+      "difficulty": "hard",
+      "question": "Which of the following statements about INTRODUCTION TO CHEMISTRY is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in INTRODUCTION TO CHEMISTRY",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO CHEMISTRY is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 4,
+      "topic": "INTRODUCTION TO CHEMISTRY: Measurement of physical quantities and scientific measurements",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY: Measurement of physical quantities and scientific measurements",
+      "difficulty": "medium",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "14",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 5,
+      "topic": "INTRODUCTION TO CHEMISTRY: Measurement of physical quantities and scientific measurements",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY: Measurement of physical quantities and scientific measurements",
+      "difficulty": "hard",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "14",
+        "C": "1",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 6,
+      "topic": "INTRODUCTION TO CHEMISTRY: Measurement of physical quantities and scientific measurements",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY: Measurement of physical quantities and scientific measurements",
+      "difficulty": "easy",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "14",
+        "B": "7",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 7,
+      "topic": "INTRODUCTION TO CHEMISTRY: Scientific Methods",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY: Scientific Methods",
+      "difficulty": "hard",
+      "question": "Which of the following statements about INTRODUCTION TO CHEMISTRY: Scientific Methods is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in INTRODUCTION TO CHEMISTRY: Scientific Methods",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO CHEMISTRY: Scientific Methods is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 8,
+      "topic": "INTRODUCTION TO CHEMISTRY: Scientific Methods",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY: Scientific Methods",
+      "difficulty": "easy",
+      "question": "Which of the following statements about INTRODUCTION TO CHEMISTRY: Scientific Methods is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is a core chemistry concept in INTRODUCTION TO CHEMISTRY: Scientific Methods"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO CHEMISTRY: Scientific Methods is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 9,
+      "topic": "INTRODUCTION TO CHEMISTRY: Scientific Methods",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO CHEMISTRY: Scientific Methods",
+      "difficulty": "medium",
+      "question": "Which of the following statements about INTRODUCTION TO CHEMISTRY: Scientific Methods is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in INTRODUCTION TO CHEMISTRY: Scientific Methods",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO CHEMISTRY: Scientific Methods is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 10,
+      "topic": "STRUCTURE OF THE ATOM",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM",
+      "difficulty": "easy",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "11",
+        "D": "24"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 11,
+      "topic": "STRUCTURE OF THE ATOM",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "24",
+        "B": "22",
+        "C": "11",
+        "D": "23"
+      },
+      "answer": "D",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 12,
+      "topic": "STRUCTURE OF THE ATOM",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM",
+      "difficulty": "hard",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "22",
+        "B": "11",
+        "C": "24",
+        "D": "23"
+      },
+      "answer": "D",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 13,
+      "topic": "STRUCTURE OF THE ATOM: Gross features of the atom",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Gross features of the atom",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "24",
+        "B": "23",
+        "C": "22",
+        "D": "11"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 14,
+      "topic": "STRUCTURE OF THE ATOM: Gross features of the atom",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Gross features of the atom",
+      "difficulty": "hard",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "11",
+        "B": "24",
+        "C": "23",
+        "D": "22"
+      },
+      "answer": "C",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 15,
+      "topic": "STRUCTURE OF THE ATOM: Gross features of the atom",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Gross features of the atom",
+      "difficulty": "easy",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "11",
+        "B": "22",
+        "C": "24",
+        "D": "23"
+      },
+      "answer": "D",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 16,
+      "topic": "STRUCTURE OF THE ATOM: Atomic number, isotopes, relative atomic/molecular mass",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Atomic number, isotopes, relative atomic/molecular mass",
+      "difficulty": "hard",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "11",
+        "B": "23",
+        "C": "22",
+        "D": "24"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 17,
+      "topic": "STRUCTURE OF THE ATOM: Atomic number, isotopes, relative atomic/molecular mass",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Atomic number, isotopes, relative atomic/molecular mass",
+      "difficulty": "easy",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "23",
+        "B": "24",
+        "C": "22",
+        "D": "11"
+      },
+      "answer": "A",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 18,
+      "topic": "STRUCTURE OF THE ATOM: Atomic number, isotopes, relative atomic/molecular mass",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Atomic number, isotopes, relative atomic/molecular mass",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "23",
+        "B": "11",
+        "C": "22",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 19,
+      "topic": "STRUCTURE OF THE ATOM: Particulate nature of matter",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Particulate nature of matter",
+      "difficulty": "easy",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "24",
+        "B": "22",
+        "C": "23",
+        "D": "11"
+      },
+      "answer": "C",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 20,
+      "topic": "STRUCTURE OF THE ATOM: Particulate nature of matter",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Particulate nature of matter",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "23",
+        "B": "22",
+        "C": "11",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 21,
+      "topic": "STRUCTURE OF THE ATOM: Particulate nature of matter",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Particulate nature of matter",
+      "difficulty": "hard",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "11",
+        "B": "24",
+        "C": "23",
+        "D": "22"
+      },
+      "answer": "C",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 22,
+      "topic": "STRUCTURE OF THE ATOM: Electron configuration",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Electron configuration",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "24",
+        "B": "23",
+        "C": "22",
+        "D": "11"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 23,
+      "topic": "STRUCTURE OF THE ATOM: Electron configuration",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Electron configuration",
+      "difficulty": "hard",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "24",
+        "B": "23",
+        "C": "11",
+        "D": "22"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 24,
+      "topic": "STRUCTURE OF THE ATOM: Electron configuration",
+      "section": "General",
+      "subtopic": "STRUCTURE OF THE ATOM: Electron configuration",
+      "difficulty": "easy",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "11",
+        "D": "24"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 25,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "A",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 26,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 27,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 28,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 29,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures"
+      },
+      "answer": "D",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 30,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Classification of mixtures is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 31,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 32,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 33,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques"
+      },
+      "answer": "D",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Separation techniques is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 34,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 35,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity"
+      },
+      "answer": "D",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 36,
+      "topic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+      "section": "General",
+      "subtopic": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES: Criteria for purity is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 37,
+      "topic": "PERIODIC CHEMISTRY",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 1",
+        "C": "Group 2",
+        "D": "Group 0"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 38,
+      "topic": "PERIODIC CHEMISTRY",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 0",
+        "C": "Group 7",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 39,
+      "topic": "PERIODIC CHEMISTRY",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 0",
+        "C": "Group 1",
+        "D": "Group 2"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 40,
+      "topic": "PERIODIC CHEMISTRY: Periodicity and categories of elements",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Periodicity and categories of elements",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 1",
+        "C": "Group 0",
+        "D": "Group 2"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 41,
+      "topic": "PERIODIC CHEMISTRY: Periodicity and categories of elements",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Periodicity and categories of elements",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 1",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 42,
+      "topic": "PERIODIC CHEMISTRY: Periodicity and categories of elements",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Periodicity and categories of elements",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 0",
+        "C": "Group 7",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 43,
+      "topic": "PERIODIC CHEMISTRY: Periodic law and trends",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Periodic law and trends",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 1",
+        "C": "Group 7",
+        "D": "Group 0"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 44,
+      "topic": "PERIODIC CHEMISTRY: Periodic law and trends",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Periodic law and trends",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 0",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 45,
+      "topic": "PERIODIC CHEMISTRY: Periodic law and trends",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Periodic law and trends",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 1",
+        "C": "Group 0",
+        "D": "Group 7"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 46,
+      "topic": "PERIODIC CHEMISTRY: Reactions of metals/oxides/carbonates",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Reactions of metals/oxides/carbonates",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 2",
+        "C": "Group 0",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 47,
+      "topic": "PERIODIC CHEMISTRY: Reactions of metals/oxides/carbonates",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Reactions of metals/oxides/carbonates",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 0",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 48,
+      "topic": "PERIODIC CHEMISTRY: Reactions of metals/oxides/carbonates",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Reactions of metals/oxides/carbonates",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 7",
+        "C": "Group 0",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 49,
+      "topic": "PERIODIC CHEMISTRY: Halogens (Group VII)",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Halogens (Group VII)",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 1",
+        "C": "Group 7",
+        "D": "Group 2"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 50,
+      "topic": "PERIODIC CHEMISTRY: Halogens (Group VII)",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Halogens (Group VII)",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 1",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 51,
+      "topic": "PERIODIC CHEMISTRY: Halogens (Group VII)",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: Halogens (Group VII)",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 7",
+        "C": "Group 2",
+        "D": "Group 0"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 52,
+      "topic": "PERIODIC CHEMISTRY: First transition series (Sc-Zn)",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: First transition series (Sc-Zn)",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 1",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 53,
+      "topic": "PERIODIC CHEMISTRY: First transition series (Sc-Zn)",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: First transition series (Sc-Zn)",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 0",
+        "C": "Group 1",
+        "D": "Group 7"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 54,
+      "topic": "PERIODIC CHEMISTRY: First transition series (Sc-Zn)",
+      "section": "General",
+      "subtopic": "PERIODIC CHEMISTRY: First transition series (Sc-Zn)",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 2",
+        "C": "Group 0",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 55,
+      "topic": "CHEMICAL BONDS",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS",
+      "difficulty": "easy",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Hydrogen bond",
+        "B": "Metallic bond",
+        "C": "Ionic bond",
+        "D": "Covalent bond"
+      },
+      "answer": "C",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 56,
+      "topic": "CHEMICAL BONDS",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS",
+      "difficulty": "medium",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Metallic bond",
+        "B": "Ionic bond",
+        "C": "Hydrogen bond",
+        "D": "Covalent bond"
+      },
+      "answer": "B",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 57,
+      "topic": "CHEMICAL BONDS",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS",
+      "difficulty": "hard",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Metallic bond",
+        "C": "Ionic bond",
+        "D": "Hydrogen bond"
+      },
+      "answer": "C",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 58,
+      "topic": "CHEMICAL BONDS: Interatomic bonding - Ionic",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Interatomic bonding - Ionic",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "23",
+        "B": "22",
+        "C": "24",
+        "D": "11"
+      },
+      "answer": "A",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 59,
+      "topic": "CHEMICAL BONDS: Interatomic bonding - Ionic",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Interatomic bonding - Ionic",
+      "difficulty": "hard",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "23",
+        "B": "22",
+        "C": "11",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 60,
+      "topic": "CHEMICAL BONDS: Interatomic bonding - Ionic",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Interatomic bonding - Ionic",
+      "difficulty": "easy",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "11",
+        "B": "23",
+        "C": "24",
+        "D": "22"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 61,
+      "topic": "CHEMICAL BONDS: Naming ionic compounds",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Naming ionic compounds",
+      "difficulty": "hard",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Hydrogen bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Ionic bond"
+      },
+      "answer": "D",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 62,
+      "topic": "CHEMICAL BONDS: Naming ionic compounds",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Naming ionic compounds",
+      "difficulty": "easy",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Hydrogen bond",
+        "B": "Ionic bond",
+        "C": "Metallic bond",
+        "D": "Covalent bond"
+      },
+      "answer": "B",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 63,
+      "topic": "CHEMICAL BONDS: Naming ionic compounds",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Naming ionic compounds",
+      "difficulty": "medium",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Hydrogen bond",
+        "C": "Metallic bond",
+        "D": "Ionic bond"
+      },
+      "answer": "D",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 64,
+      "topic": "CHEMICAL BONDS: Covalent and coordinate bonds",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Covalent and coordinate bonds",
+      "difficulty": "easy",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Hydrogen bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Ionic bond"
+      },
+      "answer": "D",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 65,
+      "topic": "CHEMICAL BONDS: Covalent and coordinate bonds",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Covalent and coordinate bonds",
+      "difficulty": "medium",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Ionic bond",
+        "C": "Metallic bond",
+        "D": "Hydrogen bond"
+      },
+      "answer": "B",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 66,
+      "topic": "CHEMICAL BONDS: Covalent and coordinate bonds",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Covalent and coordinate bonds",
+      "difficulty": "hard",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Hydrogen bond",
+        "C": "Ionic bond",
+        "D": "Metallic bond"
+      },
+      "answer": "C",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 67,
+      "topic": "CHEMICAL BONDS: Metallic bonding",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Metallic bonding",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 7",
+        "C": "Group 0",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 68,
+      "topic": "CHEMICAL BONDS: Metallic bonding",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Metallic bonding",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 0",
+        "C": "Group 7",
+        "D": "Group 2"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 69,
+      "topic": "CHEMICAL BONDS: Metallic bonding",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Metallic bonding",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 2",
+        "C": "Group 1",
+        "D": "Group 7"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 70,
+      "topic": "CHEMICAL BONDS: Intermolecular forces",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Intermolecular forces",
+      "difficulty": "hard",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Hydrogen bond",
+        "C": "Covalent bond",
+        "D": "Metallic bond"
+      },
+      "answer": "A",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 71,
+      "topic": "CHEMICAL BONDS: Intermolecular forces",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Intermolecular forces",
+      "difficulty": "easy",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Hydrogen bond",
+        "D": "Metallic bond"
+      },
+      "answer": "A",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 72,
+      "topic": "CHEMICAL BONDS: Intermolecular forces",
+      "section": "General",
+      "subtopic": "CHEMICAL BONDS: Intermolecular forces",
+      "difficulty": "medium",
+      "question": "Which type of bond is formed by the transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Hydrogen bond",
+        "B": "Metallic bond",
+        "C": "Covalent bond",
+        "D": "Ionic bond"
+      },
+      "answer": "D",
+      "explanation": "Ionic bonds involve electron transfer, typically between a metal and a non-metal, creating oppositely charged ions."
+    },
+    {
+      "id": 73,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS"
+      },
+      "answer": "D",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 74,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 75,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 76,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination"
+      },
+      "answer": "D",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 77,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+        "B": "It is unrelated to chemical processes",
+        "C": "It applies only to physical changes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "A",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 78,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS: Symbols, formulae, equations, laws of chemical combination is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 79,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 80,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 81,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is a core chemistry concept in STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance"
+      },
+      "answer": "D",
+      "explanation": "STOICHIOMETRY AND CHEMICAL REACTIONS: Amount of substance is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 82,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Mole ratios, solutions, concentration",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Mole ratios, solutions, concentration",
+      "difficulty": "easy",
+      "question": "Calculate the number of moles in 46g of a substance with molar mass 20g/mol.",
+      "options": {
+        "A": "920.00",
+        "B": "66.00",
+        "C": "2.30",
+        "D": "0.43"
+      },
+      "answer": "C",
+      "explanation": "Moles = mass / molar mass = 46 / 20 = 2.30 mol."
+    },
+    {
+      "id": 83,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Mole ratios, solutions, concentration",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Mole ratios, solutions, concentration",
+      "difficulty": "medium",
+      "question": "Calculate the number of moles in 28g of a substance with molar mass 20g/mol.",
+      "options": {
+        "A": "560.00",
+        "B": "0.71",
+        "C": "48.00",
+        "D": "1.40"
+      },
+      "answer": "D",
+      "explanation": "Moles = mass / molar mass = 28 / 20 = 1.40 mol."
+    },
+    {
+      "id": 84,
+      "topic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Mole ratios, solutions, concentration",
+      "section": "General",
+      "subtopic": "STOICHIOMETRY AND CHEMICAL REACTIONS: Mole ratios, solutions, concentration",
+      "difficulty": "hard",
+      "question": "Calculate the number of moles in 27g of a substance with molar mass 40g/mol.",
+      "options": {
+        "A": "0.68",
+        "B": "1080.00",
+        "C": "67.00",
+        "D": "1.48"
+      },
+      "answer": "A",
+      "explanation": "Moles = mass / molar mass = 27 / 40 = 0.68 mol."
+    },
+    {
+      "id": 85,
+      "topic": "STATES OF MATTER",
+      "section": "General",
+      "subtopic": "STATES OF MATTER",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STATES OF MATTER is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in STATES OF MATTER",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "STATES OF MATTER is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 86,
+      "topic": "STATES OF MATTER",
+      "section": "General",
+      "subtopic": "STATES OF MATTER",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STATES OF MATTER is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in STATES OF MATTER",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "STATES OF MATTER is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 87,
+      "topic": "STATES OF MATTER",
+      "section": "General",
+      "subtopic": "STATES OF MATTER",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STATES OF MATTER is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STATES OF MATTER",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "STATES OF MATTER is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 88,
+      "topic": "STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STATES OF MATTER: Kinetic theory, changes of state, diffusion is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "STATES OF MATTER: Kinetic theory, changes of state, diffusion is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 89,
+      "topic": "STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STATES OF MATTER: Kinetic theory, changes of state, diffusion is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "STATES OF MATTER: Kinetic theory, changes of state, diffusion is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 90,
+      "topic": "STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STATES OF MATTER: Kinetic theory, changes of state, diffusion is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in STATES OF MATTER: Kinetic theory, changes of state, diffusion",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "STATES OF MATTER: Kinetic theory, changes of state, diffusion is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 91,
+      "topic": "STATES OF MATTER: Gases",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Gases",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STATES OF MATTER: Gases is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STATES OF MATTER: Gases",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "STATES OF MATTER: Gases is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 92,
+      "topic": "STATES OF MATTER: Gases",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Gases",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STATES OF MATTER: Gases is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in STATES OF MATTER: Gases"
+      },
+      "answer": "D",
+      "explanation": "STATES OF MATTER: Gases is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 93,
+      "topic": "STATES OF MATTER: Gases",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Gases",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STATES OF MATTER: Gases is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is a core chemistry concept in STATES OF MATTER: Gases",
+        "C": "It applies only to physical changes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "B",
+      "explanation": "STATES OF MATTER: Gases is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 94,
+      "topic": "STATES OF MATTER: Liquids, vapours, solids",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Liquids, vapours, solids",
+      "difficulty": "medium",
+      "question": "Which of the following statements about STATES OF MATTER: Liquids, vapours, solids is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in STATES OF MATTER: Liquids, vapours, solids",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "STATES OF MATTER: Liquids, vapours, solids is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 95,
+      "topic": "STATES OF MATTER: Liquids, vapours, solids",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Liquids, vapours, solids",
+      "difficulty": "hard",
+      "question": "Which of the following statements about STATES OF MATTER: Liquids, vapours, solids is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in STATES OF MATTER: Liquids, vapours, solids",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "STATES OF MATTER: Liquids, vapours, solids is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 96,
+      "topic": "STATES OF MATTER: Liquids, vapours, solids",
+      "section": "General",
+      "subtopic": "STATES OF MATTER: Liquids, vapours, solids",
+      "difficulty": "easy",
+      "question": "Which of the following statements about STATES OF MATTER: Liquids, vapours, solids is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in STATES OF MATTER: Liquids, vapours, solids",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "STATES OF MATTER: Liquids, vapours, solids is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 97,
+      "topic": "ENERGY AND ENERGY CHANGES",
+      "section": "General",
+      "subtopic": "ENERGY AND ENERGY CHANGES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about ENERGY AND ENERGY CHANGES is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in ENERGY AND ENERGY CHANGES"
+      },
+      "answer": "D",
+      "explanation": "ENERGY AND ENERGY CHANGES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 98,
+      "topic": "ENERGY AND ENERGY CHANGES",
+      "section": "General",
+      "subtopic": "ENERGY AND ENERGY CHANGES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about ENERGY AND ENERGY CHANGES is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in ENERGY AND ENERGY CHANGES"
+      },
+      "answer": "D",
+      "explanation": "ENERGY AND ENERGY CHANGES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 99,
+      "topic": "ENERGY AND ENERGY CHANGES",
+      "section": "General",
+      "subtopic": "ENERGY AND ENERGY CHANGES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about ENERGY AND ENERGY CHANGES is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is a core chemistry concept in ENERGY AND ENERGY CHANGES",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "ENERGY AND ENERGY CHANGES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 100,
+      "topic": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+      "section": "General",
+      "subtopic": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+      "difficulty": "easy",
+      "question": "Which of the following statements about ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 101,
+      "topic": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+      "section": "General",
+      "subtopic": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+      "difficulty": "medium",
+      "question": "Which of the following statements about ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic"
+      },
+      "answer": "D",
+      "explanation": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 102,
+      "topic": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+      "section": "General",
+      "subtopic": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+      "difficulty": "hard",
+      "question": "Which of the following statements about ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "ENERGY AND ENERGY CHANGES: Energy, enthalpy, exothermic/endothermic is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 103,
+      "topic": "ACIDS, BASES AND SALTS",
+      "section": "General",
+      "subtopic": "ACIDS, BASES AND SALTS",
+      "difficulty": "medium",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "7",
+        "B": "1",
+        "C": "0",
+        "D": "14"
+      },
+      "answer": "A",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 104,
+      "topic": "ACIDS, BASES AND SALTS",
+      "section": "General",
+      "subtopic": "ACIDS, BASES AND SALTS",
+      "difficulty": "hard",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "14",
+        "B": "1",
+        "C": "7",
+        "D": "0"
+      },
+      "answer": "C",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 105,
+      "topic": "ACIDS, BASES AND SALTS",
+      "section": "General",
+      "subtopic": "ACIDS, BASES AND SALTS",
+      "difficulty": "easy",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "1",
+        "B": "7",
+        "C": "14",
+        "D": "0"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 106,
+      "topic": "ACIDS, BASES AND SALTS: Definitions, properties, electrolytes, pH, salts",
+      "section": "General",
+      "subtopic": "ACIDS, BASES AND SALTS: Definitions, properties, electrolytes, pH, salts",
+      "difficulty": "hard",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "14",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 107,
+      "topic": "ACIDS, BASES AND SALTS: Definitions, properties, electrolytes, pH, salts",
+      "section": "General",
+      "subtopic": "ACIDS, BASES AND SALTS: Definitions, properties, electrolytes, pH, salts",
+      "difficulty": "easy",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "14",
+        "B": "7",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 108,
+      "topic": "ACIDS, BASES AND SALTS: Definitions, properties, electrolytes, pH, salts",
+      "section": "General",
+      "subtopic": "ACIDS, BASES AND SALTS: Definitions, properties, electrolytes, pH, salts",
+      "difficulty": "medium",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "1",
+        "B": "7",
+        "C": "0",
+        "D": "14"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 109,
+      "topic": "SOLUBILITY OF SUBSTANCES",
+      "section": "General",
+      "subtopic": "SOLUBILITY OF SUBSTANCES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about SOLUBILITY OF SUBSTANCES is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in SOLUBILITY OF SUBSTANCES"
+      },
+      "answer": "D",
+      "explanation": "SOLUBILITY OF SUBSTANCES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 110,
+      "topic": "SOLUBILITY OF SUBSTANCES",
+      "section": "General",
+      "subtopic": "SOLUBILITY OF SUBSTANCES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about SOLUBILITY OF SUBSTANCES is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in SOLUBILITY OF SUBSTANCES",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "A",
+      "explanation": "SOLUBILITY OF SUBSTANCES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 111,
+      "topic": "SOLUBILITY OF SUBSTANCES",
+      "section": "General",
+      "subtopic": "SOLUBILITY OF SUBSTANCES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about SOLUBILITY OF SUBSTANCES is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in SOLUBILITY OF SUBSTANCES",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "SOLUBILITY OF SUBSTANCES is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 112,
+      "topic": "SOLUBILITY OF SUBSTANCES: General principles and applications",
+      "section": "General",
+      "subtopic": "SOLUBILITY OF SUBSTANCES: General principles and applications",
+      "difficulty": "medium",
+      "question": "Which of the following statements about SOLUBILITY OF SUBSTANCES: General principles and applications is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in SOLUBILITY OF SUBSTANCES: General principles and applications",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "SOLUBILITY OF SUBSTANCES: General principles and applications is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 113,
+      "topic": "SOLUBILITY OF SUBSTANCES: General principles and applications",
+      "section": "General",
+      "subtopic": "SOLUBILITY OF SUBSTANCES: General principles and applications",
+      "difficulty": "hard",
+      "question": "Which of the following statements about SOLUBILITY OF SUBSTANCES: General principles and applications is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is a core chemistry concept in SOLUBILITY OF SUBSTANCES: General principles and applications"
+      },
+      "answer": "D",
+      "explanation": "SOLUBILITY OF SUBSTANCES: General principles and applications is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 114,
+      "topic": "SOLUBILITY OF SUBSTANCES: General principles and applications",
+      "section": "General",
+      "subtopic": "SOLUBILITY OF SUBSTANCES: General principles and applications",
+      "difficulty": "easy",
+      "question": "Which of the following statements about SOLUBILITY OF SUBSTANCES: General principles and applications is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in SOLUBILITY OF SUBSTANCES: General principles and applications",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "SOLUBILITY OF SUBSTANCES: General principles and applications is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 115,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 116,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+      "difficulty": "easy",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "B",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 117,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM"
+      },
+      "answer": "D",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 118,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+      "difficulty": "easy",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 119,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 120,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Rate of reactions is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 121,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 122,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 123,
+      "topic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+      "section": "General",
+      "subtopic": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium",
+      "difficulty": "easy",
+      "question": "Which of the following statements about CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium"
+      },
+      "answer": "D",
+      "explanation": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM: Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 124,
+      "topic": "REDOX REACTIONS",
+      "section": "General",
+      "subtopic": "REDOX REACTIONS",
+      "difficulty": "hard",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Oxidized",
+        "B": "Reduced",
+        "C": "Dissociated",
+        "D": "Neutralized"
+      },
+      "answer": "B",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 125,
+      "topic": "REDOX REACTIONS",
+      "section": "General",
+      "subtopic": "REDOX REACTIONS",
+      "difficulty": "easy",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Oxidized",
+        "B": "Dissociated",
+        "C": "Neutralized",
+        "D": "Reduced"
+      },
+      "answer": "D",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 126,
+      "topic": "REDOX REACTIONS",
+      "section": "General",
+      "subtopic": "REDOX REACTIONS",
+      "difficulty": "medium",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Oxidized",
+        "B": "Neutralized",
+        "C": "Dissociated",
+        "D": "Reduced"
+      },
+      "answer": "D",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 127,
+      "topic": "REDOX REACTIONS: Oxidation/reduction, agents, equations, electrochemical cells",
+      "section": "General",
+      "subtopic": "REDOX REACTIONS: Oxidation/reduction, agents, equations, electrochemical cells",
+      "difficulty": "easy",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Oxidized",
+        "B": "Dissociated",
+        "C": "Reduced",
+        "D": "Neutralized"
+      },
+      "answer": "C",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 128,
+      "topic": "REDOX REACTIONS: Oxidation/reduction, agents, equations, electrochemical cells",
+      "section": "General",
+      "subtopic": "REDOX REACTIONS: Oxidation/reduction, agents, equations, electrochemical cells",
+      "difficulty": "medium",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Neutralized",
+        "B": "Reduced",
+        "C": "Oxidized",
+        "D": "Dissociated"
+      },
+      "answer": "B",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 129,
+      "topic": "REDOX REACTIONS: Oxidation/reduction, agents, equations, electrochemical cells",
+      "section": "General",
+      "subtopic": "REDOX REACTIONS: Oxidation/reduction, agents, equations, electrochemical cells",
+      "difficulty": "hard",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Reduced",
+        "B": "Oxidized",
+        "C": "Neutralized",
+        "D": "Dissociated"
+      },
+      "answer": "A",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 130,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS",
+      "difficulty": "medium",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ",
+        "B": "CₙH₂ₙ₊₂",
+        "C": "CₙHₙ",
+        "D": "CₙH₂ₙ₋₂"
+      },
+      "answer": "B",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 131,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS",
+      "difficulty": "hard",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ₊₂",
+        "B": "CₙH₂ₙ",
+        "C": "CₙHₙ",
+        "D": "CₙH₂ₙ₋₂"
+      },
+      "answer": "A",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 132,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS",
+      "difficulty": "easy",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙHₙ",
+        "B": "CₙH₂ₙ",
+        "C": "CₙH₂ₙ₊₂",
+        "D": "CₙH₂ₙ₋₂"
+      },
+      "answer": "C",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 133,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS: Classification, functional groups, purification, petroleum, homologous series, isomerism",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS: Classification, functional groups, purification, petroleum, homologous series, isomerism",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 2",
+        "C": "Group 7",
+        "D": "Group 0"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 134,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS: Classification, functional groups, purification, petroleum, homologous series, isomerism",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS: Classification, functional groups, purification, petroleum, homologous series, isomerism",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 7",
+        "C": "Group 1",
+        "D": "Group 0"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 135,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS: Classification, functional groups, purification, petroleum, homologous series, isomerism",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS: Classification, functional groups, purification, petroleum, homologous series, isomerism",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 0",
+        "C": "Group 1",
+        "D": "Group 7"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 136,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS: Alkanes, alkenes, alkynes, benzene, alkanols, alkanoic acids, alkanoates",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS: Alkanes, alkenes, alkynes, benzene, alkanols, alkanoic acids, alkanoates",
+      "difficulty": "easy",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "14",
+        "B": "0",
+        "C": "1",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 137,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS: Alkanes, alkenes, alkynes, benzene, alkanols, alkanoic acids, alkanoates",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS: Alkanes, alkenes, alkynes, benzene, alkanols, alkanoic acids, alkanoates",
+      "difficulty": "medium",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "7",
+        "D": "14"
+      },
+      "answer": "C",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 138,
+      "topic": "CHEMISTRY OF CARBON COMPOUNDS: Alkanes, alkenes, alkynes, benzene, alkanols, alkanoic acids, alkanoates",
+      "section": "General",
+      "subtopic": "CHEMISTRY OF CARBON COMPOUNDS: Alkanes, alkenes, alkynes, benzene, alkanols, alkanoic acids, alkanoates",
+      "difficulty": "hard",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "14",
+        "C": "7",
+        "D": "1"
+      },
+      "answer": "C",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 139,
+      "topic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+      "section": "General",
+      "subtopic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CHEMISTRY, INDUSTRY AND THE ENVIRONMENT is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "B",
+      "explanation": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 140,
+      "topic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+      "section": "General",
+      "subtopic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CHEMISTRY, INDUSTRY AND THE ENVIRONMENT is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 141,
+      "topic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+      "section": "General",
+      "subtopic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+      "difficulty": "easy",
+      "question": "Which of the following statements about CHEMISTRY, INDUSTRY AND THE ENVIRONMENT is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 142,
+      "topic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+      "section": "General",
+      "subtopic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology"
+      },
+      "answer": "D",
+      "explanation": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 143,
+      "topic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+      "section": "General",
+      "subtopic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+      "difficulty": "easy",
+      "question": "Which of the following statements about CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 144,
+      "topic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+      "section": "General",
+      "subtopic": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT: Chemical industry, pollution, biotechnology is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 145,
+      "topic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+      "section": "General",
+      "subtopic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is a core chemistry concept in BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS"
+      },
+      "answer": "D",
+      "explanation": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 146,
+      "topic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+      "section": "General",
+      "subtopic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 147,
+      "topic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+      "section": "General",
+      "subtopic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+      "difficulty": "hard",
+      "question": "Which of the following statements about BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 148,
+      "topic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS: Proteins, amino acids, fats/oils, carbohydrates, synthetic polymers",
+      "section": "General",
+      "subtopic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS: Proteins, amino acids, fats/oils, carbohydrates, synthetic polymers",
+      "difficulty": "medium",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "1",
+        "D": "14"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 149,
+      "topic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS: Proteins, amino acids, fats/oils, carbohydrates, synthetic polymers",
+      "section": "General",
+      "subtopic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS: Proteins, amino acids, fats/oils, carbohydrates, synthetic polymers",
+      "difficulty": "hard",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "1",
+        "D": "14"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 150,
+      "topic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS: Proteins, amino acids, fats/oils, carbohydrates, synthetic polymers",
+      "section": "General",
+      "subtopic": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS: Proteins, amino acids, fats/oils, carbohydrates, synthetic polymers",
+      "difficulty": "easy",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "14",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 151,
+      "topic": "Nuclear chemistry, advanced periodic chemistry, hybridization, Hess’s law, buffers, etc.",
+      "section": "General",
+      "subtopic": "Nuclear chemistry, advanced periodic chemistry, hybridization, Hess’s law, buffers, etc.",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 1",
+        "C": "Group 0",
+        "D": "Group 2"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 152,
+      "topic": "Nuclear chemistry, advanced periodic chemistry, hybridization, Hess’s law, buffers, etc.",
+      "section": "General",
+      "subtopic": "Nuclear chemistry, advanced periodic chemistry, hybridization, Hess’s law, buffers, etc.",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 0",
+        "C": "Group 7",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 153,
+      "topic": "Nuclear chemistry, advanced periodic chemistry, hybridization, Hess’s law, buffers, etc.",
+      "section": "General",
+      "subtopic": "Nuclear chemistry, advanced periodic chemistry, hybridization, Hess’s law, buffers, etc.",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 2",
+        "C": "Group 7",
+        "D": "Group 0"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 154,
+      "topic": "NON-METALS AND THEIR COMPOUNDS",
+      "section": "General",
+      "subtopic": "NON-METALS AND THEIR COMPOUNDS",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 1",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 155,
+      "topic": "NON-METALS AND THEIR COMPOUNDS",
+      "section": "General",
+      "subtopic": "NON-METALS AND THEIR COMPOUNDS",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 0",
+        "C": "Group 1",
+        "D": "Group 7"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 156,
+      "topic": "NON-METALS AND THEIR COMPOUNDS",
+      "section": "General",
+      "subtopic": "NON-METALS AND THEIR COMPOUNDS",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 2",
+        "C": "Group 0",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    }
+  ]
+}

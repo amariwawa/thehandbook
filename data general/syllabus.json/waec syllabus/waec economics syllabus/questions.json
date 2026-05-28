@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "DEFINITION AND SCOPE OF ECONOMICS",
+      "section": "General",
+      "subtopic": "DEFINITION AND SCOPE OF ECONOMICS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about DEFINITION AND SCOPE OF ECONOMICS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It applies only to foreign economies",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "DEFINITION AND SCOPE OF ECONOMICS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 2,
+      "topic": "DEFINITION AND SCOPE OF ECONOMICS",
+      "section": "General",
+      "subtopic": "DEFINITION AND SCOPE OF ECONOMICS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about DEFINITION AND SCOPE OF ECONOMICS in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "DEFINITION AND SCOPE OF ECONOMICS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 3,
+      "topic": "DEFINITION AND SCOPE OF ECONOMICS",
+      "section": "General",
+      "subtopic": "DEFINITION AND SCOPE OF ECONOMICS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about DEFINITION AND SCOPE OF ECONOMICS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It applies only to foreign economies",
+        "C": "It is a biological concept",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "DEFINITION AND SCOPE OF ECONOMICS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 4,
+      "topic": "FACTORS OF PRODUCTION",
+      "section": "General",
+      "subtopic": "FACTORS OF PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which factor of production is described as a man-made resource used to produce goods and services?",
+      "options": {
+        "A": "Land",
+        "B": "Entrepreneur",
+        "C": "Capital",
+        "D": "Labour"
+      },
+      "answer": "C",
+      "explanation": "Capital refers to man-made aids to production such as machinery, tools, buildings, and equipment."
+    },
+    {
+      "id": 5,
+      "topic": "FACTORS OF PRODUCTION",
+      "section": "General",
+      "subtopic": "FACTORS OF PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which factor of production is described as a man-made resource used to produce goods and services?",
+      "options": {
+        "A": "Entrepreneur",
+        "B": "Land",
+        "C": "Capital",
+        "D": "Labour"
+      },
+      "answer": "C",
+      "explanation": "Capital refers to man-made aids to production such as machinery, tools, buildings, and equipment."
+    },
+    {
+      "id": 6,
+      "topic": "FACTORS OF PRODUCTION",
+      "section": "General",
+      "subtopic": "FACTORS OF PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which factor of production is described as a man-made resource used to produce goods and services?",
+      "options": {
+        "A": "Capital",
+        "B": "Land",
+        "C": "Entrepreneur",
+        "D": "Labour"
+      },
+      "answer": "A",
+      "explanation": "Capital refers to man-made aids to production such as machinery, tools, buildings, and equipment."
+    },
+    {
+      "id": 7,
+      "topic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "section": "General",
+      "subtopic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 8,
+      "topic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "section": "General",
+      "subtopic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is not examined",
+        "C": "It applies only to foreign economies",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 9,
+      "topic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "section": "General",
+      "subtopic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It applies only to foreign economies",
+        "C": "It is a biological concept",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 10,
+      "topic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "section": "General",
+      "subtopic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about BASIC TOOLS OF ECONOMIC ANALYSIS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is a biological concept",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "B",
+      "explanation": "BASIC TOOLS OF ECONOMIC ANALYSIS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 11,
+      "topic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "section": "General",
+      "subtopic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about BASIC TOOLS OF ECONOMIC ANALYSIS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It applies only to foreign economies",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "BASIC TOOLS OF ECONOMIC ANALYSIS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 12,
+      "topic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "section": "General",
+      "subtopic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about BASIC TOOLS OF ECONOMIC ANALYSIS in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It applies only to foreign economies",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BASIC TOOLS OF ECONOMIC ANALYSIS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 13,
+      "topic": "DEMAND",
+      "section": "General",
+      "subtopic": "DEMAND",
+      "difficulty": "medium",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of demand",
+        "B": "Giffen paradox",
+        "C": "Veblen effect",
+        "D": "The law of supply"
+      },
+      "answer": "A",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 14,
+      "topic": "DEMAND",
+      "section": "General",
+      "subtopic": "DEMAND",
+      "difficulty": "hard",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Giffen paradox",
+        "B": "Veblen effect",
+        "C": "The law of supply",
+        "D": "The law of demand"
+      },
+      "answer": "D",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 15,
+      "topic": "DEMAND",
+      "section": "General",
+      "subtopic": "DEMAND",
+      "difficulty": "easy",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of demand",
+        "B": "Veblen effect",
+        "C": "The law of supply",
+        "D": "Giffen paradox"
+      },
+      "answer": "A",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 16,
+      "topic": "SUPPLY",
+      "section": "General",
+      "subtopic": "SUPPLY",
+      "difficulty": "hard",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of supply",
+        "B": "Giffen paradox",
+        "C": "The law of demand",
+        "D": "Veblen effect"
+      },
+      "answer": "C",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 17,
+      "topic": "SUPPLY",
+      "section": "General",
+      "subtopic": "SUPPLY",
+      "difficulty": "easy",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Giffen paradox",
+        "B": "The law of demand",
+        "C": "The law of supply",
+        "D": "Veblen effect"
+      },
+      "answer": "B",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 18,
+      "topic": "SUPPLY",
+      "section": "General",
+      "subtopic": "SUPPLY",
+      "difficulty": "medium",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of supply",
+        "B": "The law of demand",
+        "C": "Veblen effect",
+        "D": "Giffen paradox"
+      },
+      "answer": "B",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 19,
+      "topic": "THEORY OF CONSUMER BEHAVIOUR",
+      "section": "General",
+      "subtopic": "THEORY OF CONSUMER BEHAVIOUR",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THEORY OF CONSUMER BEHAVIOUR in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It applies only to foreign economies",
+        "C": "It is not examined",
+        "D": "It is a biological concept"
+      },
+      "answer": "A",
+      "explanation": "THEORY OF CONSUMER BEHAVIOUR is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 20,
+      "topic": "THEORY OF CONSUMER BEHAVIOUR",
+      "section": "General",
+      "subtopic": "THEORY OF CONSUMER BEHAVIOUR",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THEORY OF CONSUMER BEHAVIOUR in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is not examined",
+        "C": "It applies only to foreign economies",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THEORY OF CONSUMER BEHAVIOUR is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 21,
+      "topic": "THEORY OF CONSUMER BEHAVIOUR",
+      "section": "General",
+      "subtopic": "THEORY OF CONSUMER BEHAVIOUR",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THEORY OF CONSUMER BEHAVIOUR in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is not examined",
+        "C": "It is a biological concept",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THEORY OF CONSUMER BEHAVIOUR is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 22,
+      "topic": "THEORY OF PRICE DETERMINATION",
+      "section": "General",
+      "subtopic": "THEORY OF PRICE DETERMINATION",
+      "difficulty": "medium",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Veblen effect",
+        "B": "The law of supply",
+        "C": "The law of demand",
+        "D": "Giffen paradox"
+      },
+      "answer": "C",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 23,
+      "topic": "THEORY OF PRICE DETERMINATION",
+      "section": "General",
+      "subtopic": "THEORY OF PRICE DETERMINATION",
+      "difficulty": "hard",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Giffen paradox",
+        "B": "The law of demand",
+        "C": "Veblen effect",
+        "D": "The law of supply"
+      },
+      "answer": "B",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 24,
+      "topic": "THEORY OF PRICE DETERMINATION",
+      "section": "General",
+      "subtopic": "THEORY OF PRICE DETERMINATION",
+      "difficulty": "easy",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of supply",
+        "B": "Veblen effect",
+        "C": "Giffen paradox",
+        "D": "The law of demand"
+      },
+      "answer": "D",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 25,
+      "topic": "THEORY OF PRODUCTION",
+      "section": "General",
+      "subtopic": "THEORY OF PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which factor of production is described as a man-made resource used to produce goods and services?",
+      "options": {
+        "A": "Land",
+        "B": "Capital",
+        "C": "Entrepreneur",
+        "D": "Labour"
+      },
+      "answer": "B",
+      "explanation": "Capital refers to man-made aids to production such as machinery, tools, buildings, and equipment."
+    },
+    {
+      "id": 26,
+      "topic": "THEORY OF PRODUCTION",
+      "section": "General",
+      "subtopic": "THEORY OF PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which factor of production is described as a man-made resource used to produce goods and services?",
+      "options": {
+        "A": "Labour",
+        "B": "Entrepreneur",
+        "C": "Capital",
+        "D": "Land"
+      },
+      "answer": "C",
+      "explanation": "Capital refers to man-made aids to production such as machinery, tools, buildings, and equipment."
+    },
+    {
+      "id": 27,
+      "topic": "THEORY OF PRODUCTION",
+      "section": "General",
+      "subtopic": "THEORY OF PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which factor of production is described as a man-made resource used to produce goods and services?",
+      "options": {
+        "A": "Land",
+        "B": "Labour",
+        "C": "Entrepreneur",
+        "D": "Capital"
+      },
+      "answer": "D",
+      "explanation": "Capital refers to man-made aids to production such as machinery, tools, buildings, and equipment."
+    },
+    {
+      "id": 28,
+      "topic": "THEORY OF COST AND REVENUE",
+      "section": "General",
+      "subtopic": "THEORY OF COST AND REVENUE",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THEORY OF COST AND REVENUE in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological concept",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "A",
+      "explanation": "THEORY OF COST AND REVENUE is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 29,
+      "topic": "THEORY OF COST AND REVENUE",
+      "section": "General",
+      "subtopic": "THEORY OF COST AND REVENUE",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THEORY OF COST AND REVENUE in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It is not examined",
+        "C": "It applies only to foreign economies",
+        "D": "It is a biological concept"
+      },
+      "answer": "A",
+      "explanation": "THEORY OF COST AND REVENUE is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 30,
+      "topic": "THEORY OF COST AND REVENUE",
+      "section": "General",
+      "subtopic": "THEORY OF COST AND REVENUE",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THEORY OF COST AND REVENUE in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF COST AND REVENUE is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 31,
+      "topic": "MARKET STRUCTURES",
+      "section": "General",
+      "subtopic": "MARKET STRUCTURES",
+      "difficulty": "medium",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Veblen effect",
+        "B": "The law of demand",
+        "C": "The law of supply",
+        "D": "Giffen paradox"
+      },
+      "answer": "B",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 32,
+      "topic": "MARKET STRUCTURES",
+      "section": "General",
+      "subtopic": "MARKET STRUCTURES",
+      "difficulty": "hard",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Veblen effect",
+        "B": "Giffen paradox",
+        "C": "The law of demand",
+        "D": "The law of supply"
+      },
+      "answer": "C",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 33,
+      "topic": "MARKET STRUCTURES",
+      "section": "General",
+      "subtopic": "MARKET STRUCTURES",
+      "difficulty": "easy",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of demand",
+        "B": "Giffen paradox",
+        "C": "The law of supply",
+        "D": "Veblen effect"
+      },
+      "answer": "A",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 34,
+      "topic": "BUSINESS ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "BUSINESS ORGANIZATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about BUSINESS ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 35,
+      "topic": "BUSINESS ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "BUSINESS ORGANIZATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about BUSINESS ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 36,
+      "topic": "BUSINESS ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "BUSINESS ORGANIZATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about BUSINESS ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It applies only to foreign economies",
+        "C": "It is not examined",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUSINESS ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 37,
+      "topic": "DISTRIBUTIVE TRADE",
+      "section": "General",
+      "subtopic": "DISTRIBUTIVE TRADE",
+      "difficulty": "easy",
+      "question": "When a country's imports exceed its exports, it is said to have a:",
+      "options": {
+        "A": "Trade surplus",
+        "B": "Favorable balance of trade",
+        "C": "Balanced trade",
+        "D": "Trade deficit"
+      },
+      "answer": "D",
+      "explanation": "A trade deficit (unfavorable balance of trade) occurs when import value exceeds export value."
+    },
+    {
+      "id": 38,
+      "topic": "DISTRIBUTIVE TRADE",
+      "section": "General",
+      "subtopic": "DISTRIBUTIVE TRADE",
+      "difficulty": "medium",
+      "question": "When a country's imports exceed its exports, it is said to have a:",
+      "options": {
+        "A": "Trade surplus",
+        "B": "Favorable balance of trade",
+        "C": "Balanced trade",
+        "D": "Trade deficit"
+      },
+      "answer": "D",
+      "explanation": "A trade deficit (unfavorable balance of trade) occurs when import value exceeds export value."
+    },
+    {
+      "id": 39,
+      "topic": "DISTRIBUTIVE TRADE",
+      "section": "General",
+      "subtopic": "DISTRIBUTIVE TRADE",
+      "difficulty": "hard",
+      "question": "When a country's imports exceed its exports, it is said to have a:",
+      "options": {
+        "A": "Favorable balance of trade",
+        "B": "Trade deficit",
+        "C": "Balanced trade",
+        "D": "Trade surplus"
+      },
+      "answer": "B",
+      "explanation": "A trade deficit (unfavorable balance of trade) occurs when import value exceeds export value."
+    },
+    {
+      "id": 40,
+      "topic": "POPULATION AND LABOUR MARKET",
+      "section": "General",
+      "subtopic": "POPULATION AND LABOUR MARKET",
+      "difficulty": "medium",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Veblen effect",
+        "B": "The law of supply",
+        "C": "Giffen paradox",
+        "D": "The law of demand"
+      },
+      "answer": "D",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 41,
+      "topic": "POPULATION AND LABOUR MARKET",
+      "section": "General",
+      "subtopic": "POPULATION AND LABOUR MARKET",
+      "difficulty": "hard",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Giffen paradox",
+        "B": "The law of supply",
+        "C": "Veblen effect",
+        "D": "The law of demand"
+      },
+      "answer": "D",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 42,
+      "topic": "POPULATION AND LABOUR MARKET",
+      "section": "General",
+      "subtopic": "POPULATION AND LABOUR MARKET",
+      "difficulty": "easy",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of demand",
+        "B": "Giffen paradox",
+        "C": "Veblen effect",
+        "D": "The law of supply"
+      },
+      "answer": "A",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 43,
+      "topic": "AGRICULTURE",
+      "section": "General",
+      "subtopic": "AGRICULTURE",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about AGRICULTURE in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It is a biological concept",
+        "C": "It applies only to foreign economies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "AGRICULTURE is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 44,
+      "topic": "AGRICULTURE",
+      "section": "General",
+      "subtopic": "AGRICULTURE",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about AGRICULTURE in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological concept",
+        "C": "It applies only to foreign economies",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AGRICULTURE is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 45,
+      "topic": "AGRICULTURE",
+      "section": "General",
+      "subtopic": "AGRICULTURE",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about AGRICULTURE in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is not examined",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "B",
+      "explanation": "AGRICULTURE is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 46,
+      "topic": "INDUSTRIALIZATION",
+      "section": "General",
+      "subtopic": "INDUSTRIALIZATION",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about INDUSTRIALIZATION in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INDUSTRIALIZATION is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 47,
+      "topic": "INDUSTRIALIZATION",
+      "section": "General",
+      "subtopic": "INDUSTRIALIZATION",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about INDUSTRIALIZATION in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "C",
+      "explanation": "INDUSTRIALIZATION is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 48,
+      "topic": "INDUSTRIALIZATION",
+      "section": "General",
+      "subtopic": "INDUSTRIALIZATION",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about INDUSTRIALIZATION in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is not examined",
+        "C": "It is a biological concept",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INDUSTRIALIZATION is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 49,
+      "topic": "NATIONAL INCOME",
+      "section": "General",
+      "subtopic": "NATIONAL INCOME",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about NATIONAL INCOME in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "C",
+      "explanation": "NATIONAL INCOME is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 50,
+      "topic": "NATIONAL INCOME",
+      "section": "General",
+      "subtopic": "NATIONAL INCOME",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about NATIONAL INCOME in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is not examined",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "NATIONAL INCOME is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 51,
+      "topic": "NATIONAL INCOME",
+      "section": "General",
+      "subtopic": "NATIONAL INCOME",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about NATIONAL INCOME in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "NATIONAL INCOME is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 52,
+      "topic": "MONEY AND INFLATION",
+      "section": "General",
+      "subtopic": "MONEY AND INFLATION",
+      "difficulty": "hard",
+      "question": "Which institution is responsible for issuing currency in Nigeria?",
+      "options": {
+        "A": "Ministry of Finance",
+        "B": "Central Bank of Nigeria (CBN)",
+        "C": "Nigerian Deposit Insurance Corporation",
+        "D": "Nigerian Stock Exchange"
+      },
+      "answer": "B",
+      "explanation": "The CBN, established by the CBN Act of 1958 (amended), has the sole authority to issue legal tender in Nigeria."
+    },
+    {
+      "id": 53,
+      "topic": "MONEY AND INFLATION",
+      "section": "General",
+      "subtopic": "MONEY AND INFLATION",
+      "difficulty": "easy",
+      "question": "Which institution is responsible for issuing currency in Nigeria?",
+      "options": {
+        "A": "Nigerian Stock Exchange",
+        "B": "Nigerian Deposit Insurance Corporation",
+        "C": "Central Bank of Nigeria (CBN)",
+        "D": "Ministry of Finance"
+      },
+      "answer": "C",
+      "explanation": "The CBN, established by the CBN Act of 1958 (amended), has the sole authority to issue legal tender in Nigeria."
+    },
+    {
+      "id": 54,
+      "topic": "MONEY AND INFLATION",
+      "section": "General",
+      "subtopic": "MONEY AND INFLATION",
+      "difficulty": "medium",
+      "question": "Which institution is responsible for issuing currency in Nigeria?",
+      "options": {
+        "A": "Nigerian Deposit Insurance Corporation",
+        "B": "Nigerian Stock Exchange",
+        "C": "Ministry of Finance",
+        "D": "Central Bank of Nigeria (CBN)"
+      },
+      "answer": "D",
+      "explanation": "The CBN, established by the CBN Act of 1958 (amended), has the sole authority to issue legal tender in Nigeria."
+    },
+    {
+      "id": 55,
+      "topic": "FINANCIAL INSTITUTIONS",
+      "section": "General",
+      "subtopic": "FINANCIAL INSTITUTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FINANCIAL INSTITUTIONS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It applies only to foreign economies",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "FINANCIAL INSTITUTIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 56,
+      "topic": "FINANCIAL INSTITUTIONS",
+      "section": "General",
+      "subtopic": "FINANCIAL INSTITUTIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about FINANCIAL INSTITUTIONS in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "FINANCIAL INSTITUTIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 57,
+      "topic": "FINANCIAL INSTITUTIONS",
+      "section": "General",
+      "subtopic": "FINANCIAL INSTITUTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FINANCIAL INSTITUTIONS in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is a biological concept",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FINANCIAL INSTITUTIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 58,
+      "topic": "PUBLIC FINANCE",
+      "section": "General",
+      "subtopic": "PUBLIC FINANCE",
+      "difficulty": "medium",
+      "question": "A tax that takes a larger percentage of income from the poor than from the rich is called:",
+      "options": {
+        "A": "Progressive tax",
+        "B": "Regressive tax",
+        "C": "Direct tax",
+        "D": "Proportional tax"
+      },
+      "answer": "B",
+      "explanation": "A regressive tax (e.g., VAT on essential goods) disproportionately burdens lower-income earners."
+    },
+    {
+      "id": 59,
+      "topic": "PUBLIC FINANCE",
+      "section": "General",
+      "subtopic": "PUBLIC FINANCE",
+      "difficulty": "hard",
+      "question": "A tax that takes a larger percentage of income from the poor than from the rich is called:",
+      "options": {
+        "A": "Direct tax",
+        "B": "Regressive tax",
+        "C": "Proportional tax",
+        "D": "Progressive tax"
+      },
+      "answer": "B",
+      "explanation": "A regressive tax (e.g., VAT on essential goods) disproportionately burdens lower-income earners."
+    },
+    {
+      "id": 60,
+      "topic": "PUBLIC FINANCE",
+      "section": "General",
+      "subtopic": "PUBLIC FINANCE",
+      "difficulty": "easy",
+      "question": "A tax that takes a larger percentage of income from the poor than from the rich is called:",
+      "options": {
+        "A": "Progressive tax",
+        "B": "Proportional tax",
+        "C": "Regressive tax",
+        "D": "Direct tax"
+      },
+      "answer": "C",
+      "explanation": "A regressive tax (e.g., VAT on essential goods) disproportionately burdens lower-income earners."
+    },
+    {
+      "id": 61,
+      "topic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "section": "General",
+      "subtopic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECONOMIC DEVELOPMENT AND PLANNING in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It applies only to foreign economies",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "ECONOMIC DEVELOPMENT AND PLANNING is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 62,
+      "topic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "section": "General",
+      "subtopic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECONOMIC DEVELOPMENT AND PLANNING in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It applies only to foreign economies",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ECONOMIC DEVELOPMENT AND PLANNING is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 63,
+      "topic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "section": "General",
+      "subtopic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about ECONOMIC DEVELOPMENT AND PLANNING in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ECONOMIC DEVELOPMENT AND PLANNING is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 64,
+      "topic": "INTERNATIONAL TRADE AND BALANCE OF PAYMENTS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL TRADE AND BALANCE OF PAYMENTS",
+      "difficulty": "easy",
+      "question": "When a country's imports exceed its exports, it is said to have a:",
+      "options": {
+        "A": "Balanced trade",
+        "B": "Favorable balance of trade",
+        "C": "Trade deficit",
+        "D": "Trade surplus"
+      },
+      "answer": "C",
+      "explanation": "A trade deficit (unfavorable balance of trade) occurs when import value exceeds export value."
+    },
+    {
+      "id": 65,
+      "topic": "INTERNATIONAL TRADE AND BALANCE OF PAYMENTS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL TRADE AND BALANCE OF PAYMENTS",
+      "difficulty": "medium",
+      "question": "When a country's imports exceed its exports, it is said to have a:",
+      "options": {
+        "A": "Balanced trade",
+        "B": "Trade surplus",
+        "C": "Favorable balance of trade",
+        "D": "Trade deficit"
+      },
+      "answer": "D",
+      "explanation": "A trade deficit (unfavorable balance of trade) occurs when import value exceeds export value."
+    },
+    {
+      "id": 66,
+      "topic": "INTERNATIONAL TRADE AND BALANCE OF PAYMENTS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL TRADE AND BALANCE OF PAYMENTS",
+      "difficulty": "hard",
+      "question": "When a country's imports exceed its exports, it is said to have a:",
+      "options": {
+        "A": "Trade deficit",
+        "B": "Balanced trade",
+        "C": "Trade surplus",
+        "D": "Favorable balance of trade"
+      },
+      "answer": "A",
+      "explanation": "A trade deficit (unfavorable balance of trade) occurs when import value exceeds export value."
+    },
+    {
+      "id": 67,
+      "topic": "ECONOMIC INTEGRATION",
+      "section": "General",
+      "subtopic": "ECONOMIC INTEGRATION",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about ECONOMIC INTEGRATION in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It applies only to foreign economies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "ECONOMIC INTEGRATION is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 68,
+      "topic": "ECONOMIC INTEGRATION",
+      "section": "General",
+      "subtopic": "ECONOMIC INTEGRATION",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECONOMIC INTEGRATION in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It is a biological concept",
+        "C": "It is not examined",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "A",
+      "explanation": "ECONOMIC INTEGRATION is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 69,
+      "topic": "ECONOMIC INTEGRATION",
+      "section": "General",
+      "subtopic": "ECONOMIC INTEGRATION",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECONOMIC INTEGRATION in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological concept",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "A",
+      "explanation": "ECONOMIC INTEGRATION is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 70,
+      "topic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about INTERNATIONAL ECONOMIC ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is not examined",
+        "C": "It applies only to foreign economies",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTERNATIONAL ECONOMIC ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 71,
+      "topic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about INTERNATIONAL ECONOMIC ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is not examined",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTERNATIONAL ECONOMIC ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 72,
+      "topic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about INTERNATIONAL ECONOMIC ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It applies only to foreign economies",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "INTERNATIONAL ECONOMIC ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 73,
+      "topic": "MAJOR NATURAL RESOURCES",
+      "section": "General",
+      "subtopic": "MAJOR NATURAL RESOURCES",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about MAJOR NATURAL RESOURCES in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is a biological concept",
+        "C": "It is not examined",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MAJOR NATURAL RESOURCES is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 74,
+      "topic": "MAJOR NATURAL RESOURCES",
+      "section": "General",
+      "subtopic": "MAJOR NATURAL RESOURCES",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about MAJOR NATURAL RESOURCES in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is a biological concept",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "MAJOR NATURAL RESOURCES is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 75,
+      "topic": "MAJOR NATURAL RESOURCES",
+      "section": "General",
+      "subtopic": "MAJOR NATURAL RESOURCES",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about MAJOR NATURAL RESOURCES in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "MAJOR NATURAL RESOURCES is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 76,
+      "topic": "ECONOMIC INTEGRATION",
+      "section": "General",
+      "subtopic": "ECONOMIC INTEGRATION",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECONOMIC INTEGRATION in Economics?",
+      "options": {
+        "A": "It applies only to foreign economies",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological concept"
+      },
+      "answer": "B",
+      "explanation": "ECONOMIC INTEGRATION is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 77,
+      "topic": "MARKET STRUCTURES",
+      "section": "General",
+      "subtopic": "MARKET STRUCTURES",
+      "difficulty": "easy",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "Veblen effect",
+        "B": "The law of supply",
+        "C": "Giffen paradox",
+        "D": "The law of demand"
+      },
+      "answer": "D",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 78,
+      "topic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "section": "General",
+      "subtopic": "BASIC TOOLS OF ECONOMIC ANALYSIS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about BASIC TOOLS OF ECONOMIC ANALYSIS in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is an economic principle in the syllabus",
+        "C": "It is not examined",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "B",
+      "explanation": "BASIC TOOLS OF ECONOMIC ANALYSIS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 79,
+      "topic": "THEORY OF PRICE DETERMINATION",
+      "section": "General",
+      "subtopic": "THEORY OF PRICE DETERMINATION",
+      "difficulty": "easy",
+      "question": "When price increases and quantity demanded decreases, this is consistent with:",
+      "options": {
+        "A": "The law of supply",
+        "B": "Veblen effect",
+        "C": "The law of demand",
+        "D": "Giffen paradox"
+      },
+      "answer": "C",
+      "explanation": "The law of demand states that, ceteris paribus, as price rises, quantity demanded falls (inverse relationship)."
+    },
+    {
+      "id": 80,
+      "topic": "THEORY OF CONSUMER BEHAVIOUR",
+      "section": "General",
+      "subtopic": "THEORY OF CONSUMER BEHAVIOUR",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THEORY OF CONSUMER BEHAVIOUR in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It applies only to foreign economies",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It is a biological concept"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF CONSUMER BEHAVIOUR is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 81,
+      "topic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about INTERNATIONAL ECONOMIC ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological concept",
+        "C": "It applies only to foreign economies",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTERNATIONAL ECONOMIC ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 82,
+      "topic": "BUSINESS ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "BUSINESS ORGANIZATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about BUSINESS ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological concept",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 83,
+      "topic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "section": "General",
+      "subtopic": "INTERNATIONAL ECONOMIC ORGANIZATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about INTERNATIONAL ECONOMIC ORGANIZATIONS in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It applies only to foreign economies",
+        "C": "It is a biological concept",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTERNATIONAL ECONOMIC ORGANIZATIONS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 84,
+      "topic": "THEORY OF CONSUMER BEHAVIOUR",
+      "section": "General",
+      "subtopic": "THEORY OF CONSUMER BEHAVIOUR",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THEORY OF CONSUMER BEHAVIOUR in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is not examined",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF CONSUMER BEHAVIOUR is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 85,
+      "topic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "section": "General",
+      "subtopic": "ECONOMIC DEVELOPMENT AND PLANNING",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECONOMIC DEVELOPMENT AND PLANNING in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It is a biological concept",
+        "C": "It applies only to foreign economies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "ECONOMIC DEVELOPMENT AND PLANNING is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 86,
+      "topic": "MAJOR NATURAL RESOURCES",
+      "section": "General",
+      "subtopic": "MAJOR NATURAL RESOURCES",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about MAJOR NATURAL RESOURCES in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It applies only to foreign economies",
+        "C": "It is not examined",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MAJOR NATURAL RESOURCES is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 87,
+      "topic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "section": "General",
+      "subtopic": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS in Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It applies only to foreign economies",
+        "C": "It is a biological concept",
+        "D": "It is an economic principle in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "TYPES AND BASIC FEATURES OF ECONOMIC SYSTEMS is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 88,
+      "topic": "NATIONAL INCOME",
+      "section": "General",
+      "subtopic": "NATIONAL INCOME",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about NATIONAL INCOME in Economics?",
+      "options": {
+        "A": "It is a biological concept",
+        "B": "It is not examined",
+        "C": "It is an economic principle in the syllabus",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "C",
+      "explanation": "NATIONAL INCOME is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 89,
+      "topic": "THEORY OF CONSUMER BEHAVIOUR",
+      "section": "General",
+      "subtopic": "THEORY OF CONSUMER BEHAVIOUR",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THEORY OF CONSUMER BEHAVIOUR in Economics?",
+      "options": {
+        "A": "It is an economic principle in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological concept",
+        "D": "It applies only to foreign economies"
+      },
+      "answer": "A",
+      "explanation": "THEORY OF CONSUMER BEHAVIOUR is a fundamental economics concept tested in JAMB and WAEC."
+    },
+    {
+      "id": 90,
+      "topic": "DISTRIBUTIVE TRADE",
+      "section": "General",
+      "subtopic": "DISTRIBUTIVE TRADE",
+      "difficulty": "medium",
+      "question": "When a country's imports exceed its exports, it is said to have a:",
+      "options": {
+        "A": "Balanced trade",
+        "B": "Trade surplus",
+        "C": "Trade deficit",
+        "D": "Favorable balance of trade"
+      },
+      "answer": "C",
+      "explanation": "A trade deficit (unfavorable balance of trade) occurs when import value exceeds export value."
+    }
+  ]
+}

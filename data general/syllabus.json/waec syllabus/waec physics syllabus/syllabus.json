@@ -1,0 +1,347 @@
+{
+  "syllabus_title": "WAEC SSCE Physics Detailed Syllabus",
+  "parts": [
+    {
+      "part": "PART I",
+      "title": "INTERACTION OF MATTER, SPACE & TIME",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Concepts of matter",
+          "notes": "Simple structure of matter should be discussed. Three physics states of matter, namely solid, liquid and gas should be treated. Evidence of the particle nature of matter e.g. Brownian motion experiment, Kinetic theory of matter. Use of the theory to explain; states of matter (solid, liquid and gas), pressure in a gas, evaporation and boiling; cohesion, adhesion, capillarity. Crystalline and amorphous substances to be compared (Arrangement of atoms in crystalline structure to be described e.g. face centred, body centred)."
+        },
+        {
+          "topic_number": 2,
+          "title": "Fundamental and derived quantities and units",
+          "subtopics": [
+            {"title": "(a) Fundamental quantities and units"},
+            {"title": "(b) Derived quantities and units"}
+          ],
+          "notes": "Length, mass, time, electric current, luminous intensity, thermodynamic temperature, amount of substance as examples of fundamental quantities and m, kg, s, A, cd, K and mol as their respective units. Volume, density and speed as derived quantities and m³, kgm⁻³ and ms⁻¹ as their respective units."
+        },
+        {
+          "topic_number": 3,
+          "title": "Position, distance and displacement",
+          "subtopics": [
+            {"title": "(a) Concept of position as a location of point - rectangular coordinates"},
+            {"title": "(b) Measurement of distance"},
+            {"title": "(c) Concept of direction as a way of locating a point – bearing"},
+            {"title": "(d) Distinction between distance and displacement"}
+          ],
+          "notes": "Position of objects in space using the X, Y, Z axes should be mentioned. Use of string, metre rule, vernier calipers and micrometer screw gauge. Degree of accuracy should be noted. Metre (m) as unit of distance. Use of compass and a protractor. Graphical location and directions by axes to be stressed."
+        },
+        {
+          "topic_number": 4,
+          "title": "Mass and weight",
+          "notes": "Distinction between mass and weight. Use of lever balance and chemical/beam balance to measure mass and spring balance to measure weight. Mention should be made of electronic/digital balance. Kilogram (kg) as unit of mass and newton (N) as unit of weight."
+        },
+        {
+          "topic_number": 5,
+          "title": "Time",
+          "subtopics": [
+            {"title": "(a) Concept of time as interval between physical events"},
+            {"title": "(b) Measurement of time"}
+          ],
+          "notes": "The use of heart-beat, sand-clock, ticker-timer, pendulum and stopwatch/clock. Second(s) as unit of time."
+        },
+        {
+          "topic_number": 6,
+          "title": "Fluid at rest",
+          "subtopics": [
+            {"title": "(a) Volume, density and relative density"},
+            {"title": "(b) Pressure in fluids"},
+            {"title": "(c) Equilibrium of bodies (i) Archimedes’ principle (ii) Law of flotation"}
+          ],
+          "notes": "Experimental determination for solids and liquids. Concept and definition of pressure. Pascal’s principle, application of principle to hydraulic press and car brakes. Dependence of pressure on the depth of a point below a liquid surface. Atmospheric pressure. Simple barometer, manometer, siphon, syringe and pump. Determination of the relative density of liquids with U-tube and Hare’s apparatus. Identification of the forces acting on a body partially or completely immersed in a fluid. Use of the principle to determine the relative densities of solids and liquids. Establishing the conditions for a body to float in a fluid. Applications in hydrometer, balloons, boats, ships, submarines etc."
+        },
+        {
+          "topic_number": 7,
+          "title": "Motion",
+          "subtopics": [
+            {"title": "(a) Types of motion: Random, rectilinear, translational, Rotational, circular, orbital, spin, Oscillatory"},
+            {"title": "(b) Relative motion"},
+            {"title": "(c) Cause of motion"},
+            {"title": "(d) Types of force: (i) Contact force (ii) Non-contact force (field force)"},
+            {"title": "(e) Solid friction"},
+            {"title": "(f) Viscosity (friction in fluids)"},
+            {"title": "(g) Simple ideas of circular motion"}
+          ],
+          "notes": "Only qualitative treatment is required. Illustration should be given for the various types of motion. Numerical problems on co-linear motion may be set. Force as cause of motion. Push and pull. These are field forces namely; electric and magnetic attractions and repulsions; gravitational pull. Frictional force between two stationary bodies (static) and between two bodies in relative motion (dynamic). Coefficients of limiting friction and their determinations... [advantages/disadvantages/methods of reducing]. Definition and effects. Simple explanation as extension of friction in fluids... Terminal velocity... Experiments with a string... demonstrate motion in a vertical/horizontal circle... difference between angular speed and velocity... centripetal force. Banking of roads..."
+        },
+        {
+          "topic_number": 8,
+          "title": "Speed and velocity",
+          "notes": "Metre per second (ms⁻¹) as unit of speed/velocity. Ticker-timer... Definition of velocity as s/t... Determination of instantaneous speed/velocity..."
+        },
+        {
+          "topic_number": 9,
+          "title": "Rectilinear acceleration",
+          "subtopics": [
+            {"title": "(a) Concept of Acceleration/deceleration as increase/decrease in velocity with time"},
+            {"title": "(b) Uniform/non-uniform acceleration"},
+            {"title": "(c) Velocity-time graph"},
+            {"title": "(d) Equations of motion with constant acceleration; Motion under gravity as a special case"}
+          ],
+          "notes": "Unit of acceleration as ms⁻²... Use of equations to solve numerical problems."
+        },
+        {
+          "topic_number": 10,
+          "title": "Scalars and vectors",
+          "subtopics": [
+            {"title": "(a) Concept of scalars as physical quantities with magnitude and no direction"},
+            {"title": "(b) Concept of vectors as physical quantities with both magnitude and direction"},
+            {"title": "(c) Vector representation"},
+            {"title": "(d) Addition of vectors"},
+            {"title": "(e) Resolution of vectors"},
+            {"title": "(f) Resultant velocity using vector representation"}
+          ],
+          "notes": "Mass, distance, speed and time as examples of scalars. Weight, displacement... Use of force board... Obtain the resultant of two velocities analytically and graphically."
+        },
+        {
+          "topic_number": 11,
+          "title": "Equilibrium of forces",
+          "subtopics": [
+            {"title": "(a) Principle of moments"},
+            {"title": "(b) Conditions for equilibrium of rigid bodies under the action of parallel and non-parallel forces"},
+            {"title": "(c) Centre of gravity and stability"}
+          ],
+          "notes": "Torque/Moment of force... Use of force board... Parallelogram of forces. Triangle of forces... stable, unstable and neutral equilibria."
+        },
+        {
+          "topic_number": 12,
+          "title": "Simple harmonic motion",
+          "subtopics": [
+            {"title": "(a) Illustration, explanation and definition of simple harmonic motion (S.H.M)"},
+            {"title": "(b) Speed and acceleration of S.H.M."},
+            {"title": "(c) Period, frequency and amplitude of a body executing S.H.M."},
+            {"title": "(d) Energy of S.H.M"},
+            {"title": "(e) Forced vibration and resonance"}
+          ],
+          "notes": "Use of a loaded test-tube... simple pendulum... Experimental determination of ‘g’... Simple problems may be set..."
+        },
+        {
+          "topic_number": 13,
+          "title": "Newton’s laws of motion",
+          "subtopics": [
+            {"title": "(a) First Law: Inertia of rest and inertia of motion"},
+            {"title": "(b) Second Law: Force, acceleration, momentum and impulse"},
+            {"title": "(c) Third Law: Action and reaction"}
+          ],
+          "notes": "Distinction between inertia mass and weight... Linear momentum and its conservation... Applications: recoil of a gun, jet and rocket propulsions."
+        }
+      ]
+    },
+    {
+      "part": "PART II",
+      "title": "ENERGY: Mechanical and Heat",
+      "topics": [
+        {
+          "topic_number": 14,
+          "title": "Energy",
+          "subtopics": [
+            {"title": "(a) Forms of energy"},
+            {"title": "(b) World energy resources"},
+            {"title": "(c) Conservation of energy"}
+          ],
+          "notes": "Examples of various forms... Renewable and non-renewable sources..."
+        },
+        {
+          "topic_number": 15,
+          "title": "Work, Energy and Power",
+          "subtopics": [
+            {"title": "(a) Concept of work as a measure of energy transfer"},
+            {"title": "(b) Concept of energy as capability to do work"},
+            {"title": "(c) Work done in a gravitational field"},
+            {"title": "(d) Types of mechanical energy (i) Potential energy (P.E.) (ii) Kinetic energy (K.E)"},
+            {"title": "(e) Conservation of mechanical energy"},
+            {"title": "(f) Concept of power as time rate of doing work"},
+            {"title": "(g) Application of mechanical energy - machines (Levers, pulleys, inclined plane, wedge, screw, wheel and axle, gears)"}
+          ],
+          "notes": "Unit of energy as the joule (J)... Derivation of P.E and K.E... Verification of the principle... Unit of power as the watt (W)... Force ratio, mechanical advantage..."
+        },
+        {
+          "topic_number": 16,
+          "title": "Heat Energy",
+          "subtopics": [
+            {"title": "(a) Temperature and its measurement"},
+            {"title": "(b) Effects of heat on matter"},
+            {"title": "(c) Thermal expansion – Linear, area and volume expansivities"},
+            {"title": "(d) Heat transfer – Conduction, convection and radiation"},
+            {"title": "(e) The gas laws - Boyle’s law, Charles’ law, pressure law and general gas law"},
+            {"title": "(f) Measurement of heat energy: (i) Concept of heat capacity (ii) Specific heat capacity"},
+            {"title": "(g) Latent heat (i) Concept of latent heat (ii) Melting point and boiling point (iii) Specific latent heat of fusion and of vaporization"},
+            {"title": "(h) Evaporation and boiling"},
+            {"title": "(i) Vapour and vapour pressure"},
+            {"title": "(j) Humidity, relative humidity and dew point"},
+            {"title": "(k) Humidity and the weather"}
+          ],
+          "notes": "Concept of temperature... thermometers... Use of the Kinetic theory... Qualitative and quantitative treatment... Real and apparent expansion... Anomalous expansion of water... Modes of heat transfer... vacuum flask... Verification of laws... Specific heat capacity... Latent heat... Applications in refrigerators... Effects on evaporation... Formation of dew, fog and rain."
+        }
+      ]
+    },
+    {
+      "part": "PART III",
+      "title": "WAVES",
+      "topics": [
+        {
+          "topic_number": 17,
+          "title": "Production and propagation of waves",
+          "notes": "Use of ropes and springs... ripple tank... Hertz(Hz) as unit of frequency... V = fλ..."
+        },
+        {
+          "topic_number": 18,
+          "title": "Types of waves",
+          "notes": "Transverse and longitudinal..."
+        },
+        {
+          "topic_number": 19,
+          "title": "Properties of waves: Reflection, refraction, diffraction, Interference, superposition of progressive waves producing standing stationary waves",
+          "notes": "Ripple tank... Explanation of the properties."
+        },
+        {
+          "topic_number": 20,
+          "title": "Light waves",
+          "subtopics": [
+            {"title": "(a) Sources of light"},
+            {"title": "(b) Rectilinear propagation of light"},
+            {"title": "(c) Reflection of light at plane surface: plane mirror"},
+            {"title": "(d) Reflection of light at curved surfaces: concave and convex mirrors"},
+            {"title": "(e) Refraction of light at plane surfaces: rectangular glass prism (block) and triangular prism"},
+            {"title": "(f) Refraction of light at curved surfaces: Converging and diverging lenses"},
+            {"title": "(g) Application of lenses in optical instruments"},
+            {"title": "(h) Dispersion of white light by a triangular glass prism"}
+          ],
+          "notes": "Shadows, eclipses... Laws of reflection... Mirror formulae... Lens formulae... Defects of the human eye... Spectrum... Colours..."
+        },
+        {
+          "topic_number": 21,
+          "title": "Electromagnetic waves: Types of radiation in electromagnetic Spectrum",
+          "notes": "Radio, infrared, visible light, ultra-violet, X-rays, gamma rays."
+        },
+        {
+          "topic_number": 22,
+          "title": "Sound Waves",
+          "subtopics": [
+            {"title": "(a) Sources of sound"},
+            {"title": "(b) Transmission of sound waves"},
+            {"title": "(c) Speed of sound in solid, liquid and air"},
+            {"title": "(d) Echoes and reverberation"},
+            {"title": "(e) Noise and music"},
+            {"title": "(f) Characteristics of sound"},
+            {"title": "(g) Vibration in strings"},
+            {"title": "(h) Forced vibration (i) Resonance (ii) Harmonics and overtones"},
+            {"title": "(i) Vibration of air in pipe – open and closed pipes"}
+          ],
+          "notes": "Pitch, loudness and quality... Sonometer... Resonance tube... Applications in musical instruments."
+        }
+      ]
+    },
+    {
+      "part": "PART IV",
+      "title": "FIELDS",
+      "topics": [
+        {
+          "topic_number": 23,
+          "title": "Description property of fields",
+          "subtopics": [
+            {"title": "(a) Concept of fields: Gravitational, electric and Magnetic"},
+            {"title": "(b) Properties of a force field"}
+          ]
+        },
+        {
+          "topic_number": 24,
+          "title": "Gravitational field",
+          "subtopics": [
+            {"title": "(a) Acceleration due to gravity, (g)"},
+            {"title": "(b) Gravitational force between two masses: Newton’s law of gravitation"},
+            {"title": "(c) Gravitational potential and escape velocity"}
+          ],
+          "notes": "Universal gravitational constant (G)... Escape velocity..."
+        },
+        {
+          "topic_number": 25,
+          "title": "Electric Field",
+          "subtopics": [
+            {"title": "(1) Electrostatics (a) Production of electric charges (b) Types of distribution of charges (c) Storage of charges (d) Electric lines of force (e) Electric force between point charges: Coulomb’s law (f) Concepts of electric field, electric field intensity... (g) Capacitance"},
+            {"title": "(2) Current electricity (a) Production of electric current... (b) Potential difference... (c) Electric circuit (d) Electric conduction... (e) Electric energy and power (f) Shunt and multiplier (g) Resistivity and Conductivity (h) Measurement of electric current..."}
+          ],
+          "notes": "Electroscope... Capacitors... Cells, accumulators... Ohm’s law... Heating effect... Solar cells..."
+        },
+        {
+          "topic_number": 26,
+          "title": "Magnetic field",
+          "subtopics": [
+            {"title": "(a) Properties of magnets and magnetic materials"},
+            {"title": "(b) Magnetization and demagnetization"},
+            {"title": "(c) Concept of magnetic field"},
+            {"title": "(d) Magnetic force on: (i) a current-carrying conductor... (ii) between two parallel..."},
+            {"title": "(e) Use of electromagnets"},
+            {"title": "(f) The earth’s magnetic field"},
+            {"title": "(g) Magnetic force on a moving charged particle"}
+          ],
+          "notes": "Magnetic flux... Electromagnets... Fleming’s left-hand rule..."
+        },
+        {
+          "topic_number": 27,
+          "title": "Electromagnetic field",
+          "subtopics": [
+            {"title": "(a) Concept of electromagnetic field"},
+            {"title": "(b) Electromagnetic induction: Faraday’s law, Lenz’s law and motor-generator effect"},
+            {"title": "(c) Inductance"},
+            {"title": "(d) Eddy currents"},
+            {"title": "(e) Power transmission and distribution"}
+          ],
+          "notes": "Transformers... AC circuits... Resonance..."
+        },
+        {
+          "topic_number": 28,
+          "title": "Simple a.c. circuits",
+          "subtopics": [
+            {"title": "(a) Graphical representation of e.m.f and current in an a.c. circuit"},
+            {"title": "(b) Peak and r.m.s. values"},
+            {"title": "(c) Series circuit containing resistor, inductor and capacitor"},
+            {"title": "(d) Reactance and impedance"},
+            {"title": "(e) Vector diagrams"},
+            {"title": "(f) Resonance in an a.c. circuit"},
+            {"title": "(g) Power in an a.c. circuit"}
+          ]
+        }
+      ]
+    },
+    {
+      "part": "PART V",
+      "title": "ATOMIC AND NUCLEAR PHYSICS",
+      "topics": [
+        {
+          "topic_number": 29,
+          "title": "Structure of the atom",
+          "subtopics": [
+            {"title": "(a) Models of the atom"},
+            {"title": "(b) Energy quantization"},
+            {"title": "(c) Photoelectric effect"},
+            {"title": "(d) Thermionic emission"}
+          ],
+          "notes": "Thomson, Rutherford, Bohr... Photoelectric equation... X-rays..."
+        },
+        {
+          "topic_number": 30,
+          "title": "Structure of the nucleus",
+          "subtopics": [
+            {"title": "(a) Composition of the nucleus"},
+            {"title": "(b) Radioactivity – Natural and artificial"},
+            {"title": "(c) Nuclear reactions --- Fusion and Fission"}
+          ]
+        },
+        {
+          "topic_number": 31,
+          "title": "Wave-particle paradox",
+          "subtopics": [
+            {"title": "(a) Electron diffraction"},
+            {"title": "(b) Duality of matter"}
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "Questions will be set in S.I. units. Practical activities are important. This JSON captures the structure, topics, subtopics, and key notes from the detailed syllabus."
+}

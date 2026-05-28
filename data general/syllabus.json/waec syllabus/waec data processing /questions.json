@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "section title",
+      "section": "General",
+      "subtopic": "section title",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about section title in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "section title is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "section title",
+      "section": "General",
+      "subtopic": "section title",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about section title in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "section title is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "section title",
+      "section": "General",
+      "subtopic": "section title",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about section title in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "section title is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "History of Computers",
+      "section": "General",
+      "subtopic": "History of Computers",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about History of Computers in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "History of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "History of Computers",
+      "section": "General",
+      "subtopic": "History of Computers",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about History of Computers in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "History of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "History of Computers",
+      "section": "General",
+      "subtopic": "History of Computers",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about History of Computers in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "History of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "Data and Information",
+      "section": "General",
+      "subtopic": "Data and Information",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Data and Information in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Data and Information is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "Data and Information",
+      "section": "General",
+      "subtopic": "Data and Information",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Data and Information in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Data and Information is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "Data and Information",
+      "section": "General",
+      "subtopic": "Data and Information",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Data and Information in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Data and Information is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "Classification of Computers",
+      "section": "General",
+      "subtopic": "Classification of Computers",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Classification of Computers in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Classification of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "Classification of Computers",
+      "section": "General",
+      "subtopic": "Classification of Computers",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Classification of Computers in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Classification of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "Classification of Computers",
+      "section": "General",
+      "subtopic": "Classification of Computers",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Classification of Computers in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Classification of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "Application of ICT in everyday life",
+      "section": "General",
+      "subtopic": "Application of ICT in everyday life",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Windows OS",
+        "B": "Microsoft Word",
+        "C": "Adobe Photoshop",
+        "D": "Google Chrome"
+      },
+      "answer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 14,
+      "topic": "Application of ICT in everyday life",
+      "section": "General",
+      "subtopic": "Application of ICT in everyday life",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Windows OS",
+        "C": "Microsoft Word",
+        "D": "Google Chrome"
+      },
+      "answer": "B",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 15,
+      "topic": "Application of ICT in everyday life",
+      "section": "General",
+      "subtopic": "Application of ICT in everyday life",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Google Chrome",
+        "C": "Windows OS",
+        "D": "Microsoft Word"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 16,
+      "topic": "Components of Computers",
+      "section": "General",
+      "subtopic": "Components of Computers",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Components of Computers in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Components of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Components of Computers",
+      "section": "General",
+      "subtopic": "Components of Computers",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Components of Computers in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Components of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Components of Computers",
+      "section": "General",
+      "subtopic": "Components of Computers",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Components of Computers in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Components of Computers is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "The art of Information processing",
+      "section": "General",
+      "subtopic": "The art of Information processing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about The art of Information processing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "The art of Information processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "The art of Information processing",
+      "section": "General",
+      "subtopic": "The art of Information processing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about The art of Information processing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "The art of Information processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "The art of Information processing",
+      "section": "General",
+      "subtopic": "The art of Information processing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about The art of Information processing in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "The art of Information processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Process of Information transmission",
+      "section": "General",
+      "subtopic": "Process of Information transmission",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Process of Information transmission in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Process of Information transmission is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Process of Information transmission",
+      "section": "General",
+      "subtopic": "Process of Information transmission",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Process of Information transmission in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Process of Information transmission is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Process of Information transmission",
+      "section": "General",
+      "subtopic": "Process of Information transmission",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Process of Information transmission in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Process of Information transmission is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Medium of Information Transmission",
+      "section": "General",
+      "subtopic": "Medium of Information Transmission",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Medium of Information Transmission in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Medium of Information Transmission is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Medium of Information Transmission",
+      "section": "General",
+      "subtopic": "Medium of Information Transmission",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Medium of Information Transmission in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Medium of Information Transmission is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Medium of Information Transmission",
+      "section": "General",
+      "subtopic": "Medium of Information Transmission",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Medium of Information Transmission in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Medium of Information Transmission is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Networking",
+      "section": "General",
+      "subtopic": "Networking",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "TCP",
+        "C": "SMTP",
+        "D": "HTTP"
+      },
+      "answer": "C",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 29,
+      "topic": "Networking",
+      "section": "General",
+      "subtopic": "Networking",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "TCP",
+        "C": "HTTP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 30,
+      "topic": "Networking",
+      "section": "General",
+      "subtopic": "Networking",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "TCP",
+        "B": "HTTP",
+        "C": "SMTP",
+        "D": "FTP"
+      },
+      "answer": "C",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 31,
+      "topic": "Internet",
+      "section": "General",
+      "subtopic": "Internet",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "TCP",
+        "B": "FTP",
+        "C": "HTTP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 32,
+      "topic": "Internet",
+      "section": "General",
+      "subtopic": "Internet",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "HTTP",
+        "B": "SMTP",
+        "C": "TCP",
+        "D": "FTP"
+      },
+      "answer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 33,
+      "topic": "Internet",
+      "section": "General",
+      "subtopic": "Internet",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "TCP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 34,
+      "topic": "Operating System",
+      "section": "General",
+      "subtopic": "Operating System",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Windows OS",
+        "B": "Adobe Photoshop",
+        "C": "Microsoft Word",
+        "D": "Google Chrome"
+      },
+      "answer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 35,
+      "topic": "Operating System",
+      "section": "General",
+      "subtopic": "Operating System",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Windows OS",
+        "B": "Adobe Photoshop",
+        "C": "Google Chrome",
+        "D": "Microsoft Word"
+      },
+      "answer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 36,
+      "topic": "Operating System",
+      "section": "General",
+      "subtopic": "Operating System",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Windows OS",
+        "C": "Adobe Photoshop",
+        "D": "Google Chrome"
+      },
+      "answer": "B",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 37,
+      "topic": "Word Processing",
+      "section": "General",
+      "subtopic": "Word Processing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Word Processing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Word Processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Word Processing",
+      "section": "General",
+      "subtopic": "Word Processing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Word Processing in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Word Processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Word Processing",
+      "section": "General",
+      "subtopic": "Word Processing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Word Processing in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Word Processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Spreadsheet",
+      "section": "General",
+      "subtopic": "Spreadsheet",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Spreadsheet in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Spreadsheet is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Spreadsheet",
+      "section": "General",
+      "subtopic": "Spreadsheet",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Spreadsheet in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Spreadsheet is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Spreadsheet",
+      "section": "General",
+      "subtopic": "Spreadsheet",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Spreadsheet in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Spreadsheet is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Database Management System",
+      "section": "General",
+      "subtopic": "Database Management System",
+      "difficulty": "hard",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Table",
+        "B": "Field",
+        "C": "Query",
+        "D": "Record"
+      },
+      "answer": "D",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 44,
+      "topic": "Database Management System",
+      "section": "General",
+      "subtopic": "Database Management System",
+      "difficulty": "easy",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Table",
+        "B": "Query",
+        "C": "Record",
+        "D": "Field"
+      },
+      "answer": "C",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 45,
+      "topic": "Database Management System",
+      "section": "General",
+      "subtopic": "Database Management System",
+      "difficulty": "medium",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Record",
+        "B": "Query",
+        "C": "Table",
+        "D": "Field"
+      },
+      "answer": "A",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 46,
+      "topic": "Presentation Package",
+      "section": "General",
+      "subtopic": "Presentation Package",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Presentation Package in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Presentation Package is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Presentation Package",
+      "section": "General",
+      "subtopic": "Presentation Package",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Presentation Package in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Presentation Package is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Presentation Package",
+      "section": "General",
+      "subtopic": "Presentation Package",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Presentation Package in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Presentation Package is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "Web Design Packages",
+      "section": "General",
+      "subtopic": "Web Design Packages",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Web Design Packages in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Web Design Packages is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "Web Design Packages",
+      "section": "General",
+      "subtopic": "Web Design Packages",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Web Design Packages in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Web Design Packages is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Web Design Packages",
+      "section": "General",
+      "subtopic": "Web Design Packages",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Web Design Packages in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Web Design Packages is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Graphic Packages",
+      "section": "General",
+      "subtopic": "Graphic Packages",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Graphic Packages in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Graphic Packages is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Graphic Packages",
+      "section": "General",
+      "subtopic": "Graphic Packages",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Graphic Packages in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Graphic Packages is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Graphic Packages",
+      "section": "General",
+      "subtopic": "Graphic Packages",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Graphic Packages in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Graphic Packages is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Maintenance of Computer",
+      "section": "General",
+      "subtopic": "Maintenance of Computer",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Maintenance of Computer in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Maintenance of Computer is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Maintenance of Computer",
+      "section": "General",
+      "subtopic": "Maintenance of Computer",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Maintenance of Computer in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Maintenance of Computer is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Maintenance of Computer",
+      "section": "General",
+      "subtopic": "Maintenance of Computer",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Maintenance of Computer in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Maintenance of Computer is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Computer Ethics",
+      "section": "General",
+      "subtopic": "Computer Ethics",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Computer Ethics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Computer Ethics",
+      "section": "General",
+      "subtopic": "Computer Ethics",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Computer Ethics in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Computer Ethics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Computer Ethics",
+      "section": "General",
+      "subtopic": "Computer Ethics",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Ethics in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Computer Ethics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Safety Measures",
+      "section": "General",
+      "subtopic": "Safety Measures",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Safety Measures",
+      "section": "General",
+      "subtopic": "Safety Measures",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Safety Measures",
+      "section": "General",
+      "subtopic": "Safety Measures",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "Career opportunities in Data Processing",
+      "section": "General",
+      "subtopic": "Career opportunities in Data Processing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Career opportunities in Data Processing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Career opportunities in Data Processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Career opportunities in Data Processing",
+      "section": "General",
+      "subtopic": "Career opportunities in Data Processing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Career opportunities in Data Processing in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Career opportunities in Data Processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Career opportunities in Data Processing",
+      "section": "General",
+      "subtopic": "Career opportunities in Data Processing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Career opportunities in Data Processing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Career opportunities in Data Processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Computer Virus",
+      "section": "General",
+      "subtopic": "Computer Virus",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Virus in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Computer Virus is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Computer Virus",
+      "section": "General",
+      "subtopic": "Computer Virus",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Computer Virus in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Computer Virus is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Computer Virus",
+      "section": "General",
+      "subtopic": "Computer Virus",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Virus in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Computer Virus is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Relational Model",
+      "section": "General",
+      "subtopic": "Relational Model",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Relational Model in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Relational Model is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Relational Model",
+      "section": "General",
+      "subtopic": "Relational Model",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Relational Model in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Relational Model is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Relational Model",
+      "section": "General",
+      "subtopic": "Relational Model",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Relational Model in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Relational Model is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "File Organization",
+      "section": "General",
+      "subtopic": "File Organization",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about File Organization in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "File Organization is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "File Organization",
+      "section": "General",
+      "subtopic": "File Organization",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about File Organization in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "File Organization is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "File Organization",
+      "section": "General",
+      "subtopic": "File Organization",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about File Organization in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "File Organization is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Database Security",
+      "section": "General",
+      "subtopic": "Database Security",
+      "difficulty": "medium",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Field",
+        "B": "Query",
+        "C": "Record",
+        "D": "Table"
+      },
+      "answer": "C",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 77,
+      "topic": "Database Security",
+      "section": "General",
+      "subtopic": "Database Security",
+      "difficulty": "hard",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Query",
+        "B": "Record",
+        "C": "Field",
+        "D": "Table"
+      },
+      "answer": "B",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 78,
+      "topic": "Database Security",
+      "section": "General",
+      "subtopic": "Database Security",
+      "difficulty": "easy",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Query",
+        "B": "Field",
+        "C": "Record",
+        "D": "Table"
+      },
+      "answer": "C",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 79,
+      "topic": "Parallel and Distributed databases",
+      "section": "General",
+      "subtopic": "Parallel and Distributed databases",
+      "difficulty": "hard",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Record",
+        "B": "Query",
+        "C": "Field",
+        "D": "Table"
+      },
+      "answer": "A",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 80,
+      "topic": "Parallel and Distributed databases",
+      "section": "General",
+      "subtopic": "Parallel and Distributed databases",
+      "difficulty": "easy",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Field",
+        "B": "Record",
+        "C": "Query",
+        "D": "Table"
+      },
+      "answer": "B",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 81,
+      "topic": "Parallel and Distributed databases",
+      "section": "General",
+      "subtopic": "Parallel and Distributed databases",
+      "difficulty": "medium",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Field",
+        "B": "Query",
+        "C": "Table",
+        "D": "Record"
+      },
+      "answer": "D",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 82,
+      "topic": "Database Security",
+      "section": "General",
+      "subtopic": "Database Security",
+      "difficulty": "easy",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Query",
+        "B": "Record",
+        "C": "Table",
+        "D": "Field"
+      },
+      "answer": "B",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 83,
+      "topic": "Spreadsheet",
+      "section": "General",
+      "subtopic": "Spreadsheet",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Spreadsheet in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Spreadsheet is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "The art of Information processing",
+      "section": "General",
+      "subtopic": "The art of Information processing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about The art of Information processing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "The art of Information processing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Data and Information",
+      "section": "General",
+      "subtopic": "Data and Information",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Data and Information in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Data and Information is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "section title",
+      "section": "General",
+      "subtopic": "section title",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about section title in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "section title is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "Operating System",
+      "section": "General",
+      "subtopic": "Operating System",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Google Chrome",
+        "C": "Windows OS",
+        "D": "Microsoft Word"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 88,
+      "topic": "Database Security",
+      "section": "General",
+      "subtopic": "Database Security",
+      "difficulty": "medium",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Query",
+        "B": "Table",
+        "C": "Record",
+        "D": "Field"
+      },
+      "answer": "C",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 89,
+      "topic": "Database Management System",
+      "section": "General",
+      "subtopic": "Database Management System",
+      "difficulty": "easy",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Query",
+        "B": "Record",
+        "C": "Table",
+        "D": "Field"
+      },
+      "answer": "B",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 90,
+      "topic": "Classification of Computers",
+      "section": "General",
+      "subtopic": "Classification of Computers",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Classification of Computers in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Classification of Computers is included in the Computer Studies/ICT syllabus."
+    }
+  ]
+}

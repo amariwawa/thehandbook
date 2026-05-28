@@ -1,0 +1,167 @@
+{
+  "syllabus_title": "UTME Art Detailed Syllabus",
+  "sections": [
+    {
+      "section": "A",
+      "title": "Classification of Art, Elements and Principles of Design, Art Terms",
+      "topics": [
+        {
+          "topic": "Classification of Art",
+          "content": [
+            "Visual Arts (Fine and Applied Arts)",
+            "Performing Arts (Music, Dance and Drama)",
+            "Literary Arts (Poetry, Prose, Recital etc.)"
+          ],
+          "objectives": ["Differentiate between the three branches of art"]
+        },
+        {
+          "topic": "Elements and Principles of Design",
+          "content": {
+            "elements": "line, colour, shape, form, texture, tone, value, space etc.",
+            "principles": "balance, rhythm, proportion, harmony, contrast, repetition, dominance, variety, etc."
+          },
+          "objectives": [
+            "Identify the elements of design",
+            "Analyse the principles of design"
+          ]
+        },
+        {
+          "topic": "Art Terms",
+          "content": "Pigments, motif, greenware, armature, silhouette, chiaroscuro, cire perdue, terra cotta etc.",
+          "objectives": [
+            "Identify art terms",
+            "Link the terms to their areas of art",
+            "Use the terms in analyzing artworks"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "Historical Dimensions of Art",
+      "topics": [
+        {
+          "topic": "Historical Dimensions of Art",
+          "subtopics": [
+            "Prehistoric, Greek and Roman Art",
+            "Medieval Art (architecture, surface decorations and calligraphy)",
+            "Renaissance Art and Artists (Giotto Di Bondone, Michelangelo Buonarroti, Leonardo da Vinci, Raphael (Raffaello Santi) etc.)",
+            "19th and 20th Century Art Movements (Impressionism, Realism, Futurism, Cubism, Bauhaus, Pop art, Abstract Expressionism, Fauvism)"
+          ],
+          "objectives": [
+            "Compare their materials, styles and techniques",
+            "Classify the periods and styles with emphasis on architecture, surface decoration and calligraphy",
+            "Compare the artists, their works and styles",
+            "Differentiate between the various art movements",
+            "Analyze their styles, techniques, innovations and influences"
+          ]
+        },
+        {
+          "topic": "Traditional African Art",
+          "content": "Egypt, Ashanti, Dogon, Mossi, Fon, Senufo, Bambara, Mende, Kissi, Bamileke, Bakumba etc.",
+          "objectives": ["Categorize works in terms of style, materials and locations"]
+        },
+        {
+          "topic": "Traditional Nigerian Art",
+          "content": "Nok, Igbo-Ukwu, Ife, Benin, Esie, Igala, Jukun, Akwanshi, Mbari",
+          "objectives": ["Analyze the works in terms of functions, characteristics and locations"]
+        },
+        {
+          "topic": "Nigerian Crafts",
+          "content": "Pottery, woodworks, cloth weaving, carving, leather works, metal works, beadworks, body decoration, mat and cane weaving",
+          "objectives": ["Trace the origins, locations and styles"]
+        },
+        {
+          "topic": "Development in Contemporary Nigerian Arts and Artists",
+          "subtopics": [
+            "Art Schools: Zaria, Nsukka, Osogbo group etc.",
+            "Nigerian artists and art educators: Aina Onabolu, Ben Enwonwu, S. I. Wangboje, Jimoh Akolo, Dele Jegede etc.",
+            "Museums, galleries and art centres",
+            "Art institutions, cultural art centres, national art organizations (Nigerian Society for Education through Arts (NSEA), Society for Nigerian Artists (S.N.A), National Council for Arts and Culture (N.C.A.C), etc.)",
+            "Major Festivals: Argungu Fishing Festival, Eyo, Egungun, Iriji (New Yam), Durbar, Igue, Ekpo, Odo, etc."
+          ],
+          "objectives": [
+            "Determine the influence of the art schools and groups towards the development of art",
+            "Assess the artists in terms of their works, specializations, techniques and styles",
+            "Analyze the functions of museums, galleries, art centres and art institutions",
+            "Evaluate their impact on the development of art",
+            "Assess their roles and functions",
+            "Examine the characteristics of major festivals of art and culture"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "Artistic Skills, Techniques, Processes, Tools, Materials and Equipment",
+      "topics": [
+        {
+          "topic": "Artistic Skills, Techniques and Processes",
+          "subtopics": [
+            "Two-Dimensional Art: drawing, painting, graphics and textile design",
+            "Perspective: Linear, angular, aerial, parallel etc. (Terms: foreground, picture plane, eye level, vanishing point, foreshortening, optical illusion, depth etc.)",
+            "Sculpture, Ceramics and Crafts",
+            "Computer Graphics: CorelDraw"
+          ],
+          "objectives": [
+            "Techniques, skills and processes with emphasis on tone, composition and colour application",
+            "Types of perspective",
+            "Use of perspective rules and terms",
+            "Techniques, skills and processes",
+            "Basic tools of designs"
+          ]
+        },
+        {
+          "topic": "Tools, Materials and Equipment",
+          "subtopics": [
+            "Two-Dimensional Art Tools: brushes, lino cutters, drawing instruments, calligraphic pens, sharpeners etc.",
+            "Two-Dimensional Art Materials: pencils, charcoal, pastel, crayon, fixative, fabric, dyes, lino, wood blocks etc.",
+            "Two-Dimensional Art Equipment: air compressor, spray gun, enlarger, computer etc.",
+            "Improvisation of tools, materials and equipment (Two-Dimensional and Three-Dimensional)"
+          ],
+          "objectives": [
+            "Maintain art tools and art materials",
+            "Use art materials and tools",
+            "Operate and maintain art equipment",
+            "Improvise alternative tools, materials and equipment"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "Art Appreciation, Meaning and Functions of Art in Society, Art Entrepreneurship",
+      "topics": [
+        {
+          "topic": "Art Appreciation",
+          "subtopics": [
+            "Man-made objects: architecture, sculpture etc.",
+            "Natural phenomena: Zuma Rock, Ikogosi Warm Springs, etc."
+          ],
+          "objectives": [
+            "Identify the aesthetic qualities of natural and man-made aesthetic phenomena in Nigerian environment",
+            "Differentiate between natural and man-made aesthetic phenomena"
+          ]
+        },
+        {
+          "topic": "Meaning and Functions of Art in Society",
+          "content": {
+            "meaning": "Meaning of art",
+            "functions": "Religious, social, cultural, political, therapeutic and economic needs",
+            "media": "Functions of art in electronic and print media (advertisement, education, recreation etc.)"
+          },
+          "objectives": [
+            "Examine the meaning and functions of art",
+            "Use art to enhance societal values",
+            "Assess the role of art in electronic and print media"
+          ]
+        },
+        {
+          "topic": "Art Entrepreneurship",
+          "content": "Job prospects in the Visual Arts: Ceramist, Curator, Textile designer, Industrial designer, Sculptor, Photographer, Cartoonist, Illustrator etc.",
+          "objectives": ["Identify job opportunities in the Visual Arts"]
+        }
+      ]
+    }
+  ]
+}

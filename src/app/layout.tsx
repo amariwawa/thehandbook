@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Manrope } from "next/font/google";
+import { GeistSans } from "geist/font/sans";
 import "./globals.css";
 import { SubjectSelectionProvider } from "@/context/SubjectSelectionContext";
 
@@ -24,7 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${inter.variable} ${manrope.variable}`}>
+    <html lang="en" className={`${inter.variable} ${manrope.variable} ${GeistSans.variable}`}>
       <body className="antialiased selection:bg-indigo-100 selection:text-indigo-900">
         <SubjectSelectionProvider>
           {children}

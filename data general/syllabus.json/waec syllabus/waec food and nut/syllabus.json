@@ -1,0 +1,511 @@
+{
+  "detailed_syllabus": {
+    "title": "Foods and Nutrition",
+    "sections": [
+      {
+        "section_number": "I",
+        "title": "NUTRITION AND HEALTH",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Introduction to Foods and Nutrition",
+            "notes": [
+              "Meaning",
+              "Basic knowledge of Nutrition",
+              "Importance of Human Nutrition",
+              "Factors affecting Foods and Nutrition",
+              "Food Habits"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Careers associated with Foods and Nutrition",
+            "notes": [
+              "Careers associated with Foods and Nutrition",
+              "Factors that influence career choices",
+              "Characteristics required for Foods and Nutrition careers"
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Basic Food Nutrients",
+            "notes": [
+              "The nutrients and their nutritive values",
+              "Functions of the different nutrients",
+              "Sources of the different nutrients",
+              "Dietary deficiencies",
+              "Metabolism (digestion and absorption of foods: carbohydrate, protein, fat)",
+              "Knowledge and use of food composition table",
+              "Food tests: simple physical and chemical tests of food stuffs to detect presence of nutrients in foods e.g. proteins, fats and carbohydrates"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "II",
+        "title": "FOOD LABORATORY AND EQUIPMENT",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "The kitchen",
+            "notes": [
+              "Types of kitchen e.g. traditional, modern, institutional",
+              "Planning different types of kitchen",
+              "Factors to consider when planning",
+              "Cleaning agents and abrasives (commercial and local)"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Kitchen equipment and tools",
+            "notes": [
+              "Classes and types of equipment",
+              "Selection, use, care and storage of large and small equipment, fixtures and appliances"
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Safety in the kitchen",
+            "notes": [
+              "Types of kitchen accidents",
+              "Causes and prevention of accidents",
+              "Content and use of first aid box",
+              "Simple first aid treatment"
+            ]
+          },
+          {
+            "topic_number": "4",
+            "title": "Meal Management",
+            "subtopics": [
+              {
+                "title": "Meal Planning",
+                "notes": [
+                  "Meal planning terms",
+                  "Reasons for planning meals",
+                  "Factors in planning meals",
+                  "General principles of meal planning",
+                  "Meal patterns"
+                ]
+              },
+              {
+                "title": "Special Nutritional Needs",
+                "notes": [
+                  "Nutritional needs for different groups e.g. pregnant, lactating mothers, infants and children, adolescents, adults and the aged, vegetarians",
+                  "Planning meals for people in health condition e.g. HIV & AIDS, invalids, convalescents, overweight, underweight, hypertension, diabetes etc."
+                ]
+              }
+            ]
+          },
+          {
+            "topic_number": "Sanitation in the kitchen",
+            "notes": [
+              "Personal Hygiene",
+              "Kitchen Hygiene e.g. general cleaning, waste disposal, pests and pest control",
+              "Food hygiene e.g. handling of foods, food borne diseases, food sanitation laws"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "III",
+        "title": "FOOD COMMODITIES",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Animal and animal products",
+            "notes": [
+              "Milk and milk products e.g. Cheese, yoghurt, eggs, meat, poultry, fish etc.",
+              "Kinds/types and structure, Selection, Storage"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Cereals/grains",
+            "notes": [
+              "Kinds and forms",
+              "Importance of cereals and grains: versatility, thickening, cheap source of energy/good source of roughage"
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Fruits and vegetables",
+            "notes": [
+              "Classification of fruits/Classification of vegetables",
+              "Structure, nutritive value and storage",
+              "Importance of fruits and vegetables in the diet, etc."
+            ]
+          },
+          {
+            "topic_number": "4",
+            "title": "Legumes and oily seeds",
+            "notes": [
+              "Classification of legumes, oily seeds",
+              "Importance of legumes and oily seeds in the diet, etc."
+            ]
+          },
+          {
+            "topic_number": "5",
+            "title": "Fats and oils",
+            "notes": [
+              "Kinds and classification - vegetable fats and oils, animal fats and oils",
+              "Uses in diet",
+              "Uses in the body",
+              "Health implications of fats and oils"
+            ]
+          },
+          {
+            "topic_number": "6",
+            "title": "Starchy roots and plantain",
+            "notes": [
+              "Types of starchy roots",
+              "Types of plantain",
+              "Types of dishes"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "IV",
+        "title": "FOOD STORAGE AND PRESERVATION",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Food spoilage",
+            "notes": [
+              "Meaning of food spoilage",
+              "Causes and agents of food spoilage"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Food preservation",
+            "notes": [
+              "Meaning and importance of preservation",
+              "General principles underlying food preservation",
+              "Methods of food preservation"
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Food storage",
+            "notes": [
+              "Meaning and importance of food storage",
+              "Storage of perishable and non perishable foods",
+              "Storage space and equipment e.g. refrigeration, deep freezer, cupboards, shelves, granaries, barns etc."
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "V",
+        "title": "FOOD PREPARATION",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Principles underlying cooking",
+            "notes": [
+              "Explanation of the concept of cooking",
+              "Reasons for cooking food"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Methods of cooking",
+            "notes": [
+              "Moist heat methods e.g. boiling, stewing, steaming etc.",
+              "Dry heat methods e.g. baking, roasting, grilling, frying etc.",
+              "Effects of heat on different food commodities e.g. animal products, cereals and grains, fats and oil etc."
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Transfer of heat",
+            "notes": [
+              "Methods of heat transfer and meaning: Convection (liquid, gases), Radiation (space), Conduction (solid metal)"
+            ]
+          },
+          {
+            "topic_number": "4",
+            "title": "Cooking terms",
+            "notes": ["Explanation of cooking terms"]
+          },
+          {
+            "topic_number": "5",
+            "title": "Food additives",
+            "notes": [
+              "Definitions",
+              "Types of food additives",
+              "Functions of additives",
+              "Selection and use of additives",
+              "Food adulteration"
+            ]
+          },
+          {
+            "topic_number": "6",
+            "title": "Flour Cookery and Confectionery",
+            "subtopics": [
+              {
+                "title": "Types of flour",
+                "notes": [
+                  "Types of flour",
+                  "Ingredients in flour",
+                  "Uses of flour"
+                ]
+              },
+              {
+                "title": "Basic ingredients in flour cookery",
+                "notes": ["Flour, fat, sugar, eggs"]
+              },
+              {
+                "title": "Raising agents",
+                "notes": [
+                  "Types of raising agents i.e. steam, carbon dioxide and air",
+                  "Sources: boiling liquid – steam, baking powder - carbon dioxide, whisking - air"
+                ]
+              },
+              {
+                "title": "Batters and doughs",
+                "notes": [
+                  "Batters: Types of batters, Uses of batters, Dishes using batter",
+                  "Doughs: classification (biscuits - rubbed in, creamed, whisked, melted, sponge mixtures)"
+                ]
+              },
+              {
+                "title": "Cakes",
+                "notes": ["rubbed in, creamed, whisked, melted, sponge mixtures"]
+              },
+              {
+                "title": "Pastries",
+                "notes": [
+                  "Types of Pastries: Shortcrust, suet, flaky, etc.",
+                  "Principles underlying pastry making",
+                  "Pastry dishes e.g. turn over, jam tartlets, cornish pasties, etc."
+                ]
+              },
+              {
+                "title": "Yeast Mixtures",
+                "notes": [
+                  "Definition",
+                  "Ways of preparing yeast mixture",
+                  "Important points in preparing yeast mixture",
+                  "Yeast dishes – bread loaves, bread rolls, doughnut"
+                ]
+              },
+              {
+                "title": "Cake Decoration / Icing",
+                "notes": [
+                  "Types of icing e.g. butter icing, royal icing",
+                  "Uses of icing",
+                  "Preparation of icing",
+                  "Using royal icing and butter icing"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "VI",
+        "title": "BEVERAGES",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Classification of beverages",
+            "notes": [
+              "Non-alcoholic beverages: coffee and tea, cocoa drink, milk and egg drinks, fruit juices and fruit drinks, beef tea and lemon grass",
+              "Alcoholic: beer, wine"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Importance of beverages",
+            "notes": ["Nutritive values etc."]
+          },
+          {
+            "topic_number": "3",
+            "title": "Principles underlining preparation of beverage",
+            "notes": ["Tea, coffee, cocoa etc."]
+          }
+        ]
+      },
+      {
+        "section_number": "VII",
+        "title": "CONVENIENCE FOODS",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "",
+            "notes": [
+              "Types of convenience foods",
+              "Selection and uses of convenience foods",
+              "Advantages and disadvantages of using convenience foods",
+              "Preparation of dishes using convenience foods"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "VIII",
+        "title": "RECHAUFFÉ (LEFTOVER) FOODS",
+        "topics": [
+          {
+            "topic_number": "",
+            "title": "",
+            "notes": [
+              "Explanation",
+              "Importance of using left over goods",
+              "Rules/guidelines for using leftover foods",
+              "Rechauffé dishes"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "IX",
+        "title": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+        "topics": [
+          {
+            "topic_number": "",
+            "title": "",
+            "notes": [
+              "Explanation",
+              "Occasions for festive dishes",
+              "Types of festive dishes/special occasion dishes",
+              "Preparation of festive dishes/special occasion dishes"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "X",
+        "title": "ART OF ENTERTAINING",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Entertainment",
+            "notes": [
+              "Explanation",
+              "Types of parties",
+              "Occasions for parties",
+              "Points to consider when selecting types of parties",
+              "Factors that contribute to the success of parties"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Table setting and etiquette",
+            "notes": [
+              "Explanation e.g. table setting, cover, etc.",
+              "Setting tables and tray for different meal and occasion",
+              "Table appointments",
+              "Table manners/etiquette"
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Meal Service Style",
+            "notes": [
+              "Types of meal service: Informal meal service, formal meal service",
+              "Factors determining choice of service styles",
+              "Foods for special occasions e.g. birthday, naming ceremonies, weddings etc."
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "XI",
+        "title": "EXPERIMENTAL COOKERY",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Research into Local dishes and Drinks",
+            "notes": [
+              "Importance of research in Foods and Nutrition",
+              "Collection of information (data)",
+              "Research into local dishes",
+              "Development of new recipes",
+              "Improving existing recipes based on methods of preparation",
+              "Nutritive value, time and energy use and service/presentation"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Experiments",
+            "notes": [
+              "Using fruits e.g. passion fruit, samia, royal palm fruit",
+              "Other types of flour e.g. root, cereal and legumes, etc."
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "XII",
+        "title": "CONSUMER EDUCATION",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Consumer Education",
+            "notes": [
+              "Meaning and principles",
+              "Consumer agents"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Food Budgeting",
+            "notes": [
+              "Explanation",
+              "Factors to consider when budgeting"
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Food Purchasing",
+            "notes": [
+              "Guidelines for shopping for food",
+              "Guidelines for bulk purchasing",
+              "Reasons for buying in bulk",
+              "Advantages and disadvantages of bulk purchasing"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "XIII",
+        "title": "SELF EMPLOYMENT",
+        "topics": [
+          {
+            "topic_number": "1",
+            "title": "Setting up and managing a catering enterprise",
+            "notes": [
+              "Explanation of terms: entrepreneur, entrepreneurship, enterprise",
+              "Characteristics of an entrepreneur",
+              "Advantages and disadvantages of an entrepreneur",
+              "Setting up a catering entrepreneur",
+              "Some catering enterprises",
+              "Factors contributing to the success of an enterprise"
+            ]
+          },
+          {
+            "topic_number": "2",
+            "title": "Work ethics",
+            "notes": [
+              "Explanation of work ethics",
+              "Good work ethics"
+            ]
+          },
+          {
+            "topic_number": "3",
+            "title": "Packaging",
+            "notes": [
+              "Explanation of Food Packaging",
+              "Reasons why food is packaged",
+              "Qualities of packaging materials",
+              "Types of packaging materials"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

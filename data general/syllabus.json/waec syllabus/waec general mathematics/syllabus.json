@@ -1,0 +1,375 @@
+{
+  "title": "WAEC SSCE General Mathematics / Mathematics (Core) - Detailed Syllabus",
+  "sections": [
+    {
+      "section": "A. NUMBER AND NUMERATION",
+      "topics": [
+        {
+          "topic": "Number bases",
+          "contents": [
+            "Conversion of numbers from one base to another",
+            "Basic operations on number bases"
+          ],
+          "notes": "Conversion from one base to base 10 and vice versa. Conversion from one base to another base. Addition, subtraction and multiplication of number bases."
+        },
+        {
+          "topic": "Modular Arithmetic",
+          "contents": [
+            "Concept of Modulo Arithmetic",
+            "Addition, subtraction and multiplication operations in modulo arithmetic",
+            "Application to daily life"
+          ],
+          "notes": "Interpretation of modulo. Relate to market days, clock, shift duty, etc."
+        },
+        {
+          "topic": "Fractions, Decimals and Approximations",
+          "contents": [
+            "Basic operations on fractions and decimals",
+            "Approximations and significant figures"
+          ],
+          "notes": "Approximations should be realistic."
+        },
+        {
+          "topic": "Indices",
+          "contents": [
+            "Laws of indices",
+            "Numbers in standard form (scientific notation)"
+          ],
+          "notes": "Include negative and fractional indices."
+        },
+        {
+          "topic": "Logarithms",
+          "contents": [
+            "Relationship between indices and logarithms",
+            "Basic rules of logarithms",
+            "Use of tables of logarithms and antilogarithms"
+          ],
+          "notes": "Calculations involving multiplication, division, powers and roots."
+        },
+        {
+          "topic": "Sequence and Series",
+          "contents": [
+            "Patterns of sequences",
+            "Arithmetic Progression (A.P.)",
+            "Geometric Progression (G.P.)"
+          ],
+          "notes": "Determine any term of a given sequence. Simple cases only, including word problems."
+        },
+        {
+          "topic": "Sets",
+          "contents": [
+            "Idea of sets, universal sets, finite and infinite sets, subsets, empty sets and disjoint sets",
+            "Idea of and notation for union, intersection and complement of sets",
+            "Solution of practical problems involving classification using Venn diagrams"
+          ],
+          "notes": "Use of Venn diagrams restricted to at most 3 sets."
+        },
+        {
+          "topic": "Logical Reasoning",
+          "contents": [
+            "Simple statements. True and false statements. Negation of statements, implications"
+          ],
+          "notes": "Use of symbols and Venn diagrams."
+        },
+        {
+          "topic": "Positive and negative integers, rational numbers",
+          "contents": [
+            "The four basic operations on rational numbers"
+          ],
+          "notes": "Match rational numbers with points on the number line."
+        },
+        {
+          "topic": "Surds (Radicals)",
+          "contents": [
+            "Simplification and rationalization of simple surds"
+          ],
+          "notes": "Basic operations on surds."
+        },
+        {
+          "topic": "Matrices and Determinants",
+          "contents": [
+            "Identification of order, notation and types of matrices",
+            "Addition, subtraction, scalar multiplication and multiplication of matrices",
+            "Determinant of a matrix"
+          ],
+          "notes": "Not more than 3x3 matrices. Restrict to 2x2 for some operations. Application to solving simultaneous linear equations in two variables."
+        },
+        {
+          "topic": "Ratio, Proportions and Rates",
+          "contents": [
+            "Ratio between two similar quantities",
+            "Proportion between two or more similar quantities",
+            "Financial partnerships, rates of work, costs, taxes, foreign exchange, density, mass, distance, time and speed"
+          ],
+          "notes": "Relate to real life situations."
+        },
+        {
+          "topic": "Percentages",
+          "contents": [
+            "Simple interest, commission, discount, depreciation, profit and loss, compound interest, hire purchase and percentage error"
+          ],
+          "notes": "Limit compound interest to a maximum of 3 years."
+        },
+        {
+          "topic": "Financial Arithmetic",
+          "contents": [
+            "Depreciation/Amortization",
+            "Annuities",
+            "Capital Market Instruments"
+          ],
+          "notes": "Shares/stocks, debentures, bonds, etc."
+        },
+        {
+          "topic": "Variation",
+          "contents": [
+            "Direct, inverse, partial and joint variations"
+          ],
+          "notes": "Application to simple practical problems."
+        }
+      ]
+    },
+    {
+      "section": "B. ALGEBRAIC PROCESSES",
+      "topics": [
+        {
+          "topic": "Algebraic expressions",
+          "contents": [
+            "Formulating algebraic expressions from given situations",
+            "Evaluation of algebraic expressions"
+          ]
+        },
+        {
+          "topic": "Simple operations on algebraic expressions",
+          "contents": [
+            "Expansion",
+            "Factorization",
+            "Binary Operations"
+          ]
+        },
+        {
+          "topic": "Solution of Linear Equations",
+          "contents": [
+            "Linear equations in one variable",
+            "Simultaneous linear equations in two variables"
+          ],
+          "notes": "By elimination, substitution and graphical methods. Word problems."
+        },
+        {
+          "topic": "Change of Subject of a Formula/Relation",
+          "contents": [
+            "Change of subject of a formula/relation",
+            "Substitution"
+          ]
+        },
+        {
+          "topic": "Quadratic Equations",
+          "contents": [
+            "Solution of quadratic equations",
+            "Forming quadratic equation with given roots",
+            "Application of solution of quadratic equation in practical problems"
+          ],
+          "notes": "Using factorization, completing the square and formula."
+        },
+        {
+          "topic": "Graphs of Linear and Quadratic functions",
+          "contents": [
+            "Interpretation of graphs, coordinates of points, table of values, drawing quadratic graphs and obtaining roots from graphs",
+            "Graphical solution of a pair of equations",
+            "Drawing tangents to curves to determine the gradient at a given point"
+          ]
+        },
+        {
+          "topic": "Linear Inequalities",
+          "contents": [
+            "Solution of linear inequalities in one variable and representation on the number line",
+            "Graphical solution of linear inequalities in two variables",
+            "Graphical solution of simultaneous linear inequalities in two variables"
+          ],
+          "notes": "Maximum and minimum values. Application to real life (e.g. linear programming)."
+        },
+        {
+          "topic": "Algebraic Fractions",
+          "contents": [
+            "Operations on algebraic fractions with monomial and binomial denominators"
+          ]
+        },
+        {
+          "topic": "Functions and Relations",
+          "contents": [
+            "Types of Functions"
+          ],
+          "notes": "One-to-one, one-to-many, many-to-one, many-to-many."
+        }
+      ]
+    },
+    {
+      "section": "C. MENSURATION",
+      "topics": [
+        {
+          "topic": "Lengths and Perimeters",
+          "contents": [
+            "Use of Pythagoras theorem, sine and cosine rules",
+            "Lengths of arcs of circles, perimeters of sectors and segments",
+            "Longitudes and Latitudes"
+          ]
+        },
+        {
+          "topic": "Areas",
+          "contents": [
+            "Triangles and special quadrilaterals",
+            "Circles, sectors and segments of circles",
+            "Surface areas of cubes, cuboids, cylinders, pyramids, right triangular prisms, cones and spheres"
+          ]
+        },
+        {
+          "topic": "Volumes",
+          "contents": [
+            "Volumes of cubes, cuboids, cylinders, cones, right pyramids and spheres",
+            "Volumes of similar solids"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "D. PLANE GEOMETRY",
+      "topics": [
+        {
+          "topic": "Angles",
+          "contents": [
+            "Angles at a point, adjacent angles on a straight line, vertically opposite angles"
+          ]
+        },
+        {
+          "topic": "Angles and intercepts on parallel lines",
+          "contents": [
+            "Alternate angles, corresponding angles, interior opposite angles, Intercept theorem"
+          ]
+        },
+        {
+          "topic": "Triangles and Polygons",
+          "contents": [
+            "Properties of triangles, congruent triangles, special triangles, similar triangles, polygons"
+          ]
+        },
+        {
+          "topic": "Circles",
+          "contents": [
+            "Chords, angles subtended by arcs, angles in same/opposite segments, tangent and radius, alternate segment theorem"
+          ]
+        },
+        {
+          "topic": "Construction",
+          "contents": [
+            "Bisectors, parallel/perpendicular lines, angles, triangles and quadrilaterals"
+          ]
+        },
+        {
+          "topic": "Loci",
+          "contents": [
+            "Points at given distance, equidistant points, etc."
+          ]
+        }
+      ]
+    },
+    {
+      "section": "E. COORDINATE GEOMETRY OF STRAIGHT LINES",
+      "topics": [
+        {
+          "topic": "Coordinates and equations",
+          "contents": [
+            "Concept of x-y plane, coordinates of points",
+            "Midpoint, distance between points, gradient/slope, equation of a line"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "F. TRIGONOMETRY",
+      "topics": [
+        {
+          "topic": "Sine, Cosine and Tangent of an angle",
+          "contents": [
+            "Trigonometric ratios of acute angles",
+            "Use of tables",
+            "Specific angles (30°, 45°, 60°)",
+            "Angles from 0° to 360°",
+            "Graphs of sine and cosine",
+            "Graphs of trigonometric ratios"
+          ]
+        },
+        {
+          "topic": "Angles of elevation and depression",
+          "contents": [
+            "Calculating angles",
+            "Application to heights and distances"
+          ]
+        },
+        {
+          "topic": "Bearings",
+          "contents": [
+            "Bearing of one point from another",
+            "Calculation of distances and angles"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "G. INTRODUCTORY CALCULUS",
+      "topics": [
+        {
+          "topic": "Differentiation",
+          "contents": [
+            "Differentiation of algebraic functions"
+          ],
+          "notes": "Application to rates of change, maximum/minimum values."
+        },
+        {
+          "topic": "Integration",
+          "contents": [
+            "Integration of simple algebraic functions"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H. STATISTICS AND PROBABILITY",
+      "topics": [
+        {
+          "topic": "Statistics",
+          "contents": [
+            "Frequency distribution",
+            "Pie charts, bar charts, histograms, frequency polygons",
+            "Mean, median, mode",
+            "Cumulative frequency curve (Ogive)",
+            "Measures of Dispersion (range, variance, standard deviation, etc.)"
+          ]
+        },
+        {
+          "topic": "Probability",
+          "contents": [
+            "Experimental and theoretical probability",
+            "Addition and multiplication of probabilities"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "I. VECTORS AND TRANSFORMATION",
+      "topics": [
+        {
+          "topic": "Vectors in a Plane",
+          "contents": [
+            "Vectors as directed line segments",
+            "Cartesian components, magnitude, addition/subtraction, scalar multiplication"
+          ]
+        },
+        {
+          "topic": "Transformation in the Cartesian Plane",
+          "contents": [
+            "Reflection, Rotation, Translation, Enlargement"
+          ]
+        }
+      ]
+    }
+  ]
+}

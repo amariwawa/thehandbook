@@ -1,0 +1,411 @@
+{
+  "syllabus_title": "WAEC SSCE Animal Husbandry (Alt A)",
+  "sections": [
+    {
+      "section": "A",
+      "title": "INTRODUCTION TO ANIMAL HUSBANDRY",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Meaning, scope and importance of animal husbandry",
+          "notes": "Knowledge of the meaning (rearing of farm animals), scope (nutrition, health, etc.) and importance (source of food, employment, income, etc.) of farm animals."
+        },
+        {
+          "topic_number": 2,
+          "title": "Problems in animal production",
+          "notes": "Knowledge and understanding of the problems in animal production in West Africa and possible solutions."
+        },
+        {
+          "topic_number": 3,
+          "title": "Quality and Safety standard of animal food products",
+          "notes": "Description of the quality and safety standards of animal food products. Practices for maintaining standards, effect of consuming poor animal products and roles of agencies involved."
+        },
+        {
+          "topic_number": 4,
+          "title": "Classification of farm animals",
+          "notes": "Classification based on: 1. Digestive system (a) Ruminants e.g. sheep, goat, cattle (b) Non-ruminants (monogastrics) e.g. poultry, pigs (c) Non-ruminant herbivores e.g. rabbits, grasscutter, guinea pigs. 2. Concept of traditional (cattle, sheep, goat) and non-traditional farm animals (rabbit, grasscutter, snails)."
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "ANATOMY AND PHYSIOLOGY OF FARM ANIMALS",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Meaning of the terms: anatomy, physiology and the external orientation of farm animals"
+        },
+        {
+          "topic_number": 2,
+          "title": "Digestive System",
+          "subtopics": [
+            "Comparative anatomy of digestive system of farm animals",
+            "Digestion and Absorption processes in the various classes of farm animals"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Central Nervous System",
+          "subtopics": [
+            "Parts of the Central Nervous System (CNS) and Autonomic Nervous System (ANS)",
+            "Functions of the ANS",
+            "Endocrine System: (i) Endocrine glands and their functions (ii) Hormones and their functions"
+          ]
+        },
+        {
+          "topic_number": 4,
+          "title": "Integumentary, skeletal and muscular systems"
+        },
+        {
+          "topic_number": 5,
+          "title": "Reproductive System",
+          "subtopics": [
+            "Anatomy of the reproductive system of poultry and livestock",
+            "Functions of organs and parts of the reproductive system",
+            "Reproductive processes"
+          ]
+        },
+        {
+          "topic_number": 6,
+          "title": "Circulatory System",
+          "subtopics": [
+            "Structure and functions",
+            "Heart and Pulse rate"
+          ]
+        },
+        {
+          "topic_number": 7,
+          "title": "Respiratory System",
+          "subtopics": [
+            "Meaning and Importance of Respiration",
+            "Structure and Functions of the Respiratory System"
+          ]
+        },
+        {
+          "topic_number": 8,
+          "title": "Excretory System",
+          "subtopics": [
+            "Meaning and Importance of the Excretion",
+            "Structure and Functions of the Excretory System",
+            "Excretory Products"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "ANIMAL NUTRITION",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Introduction to Animal Nutrition",
+          "subtopics": [
+            "Meaning and Importance",
+            "Modes of feeding"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Feedstuffs and Feed Supplements",
+          "subtopics": [
+            "Types, composition and functions of the feed nutrients",
+            "Classification of feedstuffs",
+            "Food tests",
+            "Producers and suppliers of feedstuffs and supplements"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Formulation and Preparation of Animal Feeds",
+          "subtopics": [
+            "Common terms used in feed formulation",
+            "Factors considered in the formulation of ration",
+            "Steps in the formulation of ration"
+          ]
+        },
+        {
+          "topic_number": 4,
+          "title": "Handling and Storage of Animal Feeds",
+          "subtopics": [
+            "Importance of feed storage and features of storage structures",
+            "Factors that affect the quality of stored feed"
+          ]
+        },
+        {
+          "topic_number": 5,
+          "title": "Record keeping and estimation of cost of prepared feed"
+        },
+        {
+          "topic_number": 6,
+          "title": "Pests of stored feed and their control"
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "ANIMAL HEALTH",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Meaning of terms: disease, pest and parasite"
+        },
+        {
+          "topic_number": 2,
+          "title": "Signs of good and ill-health"
+        },
+        {
+          "topic_number": 3,
+          "title": "Factors that predispose animals to diseases"
+        },
+        {
+          "topic_number": 4,
+          "title": "Effects of diseases, pests and parasites on animal production"
+        },
+        {
+          "topic_number": 5,
+          "title": "Zoonotic diseases; their importance and prevention"
+        },
+        {
+          "topic_number": 6,
+          "title": "Pathogens of farm animal diseases",
+          "subtopics": [
+            "Classification of pathogens",
+            "Pathogenic diseases and their economic importance",
+            "Principles for prevention and control of diseases of farm animals",
+            "Management practices in the prevention and control of diseases of farm animals"
+          ]
+        },
+        {
+          "topic_number": 7,
+          "title": "Ectoparasites and endoparasites",
+          "subtopics": [
+            "Types and examples of parasites",
+            "Structure, life cycle and mode of feeding",
+            "Conditions that influence parasite population"
+          ]
+        },
+        {
+          "topic_number": 8,
+          "title": "Prevention and control of parasites"
+        },
+        {
+          "topic_number": 9,
+          "title": "Economic importance of parasites"
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "title": "GENETIC PRINCIPLES AND ANIMAL IMPROVEMENT",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Heredity, basic genetic terms and Mendel’s first law of inheritance"
+        },
+        {
+          "topic_number": 2,
+          "title": "Meaning, objectives and benefits of animal improvement"
+        },
+        {
+          "topic_number": 3,
+          "title": "Performance traits of improved and unimproved animals"
+        },
+        {
+          "topic_number": 4,
+          "title": "Methods of animal improvement; advantages and disadvantages"
+        },
+        {
+          "topic_number": 5,
+          "title": "Nutritional and environmental factors affecting animal improvement"
+        },
+        {
+          "topic_number": 6,
+          "title": "Artificial Insemination",
+          "subtopics": [
+            "Meaning and process of artificial insemination (A.I.)",
+            "Advantages of A.I.",
+            "Signs of heat (oestrus) and handling procedures in the collection and storage of semen"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "F",
+      "title": "INTRODUCTION TO ENVIRONMENTAL PHYSIOLOGY",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Internal and external environment of animals"
+        },
+        {
+          "topic_number": 2,
+          "title": "The role of the nervous and endocrine systems in homeostasis and animal’s response to stimuli"
+        },
+        {
+          "topic_number": 3,
+          "title": "Determination of room temperature, body temperature and respiration rate in farm animals"
+        },
+        {
+          "topic_number": 4,
+          "title": "Effects of climate on farm animals"
+        },
+        {
+          "topic_number": 5,
+          "title": "Modification of animal environment and management practices to reduce stress on animals"
+        }
+      ]
+    },
+    {
+      "section": "G",
+      "title": "MONOGASTRIC AND DOMESTIC PET PRODUCTION",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Poultry production",
+          "subtopics": [
+            "Definition and characteristics of poultry",
+            "Classes of poultry",
+            "Breeds and types of poultry",
+            "Management Practices",
+            "Processing and marketing of Poultry",
+            "Prospects of producing the various types of poultry"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Pig Production",
+          "subtopics": [
+            "Types, breeds and characteristics",
+            "Importance of pig production",
+            "Systems of keeping pigs",
+            "Management practices",
+            "Slaughtering, processing and marketing of pigs"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Domestic Pets",
+          "subtopics": [
+            "Meaning and Importance of pets",
+            "Management of pets",
+            "Training of Pets",
+            "Marketing of pets"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H",
+      "title": "RUMINANT PRODUCTION",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Sheep and goat production",
+          "subtopics": [
+            "Distribution and Characteristics, Common Breeds",
+            "Importance of sheep and goats",
+            "Management Practices",
+            "Common parasites and diseases and their control",
+            "Processing and marketing"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Beef Cattle Production",
+          "subtopics": [
+            "Breeds and characteristics",
+            "Importance of beef cattle production",
+            "Common Production Systems",
+            "Planning, production and management of cattle for beef and traction",
+            "General management practices",
+            "Processing and marketing",
+            "Major Problems in beef cattle production"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Dairy cattle production",
+          "subtopics": [
+            "Breeds and features of dairy cow",
+            "Characteristics, sources and importance of milk",
+            "Management practices",
+            "Diseases and their control",
+            "Production, processing and marketing of milk and dairy products",
+            "Problems of dairy cattle production in warm climates"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "I",
+      "title": "RANGE AND PASTURE MANAGEMENT",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Introduction to range and pastures",
+          "subtopics": [
+            "Basic terminologies in pasture and range management",
+            "Types of pasture and their features",
+            "Importance of pastures and forage crops in animal production",
+            "Factors that affect the productivity of different types of pasture",
+            "Major forage crops",
+            "Poisonous plants in pasture"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Pasture establishment and management",
+          "subtopics": [
+            "Qualities of good pasture and forage species",
+            "Establishment of pasture",
+            "Improving natural Pastures",
+            "Management of cultivated pastures",
+            "Harvesting of forage crops"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Forage conservation and utilization",
+          "subtopics": [
+            "Forage conservation and its importance",
+            "Preparation of hay and silage",
+            "Utilization of crop residue in feeding animals"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "J",
+      "title": "NON-TRADITIONAL ANIMAL PRODUCTION",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "Rabbit and Grasscutter Production",
+          "subtopics": [
+            "Common breeds",
+            "Importance of producing rabbits and grasscutters",
+            "Management Practices",
+            "Processing and Marketing"
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "Snail Farming",
+          "subtopics": [
+            "Meaning and importance",
+            "External features of Snails",
+            "Types of species",
+            "Site selection",
+            "Management Practices",
+            "Processing and marketing of snails"
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "Establishing enterprises in animal husbandry"
+        }
+      ]
+    }
+  ],
+  "practical_notes": "The syllabus includes practical components such as identification of breeds, tools, equipment, feedstuffs, parasites, diseases, drawing and labeling anatomical structures, feed formulation using Pearson Square, etc."
+}

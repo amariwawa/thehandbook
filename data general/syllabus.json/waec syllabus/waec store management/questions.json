@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to Store Management",
+      "section": "General",
+      "subtopic": "Introduction to Store Management",
+      "difficulty": "easy",
+      "question": "Which statement about Introduction to Store Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Introduction to Store Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 2,
+      "topic": "Introduction to Store Management",
+      "section": "General",
+      "subtopic": "Introduction to Store Management",
+      "difficulty": "medium",
+      "question": "Which statement about Introduction to Store Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Introduction to Store Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 3,
+      "topic": "Introduction to Store Management",
+      "section": "General",
+      "subtopic": "Introduction to Store Management",
+      "difficulty": "hard",
+      "question": "Which statement about Introduction to Store Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Introduction to Store Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 4,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Manufacturer",
+        "C": "Wholesaler",
+        "D": "Consumer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 5,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Retailer",
+        "C": "Wholesaler",
+        "D": "Consumer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 6,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 7,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "hard",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 8,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 9,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "medium",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 10,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Policy",
+        "C": "Indemnity",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 11,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 12,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 13,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Road transport",
+        "C": "Pipeline",
+        "D": "Air transport"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 14,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Sea transport",
+        "C": "Pipeline",
+        "D": "Air transport"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 15,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Air transport",
+        "C": "Sea transport",
+        "D": "Pipeline"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 16,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "hard",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 17,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 18,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "medium",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 19,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "easy",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 20,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 21,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "hard",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 22,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 23,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "hard",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 24,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "easy",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 25,
+      "topic": "Risk Management",
+      "section": "General",
+      "subtopic": "Risk Management",
+      "difficulty": "hard",
+      "question": "Which statement about Risk Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Risk Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 26,
+      "topic": "Risk Management",
+      "section": "General",
+      "subtopic": "Risk Management",
+      "difficulty": "easy",
+      "question": "Which statement about Risk Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Risk Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 27,
+      "topic": "Risk Management",
+      "section": "General",
+      "subtopic": "Risk Management",
+      "difficulty": "medium",
+      "question": "Which statement about Risk Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Risk Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 28,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Pipeline",
+        "B": "Sea transport",
+        "C": "Road transport",
+        "D": "Air transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 29,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Pipeline",
+        "C": "Road transport",
+        "D": "Sea transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 30,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Pipeline",
+        "B": "Sea transport",
+        "C": "Road transport",
+        "D": "Air transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 31,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "hard",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 32,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "easy",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 33,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Pipeline",
+        "B": "Air transport",
+        "C": "Road transport",
+        "D": "Sea transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 34,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "hard",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 35,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 36,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 37,
+      "topic": "Risk Management",
+      "section": "General",
+      "subtopic": "Risk Management",
+      "difficulty": "easy",
+      "question": "Which statement about Risk Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Risk Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 38,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 39,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 40,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 41,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 42,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "medium",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 43,
+      "topic": "Introduction to Store Management",
+      "section": "General",
+      "subtopic": "Introduction to Store Management",
+      "difficulty": "hard",
+      "question": "Which statement about Introduction to Store Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "Introduction to Store Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 44,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Policy"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 45,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 46,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 47,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Pipeline",
+        "C": "Sea transport",
+        "D": "Air transport"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 48,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "hard",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 49,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Manufacturer",
+        "C": "Wholesaler",
+        "D": "Consumer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 50,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 51,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 52,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 53,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "medium",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 54,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Road transport",
+        "C": "Pipeline",
+        "D": "Air transport"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 55,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 56,
+      "topic": "Introduction to Store Management",
+      "section": "General",
+      "subtopic": "Introduction to Store Management",
+      "difficulty": "easy",
+      "question": "Which statement about Introduction to Store Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Introduction to Store Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 57,
+      "topic": "Risk Management",
+      "section": "General",
+      "subtopic": "Risk Management",
+      "difficulty": "medium",
+      "question": "Which statement about Risk Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Risk Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 58,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Manufacturer",
+        "C": "Retailer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 59,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 60,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 61,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "medium",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 62,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "medium",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 63,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "easy",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 64,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "medium",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 65,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 66,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Pipeline",
+        "C": "Sea transport",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 67,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Road transport",
+        "D": "Pipeline"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 68,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Sea transport",
+        "C": "Road transport",
+        "D": "Pipeline"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 69,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "medium",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 70,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Indemnity",
+        "C": "Premium",
+        "D": "Claim"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 71,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Consumer",
+        "C": "Wholesaler",
+        "D": "Retailer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 72,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 73,
+      "topic": "Introduction to Store Management",
+      "section": "General",
+      "subtopic": "Introduction to Store Management",
+      "difficulty": "medium",
+      "question": "Which statement about Introduction to Store Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Introduction to Store Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 74,
+      "topic": "Concepts of Retailing and Wholesaling",
+      "section": "General",
+      "subtopic": "Concepts of Retailing and Wholesaling",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Consumer",
+        "C": "Retailer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 75,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "easy",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 76,
+      "topic": "Organizational Policy",
+      "section": "General",
+      "subtopic": "Organizational Policy",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Premium",
+        "C": "Policy",
+        "D": "Indemnity"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 77,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Road transport",
+        "D": "Pipeline"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 78,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "hard",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 79,
+      "topic": "Record Keeping",
+      "section": "General",
+      "subtopic": "Record Keeping",
+      "difficulty": "easy",
+      "question": "Which statement about Record Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Record Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 80,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "hard",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 81,
+      "topic": "Stock Control",
+      "section": "General",
+      "subtopic": "Stock Control",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Stock Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 82,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Pipeline",
+        "C": "Road transport",
+        "D": "Sea transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 83,
+      "topic": "Book Keeping",
+      "section": "General",
+      "subtopic": "Book Keeping",
+      "difficulty": "easy",
+      "question": "Which statement about Book Keeping is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Book Keeping is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 84,
+      "topic": "Risk Management",
+      "section": "General",
+      "subtopic": "Risk Management",
+      "difficulty": "hard",
+      "question": "Which statement about Risk Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Risk Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 85,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Air transport",
+        "C": "Pipeline",
+        "D": "Sea transport"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 86,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Sea transport",
+        "C": "Pipeline",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 87,
+      "topic": "Handling Finances of the Store",
+      "section": "General",
+      "subtopic": "Handling Finances of the Store",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Air transport",
+        "C": "Sea transport",
+        "D": "Pipeline"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 88,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 89,
+      "topic": "Business Communication",
+      "section": "General",
+      "subtopic": "Business Communication",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Sea transport",
+        "C": "Pipeline",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 90,
+      "topic": "Basic Business Law",
+      "section": "General",
+      "subtopic": "Basic Business Law",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Business Law is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Basic Business Law is part of the Commerce syllabus and is regularly tested."
+    }
+  ]
+}

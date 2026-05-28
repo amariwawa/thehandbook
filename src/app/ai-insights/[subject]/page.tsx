@@ -2,16 +2,18 @@
 
 import SidebarLayout from "@/components/ui/SidebarLayout";
 import { useSubjectSelection } from "@/context/SubjectSelectionContext";
-import { subjects, topics } from "@/lib/data";
+import { subjects, topics as fallbackTopics } from "@/lib/data";
 import { motion } from "framer-motion";
 import { useParams, useRouter } from "next/navigation";
-import { ArrowLeft, Brain, Target, TrendingUp, Zap, Sparkles, BarChart3 } from "lucide-react";
+import { ArrowLeft, Brain, Target, TrendingUp, Zap, Sparkles, BarChart3, Loader2 } from "lucide-react";
 import Link from "next/link";
+import { useState, useEffect } from "react";
 
 export default function SubjectInsightDeepDive() {
   const params = useParams();
   const router = useRouter();
   const subjectId = params.subject as string;
+  const { activeExamType } = useSubjectSelection();
   
   const allSubjects = [
     ...Object.values(subjects.waec).flat(),
@@ -19,7 +21,27 @@ export default function SubjectInsightDeepDive() {
     ...subjects.bece
   ];
   const currentSubject = allSubjects.find((s: any) => s.id === subjectId);
-  const subjectTopics = topics[subjectId as keyof typeof topics] || [];
+  
+  const [subjectTopics, setSubjectTopics] = useState<string[]>([]);
+  const [loadingTopics, setLoadingTopics] = useState(true);
+
+  useEffect(() => {
+    const fetchTopics = async () => {
+      setLoadingTopics(true);
+      try {
+        const res = await fetch(`/api/syllabus/topics?subject=${subjectId}&exam=${activeExamType || 'waec'}`);
+        const data = await res.json();
+        setSubjectTopics(data.topics || []);
+      } catch (error) {
+        console.error("Failed to fetch topics:", error);
+        setSubjectTopics(fallbackTopics[subjectId as keyof typeof fallbackTopics] || []);
+      } finally {
+        setLoadingTopics(false);
+      }
+    };
+
+    fetchTopics();
+  }, [subjectId, activeExamType]);
 
   if (!currentSubject) {
     return (
@@ -80,7 +102,16 @@ export default function SubjectInsightDeepDive() {
            </div>
 
            <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-              {subjectTopics.map((topic, i) => {
+              {loadingTopics ? (
+                <div className="col-span-2 flex flex-col items-center justify-center py-12 space-y-4">
+                  <Loader2 className="w-8 h-8 text-[#1d3e8e] animate-spin" />
+                  <p className="text-xs font-bold text-slate-400 uppercase tracking-widest">Loading Syllabus Topics...</p>
+                </div>
+              ) : subjectTopics.length === 0 ? (
+                <div className="col-span-2 text-center py-12 text-slate-400 font-bold uppercase tracking-widest text-xs">
+                  No topics found for this subject.
+                </div>
+              ) : subjectTopics.map((topic, i) => {
                  const mastery = 85 - (i * 8) > 30 ? 85 - (i * 8) : 32;
                  const color = mastery > 80 ? 'emerald' : mastery > 60 ? 'amber' : 'rose';
                  

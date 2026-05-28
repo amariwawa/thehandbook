@@ -1,0 +1,322 @@
+{
+  "detailed_syllabus": {
+    "A_BASIC_CONCEPTS": {
+      "1_Meaning_and_importance_of_agriculture": {
+        "a": "Definition and branches of agricultural science.",
+        "b": "Importance of agriculture to the individual, community and nation."
+      },
+      "2_Problems_of_agricultural_development_and_possible_solutions": {
+        "a": "Problems related to: (i) land tenure; (ii) basic amenities; (iii) finance; (iv) transportation; (v) storage and processing facilities; (vi) agricultural education and extension; (vii) tools and machinery; (viii) farm inputs; (ix) marketing system; (x) environmental degradation.",
+        "b": "Possible solutions to identified problems."
+      },
+      "3_Meaning_and_differences_between_subsistence_and_commercial_agriculture": {
+        "a": "Meaning of subsistence and commercial agriculture.",
+        "b": "Differences between subsistence and commercial agriculture based on their characteristics.",
+        "c": "Advantages and disadvantages of subsistence and commercial agriculture.",
+        "d": "Problems of subsistence and commercial agriculture."
+      },
+      "4_Roles_of_government_in_agricultural_development": {
+        "a": "Agricultural finance: (i) credit; (ii) subsidy.",
+        "b": "Agricultural education.",
+        "c": "Agricultural extension services.",
+        "d": "Agricultural policies and programmes."
+      },
+      "5_Role_of_non_governmental_organizations_in_agricultural_development": {
+        "a": "Meaning of non-governmental organizations (NGOs).",
+        "b": "Roles of NGOs in agricultural development."
+      },
+      "6_Agricultural_laws_and_reforms": {
+        "a": "Land tenure systems in West Africa.",
+        "b": "Government laws on land use in West Africa.",
+        "c": "Advantages and disadvantages of the land use Act (Decree) and reforms in West Africa."
+      }
+    },
+    "B_AGRICULTURAL_ECOLOGY": {
+      "1_Meaning_and_importance_of_agricultural_ecology": {
+        "a": "Meaning of agricultural ecology and ecosystem.",
+        "b": "Components of farm ecosystem e.g. biotic and abiotic.",
+        "c": "Interactions of the components in the terrestrial and aquatic agro-ecosystem."
+      },
+      "2_Land_and_its_uses": {
+        "a": "Meaning of land.",
+        "b": "Characteristics of land – free gift of nature, immobile, limited in supply etc.",
+        "c": "Uses of land: (i) agricultural purposes (crop production, wildlife conservation/game reserve, livestock production etc.); (ii) non-agricultural purposes (industry, housing, etc.)."
+      },
+      "3_Factors_affecting_land_availability_for_agricultural_purpose": {
+        "a": "Physical factors: (i) soil type; (ii) topography; (iii) land degradation; (iv) soil pollution.",
+        "b": "Economic factors: (i) population pressure; (ii) expansion of industries; (iii) mining/mineral exploitation; (iv) recreation/tourism.",
+        "c": "Socio-cultural factors: (i) land tenure system; (ii) religious purpose etc."
+      },
+      "4_Agro_allied_industries_and_relationship_between_agriculture_and_industry": {
+        "a": "Agro-based industries and raw materials (e.g., paper – pulp wood; beverage – cocoa; textile – cotton; soap – oil seeds).",
+        "b": "Relationship between agriculture and industries."
+      },
+      "5_Environmental_factors_affecting_crop_and_animal_distribution_and_production": {
+        "a": "Climatic factors (rainfall, temperature, light, wind, relative humidity).",
+        "b": "Biotic factors (predators, parasites, soil micro-organisms, pests, pathogens, weeds; interrelationships).",
+        "c": "Edaphic factors (soil pH, texture, structure, type etc.)."
+      },
+      "6_Rock_formation": {
+        "a": "Types of rock: (i) igneous; (ii) sedimentary; (iii) metamorphic.",
+        "b": "Processes of rock formation."
+      },
+      "7_Soil_formation_and_profile_development": {
+        "a": "Factors of soil formation: parent rock, organisms, climate, topography and time.",
+        "b": "Processes of soil formation: (i) physical weathering; (ii) chemical weathering.",
+        "c": "Soil profile development."
+      },
+      "8_Types_composition_and_properties_of_soil": {
+        "a": "Types of soil.",
+        "b": "Chemical and biological composition of soil (macro and micro nutrients, soil water, macro-organisms, microbes, air).",
+        "c": "Soil pH.",
+        "d": "Physical properties of soil (texture, structure etc.)."
+      },
+      "9_Plant_nutrients_and_nutrient_cycle": {
+        "a": "Macro and micro nutrients; their functions and deficiency symptoms in crops.",
+        "b": "Factors affecting availability of nutrients in soil.",
+        "c": "Methods of replenishing lost nutrients.",
+        "d": "Nitrogen, carbon, water and phosphorus cycles.",
+        "e": "Organic agriculture – meaning and importance."
+      },
+      "10_Irrigation": {
+        "a": "Meaning of irrigation system.",
+        "b": "Types of irrigation systems.",
+        "c": "Advantages and disadvantages of irrigation systems.",
+        "d": "Importance of irrigation.",
+        "e": "Problems associated with irrigation."
+      },
+      "11_Drainage": {
+        "a": "Meaning of drainage.",
+        "b": "Importance of drainage.",
+        "c": "Types of drainage systems.",
+        "d": "Advantages and disadvantages of drainage systems."
+      },
+      "12_Agricultural_pollution": {
+        "a": "Meaning of agricultural pollution.",
+        "b": "Causes/sources of pollution.",
+        "c": "Effects of land/pond pollution."
+      }
+    },
+    "C_AGRICULTURAL_ENGINEERING_MECHANIZATION": {
+      "1_Simple_farm_tools": {
+        "a": "Meaning of simple farm tools.",
+        "b": "Types (cutlass, hoe, spade, shovel etc.).",
+        "c": "General maintenance."
+      },
+      "2_Farm_machinery_and_implements": {
+        "a": "Farm machinery (tractor, bulldozer, shellers, dryers etc.).",
+        "b": "Tractor-coupled implements (ploughs, harrows, ridgers, planters, harvesters, sprayers etc.)."
+      },
+      "3_Maintenance_practices_and_precautionary_measures": {
+        "a": "Reasons for maintaining farm machines.",
+        "b": "Maintenance practices."
+      },
+      "4_Agricultural_mechanization": {
+        "a": "Meaning.",
+        "b": "Mechanized operations.",
+        "c": "Advantages and disadvantages.",
+        "d": "Limitations."
+      },
+      "5_Prospects_of_agricultural_mechanization": {},
+      "6_Farm_power": {
+        "a": "Sources of farm power.",
+        "b": "Advantages and disadvantages."
+      },
+      "7_Farm_surveying": {
+        "a": "Meaning.",
+        "b": "Common survey equipment.",
+        "c": "Uses.",
+        "d": "Maintenance.",
+        "e": "Importance."
+      },
+      "8_Farm_planning": {
+        "a": "Meaning.",
+        "b": "Factors to be considered.",
+        "c": "Importance."
+      },
+      "9_Principles_of_farmstead_planning": {
+        "a": "Meaning of farmstead.",
+        "b": "Importance.",
+        "c": "Factors in design.",
+        "d": "Farmstead layout."
+      }
+    },
+    "D_CROP_PRODUCTION": {
+      "1_Classification_of_crops": {
+        "a": "Based on uses (cereals, pulses, roots and tubers, vegetables etc.).",
+        "b": "Based on life cycle (annual, biennial, perennial, ephemeral).",
+        "c": "Based on morphology (monocotyledonous and dicotyledonous)."
+      },
+      "2_Husbandry_of_selected_crops": {
+        "description": "Botanical names, common names, varieties, climatic/soil requirements, land preparation, propagation, planting, cultural practices, harvesting, processing and storage for representative crops from groupings: cereals, pulses, roots/tubers, vegetables, fruits, beverages, spices, oils, fibres, latex, others."
+      },
+      "3_Pasture_and_forage_crops": {
+        "a": "Meaning.",
+        "b": "Uses.",
+        "c": "Types of pasture.",
+        "d": "Common grasses and legumes.",
+        "e": "Factors affecting distribution and productivity.",
+        "f": "Establishment.",
+        "g": "Management practices."
+      },
+      "4_Crop_improvement": {
+        "a": "Aims.",
+        "b": "Methods (introduction, selection, breeding).",
+        "c": "Mendel’s laws of inheritance.",
+        "d": "Advantages and disadvantages."
+      }
+    },
+    "E_FORESTRY": {
+      "1_Forest_management": {
+        "a": "Meaning of forest and forestry.",
+        "b": "Importance.",
+        "c": "Forest regulations.",
+        "d": "Management practices.",
+        "e": "Implications of deforestation."
+      },
+      "2_Agro_forestry_practices_in_West_Africa": {
+        "a": "Meaning.",
+        "b": "Practices (taungya system, alley cropping, ley farming etc.)."
+      }
+    },
+    "F_ORNAMENTAL_PLANTS": {
+      "1_Meaning_and_importance": {},
+      "2_Common_types": {
+        "a": "According to uses (bedding, hedging, lawn grasses etc.).",
+        "b": "Examples."
+      },
+      "3_Settings_and_location_for_planting": {},
+      "4_Methods_of_cultivating": {
+        "a": "By seed.",
+        "b": "Vegetative propagation."
+      },
+      "5_Maintenance": {}
+    },
+    "G_CROP_PROTECTION": {
+      "1_Diseases_of_crops": {
+        "description": "Causal organism, economic importance, transmission, symptoms, prevention and control for diseases of cereals, legumes, beverages, tubers, fruits, fibres, vegetables, stored produce."
+      },
+      "2_Pests_of_crops": {
+        "a": "Meaning.",
+        "b": "Classification (insect and non-insect).",
+        "c": "Classification of insect-pests by mouth parts.",
+        "d": "Important insect-pests (life cycle, damage, control).",
+        "e": "Non-insect pests.",
+        "f": "Side effects of control methods.",
+        "g": "General effects."
+      },
+      "3_Weeds": {
+        "a": "Meaning.",
+        "b": "Types.",
+        "c": "Effects on crops and economy.",
+        "d": "Characteristic features.",
+        "e": "Methods of control."
+      }
+    },
+    "H_ANIMAL_PRODUCTION": {
+      "1_Types_and_classification_of_farm_animals": {
+        "a": "Types (cattle, sheep, goat, poultry, pig, rabbit, fish etc.).",
+        "b": "Classification by habitat and uses."
+      },
+      "2_Anatomy_and_physiology_of_farm_animals": {
+        "a": "Parts of farm animals.",
+        "b": "Organs and systems (digestive, circulatory, respiratory etc.)."
+      },
+      "3_Animal_reproduction": {
+        "a": "Meaning.",
+        "b": "Roles of hormones.",
+        "c": "Reproductive systems and processes.",
+        "d": "Egg formation in poultry."
+      },
+      "4_Environmental_physiology": {
+        "a": "Meaning.",
+        "b": "Effects of climatic factors on growth, reproduction etc."
+      },
+      "5_Livestock_management": {
+        "a": "Meaning.",
+        "b": "Requirements (housing, feeding, hygiene).",
+        "c": "Importance of practices."
+      },
+      "6_Animal_nutrition": {
+        "a": "Meaning.",
+        "b": "Classification of feeds.",
+        "c": "Sources and functions of nutrients.",
+        "d": "Types of ration/diet.",
+        "e": "Malnutrition."
+      },
+      "7_Rangeland_and_pasture_management": {},
+      "8_Animal_improvement": {
+        "a": "Meaning and aims.",
+        "b": "Methods (introduction, selection, breeding).",
+        "c": "Artificial insemination."
+      },
+      "9_Animal_health_management": {
+        "a": "Diseases (causal organisms, symptoms, control for selected diseases).",
+        "b": "Parasites (endo and ecto).",
+        "c": "General prevention and control."
+      },
+      "10_Aquaculture": {
+        "a": "Meaning and types.",
+        "b": "Fish farming (siting, establishment, maintenance, regulations, methods)."
+      },
+      "11_Apiculture_or_bee_keeping": {
+        "a": "Meaning.",
+        "b": "Types of bees.",
+        "c": "Importance.",
+        "d": "Methods and equipment.",
+        "e": "Precautionary measures."
+      }
+    },
+    "I_AGRICULTURAL_ECONOMICS_AND_EXTENSION": {
+      "1_Basic_economic_principles": {
+        "a": "Scarcity, choice, scale of preference, law of diminishing returns."
+      },
+      "2_Factors_of_production": {
+        "a": "Land, capital, labour, management."
+      },
+      "3_Principles_of_demand": {},
+      "4_Principles_of_supply": {},
+      "5_Implications_of_demand_and_supply_for_agricultural_production": {},
+      "6_Functions_of_a_farm_manager": {},
+      "7_Problems_faced_by_farm_managers": {},
+      "8_Agricultural_finance": {
+        "a": "Meaning and importance.",
+        "b": "Sources and classes of credit.",
+        "c": "Problems.",
+        "d": "Capital market."
+      },
+      "9_Farm_records_and_accounts": {
+        "a": "Importance and types of records.",
+        "b": "Farm accounts (expenditure, income, profit/loss, balance sheet)."
+      },
+      "10_Marketing_of_agricultural_produce": {
+        "a": "Meaning and importance.",
+        "b": "Agents, functions, export marketing, problems."
+      },
+      "11_Agricultural_insurance": {
+        "a": "Meaning and importance.",
+        "b": "Types of policies.",
+        "c": "Premium and problems."
+      },
+      "12_Agricultural_extension": {
+        "a": "Meaning and importance.",
+        "b": "Methods and programmes.",
+        "c": "Problems."
+      }
+    },
+    "PRACTICAL_AGRICULTURAL_SCIENCE": {
+      "A_AGRICULTURAL_ECOLOGY": {
+        "soil_profile_rocks_etc": "Identification, laboratory work on physical/chemical properties, irrigation/drainage equipment."
+      },
+      "B_AGRICULTURAL_ENGINEERING_MECHANIZATION": {
+        "farm_tools_machinery_surveying": "Identification, uses, maintenance of tools, implements, tractor, surveying equipment."
+      },
+      "C_CROP_PRODUCTION": {
+        "crops_pests_diseases_weeds": "Identification of seeds, seedlings, pests, diseases, weeds, propagation methods etc."
+      },
+      "D_ANIMAL_PRODUCTION": {
+        "animals_organs_feeds_diseases": "Identification of breeds, organs, feeds, pests/parasites, management practices, fish handling."
+      }
+    }
+  }
+}

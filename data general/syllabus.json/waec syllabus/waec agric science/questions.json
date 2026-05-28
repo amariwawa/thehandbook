@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "easy",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Sandy soil",
+        "B": "Clay soil",
+        "C": "Loamy soil",
+        "D": "Gravel"
+      },
+      "answer": "B",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 2,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "medium",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Gravel",
+        "C": "Sandy soil",
+        "D": "Clay soil"
+      },
+      "answer": "D",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 3,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "hard",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Sandy soil",
+        "C": "Loamy soil",
+        "D": "Gravel"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 4,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "medium",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A concept from physics",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "An obsolete farming method"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 5,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "hard",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A concept from physics",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 6,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "easy",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A concept from physics",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A core concept in the study and practice of farm tools machinery surveying"
+      },
+      "answer": "D",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 7,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Herbicide",
+        "C": "Insecticide",
+        "D": "Fungicide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 8,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Fungicide",
+        "C": "Rodenticide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 9,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Herbicide",
+        "C": "Insecticide",
+        "D": "Fungicide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 10,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Insecticide",
+        "C": "Herbicide",
+        "D": "Rodenticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 11,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Fungicide",
+        "C": "Herbicide",
+        "D": "Rodenticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 12,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Insecticide",
+        "C": "Rodenticide",
+        "D": "Fungicide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 13,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Insecticide",
+        "C": "Rodenticide",
+        "D": "Fungicide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 14,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Herbicide",
+        "C": "Fungicide",
+        "D": "Insecticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 15,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Insecticide",
+        "C": "Fungicide",
+        "D": "Rodenticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 16,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Rodenticide",
+        "C": "Herbicide",
+        "D": "Insecticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 17,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "easy",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 18,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Rodenticide",
+        "C": "Insecticide",
+        "D": "Fungicide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 19,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "hard",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Clay soil",
+        "C": "Gravel",
+        "D": "Sandy soil"
+      },
+      "answer": "B",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 20,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "medium",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A concept from physics",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 21,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "medium",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Sandy soil",
+        "C": "Loamy soil",
+        "D": "Gravel"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 22,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Rodenticide",
+        "C": "Fungicide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 23,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Herbicide",
+        "C": "Rodenticide",
+        "D": "Insecticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 24,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "easy",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Sandy soil",
+        "C": "Gravel",
+        "D": "Clay soil"
+      },
+      "answer": "D",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 25,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "medium",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 26,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "easy",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Sandy soil",
+        "C": "Gravel",
+        "D": "Clay soil"
+      },
+      "answer": "D",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 27,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Fungicide",
+        "C": "Insecticide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 28,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "medium",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Sandy soil",
+        "C": "Loamy soil",
+        "D": "Gravel"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 29,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Herbicide",
+        "C": "Insecticide",
+        "D": "Rodenticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 30,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "easy",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Gravel",
+        "C": "Sandy soil",
+        "D": "Loamy soil"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 31,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "hard",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A core concept in the study and practice of farm tools machinery surveying",
+        "C": "A concept from physics",
+        "D": "An obsolete farming method"
+      },
+      "answer": "B",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 32,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Fungicide",
+        "C": "Insecticide",
+        "D": "Rodenticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 33,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Herbicide",
+        "C": "Fungicide",
+        "D": "Insecticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 34,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Rodenticide",
+        "C": "Herbicide",
+        "D": "Insecticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 35,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "medium",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Sandy soil",
+        "B": "Loamy soil",
+        "C": "Gravel",
+        "D": "Clay soil"
+      },
+      "answer": "D",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 36,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Insecticide",
+        "C": "Herbicide",
+        "D": "Fungicide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 37,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Fungicide",
+        "C": "Rodenticide",
+        "D": "Insecticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 38,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Fungicide",
+        "C": "Herbicide",
+        "D": "Rodenticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 39,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Fungicide",
+        "C": "Insecticide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 40,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "hard",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Sandy soil",
+        "B": "Gravel",
+        "C": "Loamy soil",
+        "D": "Clay soil"
+      },
+      "answer": "D",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 41,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "hard",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Sandy soil",
+        "C": "Gravel",
+        "D": "Loamy soil"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 42,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Herbicide",
+        "C": "Insecticide",
+        "D": "Rodenticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 43,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "easy",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Sandy soil",
+        "B": "Clay soil",
+        "C": "Loamy soil",
+        "D": "Gravel"
+      },
+      "answer": "B",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 44,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Herbicide",
+        "C": "Fungicide",
+        "D": "Rodenticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 45,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "hard",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Sandy soil",
+        "C": "Clay soil",
+        "D": "Gravel"
+      },
+      "answer": "C",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 46,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "hard",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A concept from physics",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "An obsolete farming method"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 47,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "medium",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Sandy soil",
+        "C": "Gravel",
+        "D": "Clay soil"
+      },
+      "answer": "D",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 48,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "easy",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of farm tools machinery surveying",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "A concept from physics",
+        "D": "An obsolete farming method"
+      },
+      "answer": "A",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 49,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "hard",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "A concept from physics",
+        "C": "An obsolete farming method",
+        "D": "A core concept in the study and practice of farm tools machinery surveying"
+      },
+      "answer": "D",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 50,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Herbicide",
+        "C": "Rodenticide",
+        "D": "Insecticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 51,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Rodenticide",
+        "C": "Insecticide",
+        "D": "Fungicide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 52,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "medium",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Loamy soil",
+        "C": "Sandy soil",
+        "D": "Gravel"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 53,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Fungicide",
+        "C": "Insecticide",
+        "D": "Rodenticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 54,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "hard",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "An obsolete farming method",
+        "C": "Not relevant to Nigerian agriculture",
+        "D": "A core concept in the study and practice of farm tools machinery surveying"
+      },
+      "answer": "D",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 55,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "easy",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Loamy soil",
+        "B": "Sandy soil",
+        "C": "Clay soil",
+        "D": "Gravel"
+      },
+      "answer": "C",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 56,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Fungicide",
+        "C": "Herbicide",
+        "D": "Rodenticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 57,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "easy",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Gravel",
+        "C": "Loamy soil",
+        "D": "Sandy soil"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 58,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "medium",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Sandy soil",
+        "C": "Loamy soil",
+        "D": "Gravel"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 59,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Fungicide",
+        "C": "Herbicide",
+        "D": "Rodenticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 60,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Insecticide",
+        "C": "Fungicide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 61,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "easy",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 62,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Herbicide",
+        "C": "Insecticide",
+        "D": "Rodenticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 63,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Insecticide",
+        "C": "Herbicide",
+        "D": "Fungicide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 64,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Insecticide",
+        "C": "Rodenticide",
+        "D": "Fungicide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 65,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Rodenticide",
+        "C": "Fungicide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 66,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Rodenticide",
+        "C": "Fungicide",
+        "D": "Insecticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 67,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Rodenticide",
+        "C": "Herbicide",
+        "D": "Insecticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 68,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "hard",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Gravel",
+        "C": "Sandy soil",
+        "D": "Loamy soil"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 69,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Fungicide",
+        "C": "Herbicide",
+        "D": "Insecticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 70,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "easy",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A concept from physics",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A core concept in the study and practice of farm tools machinery surveying"
+      },
+      "answer": "D",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 71,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Herbicide",
+        "C": "Rodenticide",
+        "D": "Fungicide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 72,
+      "topic": "soil profile rocks etc",
+      "section": "A AGRICULTURAL ECOLOGY",
+      "subtopic": "soil profile rocks etc",
+      "difficulty": "hard",
+      "question": "Which soil type has the highest water retention capacity?",
+      "options": {
+        "A": "Clay soil",
+        "B": "Sandy soil",
+        "C": "Gravel",
+        "D": "Loamy soil"
+      },
+      "answer": "A",
+      "explanation": "Clay soil has fine particles with small pore spaces, allowing it to retain more water than sandy or loamy soils."
+    },
+    {
+      "id": 73,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "hard",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of farm tools machinery surveying",
+        "B": "An obsolete farming method",
+        "C": "A concept from physics",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "A",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 74,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Rodenticide",
+        "C": "Fungicide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 75,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "easy",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "A concept from physics"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 76,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Insecticide",
+        "C": "Fungicide",
+        "D": "Rodenticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 77,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Rodenticide",
+        "B": "Herbicide",
+        "C": "Fungicide",
+        "D": "Insecticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 78,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Fungicide",
+        "C": "Herbicide",
+        "D": "Rodenticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 79,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Fungicide",
+        "C": "Insecticide",
+        "D": "Rodenticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 80,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "hard",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "Not relevant to Nigerian agriculture",
+        "B": "An obsolete farming method",
+        "C": "A concept from physics",
+        "D": "A core concept in the study and practice of farm tools machinery surveying"
+      },
+      "answer": "D",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 81,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Rodenticide",
+        "C": "Herbicide",
+        "D": "Insecticide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 82,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "easy",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of farm tools machinery surveying",
+        "B": "Not relevant to Nigerian agriculture",
+        "C": "An obsolete farming method",
+        "D": "A concept from physics"
+      },
+      "answer": "A",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 83,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "medium",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "A core concept in the study and practice of farm tools machinery surveying",
+        "B": "A concept from physics",
+        "C": "An obsolete farming method",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "A",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 84,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Insecticide",
+        "C": "Fungicide",
+        "D": "Rodenticide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 85,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Rodenticide",
+        "C": "Herbicide",
+        "D": "Fungicide"
+      },
+      "answer": "C",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 86,
+      "topic": "farm tools machinery surveying",
+      "section": "B AGRICULTURAL ENGINEERING MECHANIZATION",
+      "subtopic": "farm tools machinery surveying",
+      "difficulty": "medium",
+      "question": "Which of the following best describes farm tools machinery surveying in agricultural science?",
+      "options": {
+        "A": "An obsolete farming method",
+        "B": "A concept from physics",
+        "C": "A core concept in the study and practice of farm tools machinery surveying",
+        "D": "Not relevant to Nigerian agriculture"
+      },
+      "answer": "C",
+      "explanation": "farm tools machinery surveying is essential knowledge for students of agricultural science."
+    },
+    {
+      "id": 87,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Fungicide",
+        "B": "Herbicide",
+        "C": "Rodenticide",
+        "D": "Insecticide"
+      },
+      "answer": "B",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 88,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "easy",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Herbicide",
+        "B": "Insecticide",
+        "C": "Rodenticide",
+        "D": "Fungicide"
+      },
+      "answer": "A",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 89,
+      "topic": "crops pests diseases weeds",
+      "section": "C CROP PRODUCTION",
+      "subtopic": "crops pests diseases weeds",
+      "difficulty": "hard",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Fungicide",
+        "C": "Rodenticide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    },
+    {
+      "id": 90,
+      "topic": "animals organs feeds diseases",
+      "section": "D ANIMAL PRODUCTION",
+      "subtopic": "animals organs feeds diseases",
+      "difficulty": "medium",
+      "question": "A chemical used to control weeds is called:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Rodenticide",
+        "C": "Fungicide",
+        "D": "Herbicide"
+      },
+      "answer": "D",
+      "explanation": "Herbicides are chemicals specifically designed to kill or inhibit the growth of unwanted plants (weeds)."
+    }
+  ]
+}

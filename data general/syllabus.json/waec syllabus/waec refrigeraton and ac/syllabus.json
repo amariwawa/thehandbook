@@ -1,0 +1,275 @@
+{
+  "syllabus_title": "WAEC SSCE Refrigeration and Air-Conditioning Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Safety and First Aid in the Workshop",
+      "topics": [
+        {
+          "topic": "Workshop rules and regulations"
+        },
+        {
+          "topic": "Safety devices/equipment",
+          "subtopics": ["Helmet, goggles, safety boots, hand gloves, overall, apron, sand bag, fire extinguishers, etc."]
+        },
+        {
+          "topic": "Accident: causes and prevention techniques"
+        },
+        {
+          "topic": "First Aid",
+          "subtopics": ["Materials for First Aid, charts, posters and first aid box, etc.", "Application of first aid materials"]
+        }
+      ],
+      "practical": ["Identification and operation of various types of fire extinguishers"]
+    },
+    {
+      "section_number": 2,
+      "title": "Energy, Matter and Power",
+      "topics": [
+        {
+          "topic": "Energy",
+          "subtopics": [
+            "Definition of energy",
+            "Process of energy conversion (electrical to mechanical, gas to vapour, mechanical to heat)",
+            "Meaning of internal energy",
+            "Enthalpy of a fluid substance",
+            "p-h diagram of refrigerant"
+          ]
+        },
+        {
+          "topic": "Nature of Matter",
+          "subtopics": ["State of matter – solid, liquid, gas or vapour", "Change of state of matter"]
+        },
+        {
+          "topic": "Power",
+          "subtopics": [
+            "Meaning of power",
+            "Calculation of power used by a compressor",
+            "Unit of power: watts and kilowatts; unit of heat: joules and kilojoules"
+          ]
+        }
+      ],
+      "practical": [
+        "Demonstration of conversion of mechanical to heat energy e.g. rubbing of palms",
+        "Demonstrate the conversion of ice block to water"
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "Temperature and Pressure",
+      "topics": [
+        {
+          "topic": "Temperature and its measurement",
+          "subtopics": [
+            "Concept of temperature",
+            "Different types of thermometer (gas, resistance, liquid, thermocouple)",
+            "Temperature scale conversion (Centigrade to Fahrenheit, Celsius to Kelvin, Fahrenheit to Rankine)",
+            "International practical temperature scales",
+            "Plotting various temperature scales"
+          ]
+        },
+        {
+          "topic": "Pressure and its measurement",
+          "subtopics": [
+            "Concept of pressure",
+            "Different types of pressure measuring devices (barometer, manometer, bourdon tube gauge)",
+            "Pressure measurement",
+            "Uses of suction and high pressure gauges",
+            "Effects of temperature, pressure and volume in refrigeration and air conditioning systems",
+            "Gas laws (Boyle’s law, Charles’ law, Dalton’s law)",
+            "Calculations involving general gas law"
+          ]
+        }
+      ],
+      "practical": [
+        "Demonstration of the use of a barometer",
+        "Demonstrate how suction and high pressure gauges are used to determine the performance of a refrigerant"
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "Refrigeration and Air Conditioning Systems",
+      "topics": [
+        {
+          "topic": "Introduction to Refrigeration",
+          "subtopics": [
+            "Refrigeration cycle – Evaporation, compression, condensation and expansion",
+            "Layout diagram of refrigeration systems",
+            "Types and applications of the various forms of refrigeration",
+            "Principles of operation of refrigeration systems",
+            "Functions of components and accessories (relay, solenoid valves, capacitors, thermostat)"
+          ]
+        },
+        {
+          "topic": "Refrigerants",
+          "subtopics": [
+            "Definition and types of refrigerants",
+            "Chemical names and formulae",
+            "Properties and uses of refrigerants",
+            "Refrigerant flow controls (TEV, AEV, capillary tube)",
+            "Operations of refrigerant flow controls"
+          ]
+        },
+        {
+          "topic": "Air-Conditioning Processes",
+          "subtopics": [
+            "Psychrometric properties of air",
+            "The processes of air conditioning: heating and cooling",
+            "Latent and sensible heat, saturated and super-saturated vapour"
+          ]
+        }
+      ],
+      "practical": [
+        "Identification of refrigerant by cylinder colours",
+        "Demonstration of air conditioning principle by sling psychrometer",
+        "Demonstration of the difference between latent and sensible heat by use of methylated spirit on human skin"
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "Compressors, Condensers and Evaporators",
+      "topics": [
+        {
+          "topic": "Compressors",
+          "subtopics": ["Types of compressors", "Construction of compressors", "Working principles of compressors"]
+        },
+        {
+          "topic": "Condensers",
+          "subtopics": [
+            "Construction of condensers",
+            "Calculation of heat load on condensers",
+            "Types and functions of liquid receiver and service valves",
+            "Principle of operation of liquid receiver and service valves"
+          ]
+        },
+        {
+          "topic": "Evaporators",
+          "subtopics": [
+            "Types of evaporators",
+            "Construction and services of evaporators",
+            "Working principles of evaporators",
+            "Heat load estimates on evaporators"
+          ]
+        }
+      ],
+      "practical": [
+        "Demonstrate how to service a condenser",
+        "Demonstrate how to service evaporators"
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "Workshop Practices",
+      "topics": [
+        {
+          "topic": "Basic tools used in refrigeration and air-conditioning workshops",
+          "subtopics": ["Basic tools – hacksaw, coil spring benders, reamers, tube cutters, etc."]
+        },
+        {
+          "topic": "Fault diagnosis and trouble shooting",
+          "subtopics": [
+            "Different methods of diagnosing faults (systematic and observation)",
+            "Common faults in refrigeration systems and their symptoms (leakage, faulty units, faulty compressor, poor cooling, current leakage)",
+            "Techniques of effective repairs",
+            "Techniques of trouble shooting in a given system"
+          ]
+        },
+        {
+          "topic": "Maintenance and Testing",
+          "subtopics": [
+            "Testing for leakages, polarity, insulation continuity, pressure and efficiency",
+            "Maintenance of compressors, evaporators, motors, condensers, valves, accumulators and contactors"
+          ]
+        }
+      ],
+      "practical": [
+        "Servicing of a window air-conditioner",
+        "Demonstrate how to test for leakages, polarity continuity and efficiency",
+        "Demonstrate how to repair faults in compressors, evaporators, motors and condensers"
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "Installation Processes",
+      "topics": [
+        {
+          "topic": "Piping, Ducting and Trunking",
+          "subtopics": [
+            "Concept of piping, ducting and trunking",
+            "Piping a condenser and an evaporator",
+            "Ducting, trunking and installation of air-conditioners",
+            "Piping, ducting and trunking tools (mallet hammer, flaring tools, silver tape, dot-punch, bending spring, amaflex, hacksaw, PVC pipes)"
+          ]
+        },
+        {
+          "topic": "Motors and Generators",
+          "subtopics": [
+            "Types, functions, operations and application of motors and generators",
+            "Installation procedures for motors and generators",
+            "Maintenance of motors and generators in a refrigeration system"
+          ]
+        },
+        {
+          "topic": "Cold Room",
+          "subtopics": [
+            "Working principles of cold room",
+            "Cold room installation procedures",
+            "Factors affecting cold room operations"
+          ]
+        }
+      ],
+      "practical": [
+        "Installation of a split air-conditioner",
+        "Servicing of motors and generators"
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "Insulation Processes",
+      "topics": [
+        {
+          "topic": "Insulation of refrigeration and air-conditioning system",
+          "subtopics": [
+            "Importance of insulation",
+            "Types of insulating materials (glasswool, fibre glass, polystyrene foam, wood, bitumen, ceramic, etc.)",
+            "Functions and properties of insulation materials",
+            "Procedure for insulating refrigeration and air-conditioning systems"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 9,
+      "title": "Entrepreneurship",
+      "topics": [
+        {
+          "topic": "Business Concept",
+          "subtopics": [
+            "Concept of business enterprise and types of businesses (sole proprietorship, partnership, limited liability, etc.)",
+            "Sources of finance (loan, mortgage, shares, overdrafts, savings, etc.)"
+          ]
+        },
+        {
+          "topic": "Marketing",
+          "subtopics": [
+            "Types and functions of marketing styles",
+            "Meaningful marketing at the least cost",
+            "Marketing protocol and cost"
+          ]
+        },
+        {
+          "topic": "Accounting",
+          "subtopics": [
+            "Principles of Accounting",
+            "The concept of business as a separate entity",
+            "Ledger, trial balance and balance sheet"
+          ]
+        }
+      ],
+      "practical": [
+        "Carry out a commercial marketing survey to set up refrigeration and air-conditioning business",
+        "Preparation of ledger and balance sheet"
+      ]
+    }
+  ]
+}

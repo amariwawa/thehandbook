@@ -1,0 +1,276 @@
+{
+  "syllabus": {
+    "title": "UTME Home Economics Detailed Syllabus",
+    "sections": [
+      {
+        "section": "A",
+        "title": "HOME ECONOMICS EDUCATION",
+        "topics": [
+          {
+            "topic": "Home Economics",
+            "subtopics": [
+              "Meaning, scope and importance of Home Economics",
+              "Objectives and ideals of Home Economics"
+            ],
+            "objectives": [
+              "Examine the importance of Home Economics to the individual, family, society and nation",
+              "Identify the objectives of Home Economics",
+              "Determine the scope of Home Economics"
+            ]
+          },
+          {
+            "topic": "Areas/Careers in Home Economics",
+            "subtopics": [
+              "Home Management (e.g., Interior decoration, Credit management, Florist)",
+              "Foods and Nutrition (e.g., Catering, Dietetics, Nutritionist, Public Health Education)",
+              "Clothing and Textile (e.g., Textile designing)",
+              "Family and Child development (e.g., Early Childhood education)",
+              "Teaching, Counselling, Media, Research"
+            ],
+            "objectives": [
+              "Recommend possible vocations in the different areas of Home Economics",
+              "Relate Home Economics to each vocation",
+              "Assess the benefits of each vocation to the individual, society and nation",
+              "Identify current vocations in Home Economics",
+              "Identify sources of career information"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "B",
+        "title": "HOME MANAGEMENT",
+        "topics": [
+          {
+            "topic": "Interrelationship of Home Economics with other subjects",
+            "subtopics": ["Biology, Geography, Chemistry, Physics, Agricultural Science, Fine Arts, Mathematics etc."],
+            "objectives": [
+              "Compare the different areas of study which have relationship with Home Economics",
+              "Determine the contributions of these subjects to Home Economics"
+            ]
+          },
+          {
+            "topic": "Principles of Home Management",
+            "subtopics": [
+              "Meaning of Home Management",
+              "Steps in the management process",
+              "Decision making: meaning and process",
+              "Motivation for Home Management (e.g., goals, values, standards, needs, wants, likes and dislikes)"
+            ],
+            "objectives": [
+              "State the meaning of Home Management",
+              "Identify steps involved in the management process",
+              "Determine issues for decision making in the home",
+              "Describe the role of motivators in Home Management"
+            ]
+          },
+          {
+            "topic": "Resources",
+            "subtopics": [
+              "Human Resources: Time management (definition and pattern, factors influencing use, work simplification), Energy management, Skills, creativity, attitudes",
+              "Material Resources: definition/types, Income and money management (types of income, principles, household budgeting, economic security - bank accounts, savings, insurance)"
+            ],
+            "objectives": [
+              "Identify the resources available to individual and family",
+              "Describe the pattern of work, apply time management principles, work simplification",
+              "Identify sources of income, means of saving, steps in budgeting",
+              "Analyse principles of money management"
+            ]
+          },
+          {
+            "topic": "Family Living",
+            "subtopics": [
+              "Definition and types of family, Advantages and disadvantages, Family life cycle",
+              "Family relationships (husband/wife, parent/child, sibling)",
+              "Basic personality profiles (extroversion, introversion, anxiety/stability)",
+              "Adolescents and their problems",
+              "Family crises, Conflict and conflict resolution",
+              "Human rights (meaning, fundamental, rights of women/children, violations)",
+              "Communication and role of ICT in the family"
+            ],
+            "objectives": [
+              "Compare types of family and identify roles of members",
+              "Differentiate types of relationships, factors influencing them",
+              "Identify characteristics/problems of adolescents, family crises and solutions",
+              "Identify human rights, violations and remedies",
+              "Identify factors affecting communication, advantages/disadvantages of ICT"
+            ]
+          },
+          {
+            "topic": "Marriage and Reproductive Health",
+            "subtopics": [
+              "Boy/Girl relationship, Courtship",
+              "Preparation for marriage (engagement, types of marriage)",
+              "Reproductive health, STIs/STDs, HIV/AIDS",
+              "Pregnancy and childbirth, Childcare, Toddlers, Child development, Parenting"
+            ],
+            "objectives": [
+              "Differentiate types of marriages, advantages/disadvantages of inter-tribal marriages",
+              "Analyse role of courtship and engagement",
+              "State types, causes and prevention of STIs",
+              "Describe reproduction process, infant care, factors affecting pregnancy, stages of labour, common ailments, play materials, parenting responsibilities"
+            ]
+          },
+          {
+            "topic": "Housing the Family",
+            "subtopics": [
+              "Houses and home, types, factors affecting choice, ways of acquiring",
+              "Interior decoration (wall finishing, colours, textures, furniture arrangement, flower arrangements, ornaments)",
+              "Furniture and furnishings",
+              "Utilities (Water, Household fuels, Electricity, Communication devices)"
+            ],
+            "objectives": [
+              "Differentiate house and home, identify choice factors",
+              "Suggest suitable colours/textures, compare floral arrangements",
+              "Identify utilities, appraise advantages and alternatives"
+            ]
+          },
+          {
+            "topic": "Home Surfaces, Sanitation and Pollution",
+            "subtopics": [
+              "Types and care of surfaces (wood, tiles, etc.), Cleaning agents",
+              "Sanitation (Drainage, Refuse disposal, Pests control)",
+              "Pollution and health hazards"
+            ],
+            "objectives": [
+              "Identify surfaces, cleaning agents and care methods",
+              "Suggest waste disposal and pest control methods",
+              "Describe pollution sources and health hazards"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "C",
+        "title": "FOODS & NUTRITION",
+        "topics": [
+          {
+            "topic": "Consumer Education",
+            "subtopics": [
+              "Meaning and importance",
+              "Markets, Distributors/agents, Sources of information",
+              "Purchasing practices, Advertising, Rights and responsibilities, Government agencies"
+            ],
+            "objectives": [
+              "Explain importance of consumer education",
+              "Apply principles to wise shopping",
+              "Identify rights/responsibilities and functions of regulatory bodies"
+            ]
+          },
+          {
+            "topic": "Foods and Nutrition",
+            "subtopics": [
+              "Definition, Classification of nutrients (sources, functions, deficiencies), Classification of foods",
+              "Nutrition and health, Digestive system, Factors affecting nutrition",
+              "Nutrition for special groups"
+            ],
+            "objectives": [
+              "Describe nutrients and classes of food, effects on health",
+              "Recommend nutritional needs for special groups"
+            ]
+          },
+          {
+            "topic": "Meal Planning",
+            "subtopics": [
+              "Principles of meal planning",
+              "Dietary needs for special occasions/groups",
+              "Preparation and serving of meals",
+              "Snacks and beverages",
+              "Table setting, manners, hostessing"
+            ],
+            "objectives": [
+              "Plan meals for special occasions and groups",
+              "Identify types/functions of snacks/beverages",
+              "Compare table settings and describe manners"
+            ]
+          },
+          {
+            "topic": "Cookers, Cooking and Methods",
+            "subtopics": [
+              "Types, choice and care of cookers",
+              "Reasons for cooking, Cooking terms, Methods of cooking (moist/dry), Heat transfer"
+            ],
+            "objectives": [
+              "Identify types/care of cookers, group cooking methods, determine heat transfer"
+            ]
+          },
+          {
+            "topic": "Flours, Mixtures and Scientific Methods",
+            "subtopics": [
+              "Types and uses of flours, Raising agents",
+              "Basic mixtures (Batters, Pastries)",
+              "Measurement, Nutrient tests, Recipe development"
+            ],
+            "objectives": [
+              "Select flours/raising agents, demonstrate measurements and nutrient detection"
+            ]
+          },
+          {
+            "topic": "The Kitchen",
+            "subtopics": [
+              "Types and arrangement, Tools and equipment",
+              "Safety and hygiene, First Aid, Personal and food hygiene"
+            ],
+            "objectives": [
+              "Describe kitchen types/arrangement, select/care for equipment",
+              "Identify accidents/preventive measures, first aid, hygiene practices"
+            ]
+          },
+          {
+            "topic": "Food Storage, Preservation and Others",
+            "subtopics": [
+              "Preservation (causes of spoilage, principles, methods), Convenience foods, Additives, Rechauffe dishes",
+              "Home Gardening"
+            ],
+            "objectives": [
+              "Describe preservation principles/methods, guidelines for convenience foods",
+              "Explain importance of home gardening"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "D",
+        "title": "CLOTHING & TEXTILE",
+        "topics": [
+          {
+            "topic": "Fibres and Fabrics",
+            "subtopics": [
+              "Origin of fibres, Textile terms, Locally made fabrics (Aso Oke etc.)",
+              "Classification and properties of fibres, Fabric finishes, Textile care labels"
+            ],
+            "objectives": [
+              "Differentiate fabric construction methods",
+              "State reasons for finishes and importance of labels"
+            ]
+          },
+          {
+            "topic": "Sewing Equipment and Garment Construction",
+            "subtopics": [
+              "Sewing machine and basic tools",
+              "Basic processes (stitches, seams etc.), Style features, Arrangement of fullness, Decorative designs",
+              "Mending, Renovation, Batik/Tie and dye",
+              "Garment construction (measurements, pattern drafting), Factors influencing choice"
+            ],
+            "objectives": [
+              "Identify parts/faults of machine and tools",
+              "Apply construction processes and decorative designs",
+              "Relate styles to figures, factors affecting clothing choice"
+            ]
+          },
+          {
+            "topic": "Wardrobe Planning and Maintenance",
+            "subtopics": [
+              "Wardrobe planning, Good grooming, Dress sense, Accessories",
+              "Laundry and care of clothes (processes, agents, stains, ironing)"
+            ],
+            "objectives": [
+              "Describe basic rules for wardrobe planning and factors affecting it",
+              "Arrange processes for washing/finishing, remove stains"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

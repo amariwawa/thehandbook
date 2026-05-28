@@ -1,0 +1,4468 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Sets: (i) Idea of a set defined by a property, Set notations and their meanings.",
+      "section": "General",
+      "subtopic": "Sets: (i) Idea of a set defined by a property, Set notations and their meanings.",
+      "difficulty": "easy",
+      "question": "In a class of 83 students, 41 offer Mathematics, 39 offer Physics, and 12 offer both. How many offer neither?",
+      "options": {
+        "A": "15",
+        "B": "3",
+        "C": "12",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 41 + 39 - 12 = 68. Neither = 83 - 68 = 15."
+    },
+    {
+      "id": 2,
+      "topic": "Sets: (i) Idea of a set defined by a property, Set notations and their meanings.",
+      "section": "General",
+      "subtopic": "Sets: (i) Idea of a set defined by a property, Set notations and their meanings.",
+      "difficulty": "medium",
+      "question": "In a class of 66 students, 35 offer Mathematics, 35 offer Physics, and 11 offer both. How many offer neither?",
+      "options": {
+        "A": "11",
+        "B": "31",
+        "C": "7",
+        "D": "-4"
+      },
+      "answer": "C",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 35 + 35 - 11 = 59. Neither = 66 - 59 = 7."
+    },
+    {
+      "id": 3,
+      "topic": "Sets: (i) Idea of a set defined by a property, Set notations and their meanings.",
+      "section": "General",
+      "subtopic": "Sets: (i) Idea of a set defined by a property, Set notations and their meanings.",
+      "difficulty": "hard",
+      "question": "In a class of 71 students, 43 offer Mathematics, 32 offer Physics, and 14 offer both. How many offer neither?",
+      "options": {
+        "A": "10",
+        "B": "28",
+        "C": "-4",
+        "D": "14"
+      },
+      "answer": "A",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 43 + 32 - 14 = 61. Neither = 71 - 61 = 10."
+    },
+    {
+      "id": 4,
+      "topic": "Sets: (ii) Disjoint sets, Universal set and complement of set",
+      "section": "General",
+      "subtopic": "Sets: (ii) Disjoint sets, Universal set and complement of set",
+      "difficulty": "medium",
+      "question": "In a class of 64 students, 29 offer Mathematics, 27 offer Physics, and 11 offer both. How many offer neither?",
+      "options": {
+        "A": "19",
+        "B": "35",
+        "C": "11",
+        "D": "8"
+      },
+      "answer": "A",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 29 + 27 - 11 = 45. Neither = 64 - 45 = 19."
+    },
+    {
+      "id": 5,
+      "topic": "Sets: (ii) Disjoint sets, Universal set and complement of set",
+      "section": "General",
+      "subtopic": "Sets: (ii) Disjoint sets, Universal set and complement of set",
+      "difficulty": "hard",
+      "question": "In a class of 61 students, 22 offer Mathematics, 41 offer Physics, and 10 offer both. How many offer neither?",
+      "options": {
+        "A": "-2",
+        "B": "8",
+        "C": "39",
+        "D": "10"
+      },
+      "answer": "B",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 22 + 41 - 10 = 53. Neither = 61 - 53 = 8."
+    },
+    {
+      "id": 6,
+      "topic": "Sets: (ii) Disjoint sets, Universal set and complement of set",
+      "section": "General",
+      "subtopic": "Sets: (ii) Disjoint sets, Universal set and complement of set",
+      "difficulty": "easy",
+      "question": "In a class of 83 students, 32 offer Mathematics, 47 offer Physics, and 15 offer both. How many offer neither?",
+      "options": {
+        "A": "51",
+        "B": "19",
+        "C": "15",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 32 + 47 - 15 = 64. Neither = 83 - 64 = 19."
+    },
+    {
+      "id": 7,
+      "topic": "Sets: (iii) Venn diagrams, Use of sets and Venn diagrams to solve problems.",
+      "section": "General",
+      "subtopic": "Sets: (iii) Venn diagrams, Use of sets and Venn diagrams to solve problems.",
+      "difficulty": "hard",
+      "question": "In a class of 93 students, 40 offer Mathematics, 39 offer Physics, and 6 offer both. How many offer neither?",
+      "options": {
+        "A": "6",
+        "B": "20",
+        "C": "14",
+        "D": "53"
+      },
+      "answer": "B",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 40 + 39 - 6 = 73. Neither = 93 - 73 = 20."
+    },
+    {
+      "id": 8,
+      "topic": "Sets: (iii) Venn diagrams, Use of sets and Venn diagrams to solve problems.",
+      "section": "General",
+      "subtopic": "Sets: (iii) Venn diagrams, Use of sets and Venn diagrams to solve problems.",
+      "difficulty": "easy",
+      "question": "In a class of 78 students, 48 offer Mathematics, 35 offer Physics, and 15 offer both. How many offer neither?",
+      "options": {
+        "A": "30",
+        "B": "10",
+        "C": "-5",
+        "D": "15"
+      },
+      "answer": "B",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 48 + 35 - 15 = 68. Neither = 78 - 68 = 10."
+    },
+    {
+      "id": 9,
+      "topic": "Sets: (iii) Venn diagrams, Use of sets and Venn diagrams to solve problems.",
+      "section": "General",
+      "subtopic": "Sets: (iii) Venn diagrams, Use of sets and Venn diagrams to solve problems.",
+      "difficulty": "medium",
+      "question": "In a class of 71 students, 43 offer Mathematics, 30 offer Physics, and 11 offer both. How many offer neither?",
+      "options": {
+        "A": "9",
+        "B": "28",
+        "C": "11",
+        "D": "-2"
+      },
+      "answer": "A",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 43 + 30 - 11 = 62. Neither = 71 - 62 = 9."
+    },
+    {
+      "id": 10,
+      "topic": "Sets: (iv) Commutative and Associative laws, Distributive properties over union and intersection.",
+      "section": "General",
+      "subtopic": "Sets: (iv) Commutative and Associative laws, Distributive properties over union and intersection.",
+      "difficulty": "easy",
+      "question": "In a class of 96 students, 36 offer Mathematics, 50 offer Physics, and 7 offer both. How many offer neither?",
+      "options": {
+        "A": "10",
+        "B": "17",
+        "C": "7",
+        "D": "60"
+      },
+      "answer": "B",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 36 + 50 - 7 = 79. Neither = 96 - 79 = 17."
+    },
+    {
+      "id": 11,
+      "topic": "Sets: (iv) Commutative and Associative laws, Distributive properties over union and intersection.",
+      "section": "General",
+      "subtopic": "Sets: (iv) Commutative and Associative laws, Distributive properties over union and intersection.",
+      "difficulty": "medium",
+      "question": "In a class of 53 students, 26 offer Mathematics, 21 offer Physics, and 10 offer both. How many offer neither?",
+      "options": {
+        "A": "16",
+        "B": "10",
+        "C": "27",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 26 + 21 - 10 = 37. Neither = 53 - 37 = 16."
+    },
+    {
+      "id": 12,
+      "topic": "Sets: (iv) Commutative and Associative laws, Distributive properties over union and intersection.",
+      "section": "General",
+      "subtopic": "Sets: (iv) Commutative and Associative laws, Distributive properties over union and intersection.",
+      "difficulty": "hard",
+      "question": "In a class of 69 students, 33 offer Mathematics, 33 offer Physics, and 7 offer both. How many offer neither?",
+      "options": {
+        "A": "7",
+        "B": "36",
+        "C": "10",
+        "D": "3"
+      },
+      "answer": "C",
+      "explanation": "n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 33 + 33 - 7 = 59. Neither = 69 - 59 = 10."
+    },
+    {
+      "id": 13,
+      "topic": "Surds: Surds of the form √a and a + b√c where a is rational, b is a positive integer and n is not a perfect square.",
+      "section": "General",
+      "subtopic": "Surds: Surds of the form √a and a + b√c where a is rational, b is a positive integer and n is not a perfect square.",
+      "difficulty": "medium",
+      "question": "Evaluate 4 × 10 + 14.",
+      "options": {
+        "A": "40",
+        "B": "26",
+        "C": "54",
+        "D": "55"
+      },
+      "answer": "C",
+      "explanation": "4 × 10 + 14 = 40 + 14 = 54."
+    },
+    {
+      "id": 14,
+      "topic": "Surds: Surds of the form √a and a + b√c where a is rational, b is a positive integer and n is not a perfect square.",
+      "section": "General",
+      "subtopic": "Surds: Surds of the form √a and a + b√c where a is rational, b is a positive integer and n is not a perfect square.",
+      "difficulty": "hard",
+      "question": "Evaluate 10 × 10 + 20.",
+      "options": {
+        "A": "80",
+        "B": "100",
+        "C": "121",
+        "D": "120"
+      },
+      "answer": "D",
+      "explanation": "10 × 10 + 20 = 100 + 20 = 120."
+    },
+    {
+      "id": 15,
+      "topic": "Surds: Surds of the form √a and a + b√c where a is rational, b is a positive integer and n is not a perfect square.",
+      "section": "General",
+      "subtopic": "Surds: Surds of the form √a and a + b√c where a is rational, b is a positive integer and n is not a perfect square.",
+      "difficulty": "easy",
+      "question": "Evaluate 4 × 7 + 11.",
+      "options": {
+        "A": "39",
+        "B": "17",
+        "C": "40",
+        "D": "28"
+      },
+      "answer": "A",
+      "explanation": "4 × 7 + 11 = 28 + 11 = 39."
+    },
+    {
+      "id": 16,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "hard",
+      "question": "Evaluate 4 × 10 + 14.",
+      "options": {
+        "A": "55",
+        "B": "26",
+        "C": "40",
+        "D": "54"
+      },
+      "answer": "D",
+      "explanation": "4 × 10 + 14 = 40 + 14 = 54."
+    },
+    {
+      "id": 17,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "easy",
+      "question": "Evaluate 2 × 3 + 5.",
+      "options": {
+        "A": "1",
+        "B": "12",
+        "C": "6",
+        "D": "11"
+      },
+      "answer": "D",
+      "explanation": "2 × 3 + 5 = 6 + 5 = 11."
+    },
+    {
+      "id": 18,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "medium",
+      "question": "Evaluate 2 × 3 + 5.",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "1",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "2 × 3 + 5 = 6 + 5 = 11."
+    },
+    {
+      "id": 19,
+      "topic": "Binary Operations: Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "section": "General",
+      "subtopic": "Binary Operations: Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "difficulty": "easy",
+      "question": "If y varies directly as x and y = 28 when x = 4, find y when x = 9.",
+      "options": {
+        "A": "63",
+        "B": "16",
+        "C": "33",
+        "D": "252"
+      },
+      "answer": "A",
+      "explanation": "y = kx → 28 = k(4) → k = 7. When x = 9, y = 7 × 9 = 63."
+    },
+    {
+      "id": 20,
+      "topic": "Binary Operations: Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "section": "General",
+      "subtopic": "Binary Operations: Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "difficulty": "medium",
+      "question": "If y varies directly as x and y = 24 when x = 4, find y when x = 9.",
+      "options": {
+        "A": "54",
+        "B": "29",
+        "C": "15",
+        "D": "216"
+      },
+      "answer": "A",
+      "explanation": "y = kx → 24 = k(4) → k = 6. When x = 9, y = 6 × 9 = 54."
+    },
+    {
+      "id": 21,
+      "topic": "Binary Operations: Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "section": "General",
+      "subtopic": "Binary Operations: Properties: Closure, Commutativity, Associativity and Distributivity, Identity elements and inverses.",
+      "difficulty": "hard",
+      "question": "If y varies directly as x and y = 12 when x = 3, find y when x = 8.",
+      "options": {
+        "A": "12",
+        "B": "17",
+        "C": "96",
+        "D": "32"
+      },
+      "answer": "D",
+      "explanation": "y = kx → 12 = k(3) → k = 4. When x = 8, y = 4 × 8 = 32."
+    },
+    {
+      "id": 22,
+      "topic": "Logical Reasoning",
+      "section": "General",
+      "subtopic": "Logical Reasoning",
+      "difficulty": "medium",
+      "question": "Evaluate 6 × 8 + 14.",
+      "options": {
+        "A": "63",
+        "B": "62",
+        "C": "34",
+        "D": "48"
+      },
+      "answer": "B",
+      "explanation": "6 × 8 + 14 = 48 + 14 = 62."
+    },
+    {
+      "id": 23,
+      "topic": "Logical Reasoning",
+      "section": "General",
+      "subtopic": "Logical Reasoning",
+      "difficulty": "hard",
+      "question": "Evaluate 8 × 11 + 19.",
+      "options": {
+        "A": "108",
+        "B": "69",
+        "C": "107",
+        "D": "88"
+      },
+      "answer": "C",
+      "explanation": "8 × 11 + 19 = 88 + 19 = 107."
+    },
+    {
+      "id": 24,
+      "topic": "Logical Reasoning",
+      "section": "General",
+      "subtopic": "Logical Reasoning",
+      "difficulty": "easy",
+      "question": "Evaluate 2 × 10 + 12.",
+      "options": {
+        "A": "33",
+        "B": "32",
+        "C": "8",
+        "D": "20"
+      },
+      "answer": "B",
+      "explanation": "2 × 10 + 12 = 20 + 12 = 32."
+    },
+    {
+      "id": 25,
+      "topic": "Logical Reasoning: (i) Rule of syntax: true or false statements, rule of logic applied to arguments, implications and deductions.",
+      "section": "General",
+      "subtopic": "Logical Reasoning: (i) Rule of syntax: true or false statements, rule of logic applied to arguments, implications and deductions.",
+      "difficulty": "hard",
+      "question": "Find the 7th term of the A.P: 10, 15, 20, ...",
+      "options": {
+        "A": "75",
+        "B": "45",
+        "C": "45",
+        "D": "40"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 10 + (7-1)5 = 10 + 30 = 40."
+    },
+    {
+      "id": 26,
+      "topic": "Logical Reasoning: (i) Rule of syntax: true or false statements, rule of logic applied to arguments, implications and deductions.",
+      "section": "General",
+      "subtopic": "Logical Reasoning: (i) Rule of syntax: true or false statements, rule of logic applied to arguments, implications and deductions.",
+      "difficulty": "easy",
+      "question": "Find the 7th term of the A.P: 9, 13, 17, ...",
+      "options": {
+        "A": "37",
+        "B": "67",
+        "C": "33",
+        "D": "37"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 9 + (7-1)4 = 9 + 24 = 33."
+    },
+    {
+      "id": 27,
+      "topic": "Logical Reasoning: (i) Rule of syntax: true or false statements, rule of logic applied to arguments, implications and deductions.",
+      "section": "General",
+      "subtopic": "Logical Reasoning: (i) Rule of syntax: true or false statements, rule of logic applied to arguments, implications and deductions.",
+      "difficulty": "medium",
+      "question": "Find the 6th term of the A.P: 7, 10, 13, ...",
+      "options": {
+        "A": "25",
+        "B": "22",
+        "C": "25",
+        "D": "45"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 7 + (6-1)3 = 7 + 15 = 22."
+    },
+    {
+      "id": 28,
+      "topic": "Logical Reasoning: (ii) The truth table",
+      "section": "General",
+      "subtopic": "Logical Reasoning: (ii) The truth table",
+      "difficulty": "easy",
+      "question": "Evaluate 5 × 2 + 7.",
+      "options": {
+        "A": "3",
+        "B": "10",
+        "C": "17",
+        "D": "18"
+      },
+      "answer": "C",
+      "explanation": "5 × 2 + 7 = 10 + 7 = 17."
+    },
+    {
+      "id": 29,
+      "topic": "Logical Reasoning: (ii) The truth table",
+      "section": "General",
+      "subtopic": "Logical Reasoning: (ii) The truth table",
+      "difficulty": "medium",
+      "question": "Evaluate 2 × 7 + 9.",
+      "options": {
+        "A": "23",
+        "B": "14",
+        "C": "24",
+        "D": "5"
+      },
+      "answer": "A",
+      "explanation": "2 × 7 + 9 = 14 + 9 = 23."
+    },
+    {
+      "id": 30,
+      "topic": "Logical Reasoning: (ii) The truth table",
+      "section": "General",
+      "subtopic": "Logical Reasoning: (ii) The truth table",
+      "difficulty": "hard",
+      "question": "Evaluate 10 × 9 + 19.",
+      "options": {
+        "A": "110",
+        "B": "71",
+        "C": "90",
+        "D": "109"
+      },
+      "answer": "D",
+      "explanation": "10 × 9 + 19 = 90 + 19 = 109."
+    },
+    {
+      "id": 31,
+      "topic": "Functions",
+      "section": "General",
+      "subtopic": "Functions",
+      "difficulty": "medium",
+      "question": "Evaluate 4 × 8 + 12.",
+      "options": {
+        "A": "45",
+        "B": "44",
+        "C": "20",
+        "D": "32"
+      },
+      "answer": "B",
+      "explanation": "4 × 8 + 12 = 32 + 12 = 44."
+    },
+    {
+      "id": 32,
+      "topic": "Functions",
+      "section": "General",
+      "subtopic": "Functions",
+      "difficulty": "hard",
+      "question": "Evaluate 3 × 3 + 6.",
+      "options": {
+        "A": "16",
+        "B": "9",
+        "C": "3",
+        "D": "15"
+      },
+      "answer": "D",
+      "explanation": "3 × 3 + 6 = 9 + 6 = 15."
+    },
+    {
+      "id": 33,
+      "topic": "Functions",
+      "section": "General",
+      "subtopic": "Functions",
+      "difficulty": "easy",
+      "question": "Evaluate 8 × 7 + 15.",
+      "options": {
+        "A": "72",
+        "B": "41",
+        "C": "56",
+        "D": "71"
+      },
+      "answer": "D",
+      "explanation": "8 × 7 + 15 = 56 + 15 = 71."
+    },
+    {
+      "id": 34,
+      "topic": "Functions: (i) Domain and co-domain of a function.",
+      "section": "General",
+      "subtopic": "Functions: (i) Domain and co-domain of a function.",
+      "difficulty": "hard",
+      "question": "Evaluate 10 × 3 + 13.",
+      "options": {
+        "A": "30",
+        "B": "43",
+        "C": "17",
+        "D": "44"
+      },
+      "answer": "B",
+      "explanation": "10 × 3 + 13 = 30 + 13 = 43."
+    },
+    {
+      "id": 35,
+      "topic": "Functions: (i) Domain and co-domain of a function.",
+      "section": "General",
+      "subtopic": "Functions: (i) Domain and co-domain of a function.",
+      "difficulty": "easy",
+      "question": "Evaluate 4 × 3 + 7.",
+      "options": {
+        "A": "12",
+        "B": "5",
+        "C": "20",
+        "D": "19"
+      },
+      "answer": "D",
+      "explanation": "4 × 3 + 7 = 12 + 7 = 19."
+    },
+    {
+      "id": 36,
+      "topic": "Functions: (i) Domain and co-domain of a function.",
+      "section": "General",
+      "subtopic": "Functions: (i) Domain and co-domain of a function.",
+      "difficulty": "medium",
+      "question": "Evaluate 4 × 10 + 14.",
+      "options": {
+        "A": "54",
+        "B": "40",
+        "C": "26",
+        "D": "55"
+      },
+      "answer": "A",
+      "explanation": "4 × 10 + 14 = 40 + 14 = 54."
+    },
+    {
+      "id": 37,
+      "topic": "Functions: (ii) One-to-one, onto, identity and constant mapping.",
+      "section": "General",
+      "subtopic": "Functions: (ii) One-to-one, onto, identity and constant mapping.",
+      "difficulty": "easy",
+      "question": "Find the 8th term of the A.P: 9, 13, 17, ...",
+      "options": {
+        "A": "76",
+        "B": "41",
+        "C": "41",
+        "D": "37"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 9 + (8-1)4 = 9 + 28 = 37."
+    },
+    {
+      "id": 38,
+      "topic": "Functions: (ii) One-to-one, onto, identity and constant mapping.",
+      "section": "General",
+      "subtopic": "Functions: (ii) One-to-one, onto, identity and constant mapping.",
+      "difficulty": "medium",
+      "question": "Find the 6th term of the A.P: 6, 8, 10, ...",
+      "options": {
+        "A": "18",
+        "B": "18",
+        "C": "16",
+        "D": "38"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 6 + (6-1)2 = 6 + 10 = 16."
+    },
+    {
+      "id": 39,
+      "topic": "Functions: (ii) One-to-one, onto, identity and constant mapping.",
+      "section": "General",
+      "subtopic": "Functions: (ii) One-to-one, onto, identity and constant mapping.",
+      "difficulty": "hard",
+      "question": "Find the 6th term of the A.P: 10, 15, 20, ...",
+      "options": {
+        "A": "40",
+        "B": "65",
+        "C": "35",
+        "D": "40"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 10 + (6-1)5 = 10 + 25 = 35."
+    },
+    {
+      "id": 40,
+      "topic": "Functions: (iii) Inverse of a function.",
+      "section": "General",
+      "subtopic": "Functions: (iii) Inverse of a function.",
+      "difficulty": "medium",
+      "question": "If y varies directly as x and y = 30 when x = 3, find y when x = 8.",
+      "options": {
+        "A": "80",
+        "B": "18",
+        "C": "35",
+        "D": "240"
+      },
+      "answer": "A",
+      "explanation": "y = kx → 30 = k(3) → k = 10. When x = 8, y = 10 × 8 = 80."
+    },
+    {
+      "id": 41,
+      "topic": "Functions: (iii) Inverse of a function.",
+      "section": "General",
+      "subtopic": "Functions: (iii) Inverse of a function.",
+      "difficulty": "hard",
+      "question": "If y varies directly as x and y = 18 when x = 2, find y when x = 7.",
+      "options": {
+        "A": "23",
+        "B": "16",
+        "C": "63",
+        "D": "126"
+      },
+      "answer": "C",
+      "explanation": "y = kx → 18 = k(2) → k = 9. When x = 7, y = 9 × 7 = 63."
+    },
+    {
+      "id": 42,
+      "topic": "Functions: (iii) Inverse of a function.",
+      "section": "General",
+      "subtopic": "Functions: (iii) Inverse of a function.",
+      "difficulty": "easy",
+      "question": "If y varies directly as x and y = 24 when x = 6, find y when x = 11.",
+      "options": {
+        "A": "29",
+        "B": "15",
+        "C": "44",
+        "D": "264"
+      },
+      "answer": "C",
+      "explanation": "y = kx → 24 = k(6) → k = 4. When x = 11, y = 4 × 11 = 44."
+    },
+    {
+      "id": 43,
+      "topic": "Functions: (iv) Composite of functions.",
+      "section": "General",
+      "subtopic": "Functions: (iv) Composite of functions.",
+      "difficulty": "hard",
+      "question": "Evaluate 10 × 3 + 13.",
+      "options": {
+        "A": "17",
+        "B": "30",
+        "C": "43",
+        "D": "44"
+      },
+      "answer": "C",
+      "explanation": "10 × 3 + 13 = 30 + 13 = 43."
+    },
+    {
+      "id": 44,
+      "topic": "Functions: (iv) Composite of functions.",
+      "section": "General",
+      "subtopic": "Functions: (iv) Composite of functions.",
+      "difficulty": "easy",
+      "question": "Evaluate 8 × 10 + 18.",
+      "options": {
+        "A": "99",
+        "B": "80",
+        "C": "62",
+        "D": "98"
+      },
+      "answer": "D",
+      "explanation": "8 × 10 + 18 = 80 + 18 = 98."
+    },
+    {
+      "id": 45,
+      "topic": "Functions: (iv) Composite of functions.",
+      "section": "General",
+      "subtopic": "Functions: (iv) Composite of functions.",
+      "difficulty": "medium",
+      "question": "Evaluate 2 × 2 + 4.",
+      "options": {
+        "A": "4",
+        "B": "9",
+        "C": "8",
+        "D": "0"
+      },
+      "answer": "C",
+      "explanation": "2 × 2 + 4 = 4 + 4 = 8."
+    },
+    {
+      "id": 46,
+      "topic": "Polynomial Functions",
+      "section": "General",
+      "subtopic": "Polynomial Functions",
+      "difficulty": "easy",
+      "question": "Solve simultaneously: 2x + y = 14 and x - y = 1.",
+      "options": {
+        "A": "x = 6, y = 3",
+        "B": "x = 9, y = 1",
+        "C": "x = 5, y = 4",
+        "D": "x = 4, y = 5"
+      },
+      "answer": "C",
+      "explanation": "From x - y = 1, x = y + 1. Substituting into 2x + y = 14: 2(y + 1) + y = 14 → 3y = 12 → y = 4, so x = 5."
+    },
+    {
+      "id": 47,
+      "topic": "Polynomial Functions",
+      "section": "General",
+      "subtopic": "Polynomial Functions",
+      "difficulty": "medium",
+      "question": "Solve simultaneously: 2x + y = 7 and x - y = -1.",
+      "options": {
+        "A": "x = 1, y = 4",
+        "B": "x = 5, y = -1",
+        "C": "x = 3, y = 2",
+        "D": "x = 2, y = 3"
+      },
+      "answer": "D",
+      "explanation": "From x - y = -1, x = y + -1. Substituting into 2x + y = 7: 2(y + -1) + y = 7 → 3y = 9 → y = 3, so x = 2."
+    },
+    {
+      "id": 48,
+      "topic": "Polynomial Functions",
+      "section": "General",
+      "subtopic": "Polynomial Functions",
+      "difficulty": "hard",
+      "question": "Solve simultaneously: 2x + y = 8 and x - y = -2.",
+      "options": {
+        "A": "x = 2, y = 4",
+        "B": "x = 6, y = -2",
+        "C": "x = 1, y = 5",
+        "D": "x = 3, y = 3"
+      },
+      "answer": "A",
+      "explanation": "From x - y = -2, x = y + -2. Substituting into 2x + y = 8: 2(y + -2) + y = 8 → 3y = 12 → y = 4, so x = 2."
+    },
+    {
+      "id": 49,
+      "topic": "Polynomial Functions: (i) Linear Functions, Equations and Inequalities",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (i) Linear Functions, Equations and Inequalities",
+      "difficulty": "medium",
+      "question": "Solve simultaneously: 2x + y = 8 and x - y = 1.",
+      "options": {
+        "A": "x = 2, y = 3",
+        "B": "x = 4, y = 1",
+        "C": "x = 3, y = 2",
+        "D": "x = 5, y = 1"
+      },
+      "answer": "C",
+      "explanation": "From x - y = 1, x = y + 1. Substituting into 2x + y = 8: 2(y + 1) + y = 8 → 3y = 6 → y = 2, so x = 3."
+    },
+    {
+      "id": 50,
+      "topic": "Polynomial Functions: (i) Linear Functions, Equations and Inequalities",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (i) Linear Functions, Equations and Inequalities",
+      "difficulty": "hard",
+      "question": "Solve simultaneously: 2x + y = 7 and x - y = -1.",
+      "options": {
+        "A": "x = 5, y = -1",
+        "B": "x = 3, y = 2",
+        "C": "x = 1, y = 4",
+        "D": "x = 2, y = 3"
+      },
+      "answer": "D",
+      "explanation": "From x - y = -1, x = y + -1. Substituting into 2x + y = 7: 2(y + -1) + y = 7 → 3y = 9 → y = 3, so x = 2."
+    },
+    {
+      "id": 51,
+      "topic": "Polynomial Functions: (i) Linear Functions, Equations and Inequalities",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (i) Linear Functions, Equations and Inequalities",
+      "difficulty": "easy",
+      "question": "Solve simultaneously: 2x + y = 12 and x - y = 0.",
+      "options": {
+        "A": "x = 4, y = 4",
+        "B": "x = 5, y = 3",
+        "C": "x = 3, y = 5",
+        "D": "x = 8, y = 0"
+      },
+      "answer": "A",
+      "explanation": "From x - y = 0, x = y + 0. Substituting into 2x + y = 12: 2(y + 0) + y = 12 → 3y = 12 → y = 4, so x = 4."
+    },
+    {
+      "id": 52,
+      "topic": "Polynomial Functions: (ii) Quadratic Functions, Equations and Inequalities",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (ii) Quadratic Functions, Equations and Inequalities",
+      "difficulty": "hard",
+      "question": "Solve simultaneously: 2x + y = 14 and x - y = 1.",
+      "options": {
+        "A": "x = 4, y = 5",
+        "B": "x = 9, y = 1",
+        "C": "x = 6, y = 3",
+        "D": "x = 5, y = 4"
+      },
+      "answer": "D",
+      "explanation": "From x - y = 1, x = y + 1. Substituting into 2x + y = 14: 2(y + 1) + y = 14 → 3y = 12 → y = 4, so x = 5."
+    },
+    {
+      "id": 53,
+      "topic": "Polynomial Functions: (ii) Quadratic Functions, Equations and Inequalities",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (ii) Quadratic Functions, Equations and Inequalities",
+      "difficulty": "easy",
+      "question": "Find the roots of the quadratic equation x² - 6x + 5 = 0.",
+      "options": {
+        "A": "4 and 2",
+        "B": "5 and 6",
+        "C": "5 and 1",
+        "D": "5 and 6"
+      },
+      "answer": "C",
+      "explanation": "x² - (5+1)x + (5×1) = 0 → roots are 5 and 1."
+    },
+    {
+      "id": 54,
+      "topic": "Polynomial Functions: (ii) Quadratic Functions, Equations and Inequalities",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (ii) Quadratic Functions, Equations and Inequalities",
+      "difficulty": "medium",
+      "question": "Find the roots of the quadratic equation x² - 7x + 10 = 0.",
+      "options": {
+        "A": "4 and 3",
+        "B": "10 and 7",
+        "C": "5 and 6",
+        "D": "5 and 2"
+      },
+      "answer": "D",
+      "explanation": "x² - (5+2)x + (5×2) = 0 → roots are 5 and 2."
+    },
+    {
+      "id": 55,
+      "topic": "Polynomial Functions: (iii) Cubic Functions and Equations",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (iii) Cubic Functions and Equations",
+      "difficulty": "easy",
+      "question": "Solve simultaneously: 2x + y = 10 and x - y = -1.",
+      "options": {
+        "A": "x = 2, y = 5",
+        "B": "x = 7, y = -1",
+        "C": "x = 4, y = 3",
+        "D": "x = 3, y = 4"
+      },
+      "answer": "D",
+      "explanation": "From x - y = -1, x = y + -1. Substituting into 2x + y = 10: 2(y + -1) + y = 10 → 3y = 12 → y = 4, so x = 3."
+    },
+    {
+      "id": 56,
+      "topic": "Polynomial Functions: (iii) Cubic Functions and Equations",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (iii) Cubic Functions and Equations",
+      "difficulty": "medium",
+      "question": "Solve simultaneously: 2x + y = 12 and x - y = 0.",
+      "options": {
+        "A": "x = 8, y = 0",
+        "B": "x = 3, y = 5",
+        "C": "x = 5, y = 3",
+        "D": "x = 4, y = 4"
+      },
+      "answer": "D",
+      "explanation": "From x - y = 0, x = y + 0. Substituting into 2x + y = 12: 2(y + 0) + y = 12 → 3y = 12 → y = 4, so x = 4."
+    },
+    {
+      "id": 57,
+      "topic": "Polynomial Functions: (iii) Cubic Functions and Equations",
+      "section": "General",
+      "subtopic": "Polynomial Functions: (iii) Cubic Functions and Equations",
+      "difficulty": "hard",
+      "question": "Solve simultaneously: 2x + y = 12 and x - y = 0.",
+      "options": {
+        "A": "x = 4, y = 4",
+        "B": "x = 5, y = 3",
+        "C": "x = 3, y = 5",
+        "D": "x = 8, y = 0"
+      },
+      "answer": "A",
+      "explanation": "From x - y = 0, x = y + 0. Substituting into 2x + y = 12: 2(y + 0) + y = 12 → 3y = 12 → y = 4, so x = 4."
+    },
+    {
+      "id": 58,
+      "topic": "Rational Functions",
+      "section": "General",
+      "subtopic": "Rational Functions",
+      "difficulty": "medium",
+      "question": "Evaluate 10 × 12 + 22.",
+      "options": {
+        "A": "120",
+        "B": "142",
+        "C": "98",
+        "D": "143"
+      },
+      "answer": "B",
+      "explanation": "10 × 12 + 22 = 120 + 22 = 142."
+    },
+    {
+      "id": 59,
+      "topic": "Rational Functions",
+      "section": "General",
+      "subtopic": "Rational Functions",
+      "difficulty": "hard",
+      "question": "Evaluate 3 × 11 + 14.",
+      "options": {
+        "A": "33",
+        "B": "47",
+        "C": "48",
+        "D": "19"
+      },
+      "answer": "B",
+      "explanation": "3 × 11 + 14 = 33 + 14 = 47."
+    },
+    {
+      "id": 60,
+      "topic": "Rational Functions",
+      "section": "General",
+      "subtopic": "Rational Functions",
+      "difficulty": "easy",
+      "question": "Evaluate 3 × 8 + 11.",
+      "options": {
+        "A": "35",
+        "B": "24",
+        "C": "13",
+        "D": "36"
+      },
+      "answer": "A",
+      "explanation": "3 × 8 + 11 = 24 + 11 = 35."
+    },
+    {
+      "id": 61,
+      "topic": "Rational Functions: (i) Rational functions of the form Q(x) = g(x)/f(x) where g(x) and f(x) are polynomials.",
+      "section": "General",
+      "subtopic": "Rational Functions: (i) Rational functions of the form Q(x) = g(x)/f(x) where g(x) and f(x) are polynomials.",
+      "difficulty": "hard",
+      "question": "Solve simultaneously: 2x + y = 8 and x - y = 1.",
+      "options": {
+        "A": "x = 4, y = 1",
+        "B": "x = 3, y = 2",
+        "C": "x = 5, y = 1",
+        "D": "x = 2, y = 3"
+      },
+      "answer": "B",
+      "explanation": "From x - y = 1, x = y + 1. Substituting into 2x + y = 8: 2(y + 1) + y = 8 → 3y = 6 → y = 2, so x = 3."
+    },
+    {
+      "id": 62,
+      "topic": "Rational Functions: (i) Rational functions of the form Q(x) = g(x)/f(x) where g(x) and f(x) are polynomials.",
+      "section": "General",
+      "subtopic": "Rational Functions: (i) Rational functions of the form Q(x) = g(x)/f(x) where g(x) and f(x) are polynomials.",
+      "difficulty": "easy",
+      "question": "Solve simultaneously: 2x + y = 11 and x - y = 4.",
+      "options": {
+        "A": "x = 4, y = 2",
+        "B": "x = 6, y = 4",
+        "C": "x = 6, y = 0",
+        "D": "x = 5, y = 1"
+      },
+      "answer": "D",
+      "explanation": "From x - y = 4, x = y + 4. Substituting into 2x + y = 11: 2(y + 4) + y = 11 → 3y = 3 → y = 1, so x = 5."
+    },
+    {
+      "id": 63,
+      "topic": "Rational Functions: (i) Rational functions of the form Q(x) = g(x)/f(x) where g(x) and f(x) are polynomials.",
+      "section": "General",
+      "subtopic": "Rational Functions: (i) Rational functions of the form Q(x) = g(x)/f(x) where g(x) and f(x) are polynomials.",
+      "difficulty": "medium",
+      "question": "Find the roots of the quadratic equation x² - 8x + 12 = 0.",
+      "options": {
+        "A": "1 and 7",
+        "B": "2 and 3",
+        "C": "2 and 6",
+        "D": "12 and 8"
+      },
+      "answer": "C",
+      "explanation": "x² - (2+6)x + (2×6) = 0 → roots are 2 and 6."
+    },
+    {
+      "id": 64,
+      "topic": "Rational Functions: (ii) Resolution of rational functions into partial fractions.",
+      "section": "General",
+      "subtopic": "Rational Functions: (ii) Resolution of rational functions into partial fractions.",
+      "difficulty": "easy",
+      "question": "Simplify (5/8) ÷ (7/5).",
+      "options": {
+        "A": "13/12",
+        "B": "25/56",
+        "C": "12/13",
+        "D": "35/40"
+      },
+      "answer": "B",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (5/8) × (5/7) = 25/56 = 25/56."
+    },
+    {
+      "id": 65,
+      "topic": "Rational Functions: (ii) Resolution of rational functions into partial fractions.",
+      "section": "General",
+      "subtopic": "Rational Functions: (ii) Resolution of rational functions into partial fractions.",
+      "difficulty": "medium",
+      "question": "Simplify (7/5) ÷ (9/3).",
+      "options": {
+        "A": "12/12",
+        "B": "7/15",
+        "C": "16/8",
+        "D": "63/15"
+      },
+      "answer": "B",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (7/5) × (3/9) = 21/45 = 7/15."
+    },
+    {
+      "id": 66,
+      "topic": "Rational Functions: (ii) Resolution of rational functions into partial fractions.",
+      "section": "General",
+      "subtopic": "Rational Functions: (ii) Resolution of rational functions into partial fractions.",
+      "difficulty": "hard",
+      "question": "Simplify (8/6) ÷ (8/3).",
+      "options": {
+        "A": "16/9",
+        "B": "64/18",
+        "C": "14/11",
+        "D": "1/2"
+      },
+      "answer": "D",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (8/6) × (3/8) = 24/48 = 1/2."
+    },
+    {
+      "id": 67,
+      "topic": "Indices and Logarithmic Functions",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions",
+      "difficulty": "medium",
+      "question": "Evaluate 2² × 2⁵.",
+      "options": {
+        "A": "1024",
+        "B": "36",
+        "C": "128",
+        "D": "0.125"
+      },
+      "answer": "C",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 2² × 2⁵ = 2⁷ = 128."
+    },
+    {
+      "id": 68,
+      "topic": "Indices and Logarithmic Functions",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions",
+      "difficulty": "hard",
+      "question": "Evaluate 5⁵ × 5³.",
+      "options": {
+        "A": "3250",
+        "B": "390625",
+        "C": "30517578125",
+        "D": "25"
+      },
+      "answer": "B",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 5⁵ × 5³ = 5⁸ = 390625."
+    },
+    {
+      "id": 69,
+      "topic": "Indices and Logarithmic Functions",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions",
+      "difficulty": "easy",
+      "question": "Evaluate 2³ × 2².",
+      "options": {
+        "A": "32",
+        "B": "12",
+        "C": "2",
+        "D": "64"
+      },
+      "answer": "A",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 2³ × 2² = 2⁵ = 32."
+    },
+    {
+      "id": 70,
+      "topic": "Indices and Logarithmic Functions: (i) Indices",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions: (i) Indices",
+      "difficulty": "hard",
+      "question": "Evaluate 5² × 5³.",
+      "options": {
+        "A": "15625",
+        "B": "150",
+        "C": "0.2",
+        "D": "3125"
+      },
+      "answer": "D",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 5² × 5³ = 5⁵ = 3125."
+    },
+    {
+      "id": 71,
+      "topic": "Indices and Logarithmic Functions: (i) Indices",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions: (i) Indices",
+      "difficulty": "easy",
+      "question": "Evaluate 5⁵ × 5².",
+      "options": {
+        "A": "125",
+        "B": "9765625",
+        "C": "3150",
+        "D": "78125"
+      },
+      "answer": "D",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 5⁵ × 5² = 5⁷ = 78125."
+    },
+    {
+      "id": 72,
+      "topic": "Indices and Logarithmic Functions: (i) Indices",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions: (i) Indices",
+      "difficulty": "medium",
+      "question": "Evaluate 5² × 5⁴.",
+      "options": {
+        "A": "650",
+        "B": "0.04",
+        "C": "15625",
+        "D": "390625"
+      },
+      "answer": "C",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 5² × 5⁴ = 5⁶ = 15625."
+    },
+    {
+      "id": 73,
+      "topic": "Indices and Logarithmic Functions: (ii) Logarithms",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions: (ii) Logarithms",
+      "difficulty": "easy",
+      "question": "Evaluate 5² × 5³.",
+      "options": {
+        "A": "3125",
+        "B": "15625",
+        "C": "0.2",
+        "D": "150"
+      },
+      "answer": "A",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 5² × 5³ = 5⁵ = 3125."
+    },
+    {
+      "id": 74,
+      "topic": "Indices and Logarithmic Functions: (ii) Logarithms",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions: (ii) Logarithms",
+      "difficulty": "medium",
+      "question": "Evaluate 3³ × 3⁵.",
+      "options": {
+        "A": "14348907",
+        "B": "6561",
+        "C": "0.1111111111111111",
+        "D": "270"
+      },
+      "answer": "B",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 3³ × 3⁵ = 3⁸ = 6561."
+    },
+    {
+      "id": 75,
+      "topic": "Indices and Logarithmic Functions: (ii) Logarithms",
+      "section": "General",
+      "subtopic": "Indices and Logarithmic Functions: (ii) Logarithms",
+      "difficulty": "hard",
+      "question": "Evaluate 2² × 2².",
+      "options": {
+        "A": "16",
+        "B": "8",
+        "C": "1",
+        "D": "16"
+      },
+      "answer": "D",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 2² × 2² = 2⁴ = 16."
+    },
+    {
+      "id": 76,
+      "topic": "Permutation and Combinations",
+      "section": "General",
+      "subtopic": "Permutation and Combinations",
+      "difficulty": "medium",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "120",
+        "B": "20",
+        "C": "25",
+        "D": "125"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 77,
+      "topic": "Permutation and Combinations",
+      "section": "General",
+      "subtopic": "Permutation and Combinations",
+      "difficulty": "hard",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "5040",
+        "B": "5047",
+        "C": "42",
+        "D": "49"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 78,
+      "topic": "Permutation and Combinations",
+      "section": "General",
+      "subtopic": "Permutation and Combinations",
+      "difficulty": "easy",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "25",
+        "B": "120",
+        "C": "20",
+        "D": "125"
+      },
+      "answer": "B",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 79,
+      "topic": "Permutation and Combinations: (i) Simple cases of arrangements",
+      "section": "General",
+      "subtopic": "Permutation and Combinations: (i) Simple cases of arrangements",
+      "difficulty": "hard",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "5047",
+        "B": "5040",
+        "C": "49",
+        "D": "42"
+      },
+      "answer": "B",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 80,
+      "topic": "Permutation and Combinations: (i) Simple cases of arrangements",
+      "section": "General",
+      "subtopic": "Permutation and Combinations: (i) Simple cases of arrangements",
+      "difficulty": "easy",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "42",
+        "B": "5040",
+        "C": "5047",
+        "D": "49"
+      },
+      "answer": "B",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 81,
+      "topic": "Permutation and Combinations: (i) Simple cases of arrangements",
+      "section": "General",
+      "subtopic": "Permutation and Combinations: (i) Simple cases of arrangements",
+      "difficulty": "medium",
+      "question": "In how many ways can 6 different books be arranged on a shelf?",
+      "options": {
+        "A": "726",
+        "B": "36",
+        "C": "30",
+        "D": "720"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 6! = 720."
+    },
+    {
+      "id": 82,
+      "topic": "Permutation and Combinations: (ii) Simple cases of selection of objects.",
+      "section": "General",
+      "subtopic": "Permutation and Combinations: (ii) Simple cases of selection of objects.",
+      "difficulty": "easy",
+      "question": "In how many ways can 4 different books be arranged on a shelf?",
+      "options": {
+        "A": "16",
+        "B": "12",
+        "C": "28",
+        "D": "24"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 4! = 24."
+    },
+    {
+      "id": 83,
+      "topic": "Permutation and Combinations: (ii) Simple cases of selection of objects.",
+      "section": "General",
+      "subtopic": "Permutation and Combinations: (ii) Simple cases of selection of objects.",
+      "difficulty": "medium",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "20",
+        "B": "125",
+        "C": "25",
+        "D": "120"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 84,
+      "topic": "Permutation and Combinations: (ii) Simple cases of selection of objects.",
+      "section": "General",
+      "subtopic": "Permutation and Combinations: (ii) Simple cases of selection of objects.",
+      "difficulty": "hard",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "5040",
+        "B": "42",
+        "C": "49",
+        "D": "5047"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 85,
+      "topic": "Binomial Theorem",
+      "section": "General",
+      "subtopic": "Binomial Theorem",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 79°. How many sides has the polygon?",
+      "options": {
+        "A": "3.5643564356435644",
+        "B": "2.5643564356435644",
+        "C": "4.564356435643564",
+        "D": "1.7821782178217822"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 79° = 101°. Number of sides = 360°/101° = 3.5643564356435644."
+    },
+    {
+      "id": 86,
+      "topic": "Binomial Theorem",
+      "section": "General",
+      "subtopic": "Binomial Theorem",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 61°. How many sides has the polygon?",
+      "options": {
+        "A": "1.5126050420168067",
+        "B": "4.025210084033613",
+        "C": "3.0252100840336134",
+        "D": "2.0252100840336134"
+      },
+      "answer": "C",
+      "explanation": "Exterior angle = 180° - 61° = 119°. Number of sides = 360°/119° = 3.0252100840336134."
+    },
+    {
+      "id": 87,
+      "topic": "Binomial Theorem",
+      "section": "General",
+      "subtopic": "Binomial Theorem",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 147°. How many sides has the polygon?",
+      "options": {
+        "A": "11.909090909090908",
+        "B": "9.909090909090908",
+        "C": "10.909090909090908",
+        "D": "5.454545454545454"
+      },
+      "answer": "C",
+      "explanation": "Exterior angle = 180° - 147° = 33°. Number of sides = 360°/33° = 10.909090909090908."
+    },
+    {
+      "id": 88,
+      "topic": "Binomial Theorem: Expansion of (a + b)^n.",
+      "section": "General",
+      "subtopic": "Binomial Theorem: Expansion of (a + b)^n.",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 130°. How many sides has the polygon?",
+      "options": {
+        "A": "8.2",
+        "B": "6.2",
+        "C": "3.6",
+        "D": "7.2"
+      },
+      "answer": "D",
+      "explanation": "Exterior angle = 180° - 130° = 50°. Number of sides = 360°/50° = 7.2."
+    },
+    {
+      "id": 89,
+      "topic": "Binomial Theorem: Expansion of (a + b)^n.",
+      "section": "General",
+      "subtopic": "Binomial Theorem: Expansion of (a + b)^n.",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 97°. How many sides has the polygon?",
+      "options": {
+        "A": "2.1686746987951806",
+        "B": "4.337349397590361",
+        "C": "5.337349397590361",
+        "D": "3.337349397590361"
+      },
+      "answer": "B",
+      "explanation": "Exterior angle = 180° - 97° = 83°. Number of sides = 360°/83° = 4.337349397590361."
+    },
+    {
+      "id": 90,
+      "topic": "Binomial Theorem: Expansion of (a + b)^n.",
+      "section": "General",
+      "subtopic": "Binomial Theorem: Expansion of (a + b)^n.",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 140°. How many sides has the polygon?",
+      "options": {
+        "A": "4.5",
+        "B": "9",
+        "C": "8",
+        "D": "10"
+      },
+      "answer": "B",
+      "explanation": "Exterior angle = 180° - 140° = 40°. Number of sides = 360°/40° = 9."
+    },
+    {
+      "id": 91,
+      "topic": "Sequences and Series",
+      "section": "General",
+      "subtopic": "Sequences and Series",
+      "difficulty": "easy",
+      "question": "Find the 8th term of the A.P: 4, 8, 12, ...",
+      "options": {
+        "A": "36",
+        "B": "32",
+        "C": "36",
+        "D": "36"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 4 + (8-1)4 = 4 + 28 = 32."
+    },
+    {
+      "id": 92,
+      "topic": "Sequences and Series",
+      "section": "General",
+      "subtopic": "Sequences and Series",
+      "difficulty": "medium",
+      "question": "Find the 9th term of the A.P: 6, 9, 12, ...",
+      "options": {
+        "A": "33",
+        "B": "33",
+        "C": "30",
+        "D": "57"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 6 + (9-1)3 = 6 + 24 = 30."
+    },
+    {
+      "id": 93,
+      "topic": "Sequences and Series",
+      "section": "General",
+      "subtopic": "Sequences and Series",
+      "difficulty": "hard",
+      "question": "Find the 7th term of the A.P: 5, 10, 15, ...",
+      "options": {
+        "A": "40",
+        "B": "40",
+        "C": "40",
+        "D": "35"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 5 + (7-1)5 = 5 + 30 = 35."
+    },
+    {
+      "id": 94,
+      "topic": "Sequences and Series: (i) Finite and Infinite sequences.",
+      "section": "General",
+      "subtopic": "Sequences and Series: (i) Finite and Infinite sequences.",
+      "difficulty": "medium",
+      "question": "Find the 10th term of the A.P: 9, 14, 19, ...",
+      "options": {
+        "A": "54",
+        "B": "95",
+        "C": "59",
+        "D": "59"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 9 + (10-1)5 = 9 + 45 = 54."
+    },
+    {
+      "id": 95,
+      "topic": "Sequences and Series: (i) Finite and Infinite sequences.",
+      "section": "General",
+      "subtopic": "Sequences and Series: (i) Finite and Infinite sequences.",
+      "difficulty": "hard",
+      "question": "Find the 10th term of the A.P: 4, 9, 14, ...",
+      "options": {
+        "A": "54",
+        "B": "49",
+        "C": "45",
+        "D": "54"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 4 + (10-1)5 = 4 + 45 = 49."
+    },
+    {
+      "id": 96,
+      "topic": "Sequences and Series: (i) Finite and Infinite sequences.",
+      "section": "General",
+      "subtopic": "Sequences and Series: (i) Finite and Infinite sequences.",
+      "difficulty": "easy",
+      "question": "Find the 9th term of the A.P: 2, 4, 6, ...",
+      "options": {
+        "A": "20",
+        "B": "20",
+        "C": "18",
+        "D": "20"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 2 + (9-1)2 = 2 + 16 = 18."
+    },
+    {
+      "id": 97,
+      "topic": "Sequences and Series: (ii) Linear sequence/Arithmetic Progression (A.P.) and Geometric Progression (G.P.).",
+      "section": "General",
+      "subtopic": "Sequences and Series: (ii) Linear sequence/Arithmetic Progression (A.P.) and Geometric Progression (G.P.).",
+      "difficulty": "hard",
+      "question": "Find the 10th term of the A.P: 6, 8, 10, ...",
+      "options": {
+        "A": "24",
+        "B": "62",
+        "C": "26",
+        "D": "26"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 6 + (10-1)2 = 6 + 18 = 24."
+    },
+    {
+      "id": 98,
+      "topic": "Sequences and Series: (ii) Linear sequence/Arithmetic Progression (A.P.) and Geometric Progression (G.P.).",
+      "section": "General",
+      "subtopic": "Sequences and Series: (ii) Linear sequence/Arithmetic Progression (A.P.) and Geometric Progression (G.P.).",
+      "difficulty": "easy",
+      "question": "Find the 6th term of the A.P: 3, 6, 9, ...",
+      "options": {
+        "A": "21",
+        "B": "18",
+        "C": "21",
+        "D": "21"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 3 + (6-1)3 = 3 + 15 = 18."
+    },
+    {
+      "id": 99,
+      "topic": "Sequences and Series: (ii) Linear sequence/Arithmetic Progression (A.P.) and Geometric Progression (G.P.).",
+      "section": "General",
+      "subtopic": "Sequences and Series: (ii) Linear sequence/Arithmetic Progression (A.P.) and Geometric Progression (G.P.).",
+      "difficulty": "medium",
+      "question": "Find the 10th term of the A.P: 3, 7, 11, ...",
+      "options": {
+        "A": "39",
+        "B": "34",
+        "C": "43",
+        "D": "43"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 3 + (10-1)4 = 3 + 36 = 39."
+    },
+    {
+      "id": 100,
+      "topic": "Sequences and Series: (iii) Finite and Infinite series.",
+      "section": "General",
+      "subtopic": "Sequences and Series: (iii) Finite and Infinite series.",
+      "difficulty": "easy",
+      "question": "Find the 6th term of the A.P: 3, 7, 11, ...",
+      "options": {
+        "A": "27",
+        "B": "27",
+        "C": "22",
+        "D": "23"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 3 + (6-1)4 = 3 + 20 = 23."
+    },
+    {
+      "id": 101,
+      "topic": "Sequences and Series: (iii) Finite and Infinite series.",
+      "section": "General",
+      "subtopic": "Sequences and Series: (iii) Finite and Infinite series.",
+      "difficulty": "medium",
+      "question": "Find the 5th term of the A.P: 9, 13, 17, ...",
+      "options": {
+        "A": "29",
+        "B": "25",
+        "C": "49",
+        "D": "29"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 9 + (5-1)4 = 9 + 16 = 25."
+    },
+    {
+      "id": 102,
+      "topic": "Sequences and Series: (iii) Finite and Infinite series.",
+      "section": "General",
+      "subtopic": "Sequences and Series: (iii) Finite and Infinite series.",
+      "difficulty": "hard",
+      "question": "Find the 10th term of the A.P: 9, 14, 19, ...",
+      "options": {
+        "A": "54",
+        "B": "59",
+        "C": "59",
+        "D": "95"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 9 + (10-1)5 = 9 + 45 = 54."
+    },
+    {
+      "id": 103,
+      "topic": "Sequences and Series: (iv) Linear series (sum of A.P.) and exponential series (sum of G.P.).",
+      "section": "General",
+      "subtopic": "Sequences and Series: (iv) Linear series (sum of A.P.) and exponential series (sum of G.P.).",
+      "difficulty": "medium",
+      "question": "Find the 10th term of the A.P: 4, 6, 8, ...",
+      "options": {
+        "A": "22",
+        "B": "42",
+        "C": "24",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 4 + (10-1)2 = 4 + 18 = 22."
+    },
+    {
+      "id": 104,
+      "topic": "Sequences and Series: (iv) Linear series (sum of A.P.) and exponential series (sum of G.P.).",
+      "section": "General",
+      "subtopic": "Sequences and Series: (iv) Linear series (sum of A.P.) and exponential series (sum of G.P.).",
+      "difficulty": "hard",
+      "question": "Find the 10th term of the A.P: 2, 5, 8, ...",
+      "options": {
+        "A": "32",
+        "B": "29",
+        "C": "23",
+        "D": "32"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 2 + (10-1)3 = 2 + 27 = 29."
+    },
+    {
+      "id": 105,
+      "topic": "Sequences and Series: (iv) Linear series (sum of A.P.) and exponential series (sum of G.P.).",
+      "section": "General",
+      "subtopic": "Sequences and Series: (iv) Linear series (sum of A.P.) and exponential series (sum of G.P.).",
+      "difficulty": "easy",
+      "question": "Find the 6th term of the A.P: 4, 8, 12, ...",
+      "options": {
+        "A": "28",
+        "B": "28",
+        "C": "28",
+        "D": "24"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 4 + (6-1)4 = 4 + 20 = 24."
+    },
+    {
+      "id": 106,
+      "topic": "Sequences and Series: (v) Recurrence Series",
+      "section": "General",
+      "subtopic": "Sequences and Series: (v) Recurrence Series",
+      "difficulty": "hard",
+      "question": "Find the 6th term of the A.P: 4, 6, 8, ...",
+      "options": {
+        "A": "16",
+        "B": "16",
+        "C": "26",
+        "D": "14"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 4 + (6-1)2 = 4 + 10 = 14."
+    },
+    {
+      "id": 107,
+      "topic": "Sequences and Series: (v) Recurrence Series",
+      "section": "General",
+      "subtopic": "Sequences and Series: (v) Recurrence Series",
+      "difficulty": "easy",
+      "question": "Find the 6th term of the A.P: 8, 10, 12, ...",
+      "options": {
+        "A": "50",
+        "B": "18",
+        "C": "20",
+        "D": "20"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 8 + (6-1)2 = 8 + 10 = 18."
+    },
+    {
+      "id": 108,
+      "topic": "Sequences and Series: (v) Recurrence Series",
+      "section": "General",
+      "subtopic": "Sequences and Series: (v) Recurrence Series",
+      "difficulty": "medium",
+      "question": "Find the 7th term of the A.P: 5, 8, 11, ...",
+      "options": {
+        "A": "26",
+        "B": "23",
+        "C": "38",
+        "D": "26"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 5 + (7-1)3 = 5 + 18 = 23."
+    },
+    {
+      "id": 109,
+      "topic": "Matrices and Linear Transformation",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation",
+      "difficulty": "easy",
+      "question": "Find the determinant of the matrix [2 3; 3 3].",
+      "options": {
+        "A": "-3",
+        "B": "5",
+        "C": "15",
+        "D": "-3"
+      },
+      "answer": "D",
+      "explanation": "Determinant = (2 × 3) - (3 × 3) = 6 - 9 = -3."
+    },
+    {
+      "id": 110,
+      "topic": "Matrices and Linear Transformation",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation",
+      "difficulty": "medium",
+      "question": "Find the determinant of the matrix [5 3; 1 2].",
+      "options": {
+        "A": "-1",
+        "B": "13",
+        "C": "7",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "Determinant = (5 × 2) - (3 × 1) = 10 - 3 = 7."
+    },
+    {
+      "id": 111,
+      "topic": "Matrices and Linear Transformation",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation",
+      "difficulty": "hard",
+      "question": "Find the determinant of the matrix [5 1; 5 2].",
+      "options": {
+        "A": "5",
+        "B": "23",
+        "C": "7",
+        "D": "15"
+      },
+      "answer": "A",
+      "explanation": "Determinant = (5 × 2) - (1 × 5) = 10 - 5 = 5."
+    },
+    {
+      "id": 112,
+      "topic": "Matrices and Linear Transformation: (i) Matrices",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (i) Matrices",
+      "difficulty": "medium",
+      "question": "Find the determinant of the matrix [1 4; 2 1].",
+      "options": {
+        "A": "2",
+        "B": "9",
+        "C": "-7",
+        "D": "-2"
+      },
+      "answer": "C",
+      "explanation": "Determinant = (1 × 1) - (4 × 2) = 1 - 8 = -7."
+    },
+    {
+      "id": 113,
+      "topic": "Matrices and Linear Transformation: (i) Matrices",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (i) Matrices",
+      "difficulty": "hard",
+      "question": "Find the determinant of the matrix [3 5; 3 1].",
+      "options": {
+        "A": "-12",
+        "B": "18",
+        "C": "4",
+        "D": "4"
+      },
+      "answer": "A",
+      "explanation": "Determinant = (3 × 1) - (5 × 3) = 3 - 15 = -12."
+    },
+    {
+      "id": 114,
+      "topic": "Matrices and Linear Transformation: (i) Matrices",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (i) Matrices",
+      "difficulty": "easy",
+      "question": "Find the determinant of the matrix [5 3; 3 1].",
+      "options": {
+        "A": "-4",
+        "B": "14",
+        "C": "12",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "Determinant = (5 × 1) - (3 × 3) = 5 - 9 = -4."
+    },
+    {
+      "id": 115,
+      "topic": "Matrices and Linear Transformation: (ii) Determinants",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (ii) Determinants",
+      "difficulty": "hard",
+      "question": "Find the determinant of the matrix [3 2; 1 3].",
+      "options": {
+        "A": "-3",
+        "B": "6",
+        "C": "7",
+        "D": "11"
+      },
+      "answer": "C",
+      "explanation": "Determinant = (3 × 3) - (2 × 1) = 9 - 2 = 7."
+    },
+    {
+      "id": 116,
+      "topic": "Matrices and Linear Transformation: (ii) Determinants",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (ii) Determinants",
+      "difficulty": "easy",
+      "question": "Find the determinant of the matrix [1 5; 5 2].",
+      "options": {
+        "A": "27",
+        "B": "-23",
+        "C": "3",
+        "D": "-5"
+      },
+      "answer": "B",
+      "explanation": "Determinant = (1 × 2) - (5 × 5) = 2 - 25 = -23."
+    },
+    {
+      "id": 117,
+      "topic": "Matrices and Linear Transformation: (ii) Determinants",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (ii) Determinants",
+      "difficulty": "medium",
+      "question": "Find the determinant of the matrix [5 3; 4 3].",
+      "options": {
+        "A": "8",
+        "B": "27",
+        "C": "11",
+        "D": "3"
+      },
+      "answer": "D",
+      "explanation": "Determinant = (5 × 3) - (3 × 4) = 15 - 12 = 3."
+    },
+    {
+      "id": 118,
+      "topic": "Matrices and Linear Transformation: (iii) Inverse of 2x2 Matrices",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (iii) Inverse of 2x2 Matrices",
+      "difficulty": "easy",
+      "question": "If y varies directly as x and y = 18 when x = 3, find y when x = 8.",
+      "options": {
+        "A": "48",
+        "B": "14",
+        "C": "23",
+        "D": "144"
+      },
+      "answer": "A",
+      "explanation": "y = kx → 18 = k(3) → k = 6. When x = 8, y = 6 × 8 = 48."
+    },
+    {
+      "id": 119,
+      "topic": "Matrices and Linear Transformation: (iii) Inverse of 2x2 Matrices",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (iii) Inverse of 2x2 Matrices",
+      "difficulty": "medium",
+      "question": "If y varies directly as x and y = 35 when x = 7, find y when x = 12.",
+      "options": {
+        "A": "17",
+        "B": "420",
+        "C": "40",
+        "D": "60"
+      },
+      "answer": "D",
+      "explanation": "y = kx → 35 = k(7) → k = 5. When x = 12, y = 5 × 12 = 60."
+    },
+    {
+      "id": 120,
+      "topic": "Matrices and Linear Transformation: (iii) Inverse of 2x2 Matrices",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (iii) Inverse of 2x2 Matrices",
+      "difficulty": "hard",
+      "question": "If y varies directly as x and y = 60 when x = 10, find y when x = 15.",
+      "options": {
+        "A": "90",
+        "B": "65",
+        "C": "21",
+        "D": "900"
+      },
+      "answer": "A",
+      "explanation": "y = kx → 60 = k(10) → k = 6. When x = 15, y = 6 × 15 = 90."
+    },
+    {
+      "id": 121,
+      "topic": "Matrices and Linear Transformation: (iv) Linear Transformation",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (iv) Linear Transformation",
+      "difficulty": "medium",
+      "question": "Find the determinant of the matrix [1 2; 3 4].",
+      "options": {
+        "A": "-5",
+        "B": "5",
+        "C": "-2",
+        "D": "10"
+      },
+      "answer": "C",
+      "explanation": "Determinant = (1 × 4) - (2 × 3) = 4 - 6 = -2."
+    },
+    {
+      "id": 122,
+      "topic": "Matrices and Linear Transformation: (iv) Linear Transformation",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (iv) Linear Transformation",
+      "difficulty": "hard",
+      "question": "Find the determinant of the matrix [3 3; 5 1].",
+      "options": {
+        "A": "18",
+        "B": "4",
+        "C": "-12",
+        "D": "12"
+      },
+      "answer": "C",
+      "explanation": "Determinant = (3 × 1) - (3 × 5) = 3 - 15 = -12."
+    },
+    {
+      "id": 123,
+      "topic": "Matrices and Linear Transformation: (iv) Linear Transformation",
+      "section": "General",
+      "subtopic": "Matrices and Linear Transformation: (iv) Linear Transformation",
+      "difficulty": "easy",
+      "question": "Find the determinant of the matrix [3 2; 3 2].",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "12",
+        "D": "5"
+      },
+      "answer": "A",
+      "explanation": "Determinant = (3 × 2) - (2 × 3) = 6 - 6 = 0."
+    },
+    {
+      "id": 124,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "hard",
+      "question": "In a right-angled triangle, the hypotenuse is 19 cm and one angle is 45°. Find the length of the side opposite the 45° angle.",
+      "options": {
+        "A": "13.4 cm",
+        "B": "9.5 cm",
+        "C": "19 cm",
+        "D": "13.4 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(45°) = opposite/hypotenuse → opposite = 19 × sin(45°) = 13.4 cm."
+    },
+    {
+      "id": 125,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "easy",
+      "question": "In a right-angled triangle, the hypotenuse is 13 cm and one angle is 30°. Find the length of the side opposite the 30° angle.",
+      "options": {
+        "A": "6.5 cm",
+        "B": "13 cm",
+        "C": "11.3 cm",
+        "D": "6.5 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(30°) = opposite/hypotenuse → opposite = 13 × sin(30°) = 6.5 cm."
+    },
+    {
+      "id": 126,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "medium",
+      "question": "In a right-angled triangle, the hypotenuse is 18 cm and one angle is 30°. Find the length of the side opposite the 30° angle.",
+      "options": {
+        "A": "15.6 cm",
+        "B": "9 cm",
+        "C": "9 cm",
+        "D": "18 cm"
+      },
+      "answer": "C",
+      "explanation": "sin(30°) = opposite/hypotenuse → opposite = 18 × sin(30°) = 9 cm."
+    },
+    {
+      "id": 127,
+      "topic": "Trigonometry: (i) Trigonometric Ratios and Rules",
+      "section": "General",
+      "subtopic": "Trigonometry: (i) Trigonometric Ratios and Rules",
+      "difficulty": "easy",
+      "question": "In a right-angled triangle, the hypotenuse is 10 cm and one angle is 45°. Find the length of the side opposite the 45° angle.",
+      "options": {
+        "A": "7.1 cm",
+        "B": "7.1 cm",
+        "C": "10 cm",
+        "D": "5 cm"
+      },
+      "answer": "B",
+      "explanation": "sin(45°) = opposite/hypotenuse → opposite = 10 × sin(45°) = 7.1 cm."
+    },
+    {
+      "id": 128,
+      "topic": "Trigonometry: (i) Trigonometric Ratios and Rules",
+      "section": "General",
+      "subtopic": "Trigonometry: (i) Trigonometric Ratios and Rules",
+      "difficulty": "medium",
+      "question": "In a right-angled triangle, the hypotenuse is 17 cm and one angle is 45°. Find the length of the side opposite the 45° angle.",
+      "options": {
+        "A": "12 cm",
+        "B": "12 cm",
+        "C": "17 cm",
+        "D": "8.5 cm"
+      },
+      "answer": "B",
+      "explanation": "sin(45°) = opposite/hypotenuse → opposite = 17 × sin(45°) = 12 cm."
+    },
+    {
+      "id": 129,
+      "topic": "Trigonometry: (i) Trigonometric Ratios and Rules",
+      "section": "General",
+      "subtopic": "Trigonometry: (i) Trigonometric Ratios and Rules",
+      "difficulty": "hard",
+      "question": "In a right-angled triangle, the hypotenuse is 16 cm and one angle is 30°. Find the length of the side opposite the 30° angle.",
+      "options": {
+        "A": "13.9 cm",
+        "B": "16 cm",
+        "C": "8 cm",
+        "D": "8 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(30°) = opposite/hypotenuse → opposite = 16 × sin(30°) = 8 cm."
+    },
+    {
+      "id": 130,
+      "topic": "Trigonometry: (ii) Compound and Multiple Angles.",
+      "section": "General",
+      "subtopic": "Trigonometry: (ii) Compound and Multiple Angles.",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 73°. How many sides has the polygon?",
+      "options": {
+        "A": "3.364485981308411",
+        "B": "2.364485981308411",
+        "C": "1.6822429906542056",
+        "D": "4.364485981308411"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 73° = 107°. Number of sides = 360°/107° = 3.364485981308411."
+    },
+    {
+      "id": 131,
+      "topic": "Trigonometry: (ii) Compound and Multiple Angles.",
+      "section": "General",
+      "subtopic": "Trigonometry: (ii) Compound and Multiple Angles.",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 79°. How many sides has the polygon?",
+      "options": {
+        "A": "4.564356435643564",
+        "B": "3.5643564356435644",
+        "C": "2.5643564356435644",
+        "D": "1.7821782178217822"
+      },
+      "answer": "B",
+      "explanation": "Exterior angle = 180° - 79° = 101°. Number of sides = 360°/101° = 3.5643564356435644."
+    },
+    {
+      "id": 132,
+      "topic": "Trigonometry: (ii) Compound and Multiple Angles.",
+      "section": "General",
+      "subtopic": "Trigonometry: (ii) Compound and Multiple Angles.",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 85°. How many sides has the polygon?",
+      "options": {
+        "A": "1.894736842105263",
+        "B": "3.789473684210526",
+        "C": "4.789473684210526",
+        "D": "2.789473684210526"
+      },
+      "answer": "B",
+      "explanation": "Exterior angle = 180° - 85° = 95°. Number of sides = 360°/95° = 3.789473684210526."
+    },
+    {
+      "id": 133,
+      "topic": "Trigonometry: (iii) Trigonometric Functions and Equations",
+      "section": "General",
+      "subtopic": "Trigonometry: (iii) Trigonometric Functions and Equations",
+      "difficulty": "hard",
+      "question": "In a right-angled triangle, the hypotenuse is 10 cm and one angle is 30°. Find the length of the side opposite the 30° angle.",
+      "options": {
+        "A": "8.7 cm",
+        "B": "5 cm",
+        "C": "10 cm",
+        "D": "5 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(30°) = opposite/hypotenuse → opposite = 10 × sin(30°) = 5 cm."
+    },
+    {
+      "id": 134,
+      "topic": "Trigonometry: (iii) Trigonometric Functions and Equations",
+      "section": "General",
+      "subtopic": "Trigonometry: (iii) Trigonometric Functions and Equations",
+      "difficulty": "easy",
+      "question": "In a right-angled triangle, the hypotenuse is 14 cm and one angle is 45°. Find the length of the side opposite the 45° angle.",
+      "options": {
+        "A": "9.9 cm",
+        "B": "7 cm",
+        "C": "9.9 cm",
+        "D": "14 cm"
+      },
+      "answer": "C",
+      "explanation": "sin(45°) = opposite/hypotenuse → opposite = 14 × sin(45°) = 9.9 cm."
+    },
+    {
+      "id": 135,
+      "topic": "Trigonometry: (iii) Trigonometric Functions and Equations",
+      "section": "General",
+      "subtopic": "Trigonometry: (iii) Trigonometric Functions and Equations",
+      "difficulty": "medium",
+      "question": "In a right-angled triangle, the hypotenuse is 18 cm and one angle is 60°. Find the length of the side opposite the 60° angle.",
+      "options": {
+        "A": "18 cm",
+        "B": "9 cm",
+        "C": "9 cm",
+        "D": "15.6 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(60°) = opposite/hypotenuse → opposite = 18 × sin(60°) = 15.6 cm."
+    },
+    {
+      "id": 136,
+      "topic": "Co-ordinate Geometry",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 117°. How many sides has the polygon?",
+      "options": {
+        "A": "5.714285714285714",
+        "B": "4.714285714285714",
+        "C": "2.857142857142857",
+        "D": "6.714285714285714"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 117° = 63°. Number of sides = 360°/63° = 5.714285714285714."
+    },
+    {
+      "id": 137,
+      "topic": "Co-ordinate Geometry",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 121°. How many sides has the polygon?",
+      "options": {
+        "A": "6.101694915254237",
+        "B": "5.101694915254237",
+        "C": "3.0508474576271185",
+        "D": "7.101694915254237"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 121° = 59°. Number of sides = 360°/59° = 6.101694915254237."
+    },
+    {
+      "id": 138,
+      "topic": "Co-ordinate Geometry",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 124°. How many sides has the polygon?",
+      "options": {
+        "A": "3.2142857142857144",
+        "B": "6.428571428571429",
+        "C": "7.428571428571429",
+        "D": "5.428571428571429"
+      },
+      "answer": "B",
+      "explanation": "Exterior angle = 180° - 124° = 56°. Number of sides = 360°/56° = 6.428571428571429."
+    },
+    {
+      "id": 139,
+      "topic": "Co-ordinate Geometry: (i) Straight Lines",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry: (i) Straight Lines",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 61°. How many sides has the polygon?",
+      "options": {
+        "A": "4.025210084033613",
+        "B": "3.0252100840336134",
+        "C": "2.0252100840336134",
+        "D": "1.5126050420168067"
+      },
+      "answer": "B",
+      "explanation": "Exterior angle = 180° - 61° = 119°. Number of sides = 360°/119° = 3.0252100840336134."
+    },
+    {
+      "id": 140,
+      "topic": "Co-ordinate Geometry: (i) Straight Lines",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry: (i) Straight Lines",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 95°. How many sides has the polygon?",
+      "options": {
+        "A": "4.235294117647059",
+        "B": "3.235294117647059",
+        "C": "2.1176470588235294",
+        "D": "5.235294117647059"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 95° = 85°. Number of sides = 360°/85° = 4.235294117647059."
+    },
+    {
+      "id": 141,
+      "topic": "Co-ordinate Geometry: (i) Straight Lines",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry: (i) Straight Lines",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 70°. How many sides has the polygon?",
+      "options": {
+        "A": "2.272727272727273",
+        "B": "4.272727272727273",
+        "C": "1.6363636363636365",
+        "D": "3.272727272727273"
+      },
+      "answer": "D",
+      "explanation": "Exterior angle = 180° - 70° = 110°. Number of sides = 360°/110° = 3.272727272727273."
+    },
+    {
+      "id": 142,
+      "topic": "Co-ordinate Geometry: (ii) Conic Sections",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry: (ii) Conic Sections",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 117°. How many sides has the polygon?",
+      "options": {
+        "A": "2.857142857142857",
+        "B": "6.714285714285714",
+        "C": "5.714285714285714",
+        "D": "4.714285714285714"
+      },
+      "answer": "C",
+      "explanation": "Exterior angle = 180° - 117° = 63°. Number of sides = 360°/63° = 5.714285714285714."
+    },
+    {
+      "id": 143,
+      "topic": "Co-ordinate Geometry: (ii) Conic Sections",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry: (ii) Conic Sections",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 67°. How many sides has the polygon?",
+      "options": {
+        "A": "2.185840707964602",
+        "B": "3.185840707964602",
+        "C": "4.185840707964601",
+        "D": "1.592920353982301"
+      },
+      "answer": "B",
+      "explanation": "Exterior angle = 180° - 67° = 113°. Number of sides = 360°/113° = 3.185840707964602."
+    },
+    {
+      "id": 144,
+      "topic": "Co-ordinate Geometry: (ii) Conic Sections",
+      "section": "General",
+      "subtopic": "Co-ordinate Geometry: (ii) Conic Sections",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 136°. How many sides has the polygon?",
+      "options": {
+        "A": "8.181818181818182",
+        "B": "9.181818181818182",
+        "C": "4.090909090909091",
+        "D": "7.181818181818182"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 136° = 44°. Number of sides = 360°/44° = 8.181818181818182."
+    },
+    {
+      "id": 145,
+      "topic": "Differentiation",
+      "section": "General",
+      "subtopic": "Differentiation",
+      "difficulty": "easy",
+      "question": "Differentiate y = 2x⁴ with respect to x.",
+      "options": {
+        "A": "8x³",
+        "B": "2x⁵",
+        "C": "8x⁴",
+        "D": "4x³"
+      },
+      "answer": "A",
+      "explanation": "d/dx(2x⁴) = 2 × 4x³ = 8x³."
+    },
+    {
+      "id": 146,
+      "topic": "Differentiation",
+      "section": "General",
+      "subtopic": "Differentiation",
+      "difficulty": "medium",
+      "question": "Differentiate y = 2x³ with respect to x.",
+      "options": {
+        "A": "6x³",
+        "B": "3x²",
+        "C": "6x²",
+        "D": "2x⁴"
+      },
+      "answer": "C",
+      "explanation": "d/dx(2x³) = 2 × 3x² = 6x²."
+    },
+    {
+      "id": 147,
+      "topic": "Differentiation",
+      "section": "General",
+      "subtopic": "Differentiation",
+      "difficulty": "hard",
+      "question": "Differentiate y = 5x⁴ with respect to x.",
+      "options": {
+        "A": "5x⁵",
+        "B": "20x³",
+        "C": "20x⁴",
+        "D": "4x³"
+      },
+      "answer": "B",
+      "explanation": "d/dx(5x⁴) = 5 × 4x³ = 20x³."
+    },
+    {
+      "id": 148,
+      "topic": "Differentiation: (i) The idea of a limit",
+      "section": "General",
+      "subtopic": "Differentiation: (i) The idea of a limit",
+      "difficulty": "medium",
+      "question": "Differentiate y = 3x² with respect to x.",
+      "options": {
+        "A": "2x¹",
+        "B": "6x²",
+        "C": "6x",
+        "D": "3x³"
+      },
+      "answer": "C",
+      "explanation": "d/dx(3x²) = 3 × 2x¹ = 6x."
+    },
+    {
+      "id": 149,
+      "topic": "Differentiation: (i) The idea of a limit",
+      "section": "General",
+      "subtopic": "Differentiation: (i) The idea of a limit",
+      "difficulty": "hard",
+      "question": "Differentiate y = 3x² with respect to x.",
+      "options": {
+        "A": "3x³",
+        "B": "6x",
+        "C": "6x²",
+        "D": "2x¹"
+      },
+      "answer": "B",
+      "explanation": "d/dx(3x²) = 3 × 2x¹ = 6x."
+    },
+    {
+      "id": 150,
+      "topic": "Differentiation: (i) The idea of a limit",
+      "section": "General",
+      "subtopic": "Differentiation: (i) The idea of a limit",
+      "difficulty": "easy",
+      "question": "Differentiate y = 1x² with respect to x.",
+      "options": {
+        "A": "1x³",
+        "B": "2x",
+        "C": "2x¹",
+        "D": "2x²"
+      },
+      "answer": "B",
+      "explanation": "d/dx(1x²) = 1 × 2x¹ = 2x."
+    },
+    {
+      "id": 151,
+      "topic": "Differentiation: (ii) The derivative of a function",
+      "section": "General",
+      "subtopic": "Differentiation: (ii) The derivative of a function",
+      "difficulty": "hard",
+      "question": "Increase 791 by 16%.",
+      "options": {
+        "A": "918",
+        "B": "807",
+        "C": "127",
+        "D": "918"
+      },
+      "answer": "D",
+      "explanation": "791 + (16/100 × 791) = 791 + 127 = 918."
+    },
+    {
+      "id": 152,
+      "topic": "Differentiation: (ii) The derivative of a function",
+      "section": "General",
+      "subtopic": "Differentiation: (ii) The derivative of a function",
+      "difficulty": "easy",
+      "question": "Increase 283 by 17%.",
+      "options": {
+        "A": "331",
+        "B": "331",
+        "C": "48",
+        "D": "300"
+      },
+      "answer": "B",
+      "explanation": "283 + (17/100 × 283) = 283 + 48 = 331."
+    },
+    {
+      "id": 153,
+      "topic": "Differentiation: (ii) The derivative of a function",
+      "section": "General",
+      "subtopic": "Differentiation: (ii) The derivative of a function",
+      "difficulty": "medium",
+      "question": "Increase 143 by 28%.",
+      "options": {
+        "A": "183",
+        "B": "171",
+        "C": "183",
+        "D": "40"
+      },
+      "answer": "C",
+      "explanation": "143 + (28/100 × 143) = 143 + 40 = 183."
+    },
+    {
+      "id": 154,
+      "topic": "Differentiation: (iii) Differentiation of polynomials",
+      "section": "General",
+      "subtopic": "Differentiation: (iii) Differentiation of polynomials",
+      "difficulty": "easy",
+      "question": "Solve simultaneously: 2x + y = 7 and x - y = -1.",
+      "options": {
+        "A": "x = 5, y = -1",
+        "B": "x = 2, y = 3",
+        "C": "x = 1, y = 4",
+        "D": "x = 3, y = 2"
+      },
+      "answer": "B",
+      "explanation": "From x - y = -1, x = y + -1. Substituting into 2x + y = 7: 2(y + -1) + y = 7 → 3y = 9 → y = 3, so x = 2."
+    },
+    {
+      "id": 155,
+      "topic": "Differentiation: (iii) Differentiation of polynomials",
+      "section": "General",
+      "subtopic": "Differentiation: (iii) Differentiation of polynomials",
+      "difficulty": "medium",
+      "question": "Solve simultaneously: 2x + y = 5 and x - y = 1.",
+      "options": {
+        "A": "x = 1, y = 2",
+        "B": "x = 2, y = 1",
+        "C": "x = 3, y = 1",
+        "D": "x = 3, y = 0"
+      },
+      "answer": "B",
+      "explanation": "From x - y = 1, x = y + 1. Substituting into 2x + y = 5: 2(y + 1) + y = 5 → 3y = 3 → y = 1, so x = 2."
+    },
+    {
+      "id": 156,
+      "topic": "Differentiation: (iii) Differentiation of polynomials",
+      "section": "General",
+      "subtopic": "Differentiation: (iii) Differentiation of polynomials",
+      "difficulty": "hard",
+      "question": "Solve simultaneously: 2x + y = 12 and x - y = 0.",
+      "options": {
+        "A": "x = 4, y = 4",
+        "B": "x = 8, y = 0",
+        "C": "x = 5, y = 3",
+        "D": "x = 3, y = 5"
+      },
+      "answer": "A",
+      "explanation": "From x - y = 0, x = y + 0. Substituting into 2x + y = 12: 2(y + 0) + y = 12 → 3y = 12 → y = 4, so x = 4."
+    },
+    {
+      "id": 157,
+      "topic": "Differentiation: (iv) Differentiation of trigonometric functions",
+      "section": "General",
+      "subtopic": "Differentiation: (iv) Differentiation of trigonometric functions",
+      "difficulty": "medium",
+      "question": "Differentiate y = 1x⁴ with respect to x.",
+      "options": {
+        "A": "4x³",
+        "B": "4x³",
+        "C": "4x⁴",
+        "D": "1x⁵"
+      },
+      "answer": "B",
+      "explanation": "d/dx(1x⁴) = 1 × 4x³ = 4x³."
+    },
+    {
+      "id": 158,
+      "topic": "Differentiation: (iv) Differentiation of trigonometric functions",
+      "section": "General",
+      "subtopic": "Differentiation: (iv) Differentiation of trigonometric functions",
+      "difficulty": "hard",
+      "question": "Differentiate y = 5x³ with respect to x.",
+      "options": {
+        "A": "15x²",
+        "B": "15x³",
+        "C": "5x⁴",
+        "D": "3x²"
+      },
+      "answer": "A",
+      "explanation": "d/dx(5x³) = 5 × 3x² = 15x²."
+    },
+    {
+      "id": 159,
+      "topic": "Differentiation: (iv) Differentiation of trigonometric functions",
+      "section": "General",
+      "subtopic": "Differentiation: (iv) Differentiation of trigonometric functions",
+      "difficulty": "easy",
+      "question": "Differentiate y = 3x⁴ with respect to x.",
+      "options": {
+        "A": "12x³",
+        "B": "4x³",
+        "C": "3x⁵",
+        "D": "12x⁴"
+      },
+      "answer": "A",
+      "explanation": "d/dx(3x⁴) = 3 × 4x³ = 12x³."
+    },
+    {
+      "id": 160,
+      "topic": "Differentiation: (v) Product and quotient rules.",
+      "section": "General",
+      "subtopic": "Differentiation: (v) Product and quotient rules.",
+      "difficulty": "hard",
+      "question": "Differentiate y = 4x³ with respect to x.",
+      "options": {
+        "A": "12x³",
+        "B": "4x⁴",
+        "C": "3x²",
+        "D": "12x²"
+      },
+      "answer": "D",
+      "explanation": "d/dx(4x³) = 4 × 3x² = 12x²."
+    },
+    {
+      "id": 161,
+      "topic": "Differentiation: (v) Product and quotient rules.",
+      "section": "General",
+      "subtopic": "Differentiation: (v) Product and quotient rules.",
+      "difficulty": "easy",
+      "question": "Differentiate y = 2x⁴ with respect to x.",
+      "options": {
+        "A": "8x⁴",
+        "B": "8x³",
+        "C": "4x³",
+        "D": "2x⁵"
+      },
+      "answer": "B",
+      "explanation": "d/dx(2x⁴) = 2 × 4x³ = 8x³."
+    },
+    {
+      "id": 162,
+      "topic": "Differentiation: (v) Product and quotient rules.",
+      "section": "General",
+      "subtopic": "Differentiation: (v) Product and quotient rules.",
+      "difficulty": "medium",
+      "question": "Differentiate y = 5x² with respect to x.",
+      "options": {
+        "A": "10x²",
+        "B": "2x¹",
+        "C": "5x³",
+        "D": "10x"
+      },
+      "answer": "D",
+      "explanation": "d/dx(5x²) = 5 × 2x¹ = 10x."
+    },
+    {
+      "id": 163,
+      "topic": "Differentiation: (vi) Differentiation of implicit functions",
+      "section": "General",
+      "subtopic": "Differentiation: (vi) Differentiation of implicit functions",
+      "difficulty": "easy",
+      "question": "Differentiate y = 1x³ with respect to x.",
+      "options": {
+        "A": "3x³",
+        "B": "3x²",
+        "C": "1x⁴",
+        "D": "3x²"
+      },
+      "answer": "D",
+      "explanation": "d/dx(1x³) = 1 × 3x² = 3x²."
+    },
+    {
+      "id": 164,
+      "topic": "Differentiation: (vi) Differentiation of implicit functions",
+      "section": "General",
+      "subtopic": "Differentiation: (vi) Differentiation of implicit functions",
+      "difficulty": "medium",
+      "question": "Differentiate y = 5x³ with respect to x.",
+      "options": {
+        "A": "15x²",
+        "B": "15x³",
+        "C": "5x⁴",
+        "D": "3x²"
+      },
+      "answer": "A",
+      "explanation": "d/dx(5x³) = 5 × 3x² = 15x²."
+    },
+    {
+      "id": 165,
+      "topic": "Differentiation: (vi) Differentiation of implicit functions",
+      "section": "General",
+      "subtopic": "Differentiation: (vi) Differentiation of implicit functions",
+      "difficulty": "hard",
+      "question": "Differentiate y = 2x² with respect to x.",
+      "options": {
+        "A": "2x³",
+        "B": "2x¹",
+        "C": "4x²",
+        "D": "4x"
+      },
+      "answer": "D",
+      "explanation": "d/dx(2x²) = 2 × 2x¹ = 4x."
+    },
+    {
+      "id": 166,
+      "topic": "Differentiation: (vii) Second order derivatives and Rates of change, Maxima and Minima",
+      "section": "General",
+      "subtopic": "Differentiation: (vii) Second order derivatives and Rates of change, Maxima and Minima",
+      "difficulty": "medium",
+      "question": "Increase 227 by 19%.",
+      "options": {
+        "A": "270",
+        "B": "43",
+        "C": "246",
+        "D": "270"
+      },
+      "answer": "D",
+      "explanation": "227 + (19/100 × 227) = 227 + 43 = 270."
+    },
+    {
+      "id": 167,
+      "topic": "Differentiation: (vii) Second order derivatives and Rates of change, Maxima and Minima",
+      "section": "General",
+      "subtopic": "Differentiation: (vii) Second order derivatives and Rates of change, Maxima and Minima",
+      "difficulty": "hard",
+      "question": "Increase 664 by 28%.",
+      "options": {
+        "A": "186",
+        "B": "692",
+        "C": "850",
+        "D": "850"
+      },
+      "answer": "D",
+      "explanation": "664 + (28/100 × 664) = 664 + 186 = 850."
+    },
+    {
+      "id": 168,
+      "topic": "Differentiation: (vii) Second order derivatives and Rates of change, Maxima and Minima",
+      "section": "General",
+      "subtopic": "Differentiation: (vii) Second order derivatives and Rates of change, Maxima and Minima",
+      "difficulty": "easy",
+      "question": "Increase 116 by 23%.",
+      "options": {
+        "A": "143",
+        "B": "139",
+        "C": "27",
+        "D": "143"
+      },
+      "answer": "D",
+      "explanation": "116 + (23/100 × 116) = 116 + 27 = 143."
+    },
+    {
+      "id": 169,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "hard",
+      "question": "Evaluate ∫ 1x² dx.",
+      "options": {
+        "A": "1/2x² + c",
+        "B": "2x¹ + c",
+        "C": "1x³ + c",
+        "D": "1/3x³ + c"
+      },
+      "answer": "D",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫1x² dx = 1/3x³ + c."
+    },
+    {
+      "id": 170,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "easy",
+      "question": "Evaluate ∫ 4x³ dx.",
+      "options": {
+        "A": "12x² + c",
+        "B": "4x⁴ + c",
+        "C": "4/4x⁴ + c",
+        "D": "4/3x³ + c"
+      },
+      "answer": "C",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫4x³ dx = 4/4x⁴ + c."
+    },
+    {
+      "id": 171,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "medium",
+      "question": "Evaluate ∫ 1x² dx.",
+      "options": {
+        "A": "1/2x² + c",
+        "B": "2x¹ + c",
+        "C": "1x³ + c",
+        "D": "1/3x³ + c"
+      },
+      "answer": "D",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫1x² dx = 1/3x³ + c."
+    },
+    {
+      "id": 172,
+      "topic": "Integration: (i) Indefinite Integral",
+      "section": "General",
+      "subtopic": "Integration: (i) Indefinite Integral",
+      "difficulty": "easy",
+      "question": "Evaluate ∫ 3x² dx.",
+      "options": {
+        "A": "3/3x³ + c",
+        "B": "6x¹ + c",
+        "C": "3x³ + c",
+        "D": "3/2x² + c"
+      },
+      "answer": "A",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫3x² dx = 3/3x³ + c."
+    },
+    {
+      "id": 173,
+      "topic": "Integration: (i) Indefinite Integral",
+      "section": "General",
+      "subtopic": "Integration: (i) Indefinite Integral",
+      "difficulty": "medium",
+      "question": "Evaluate ∫ 2x² dx.",
+      "options": {
+        "A": "2x³ + c",
+        "B": "2/3x³ + c",
+        "C": "4x¹ + c",
+        "D": "2/2x² + c"
+      },
+      "answer": "B",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫2x² dx = 2/3x³ + c."
+    },
+    {
+      "id": 174,
+      "topic": "Integration: (i) Indefinite Integral",
+      "section": "General",
+      "subtopic": "Integration: (i) Indefinite Integral",
+      "difficulty": "hard",
+      "question": "Evaluate ∫ 3x³ dx.",
+      "options": {
+        "A": "3/3x³ + c",
+        "B": "3/4x⁴ + c",
+        "C": "3x⁴ + c",
+        "D": "9x² + c"
+      },
+      "answer": "B",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫3x³ dx = 3/4x⁴ + c."
+    },
+    {
+      "id": 175,
+      "topic": "Integration: (ii) Definite Integral",
+      "section": "General",
+      "subtopic": "Integration: (ii) Definite Integral",
+      "difficulty": "medium",
+      "question": "Evaluate ∫ 2x³ dx.",
+      "options": {
+        "A": "2/4x⁴ + c",
+        "B": "2x⁴ + c",
+        "C": "2/3x³ + c",
+        "D": "6x² + c"
+      },
+      "answer": "A",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫2x³ dx = 2/4x⁴ + c."
+    },
+    {
+      "id": 176,
+      "topic": "Integration: (ii) Definite Integral",
+      "section": "General",
+      "subtopic": "Integration: (ii) Definite Integral",
+      "difficulty": "hard",
+      "question": "Evaluate ∫ 2x³ dx.",
+      "options": {
+        "A": "2x⁴ + c",
+        "B": "2/3x³ + c",
+        "C": "6x² + c",
+        "D": "2/4x⁴ + c"
+      },
+      "answer": "D",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫2x³ dx = 2/4x⁴ + c."
+    },
+    {
+      "id": 177,
+      "topic": "Integration: (ii) Definite Integral",
+      "section": "General",
+      "subtopic": "Integration: (ii) Definite Integral",
+      "difficulty": "easy",
+      "question": "Evaluate ∫ 2x⁴ dx.",
+      "options": {
+        "A": "8x³ + c",
+        "B": "2/5x⁵ + c",
+        "C": "2x⁵ + c",
+        "D": "2/4x⁴ + c"
+      },
+      "answer": "B",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫2x⁴ dx = 2/5x⁵ + c."
+    },
+    {
+      "id": 178,
+      "topic": "Integration: (iii) Applications of the Definite Integral",
+      "section": "General",
+      "subtopic": "Integration: (iii) Applications of the Definite Integral",
+      "difficulty": "hard",
+      "question": "Find the 5th term of the A.P: 9, 13, 17, ...",
+      "options": {
+        "A": "49",
+        "B": "29",
+        "C": "25",
+        "D": "29"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 9 + (5-1)4 = 9 + 16 = 25."
+    },
+    {
+      "id": 179,
+      "topic": "Integration: (iii) Applications of the Definite Integral",
+      "section": "General",
+      "subtopic": "Integration: (iii) Applications of the Definite Integral",
+      "difficulty": "easy",
+      "question": "Find the 6th term of the A.P: 3, 8, 13, ...",
+      "options": {
+        "A": "33",
+        "B": "28",
+        "C": "23",
+        "D": "33"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 3 + (6-1)5 = 3 + 25 = 28."
+    },
+    {
+      "id": 180,
+      "topic": "Integration: (iii) Applications of the Definite Integral",
+      "section": "General",
+      "subtopic": "Integration: (iii) Applications of the Definite Integral",
+      "difficulty": "medium",
+      "question": "Find the 9th term of the A.P: 4, 7, 10, ...",
+      "options": {
+        "A": "28",
+        "B": "39",
+        "C": "31",
+        "D": "31"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 4 + (9-1)3 = 4 + 24 = 28."
+    },
+    {
+      "id": 181,
+      "topic": "Statistics",
+      "section": "General",
+      "subtopic": "Statistics",
+      "difficulty": "easy",
+      "question": "Evaluate 7 × 8 + 15.",
+      "options": {
+        "A": "56",
+        "B": "41",
+        "C": "72",
+        "D": "71"
+      },
+      "answer": "D",
+      "explanation": "7 × 8 + 15 = 56 + 15 = 71."
+    },
+    {
+      "id": 182,
+      "topic": "Statistics",
+      "section": "General",
+      "subtopic": "Statistics",
+      "difficulty": "medium",
+      "question": "Evaluate 10 × 3 + 13.",
+      "options": {
+        "A": "30",
+        "B": "43",
+        "C": "44",
+        "D": "17"
+      },
+      "answer": "B",
+      "explanation": "10 × 3 + 13 = 30 + 13 = 43."
+    },
+    {
+      "id": 183,
+      "topic": "Statistics",
+      "section": "General",
+      "subtopic": "Statistics",
+      "difficulty": "hard",
+      "question": "Evaluate 12 × 10 + 22.",
+      "options": {
+        "A": "143",
+        "B": "120",
+        "C": "142",
+        "D": "98"
+      },
+      "answer": "C",
+      "explanation": "12 × 10 + 22 = 120 + 22 = 142."
+    },
+    {
+      "id": 184,
+      "topic": "Statistics: (i) Tabulation and Graphical representation of data",
+      "section": "General",
+      "subtopic": "Statistics: (i) Tabulation and Graphical representation of data",
+      "difficulty": "medium",
+      "question": "Find the 10th term of the A.P: 3, 5, 7, ...",
+      "options": {
+        "A": "21",
+        "B": "32",
+        "C": "23",
+        "D": "23"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 3 + (10-1)2 = 3 + 18 = 21."
+    },
+    {
+      "id": 185,
+      "topic": "Statistics: (i) Tabulation and Graphical representation of data",
+      "section": "General",
+      "subtopic": "Statistics: (i) Tabulation and Graphical representation of data",
+      "difficulty": "hard",
+      "question": "Find the 7th term of the A.P: 8, 13, 18, ...",
+      "options": {
+        "A": "43",
+        "B": "61",
+        "C": "38",
+        "D": "43"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 8 + (7-1)5 = 8 + 30 = 38."
+    },
+    {
+      "id": 186,
+      "topic": "Statistics: (i) Tabulation and Graphical representation of data",
+      "section": "General",
+      "subtopic": "Statistics: (i) Tabulation and Graphical representation of data",
+      "difficulty": "easy",
+      "question": "Find the 6th term of the A.P: 8, 13, 18, ...",
+      "options": {
+        "A": "53",
+        "B": "38",
+        "C": "38",
+        "D": "33"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 8 + (6-1)5 = 8 + 25 = 33."
+    },
+    {
+      "id": 187,
+      "topic": "Statistics: (ii) Measures of location",
+      "section": "General",
+      "subtopic": "Statistics: (ii) Measures of location",
+      "difficulty": "hard",
+      "question": "Evaluate 2 × 3 + 5.",
+      "options": {
+        "A": "1",
+        "B": "6",
+        "C": "12",
+        "D": "11"
+      },
+      "answer": "D",
+      "explanation": "2 × 3 + 5 = 6 + 5 = 11."
+    },
+    {
+      "id": 188,
+      "topic": "Statistics: (ii) Measures of location",
+      "section": "General",
+      "subtopic": "Statistics: (ii) Measures of location",
+      "difficulty": "easy",
+      "question": "Evaluate 2 × 10 + 12.",
+      "options": {
+        "A": "32",
+        "B": "8",
+        "C": "33",
+        "D": "20"
+      },
+      "answer": "A",
+      "explanation": "2 × 10 + 12 = 20 + 12 = 32."
+    },
+    {
+      "id": 189,
+      "topic": "Statistics: (ii) Measures of location",
+      "section": "General",
+      "subtopic": "Statistics: (ii) Measures of location",
+      "difficulty": "medium",
+      "question": "Evaluate 2 × 11 + 13.",
+      "options": {
+        "A": "36",
+        "B": "9",
+        "C": "35",
+        "D": "22"
+      },
+      "answer": "C",
+      "explanation": "2 × 11 + 13 = 22 + 13 = 35."
+    },
+    {
+      "id": 190,
+      "topic": "Statistics: (iii) Measures of Dispersion",
+      "section": "General",
+      "subtopic": "Statistics: (iii) Measures of Dispersion",
+      "difficulty": "easy",
+      "question": "Evaluate 4 × 10 + 14.",
+      "options": {
+        "A": "55",
+        "B": "26",
+        "C": "54",
+        "D": "40"
+      },
+      "answer": "C",
+      "explanation": "4 × 10 + 14 = 40 + 14 = 54."
+    },
+    {
+      "id": 191,
+      "topic": "Statistics: (iii) Measures of Dispersion",
+      "section": "General",
+      "subtopic": "Statistics: (iii) Measures of Dispersion",
+      "difficulty": "medium",
+      "question": "Evaluate 4 × 11 + 15.",
+      "options": {
+        "A": "29",
+        "B": "44",
+        "C": "59",
+        "D": "60"
+      },
+      "answer": "C",
+      "explanation": "4 × 11 + 15 = 44 + 15 = 59."
+    },
+    {
+      "id": 192,
+      "topic": "Statistics: (iii) Measures of Dispersion",
+      "section": "General",
+      "subtopic": "Statistics: (iii) Measures of Dispersion",
+      "difficulty": "hard",
+      "question": "Evaluate 12 × 7 + 19.",
+      "options": {
+        "A": "103",
+        "B": "104",
+        "C": "84",
+        "D": "65"
+      },
+      "answer": "A",
+      "explanation": "12 × 7 + 19 = 84 + 19 = 103."
+    },
+    {
+      "id": 193,
+      "topic": "Statistics: (iv) Correlation",
+      "section": "General",
+      "subtopic": "Statistics: (iv) Correlation",
+      "difficulty": "medium",
+      "question": "Evaluate 2 × 4 + 6.",
+      "options": {
+        "A": "8",
+        "B": "14",
+        "C": "2",
+        "D": "15"
+      },
+      "answer": "B",
+      "explanation": "2 × 4 + 6 = 8 + 6 = 14."
+    },
+    {
+      "id": 194,
+      "topic": "Statistics: (iv) Correlation",
+      "section": "General",
+      "subtopic": "Statistics: (iv) Correlation",
+      "difficulty": "hard",
+      "question": "Evaluate 11 × 8 + 19.",
+      "options": {
+        "A": "107",
+        "B": "88",
+        "C": "108",
+        "D": "69"
+      },
+      "answer": "A",
+      "explanation": "11 × 8 + 19 = 88 + 19 = 107."
+    },
+    {
+      "id": 195,
+      "topic": "Statistics: (iv) Correlation",
+      "section": "General",
+      "subtopic": "Statistics: (iv) Correlation",
+      "difficulty": "easy",
+      "question": "Evaluate 12 × 8 + 20.",
+      "options": {
+        "A": "96",
+        "B": "76",
+        "C": "117",
+        "D": "116"
+      },
+      "answer": "D",
+      "explanation": "12 × 8 + 20 = 96 + 20 = 116."
+    },
+    {
+      "id": 196,
+      "topic": "Probability",
+      "section": "General",
+      "subtopic": "Probability",
+      "difficulty": "hard",
+      "question": "In how many ways can 4 different books be arranged on a shelf?",
+      "options": {
+        "A": "24",
+        "B": "16",
+        "C": "12",
+        "D": "28"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 4! = 24."
+    },
+    {
+      "id": 197,
+      "topic": "Probability",
+      "section": "General",
+      "subtopic": "Probability",
+      "difficulty": "easy",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "25",
+        "B": "20",
+        "C": "120",
+        "D": "125"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 198,
+      "topic": "Probability",
+      "section": "General",
+      "subtopic": "Probability",
+      "difficulty": "medium",
+      "question": "In how many ways can 6 different books be arranged on a shelf?",
+      "options": {
+        "A": "726",
+        "B": "36",
+        "C": "30",
+        "D": "720"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 6! = 720."
+    },
+    {
+      "id": 199,
+      "topic": "Probability: (i) Meaning of probability.",
+      "section": "General",
+      "subtopic": "Probability: (i) Meaning of probability.",
+      "difficulty": "easy",
+      "question": "Find the mean of the following numbers: 7, 3, 5, 5, 9.",
+      "options": {
+        "A": "5",
+        "B": "5.8",
+        "C": "4.8",
+        "D": "6.8"
+      },
+      "answer": "B",
+      "explanation": "Mean = (7 + 3 + 5 + 5 + 9)/5 = 29/5 = 5.8."
+    },
+    {
+      "id": 200,
+      "topic": "Probability: (i) Meaning of probability.",
+      "section": "General",
+      "subtopic": "Probability: (i) Meaning of probability.",
+      "difficulty": "medium",
+      "question": "Find the mean of the following numbers: 6, 9, 4, 6, 2.",
+      "options": {
+        "A": "5.4",
+        "B": "4.4",
+        "C": "6.4",
+        "D": "4"
+      },
+      "answer": "A",
+      "explanation": "Mean = (6 + 9 + 4 + 6 + 2)/5 = 27/5 = 5.4."
+    },
+    {
+      "id": 201,
+      "topic": "Probability: (i) Meaning of probability.",
+      "section": "General",
+      "subtopic": "Probability: (i) Meaning of probability.",
+      "difficulty": "hard",
+      "question": "Find the mean of the following numbers: 6, 7, 7, 5, 10.",
+      "options": {
+        "A": "7",
+        "B": "6",
+        "C": "8",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "Mean = (6 + 7 + 7 + 5 + 10)/5 = 35/5 = 7."
+    },
+    {
+      "id": 202,
+      "topic": "Probability: (ii) Relative frequency.",
+      "section": "General",
+      "subtopic": "Probability: (ii) Relative frequency.",
+      "difficulty": "medium",
+      "question": "In how many ways can 4 different books be arranged on a shelf?",
+      "options": {
+        "A": "24",
+        "B": "16",
+        "C": "12",
+        "D": "28"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 4! = 24."
+    },
+    {
+      "id": 203,
+      "topic": "Probability: (ii) Relative frequency.",
+      "section": "General",
+      "subtopic": "Probability: (ii) Relative frequency.",
+      "difficulty": "hard",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "42",
+        "B": "5047",
+        "C": "5040",
+        "D": "49"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 204,
+      "topic": "Probability: (ii) Relative frequency.",
+      "section": "General",
+      "subtopic": "Probability: (ii) Relative frequency.",
+      "difficulty": "easy",
+      "question": "In how many ways can 4 different books be arranged on a shelf?",
+      "options": {
+        "A": "24",
+        "B": "28",
+        "C": "16",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 4! = 24."
+    },
+    {
+      "id": 205,
+      "topic": "Probability: (iii) Calculation of Probability using simple sample spaces.",
+      "section": "General",
+      "subtopic": "Probability: (iii) Calculation of Probability using simple sample spaces.",
+      "difficulty": "hard",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "49",
+        "B": "5040",
+        "C": "5047",
+        "D": "42"
+      },
+      "answer": "B",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 206,
+      "topic": "Probability: (iii) Calculation of Probability using simple sample spaces.",
+      "section": "General",
+      "subtopic": "Probability: (iii) Calculation of Probability using simple sample spaces.",
+      "difficulty": "easy",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "42",
+        "B": "5047",
+        "C": "5040",
+        "D": "49"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 207,
+      "topic": "Probability: (iii) Calculation of Probability using simple sample spaces.",
+      "section": "General",
+      "subtopic": "Probability: (iii) Calculation of Probability using simple sample spaces.",
+      "difficulty": "medium",
+      "question": "In how many ways can 4 different books be arranged on a shelf?",
+      "options": {
+        "A": "28",
+        "B": "12",
+        "C": "16",
+        "D": "24"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 4! = 24."
+    },
+    {
+      "id": 208,
+      "topic": "Probability: (iv) Addition and multiplication of probabilities.",
+      "section": "General",
+      "subtopic": "Probability: (iv) Addition and multiplication of probabilities.",
+      "difficulty": "easy",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "42",
+        "B": "5047",
+        "C": "5040",
+        "D": "49"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 209,
+      "topic": "Probability: (iv) Addition and multiplication of probabilities.",
+      "section": "General",
+      "subtopic": "Probability: (iv) Addition and multiplication of probabilities.",
+      "difficulty": "medium",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "42",
+        "B": "49",
+        "C": "5047",
+        "D": "5040"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 210,
+      "topic": "Probability: (iv) Addition and multiplication of probabilities.",
+      "section": "General",
+      "subtopic": "Probability: (iv) Addition and multiplication of probabilities.",
+      "difficulty": "hard",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "25",
+        "B": "120",
+        "C": "125",
+        "D": "20"
+      },
+      "answer": "B",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 211,
+      "topic": "Probability: (v) Probability distributions.",
+      "section": "General",
+      "subtopic": "Probability: (v) Probability distributions.",
+      "difficulty": "medium",
+      "question": "In how many ways can 6 different books be arranged on a shelf?",
+      "options": {
+        "A": "726",
+        "B": "36",
+        "C": "30",
+        "D": "720"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 6! = 720."
+    },
+    {
+      "id": 212,
+      "topic": "Probability: (v) Probability distributions.",
+      "section": "General",
+      "subtopic": "Probability: (v) Probability distributions.",
+      "difficulty": "hard",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "49",
+        "B": "42",
+        "C": "5040",
+        "D": "5047"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 213,
+      "topic": "Probability: (v) Probability distributions.",
+      "section": "General",
+      "subtopic": "Probability: (v) Probability distributions.",
+      "difficulty": "easy",
+      "question": "In how many ways can 6 different books be arranged on a shelf?",
+      "options": {
+        "A": "720",
+        "B": "726",
+        "C": "30",
+        "D": "36"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 6! = 720."
+    },
+    {
+      "id": 214,
+      "topic": "Vectors",
+      "section": "General",
+      "subtopic": "Vectors",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (8, 5).",
+      "options": {
+        "A": "9.4",
+        "B": "3",
+        "C": "40",
+        "D": "13"
+      },
+      "answer": "A",
+      "explanation": "Magnitude = √(x² + y²) = √(8² + 5²) = √(89) = 9.4."
+    },
+    {
+      "id": 215,
+      "topic": "Vectors",
+      "section": "General",
+      "subtopic": "Vectors",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (2, 2).",
+      "options": {
+        "A": "4",
+        "B": "2.8",
+        "C": "4",
+        "D": "0"
+      },
+      "answer": "B",
+      "explanation": "Magnitude = √(x² + y²) = √(2² + 2²) = √(8) = 2.8."
+    },
+    {
+      "id": 216,
+      "topic": "Vectors",
+      "section": "General",
+      "subtopic": "Vectors",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (6, 3).",
+      "options": {
+        "A": "6.7",
+        "B": "18",
+        "C": "3",
+        "D": "9"
+      },
+      "answer": "A",
+      "explanation": "Magnitude = √(x² + y²) = √(6² + 3²) = √(45) = 6.7."
+    },
+    {
+      "id": 217,
+      "topic": "Vectors: (i) Definitions of scalar and vector quantities.",
+      "section": "General",
+      "subtopic": "Vectors: (i) Definitions of scalar and vector quantities.",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (4, 2).",
+      "options": {
+        "A": "4.5",
+        "B": "6",
+        "C": "2",
+        "D": "8"
+      },
+      "answer": "A",
+      "explanation": "Magnitude = √(x² + y²) = √(4² + 2²) = √(20) = 4.5."
+    },
+    {
+      "id": 218,
+      "topic": "Vectors: (i) Definitions of scalar and vector quantities.",
+      "section": "General",
+      "subtopic": "Vectors: (i) Definitions of scalar and vector quantities.",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (3, 2).",
+      "options": {
+        "A": "6",
+        "B": "3.6",
+        "C": "5",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Magnitude = √(x² + y²) = √(3² + 2²) = √(13) = 3.6."
+    },
+    {
+      "id": 219,
+      "topic": "Vectors: (i) Definitions of scalar and vector quantities.",
+      "section": "General",
+      "subtopic": "Vectors: (i) Definitions of scalar and vector quantities.",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (7, 5).",
+      "options": {
+        "A": "8.6",
+        "B": "2",
+        "C": "12",
+        "D": "35"
+      },
+      "answer": "A",
+      "explanation": "Magnitude = √(x² + y²) = √(7² + 5²) = √(74) = 8.6."
+    },
+    {
+      "id": 220,
+      "topic": "Vectors: (ii) Representation of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (ii) Representation of Vectors.",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (2, 7).",
+      "options": {
+        "A": "5",
+        "B": "9",
+        "C": "14",
+        "D": "7.3"
+      },
+      "answer": "D",
+      "explanation": "Magnitude = √(x² + y²) = √(2² + 7²) = √(53) = 7.3."
+    },
+    {
+      "id": 221,
+      "topic": "Vectors: (ii) Representation of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (ii) Representation of Vectors.",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (2, 6).",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "6.3",
+        "D": "12"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(2² + 6²) = √(40) = 6.3."
+    },
+    {
+      "id": 222,
+      "topic": "Vectors: (ii) Representation of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (ii) Representation of Vectors.",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (4, 2).",
+      "options": {
+        "A": "8",
+        "B": "2",
+        "C": "6",
+        "D": "4.5"
+      },
+      "answer": "D",
+      "explanation": "Magnitude = √(x² + y²) = √(4² + 2²) = √(20) = 4.5."
+    },
+    {
+      "id": 223,
+      "topic": "Vectors: (iii) Algebra of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (iii) Algebra of Vectors.",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (5, 8).",
+      "options": {
+        "A": "13",
+        "B": "3",
+        "C": "9.4",
+        "D": "40"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(5² + 8²) = √(89) = 9.4."
+    },
+    {
+      "id": 224,
+      "topic": "Vectors: (iii) Algebra of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (iii) Algebra of Vectors.",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (8, 6).",
+      "options": {
+        "A": "2",
+        "B": "14",
+        "C": "10",
+        "D": "48"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(8² + 6²) = √(100) = 10."
+    },
+    {
+      "id": 225,
+      "topic": "Vectors: (iii) Algebra of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (iii) Algebra of Vectors.",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (3, 7).",
+      "options": {
+        "A": "21",
+        "B": "7.6",
+        "C": "10",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "Magnitude = √(x² + y²) = √(3² + 7²) = √(58) = 7.6."
+    },
+    {
+      "id": 226,
+      "topic": "Vectors: (iv) Commutative, Associative and Distributive Properties.",
+      "section": "General",
+      "subtopic": "Vectors: (iv) Commutative, Associative and Distributive Properties.",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (5, 5).",
+      "options": {
+        "A": "10",
+        "B": "0",
+        "C": "7.1",
+        "D": "25"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(5² + 5²) = √(50) = 7.1."
+    },
+    {
+      "id": 227,
+      "topic": "Vectors: (iv) Commutative, Associative and Distributive Properties.",
+      "section": "General",
+      "subtopic": "Vectors: (iv) Commutative, Associative and Distributive Properties.",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (4, 6).",
+      "options": {
+        "A": "24",
+        "B": "10",
+        "C": "7.2",
+        "D": "2"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(4² + 6²) = √(52) = 7.2."
+    },
+    {
+      "id": 228,
+      "topic": "Vectors: (iv) Commutative, Associative and Distributive Properties.",
+      "section": "General",
+      "subtopic": "Vectors: (iv) Commutative, Associative and Distributive Properties.",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (4, 5).",
+      "options": {
+        "A": "20",
+        "B": "6.4",
+        "C": "1",
+        "D": "9"
+      },
+      "answer": "B",
+      "explanation": "Magnitude = √(x² + y²) = √(4² + 5²) = √(41) = 6.4."
+    },
+    {
+      "id": 229,
+      "topic": "Vectors: (v) Unit vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (v) Unit vectors.",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (2, 7).",
+      "options": {
+        "A": "14",
+        "B": "7.3",
+        "C": "9",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Magnitude = √(x² + y²) = √(2² + 7²) = √(53) = 7.3."
+    },
+    {
+      "id": 230,
+      "topic": "Vectors: (v) Unit vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (v) Unit vectors.",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (2, 7).",
+      "options": {
+        "A": "9",
+        "B": "5",
+        "C": "7.3",
+        "D": "14"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(2² + 7²) = √(53) = 7.3."
+    },
+    {
+      "id": 231,
+      "topic": "Vectors: (v) Unit vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (v) Unit vectors.",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (2, 2).",
+      "options": {
+        "A": "0",
+        "B": "4",
+        "C": "4",
+        "D": "2.8"
+      },
+      "answer": "D",
+      "explanation": "Magnitude = √(x² + y²) = √(2² + 2²) = √(8) = 2.8."
+    },
+    {
+      "id": 232,
+      "topic": "Vectors: (vi) Position Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (vi) Position Vectors.",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (7, 4).",
+      "options": {
+        "A": "3",
+        "B": "11",
+        "C": "8.1",
+        "D": "28"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(7² + 4²) = √(65) = 8.1."
+    },
+    {
+      "id": 233,
+      "topic": "Vectors: (vi) Position Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (vi) Position Vectors.",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (4, 6).",
+      "options": {
+        "A": "2",
+        "B": "7.2",
+        "C": "24",
+        "D": "10"
+      },
+      "answer": "B",
+      "explanation": "Magnitude = √(x² + y²) = √(4² + 6²) = √(52) = 7.2."
+    },
+    {
+      "id": 234,
+      "topic": "Vectors: (vi) Position Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (vi) Position Vectors.",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (7, 2).",
+      "options": {
+        "A": "9",
+        "B": "14",
+        "C": "7.3",
+        "D": "5"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(7² + 2²) = √(53) = 7.3."
+    },
+    {
+      "id": 235,
+      "topic": "Vectors: (vii) Resolution and Composition of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (vii) Resolution and Composition of Vectors.",
+      "difficulty": "easy",
+      "question": "Find the magnitude of the vector (7, 7).",
+      "options": {
+        "A": "14",
+        "B": "49",
+        "C": "9.9",
+        "D": "0"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(7² + 7²) = √(98) = 9.9."
+    },
+    {
+      "id": 236,
+      "topic": "Vectors: (vii) Resolution and Composition of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (vii) Resolution and Composition of Vectors.",
+      "difficulty": "medium",
+      "question": "Find the magnitude of the vector (3, 6).",
+      "options": {
+        "A": "3",
+        "B": "18",
+        "C": "6.7",
+        "D": "9"
+      },
+      "answer": "C",
+      "explanation": "Magnitude = √(x² + y²) = √(3² + 6²) = √(45) = 6.7."
+    },
+    {
+      "id": 237,
+      "topic": "Vectors: (vii) Resolution and Composition of Vectors.",
+      "section": "General",
+      "subtopic": "Vectors: (vii) Resolution and Composition of Vectors.",
+      "difficulty": "hard",
+      "question": "Find the magnitude of the vector (6, 4).",
+      "options": {
+        "A": "7.2",
+        "B": "2",
+        "C": "10",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "Magnitude = √(x² + y²) = √(6² + 4²) = √(52) = 7.2."
+    },
+    {
+      "id": 238,
+      "topic": "Vectors: (viii) Scalar (dot) product and its application.",
+      "section": "General",
+      "subtopic": "Vectors: (viii) Scalar (dot) product and its application.",
+      "difficulty": "medium",
+      "question": "Find the 8th term of the A.P: 9, 13, 17, ...",
+      "options": {
+        "A": "41",
+        "B": "76",
+        "C": "41",
+        "D": "37"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 9 + (8-1)4 = 9 + 28 = 37."
+    },
+    {
+      "id": 239,
+      "topic": "Vectors: (viii) Scalar (dot) product and its application.",
+      "section": "General",
+      "subtopic": "Vectors: (viii) Scalar (dot) product and its application.",
+      "difficulty": "hard",
+      "question": "Find the 5th term of the A.P: 4, 6, 8, ...",
+      "options": {
+        "A": "22",
+        "B": "14",
+        "C": "12",
+        "D": "14"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 4 + (5-1)2 = 4 + 8 = 12."
+    },
+    {
+      "id": 240,
+      "topic": "Vectors: (viii) Scalar (dot) product and its application.",
+      "section": "General",
+      "subtopic": "Vectors: (viii) Scalar (dot) product and its application.",
+      "difficulty": "easy",
+      "question": "Find the 6th term of the A.P: 10, 13, 16, ...",
+      "options": {
+        "A": "25",
+        "B": "63",
+        "C": "28",
+        "D": "28"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 10 + (6-1)3 = 10 + 15 = 25."
+    },
+    {
+      "id": 241,
+      "topic": "Vectors: (ix) Vector (cross) product and its application.",
+      "section": "General",
+      "subtopic": "Vectors: (ix) Vector (cross) product and its application.",
+      "difficulty": "hard",
+      "question": "Find the 8th term of the A.P: 7, 12, 17, ...",
+      "options": {
+        "A": "61",
+        "B": "47",
+        "C": "42",
+        "D": "47"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 7 + (8-1)5 = 7 + 35 = 42."
+    },
+    {
+      "id": 242,
+      "topic": "Vectors: (ix) Vector (cross) product and its application.",
+      "section": "General",
+      "subtopic": "Vectors: (ix) Vector (cross) product and its application.",
+      "difficulty": "easy",
+      "question": "Find the 5th term of the A.P: 10, 12, 14, ...",
+      "options": {
+        "A": "52",
+        "B": "20",
+        "C": "20",
+        "D": "18"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 10 + (5-1)2 = 10 + 8 = 18."
+    },
+    {
+      "id": 243,
+      "topic": "Vectors: (ix) Vector (cross) product and its application.",
+      "section": "General",
+      "subtopic": "Vectors: (ix) Vector (cross) product and its application.",
+      "difficulty": "medium",
+      "question": "Find the 6th term of the A.P: 9, 13, 17, ...",
+      "options": {
+        "A": "33",
+        "B": "58",
+        "C": "33",
+        "D": "29"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 9 + (6-1)4 = 9 + 20 = 29."
+    },
+    {
+      "id": 244,
+      "topic": "Statics",
+      "section": "General",
+      "subtopic": "Statics",
+      "difficulty": "easy",
+      "question": "Evaluate 3 × 4 + 7.",
+      "options": {
+        "A": "20",
+        "B": "19",
+        "C": "12",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "3 × 4 + 7 = 12 + 7 = 19."
+    },
+    {
+      "id": 245,
+      "topic": "Statics",
+      "section": "General",
+      "subtopic": "Statics",
+      "difficulty": "medium",
+      "question": "Evaluate 8 × 8 + 16.",
+      "options": {
+        "A": "64",
+        "B": "80",
+        "C": "81",
+        "D": "48"
+      },
+      "answer": "B",
+      "explanation": "8 × 8 + 16 = 64 + 16 = 80."
+    },
+    {
+      "id": 246,
+      "topic": "Statics",
+      "section": "General",
+      "subtopic": "Statics",
+      "difficulty": "hard",
+      "question": "Evaluate 3 × 3 + 6.",
+      "options": {
+        "A": "15",
+        "B": "3",
+        "C": "16",
+        "D": "9"
+      },
+      "answer": "A",
+      "explanation": "3 × 3 + 6 = 9 + 6 = 15."
+    },
+    {
+      "id": 247,
+      "topic": "Statics: (i) Definition of a force.",
+      "section": "General",
+      "subtopic": "Statics: (i) Definition of a force.",
+      "difficulty": "medium",
+      "question": "Evaluate 5 × 6 + 11.",
+      "options": {
+        "A": "19",
+        "B": "42",
+        "C": "41",
+        "D": "30"
+      },
+      "answer": "C",
+      "explanation": "5 × 6 + 11 = 30 + 11 = 41."
+    },
+    {
+      "id": 248,
+      "topic": "Statics: (i) Definition of a force.",
+      "section": "General",
+      "subtopic": "Statics: (i) Definition of a force.",
+      "difficulty": "hard",
+      "question": "Evaluate 9 × 6 + 15.",
+      "options": {
+        "A": "54",
+        "B": "69",
+        "C": "39",
+        "D": "70"
+      },
+      "answer": "B",
+      "explanation": "9 × 6 + 15 = 54 + 15 = 69."
+    },
+    {
+      "id": 249,
+      "topic": "Statics: (i) Definition of a force.",
+      "section": "General",
+      "subtopic": "Statics: (i) Definition of a force.",
+      "difficulty": "easy",
+      "question": "Evaluate 7 × 12 + 19.",
+      "options": {
+        "A": "104",
+        "B": "84",
+        "C": "65",
+        "D": "103"
+      },
+      "answer": "D",
+      "explanation": "7 × 12 + 19 = 84 + 19 = 103."
+    },
+    {
+      "id": 250,
+      "topic": "Statics: (ii) Representation of forces.",
+      "section": "General",
+      "subtopic": "Statics: (ii) Representation of forces.",
+      "difficulty": "hard",
+      "question": "Evaluate 12 × 4 + 16.",
+      "options": {
+        "A": "48",
+        "B": "64",
+        "C": "32",
+        "D": "65"
+      },
+      "answer": "B",
+      "explanation": "12 × 4 + 16 = 48 + 16 = 64."
+    },
+    {
+      "id": 251,
+      "topic": "Statics: (ii) Representation of forces.",
+      "section": "General",
+      "subtopic": "Statics: (ii) Representation of forces.",
+      "difficulty": "easy",
+      "question": "Evaluate 7 × 11 + 18.",
+      "options": {
+        "A": "96",
+        "B": "95",
+        "C": "77",
+        "D": "59"
+      },
+      "answer": "B",
+      "explanation": "7 × 11 + 18 = 77 + 18 = 95."
+    },
+    {
+      "id": 252,
+      "topic": "Statics: (ii) Representation of forces.",
+      "section": "General",
+      "subtopic": "Statics: (ii) Representation of forces.",
+      "difficulty": "medium",
+      "question": "Evaluate 10 × 3 + 13.",
+      "options": {
+        "A": "17",
+        "B": "30",
+        "C": "44",
+        "D": "43"
+      },
+      "answer": "D",
+      "explanation": "10 × 3 + 13 = 30 + 13 = 43."
+    },
+    {
+      "id": 253,
+      "topic": "Statics: (iii) Composition and resolution of coplanar forces.",
+      "section": "General",
+      "subtopic": "Statics: (iii) Composition and resolution of coplanar forces.",
+      "difficulty": "easy",
+      "question": "Evaluate 5 × 9 + 14.",
+      "options": {
+        "A": "45",
+        "B": "59",
+        "C": "60",
+        "D": "31"
+      },
+      "answer": "B",
+      "explanation": "5 × 9 + 14 = 45 + 14 = 59."
+    },
+    {
+      "id": 254,
+      "topic": "Statics: (iii) Composition and resolution of coplanar forces.",
+      "section": "General",
+      "subtopic": "Statics: (iii) Composition and resolution of coplanar forces.",
+      "difficulty": "medium",
+      "question": "Evaluate 5 × 5 + 10.",
+      "options": {
+        "A": "35",
+        "B": "15",
+        "C": "36",
+        "D": "25"
+      },
+      "answer": "A",
+      "explanation": "5 × 5 + 10 = 25 + 10 = 35."
+    },
+    {
+      "id": 255,
+      "topic": "Statics: (iii) Composition and resolution of coplanar forces.",
+      "section": "General",
+      "subtopic": "Statics: (iii) Composition and resolution of coplanar forces.",
+      "difficulty": "hard",
+      "question": "Evaluate 4 × 8 + 12.",
+      "options": {
+        "A": "32",
+        "B": "45",
+        "C": "44",
+        "D": "20"
+      },
+      "answer": "C",
+      "explanation": "4 × 8 + 12 = 32 + 12 = 44."
+    },
+    {
+      "id": 256,
+      "topic": "Statics: (iv) Equilibrium of Bodies.",
+      "section": "General",
+      "subtopic": "Statics: (iv) Equilibrium of Bodies.",
+      "difficulty": "medium",
+      "question": "Evaluate 7 × 7 + 14.",
+      "options": {
+        "A": "49",
+        "B": "64",
+        "C": "63",
+        "D": "35"
+      },
+      "answer": "C",
+      "explanation": "7 × 7 + 14 = 49 + 14 = 63."
+    },
+    {
+      "id": 257,
+      "topic": "Statics: (iv) Equilibrium of Bodies.",
+      "section": "General",
+      "subtopic": "Statics: (iv) Equilibrium of Bodies.",
+      "difficulty": "hard",
+      "question": "Evaluate 6 × 5 + 11.",
+      "options": {
+        "A": "30",
+        "B": "42",
+        "C": "41",
+        "D": "19"
+      },
+      "answer": "C",
+      "explanation": "6 × 5 + 11 = 30 + 11 = 41."
+    },
+    {
+      "id": 258,
+      "topic": "Statics: (iv) Equilibrium of Bodies.",
+      "section": "General",
+      "subtopic": "Statics: (iv) Equilibrium of Bodies.",
+      "difficulty": "easy",
+      "question": "Evaluate 6 × 9 + 15.",
+      "options": {
+        "A": "70",
+        "B": "39",
+        "C": "69",
+        "D": "54"
+      },
+      "answer": "C",
+      "explanation": "6 × 9 + 15 = 54 + 15 = 69."
+    },
+    {
+      "id": 259,
+      "topic": "Statics: (v) Moments of forces.",
+      "section": "General",
+      "subtopic": "Statics: (v) Moments of forces.",
+      "difficulty": "hard",
+      "question": "Evaluate 6 × 6 + 12.",
+      "options": {
+        "A": "24",
+        "B": "49",
+        "C": "48",
+        "D": "36"
+      },
+      "answer": "C",
+      "explanation": "6 × 6 + 12 = 36 + 12 = 48."
+    },
+    {
+      "id": 260,
+      "topic": "Statics: (v) Moments of forces.",
+      "section": "General",
+      "subtopic": "Statics: (v) Moments of forces.",
+      "difficulty": "easy",
+      "question": "Evaluate 8 × 7 + 15.",
+      "options": {
+        "A": "41",
+        "B": "56",
+        "C": "71",
+        "D": "72"
+      },
+      "answer": "C",
+      "explanation": "8 × 7 + 15 = 56 + 15 = 71."
+    },
+    {
+      "id": 261,
+      "topic": "Statics: (v) Moments of forces.",
+      "section": "General",
+      "subtopic": "Statics: (v) Moments of forces.",
+      "difficulty": "medium",
+      "question": "Evaluate 2 × 8 + 10.",
+      "options": {
+        "A": "26",
+        "B": "16",
+        "C": "6",
+        "D": "27"
+      },
+      "answer": "A",
+      "explanation": "2 × 8 + 10 = 16 + 10 = 26."
+    },
+    {
+      "id": 262,
+      "topic": "Statics: (vi) Friction.",
+      "section": "General",
+      "subtopic": "Statics: (vi) Friction.",
+      "difficulty": "easy",
+      "question": "Evaluate 12 × 3 + 15.",
+      "options": {
+        "A": "21",
+        "B": "51",
+        "C": "52",
+        "D": "36"
+      },
+      "answer": "B",
+      "explanation": "12 × 3 + 15 = 36 + 15 = 51."
+    },
+    {
+      "id": 263,
+      "topic": "Statics: (vi) Friction.",
+      "section": "General",
+      "subtopic": "Statics: (vi) Friction.",
+      "difficulty": "medium",
+      "question": "Evaluate 8 × 2 + 10.",
+      "options": {
+        "A": "26",
+        "B": "6",
+        "C": "27",
+        "D": "16"
+      },
+      "answer": "A",
+      "explanation": "8 × 2 + 10 = 16 + 10 = 26."
+    },
+    {
+      "id": 264,
+      "topic": "Statics: (vi) Friction.",
+      "section": "General",
+      "subtopic": "Statics: (vi) Friction.",
+      "difficulty": "hard",
+      "question": "Evaluate 3 × 10 + 13.",
+      "options": {
+        "A": "30",
+        "B": "43",
+        "C": "44",
+        "D": "17"
+      },
+      "answer": "B",
+      "explanation": "3 × 10 + 13 = 30 + 13 = 43."
+    },
+    {
+      "id": 265,
+      "topic": "Dynamics",
+      "section": "General",
+      "subtopic": "Dynamics",
+      "difficulty": "medium",
+      "question": "Evaluate 11 × 8 + 19.",
+      "options": {
+        "A": "88",
+        "B": "108",
+        "C": "69",
+        "D": "107"
+      },
+      "answer": "D",
+      "explanation": "11 × 8 + 19 = 88 + 19 = 107."
+    },
+    {
+      "id": 266,
+      "topic": "Dynamics",
+      "section": "General",
+      "subtopic": "Dynamics",
+      "difficulty": "hard",
+      "question": "Evaluate 4 × 7 + 11.",
+      "options": {
+        "A": "40",
+        "B": "39",
+        "C": "28",
+        "D": "17"
+      },
+      "answer": "B",
+      "explanation": "4 × 7 + 11 = 28 + 11 = 39."
+    },
+    {
+      "id": 267,
+      "topic": "Dynamics",
+      "section": "General",
+      "subtopic": "Dynamics",
+      "difficulty": "easy",
+      "question": "Evaluate 3 × 10 + 13.",
+      "options": {
+        "A": "43",
+        "B": "30",
+        "C": "44",
+        "D": "17"
+      },
+      "answer": "A",
+      "explanation": "3 × 10 + 13 = 30 + 13 = 43."
+    },
+    {
+      "id": 268,
+      "topic": "Dynamics: (i) The concepts of motion",
+      "section": "General",
+      "subtopic": "Dynamics: (i) The concepts of motion",
+      "difficulty": "hard",
+      "question": "Evaluate 11 × 6 + 17.",
+      "options": {
+        "A": "49",
+        "B": "83",
+        "C": "66",
+        "D": "84"
+      },
+      "answer": "B",
+      "explanation": "11 × 6 + 17 = 66 + 17 = 83."
+    },
+    {
+      "id": 269,
+      "topic": "Dynamics: (i) The concepts of motion",
+      "section": "General",
+      "subtopic": "Dynamics: (i) The concepts of motion",
+      "difficulty": "easy",
+      "question": "Evaluate 10 × 3 + 13.",
+      "options": {
+        "A": "44",
+        "B": "17",
+        "C": "43",
+        "D": "30"
+      },
+      "answer": "C",
+      "explanation": "10 × 3 + 13 = 30 + 13 = 43."
+    },
+    {
+      "id": 270,
+      "topic": "Dynamics: (i) The concepts of motion",
+      "section": "General",
+      "subtopic": "Dynamics: (i) The concepts of motion",
+      "difficulty": "medium",
+      "question": "Evaluate 11 × 8 + 19.",
+      "options": {
+        "A": "69",
+        "B": "88",
+        "C": "107",
+        "D": "108"
+      },
+      "answer": "C",
+      "explanation": "11 × 8 + 19 = 88 + 19 = 107."
+    },
+    {
+      "id": 271,
+      "topic": "Dynamics: (ii) Equations of Motion",
+      "section": "General",
+      "subtopic": "Dynamics: (ii) Equations of Motion",
+      "difficulty": "easy",
+      "question": "Evaluate 9 × 9 + 18.",
+      "options": {
+        "A": "100",
+        "B": "99",
+        "C": "63",
+        "D": "81"
+      },
+      "answer": "B",
+      "explanation": "9 × 9 + 18 = 81 + 18 = 99."
+    },
+    {
+      "id": 272,
+      "topic": "Dynamics: (ii) Equations of Motion",
+      "section": "General",
+      "subtopic": "Dynamics: (ii) Equations of Motion",
+      "difficulty": "medium",
+      "question": "Evaluate 4 × 5 + 9.",
+      "options": {
+        "A": "29",
+        "B": "20",
+        "C": "11",
+        "D": "30"
+      },
+      "answer": "A",
+      "explanation": "4 × 5 + 9 = 20 + 9 = 29."
+    },
+    {
+      "id": 273,
+      "topic": "Dynamics: (ii) Equations of Motion",
+      "section": "General",
+      "subtopic": "Dynamics: (ii) Equations of Motion",
+      "difficulty": "hard",
+      "question": "Evaluate 6 × 12 + 18.",
+      "options": {
+        "A": "72",
+        "B": "90",
+        "C": "91",
+        "D": "54"
+      },
+      "answer": "B",
+      "explanation": "6 × 12 + 18 = 72 + 18 = 90."
+    },
+    {
+      "id": 274,
+      "topic": "Dynamics: (iii) The impulse and momentum equations",
+      "section": "General",
+      "subtopic": "Dynamics: (iii) The impulse and momentum equations",
+      "difficulty": "medium",
+      "question": "Evaluate 5 × 12 + 17.",
+      "options": {
+        "A": "78",
+        "B": "60",
+        "C": "43",
+        "D": "77"
+      },
+      "answer": "D",
+      "explanation": "5 × 12 + 17 = 60 + 17 = 77."
+    },
+    {
+      "id": 275,
+      "topic": "Dynamics: (iii) The impulse and momentum equations",
+      "section": "General",
+      "subtopic": "Dynamics: (iii) The impulse and momentum equations",
+      "difficulty": "hard",
+      "question": "Evaluate 5 × 7 + 12.",
+      "options": {
+        "A": "48",
+        "B": "47",
+        "C": "23",
+        "D": "35"
+      },
+      "answer": "B",
+      "explanation": "5 × 7 + 12 = 35 + 12 = 47."
+    },
+    {
+      "id": 276,
+      "topic": "Dynamics: (iii) The impulse and momentum equations",
+      "section": "General",
+      "subtopic": "Dynamics: (iii) The impulse and momentum equations",
+      "difficulty": "easy",
+      "question": "Evaluate 7 × 9 + 16.",
+      "options": {
+        "A": "47",
+        "B": "79",
+        "C": "80",
+        "D": "63"
+      },
+      "answer": "B",
+      "explanation": "7 × 9 + 16 = 63 + 16 = 79."
+    },
+    {
+      "id": 277,
+      "topic": "Dynamics: (iv) Projectiles.",
+      "section": "General",
+      "subtopic": "Dynamics: (iv) Projectiles.",
+      "difficulty": "hard",
+      "question": "Evaluate 8 × 7 + 15.",
+      "options": {
+        "A": "41",
+        "B": "56",
+        "C": "72",
+        "D": "71"
+      },
+      "answer": "D",
+      "explanation": "8 × 7 + 15 = 56 + 15 = 71."
+    },
+    {
+      "id": 278,
+      "topic": "Dynamics: (iv) Projectiles.",
+      "section": "General",
+      "subtopic": "Dynamics: (iv) Projectiles.",
+      "difficulty": "easy",
+      "question": "Evaluate 7 × 4 + 11.",
+      "options": {
+        "A": "40",
+        "B": "17",
+        "C": "39",
+        "D": "28"
+      },
+      "answer": "C",
+      "explanation": "7 × 4 + 11 = 28 + 11 = 39."
+    },
+    {
+      "id": 279,
+      "topic": "Dynamics: (iv) Projectiles.",
+      "section": "General",
+      "subtopic": "Dynamics: (iv) Projectiles.",
+      "difficulty": "medium",
+      "question": "Evaluate 8 × 8 + 16.",
+      "options": {
+        "A": "81",
+        "B": "48",
+        "C": "80",
+        "D": "64"
+      },
+      "answer": "C",
+      "explanation": "8 × 8 + 16 = 64 + 16 = 80."
+    }
+  ]
+}

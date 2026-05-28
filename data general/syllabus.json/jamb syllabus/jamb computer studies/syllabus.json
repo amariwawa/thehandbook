@@ -1,0 +1,175 @@
+{
+  "syllabus_title": "JAMB UTME Computer Studies Detailed Syllabus",
+  "exam_type": "UTME",
+  "sections": [
+    {
+      "section": "A",
+      "title": "Evolution of Computing",
+      "topics": [
+        {
+          "topic": "History of Computing",
+          "subtopics": [
+            "Pre-Computing Age (19th century and earlier)",
+            "Early computing devices: Abacus, Slide Rule, Napier’s Bones, Pascal Calculator, Leibnitz Multiplier, Jacquard Loom, Charles Babbage’s Engines, Hollerith Census Machine, Burroughs Machine"
+          ]
+        },
+        {
+          "topic": "Computing Devices in the 20th Century",
+          "subtopics": ["ENIAC, EDVAC, UNIVAC 1, Desktop Personal Computers, etc."]
+        },
+        {
+          "topic": "Classification of Computing Devices",
+          "subtopics": [
+            "By Generation (First to current)",
+            "By Size (Micro, Mini, Mainframe, Super)",
+            "By Purpose (Special purpose, General purpose)",
+            "By Type (Digital, Analog, Hybrid)"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "Fundamentals of Computing",
+      "topics": [
+        {
+          "topic": "Overview of Computing Systems",
+          "subtopics": ["Hardware and Software", "Characteristics of Computers"]
+        },
+        {
+          "topic": "Computer Hardware",
+          "subtopics": [
+            "Input Devices (Keyboard, Mouse, Scanner, etc.)",
+            "Output Devices (Monitor, Printer, Speaker, etc.)",
+            "Central Processing Unit (ALU, CU, Registers)",
+            "Memory: Primary (RAM, ROM) and Secondary Storage"
+          ]
+        },
+        {
+          "topic": "Logic Circuits",
+          "subtopics": ["Logic Gates (AND, OR, NOT, NOR, NAND, XOR)", "Truth Tables", "Comparator"]
+        },
+        {
+          "topic": "Software",
+          "subtopics": [
+            "System Software (OS, Utility, Device Drivers, Translators)",
+            "Application Software (Word Processing, Spreadsheet, Database, etc.)",
+            "Open Source vs Proprietary Software"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "Computer Application Packages",
+      "topics": [
+        {
+          "topic": "Data and Information",
+          "subtopics": ["Differences between Data and Information", "Data Representation and Digitization"]
+        },
+        {
+          "topic": "Word Processing (MS Word)",
+          "subtopics": ["Creating, Editing, Formatting, Printing Documents"]
+        },
+        {
+          "topic": "Spreadsheet (MS Excel)",
+          "subtopics": ["Worksheets, Formulas, Functions, Charts"]
+        },
+        {
+          "topic": "Database (MS Access)",
+          "subtopics": ["Tables, Records, Fields, Queries, Forms, Reports"]
+        },
+        {
+          "topic": "Graphics Packages (CorelDraw, etc.)",
+          "subtopics": ["Features and Simple Designs"]
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "Managing Computer Files",
+      "topics": [
+        {
+          "topic": "Concept of Computer Files",
+          "subtopics": ["Types of Files", "File Organization and Access Methods"]
+        },
+        {
+          "topic": "File Handling Operations"
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "title": "Computer Maintenance and Safety Measures",
+      "topics": [
+        {
+          "topic": "Computer Maintenance"
+        },
+        {
+          "topic": "Safety Measures"
+        }
+      ]
+    },
+    {
+      "section": "F",
+      "title": "Information & Communication Technology (ICT)",
+      "topics": [
+        {
+          "topic": "ICT Concepts and Applications"
+        },
+        {
+          "topic": "Internet and Online Resources"
+        }
+      ]
+    },
+    {
+      "section": "G",
+      "title": "Developing Problem-Solving Skills",
+      "topics": [
+        {
+          "topic": "Programming Languages",
+          "subtopics": ["Classification: Machine, Assembly, High-Level", "Characteristics and Translators"]
+        },
+        {
+          "topic": "Algorithms and Flowcharts"
+        },
+        {
+          "topic": "Program Development Life Cycle"
+        }
+      ]
+    },
+    {
+      "section": "H",
+      "title": "Artificial Intelligence (AI) and Robotics",
+      "topics": [
+        {
+          "topic": "Artificial Intelligence",
+          "subtopics": ["Definition, Branches, Applications"]
+        },
+        {
+          "topic": "Robotics",
+          "subtopics": ["Definition, Components, Types, Applications, Advantages & Disadvantages"]
+        },
+        {
+          "topic": "System Development Life Cycle (SDLC)"
+        }
+      ]
+    },
+    {
+      "section": "I",
+      "title": "Computer Ethics and Human Issues",
+      "topics": [
+        {
+          "topic": "Ethical Issues in Computing"
+        },
+        {
+          "topic": "Computer Security and Cyber Risks",
+          "subtopics": ["Types of Security, Threats, Protection Methods"]
+        },
+        {
+          "topic": "Career Prospects in Computing"
+        }
+      ]
+    }
+  ]
+}

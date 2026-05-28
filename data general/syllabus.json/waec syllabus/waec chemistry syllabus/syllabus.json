@@ -1,0 +1,296 @@
+{
+  "syllabus_title": "WAEC SSCE Chemistry Syllabus - Detailed Content",
+  "sections": [
+    {
+      "section": "SECTION A (Common to all candidates)",
+      "topics": [
+        {
+          "topic_number": "1.0",
+          "title": "INTRODUCTION TO CHEMISTRY",
+          "subtopics": [
+            {
+              "sub": "(a)",
+              "title": "Measurement of physical quantities and scientific measurements",
+              "notes": "Measurement of mass, length, time, temperature, volume; SI units, significant figures, precision and accuracy."
+            },
+            {
+              "sub": "(b)",
+              "title": "Scientific Methods",
+              "notes": "Observation, hypothesis, experimentation, formulation of laws and theories."
+            }
+          ]
+        },
+        {
+          "topic_number": "2.0",
+          "title": "STRUCTURE OF THE ATOM",
+          "subtopics": [
+            {
+              "sub": "(a)",
+              "title": "Gross features of the atom",
+              "notes": "Dalton’s atomic theory and limitations, J.J. Thomson’s experiment, Bohr’s model, Rutherford’s alpha scattering."
+            },
+            {
+              "sub": "(b)",
+              "title": "Atomic number, isotopes, relative atomic/molecular mass",
+              "notes": "Proton number, neutrons, mass number, isotopes; calculations (e.g., chlorine); Carbon-12 scale."
+            },
+            {
+              "sub": "(c)",
+              "title": "Particulate nature of matter",
+              "notes": "Atoms, molecules, ions; physical and chemical changes."
+            },
+            {
+              "sub": "(d)",
+              "title": "Electron configuration",
+              "notes": "s, p, d orbitals for first 30 elements; Aufbau, Hund’s, Pauli principles; shapes of s and p orbitals."
+            }
+          ]
+        },
+        {
+          "topic_number": "3.0",
+          "title": "STANDARD SEPARATION TECHNIQUES FOR MIXTURES",
+          "subtopics": [
+            {
+              "sub": "(a)",
+              "title": "Classification of mixtures",
+              "notes": "Solid-solid, solid-liquid, etc."
+            },
+            {
+              "sub": "(b)",
+              "title": "Separation techniques",
+              "notes": "Crystallization, distillation, chromatography, sublimation, etc."
+            },
+            {
+              "sub": "(c)",
+              "title": "Criteria for purity",
+              "notes": "Boiling/melting points."
+            }
+          ]
+        },
+        {
+          "topic_number": "4.0",
+          "title": "PERIODIC CHEMISTRY",
+          "subtopics": [
+            {
+              "sub": "(a-b)",
+              "title": "Periodicity and categories of elements",
+              "notes": "Electron configurations, metals, non-metals, semi-metals, groups."
+            },
+            {
+              "sub": "(c)",
+              "title": "Periodic law and trends",
+              "notes": "Atomic/ionic size, ionization energy, electron affinity, electronegativity; third period gradation (Na-Ar)."
+            },
+            {
+              "sub": "(d)",
+              "title": "Reactions of metals/oxides/carbonates",
+              "notes": "With acids; pH of solutions."
+            },
+            {
+              "sub": "(e)",
+              "title": "Halogens (Group VII)",
+              "notes": "Physical states, oxidation states, displacement reactions, reactions with water/alkali."
+            },
+            {
+              "sub": "(f)",
+              "title": "First transition series (Sc-Zn)",
+              "notes": "Electron config, properties, reactivity, coloured compounds, catalysis, etc."
+            }
+          ]
+        },
+        {
+          "topic_number": "5.0",
+          "title": "CHEMICAL BONDS",
+          "subtopics": [
+            {
+              "sub": "(a-b)",
+              "title": "Interatomic bonding - Ionic",
+              "notes": "Formation, properties, Lewis structures, factors (ionization energy, etc.)."
+            },
+            {
+              "sub": "(c)",
+              "title": "Naming ionic compounds",
+              "notes": "IUPAC system."
+            },
+            {
+              "sub": "(d-e)",
+              "title": "Covalent and coordinate bonds",
+              "notes": "Formation, properties, shapes (linear, tetrahedral, etc.)."
+            },
+            {
+              "sub": "(f-g)",
+              "title": "Metallic bonding",
+              "notes": "Factors, properties (conductivity, malleability, etc.)."
+            },
+            {
+              "sub": "(h)",
+              "title": "Intermolecular forces",
+              "notes": "van der Waals, hydrogen bonding, comparisons."
+            }
+          ]
+        },
+        {
+          "topic_number": "6.0",
+          "title": "STOICHIOMETRY AND CHEMICAL REACTIONS",
+          "subtopics": [
+            {
+              "sub": "(a)",
+              "title": "Symbols, formulae, equations, laws of chemical combination",
+              "notes": "Empirical/molecular formulae, balancing, conservation of mass, etc."
+            },
+            {
+              "sub": "(b)",
+              "title": "Amount of substance",
+              "notes": "Mole, Avogadro’s constant, molar quantities."
+            },
+            {
+              "sub": "(c-e)",
+              "title": "Mole ratios, solutions, concentration",
+              "notes": "Calculations, standard solutions, dilution."
+            }
+          ]
+        },
+        {
+          "topic_number": "7.0",
+          "title": "STATES OF MATTER",
+          "subtopics": [
+            {
+              "sub": "(a)",
+              "title": "Kinetic theory, changes of state, diffusion",
+              "notes": "Postulates, Brownian motion, examples."
+            },
+            {
+              "sub": "(b)",
+              "title": "Gases",
+              "notes": "Gas laws (Boyle, Charles, etc.), ideal gas equation, preparations (H2, NH3, CO2)."
+            },
+            {
+              "sub": "(c-d)",
+              "title": "Liquids, vapours, solids",
+              "notes": "Properties, structures (ionic, molecular, etc.), diamond/graphite."
+            }
+          ]
+        },
+        {
+          "topic_number": "8.0",
+          "title": "ENERGY AND ENERGY CHANGES",
+          "subtopics": [
+            {
+              "sub": "(a-b)",
+              "title": "Energy, enthalpy, exothermic/endothermic",
+              "notes": "Combustion, dissolution, neutralization."
+            }
+          ]
+        },
+        {
+          "topic_number": "9.0",
+          "title": "ACIDS, BASES AND SALTS",
+          "subtopics": [
+            {
+              "sub": "(a-e)",
+              "title": "Definitions, properties, electrolytes, pH, salts",
+              "notes": "Arrhenius, strength, hydrolysis, indicators, titrations."
+            }
+          ]
+        },
+        {
+          "topic_number": "10.0",
+          "title": "SOLUBILITY OF SUBSTANCES",
+          "subtopics": [
+            {
+              "sub": "(a-b)",
+              "title": "General principles and applications",
+              "notes": "Saturated solutions, curves, calculations, qualitative analysis."
+            }
+          ]
+        },
+        {
+          "topic_number": "11.0",
+          "title": "CHEMICAL KINETICS AND EQUILIBRIUM SYSTEM",
+          "subtopics": [
+            {
+              "sub": "(a)",
+              "title": "Rate of reactions",
+              "notes": "Factors, collision theory, graphs."
+            },
+            {
+              "sub": "(b)",
+              "title": "Equilibrium",
+              "notes": "Le Chatelier’s principle, reversible reactions."
+            }
+          ]
+        },
+        {
+          "topic_number": "12.0",
+          "title": "REDOX REACTIONS",
+          "subtopics": [
+            {
+              "sub": "(a-d)",
+              "title": "Oxidation/reduction, agents, equations, electrochemical cells",
+              "notes": "Electrode potentials, electrolysis, Faraday’s laws, corrosion."
+            }
+          ]
+        },
+        {
+          "topic_number": "13.0",
+          "title": "CHEMISTRY OF CARBON COMPOUNDS",
+          "subtopics": [
+            {
+              "sub": "(a-e)",
+              "title": "Classification, functional groups, purification, petroleum, homologous series, isomerism",
+              "notes": "Nomenclature, empirical formulae."
+            },
+            {
+              "sub": "(f-l)",
+              "title": "Alkanes, alkenes, alkynes, benzene, alkanols, alkanoic acids, alkanoates",
+              "notes": "Properties, reactions, uses, tests."
+            }
+          ]
+        },
+        {
+          "topic_number": "14.0",
+          "title": "CHEMISTRY, INDUSTRY AND THE ENVIRONMENT",
+          "subtopics": [
+            {
+              "sub": "(a-c)",
+              "title": "Chemical industry, pollution, biotechnology",
+              "notes": "Raw materials, effects/control, fermentation."
+            }
+          ]
+        },
+        {
+          "topic_number": "15.0",
+          "title": "BASIC BIOCHEMISTRY AND SYNTHETIC POLYMERS",
+          "subtopics": [
+            {
+              "sub": "(a-e)",
+              "title": "Proteins, amino acids, fats/oils, carbohydrates, synthetic polymers",
+              "notes": "Structures, properties, hydrolysis, polymerization, uses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "SECTION B (e.g., Ghana only)",
+      "topics": [
+        {
+          "topic_number": "Additional topics",
+          "title": "Nuclear chemistry, advanced periodic chemistry, hybridization, Hess’s law, buffers, etc.",
+          "notes": "Includes mass spectrometer, radioactivity, complex compounds, bond energy calculations, solubility product, rate laws, etc."
+        }
+      ]
+    },
+    {
+      "section": "SECTION C (e.g., Nigeria, Sierra Leone, etc.)",
+      "topics": [
+        {
+          "topic_number": "1.0",
+          "title": "NON-METALS AND THEIR COMPOUNDS",
+          "notes": "Carbon allotropes, coal, oxides of carbon, oxygen, hydrogen, water, halogens, etc."
+        }
+      ]
+    }
+  ],
+  "note": "This JSON captures the core detailed syllabus content, focusing on topics and key notes. Country-specific sections (B/C) add depth to certain areas like nuclear chemistry or non-metals."
+}

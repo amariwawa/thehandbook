@@ -1,0 +1,284 @@
+{
+  "syllabus_title": "UTME Islamic Studies Detailed Syllabus",
+  "parts": [
+    {
+      "part": "PART 1: THE QUR’ĀN AND HADĪTH",
+      "topics": [
+        {
+          "topic": "Revelation of the Glorious Qur’ān",
+          "objectives": [
+            "Analyse the Prophet’s (SAW) visits to Cave Hira and the purpose",
+            "Describe the Prophet’s reaction to the first revelation and its importance",
+            "Differentiate between the modes of revelation (Q.42:51)",
+            "Explain why the Glorious Qur’ān was revealed piecemeal (Q.17:106, Q.25:32)",
+            "Identify the names and attributes of the Qur’ān"
+          ]
+        },
+        {
+          "topic": "Preservation of the Glorious Qur’ān",
+          "objectives": [
+            "Analyse how the Glorious Qur’ān was recorded, compiled and standardized",
+            "Differentiate between Makkan and Madinan suwar",
+            "Evaluate the role played by the Companions of the Prophet (SAW) on the collection and compilation of the Qur’ān"
+          ]
+        },
+        {
+          "topic": "Importance of the Glorious Qur’ān",
+          "objectives": [
+            "Examine the importance of the Glorious Qur’ān as a source of guidance in spiritual, moral, economic, political and sociocultural matters"
+          ]
+        },
+        {
+          "topic": "Divine authenticity of the Glorious Qur’ān",
+          "objectives": [
+            "Evaluate the proof of the divine authenticity of the Glorious Qur’ān (Q.4:82, Q.41:42)",
+            "Evaluate the uniqueness of the Glorious Qur’ān (Q.39:27, Q.17:88, Q.75:16-19)",
+            "Examine the ways by which the Glorious Qur’ān was preserved (Q.15:9)"
+          ]
+        },
+        {
+          "topic": "Tafsīr",
+          "objectives": [
+            "Trace the origin and sources of Tafsīr",
+            "Evaluate the importance of Tafsīr",
+            "Identify the types of Tafsīr"
+          ]
+        },
+        {
+          "topic": "Introduction to Tajwīd (Theory and Practice)",
+          "objectives": [
+            "Examine the meaning and importance of Tajwīd"
+          ]
+        },
+        {
+          "topic": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar)",
+          "suwar": [
+            "al-Fātihah (Q.1)",
+            "al-Ādiyāt (Q.100)",
+            "al-Qāri'ah (Q.101)",
+            "at-Takāthur (Q.102)",
+            "al-Asr (Q.103)",
+            "al-Humazah (Q.104)",
+            "al-Mā'ūn (Q.107)",
+            "al-Kawthar (Q.108)",
+            "al-Kāfirūn (Q.109)",
+            "an-Nasr (Q.110)",
+            "al-Masad (Q.111)",
+            "al-Ikhlās (Q.112)",
+            "al-Falaq (Q.113)",
+            "an-Nās (Q.114)"
+          ],
+          "objectives": [
+            "Recite with correct Tajwīd",
+            "Translate the verses",
+            "Deduce lessons from them",
+            "Evaluate the teachings of the verses"
+          ]
+        },
+        {
+          "topic": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd",
+          "suwar": [
+            "al-A'lā (Q.87)",
+            "ad-Duhā (Q.93)",
+            "al-Inshirāh (Q.94)",
+            "at-Tīn (Q.95)",
+            "al-Alaq (Q.96)",
+            "al-Qadr (Q.97)",
+            "al-Bayyinah (Q.98)",
+            "az-Zalzalah (Q.99)",
+            "Āyatul-Kursiyy (Q.2:255)",
+            "Āmanar-Rasūl (Q.2:285-286)",
+            "Laqad jā'akum (Q.9:128-129)"
+          ],
+          "objectives": [
+            "Recite with correct Tajwīd",
+            "Deduce lessons from them",
+            "Evaluate their teachings"
+          ]
+        },
+        {
+          "topic": "Hadīth",
+          "subtopics": [
+            {
+              "sub": "History of Hadīth literature",
+              "objectives": ["Evaluate the history from the time of the Prophet (SAW) to the six authentic collectors"]
+            },
+            {
+              "sub": "Authentication of Hadīth",
+              "objectives": [
+                "Analyse the Isnād and Matn",
+                "Distinguish between Hadīth Sahīh, Hasan and Da'īf"
+              ]
+            },
+            {
+              "sub": "Relationship between Hadīth and the Glorious Qur’ān",
+              "objectives": ["Examine the importance and similarities/differences"]
+            },
+            {
+              "sub": "The six sound collectors and Muwatta",
+              "objectives": ["Evaluate biographies and works, including Imam Malik"]
+            }
+          ]
+        },
+        {
+          "topic": "Moral lessons in the Glorious Qur’ān and Hadīth",
+          "lessons": [
+            "General moral lessons (e.g., Luqman to his son Q.31:12-18)",
+            "Goodness to parents (Q.17:23-24)",
+            "Honesty (Q.2:42, Q.61:3? note: text has Q.61:23)",
+            "Prohibition of bribery, corruption, alcohol, gambling, stealing, etc.",
+            "Dignity of labour",
+            "Modesty in dressing (Q.24:27-31, Q.33:59)",
+            "Adultery, fornication, homosexuality",
+            "Leadership and justice",
+            "Trust and obligations",
+            "Piety (Taqwa)",
+            "Tolerance, perseverance and patience",
+            "Unity and brotherhood",
+            "Enjoining good and forbidding wrong"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "PART II: TAWHĪD AND FIQH",
+      "topics": [
+        {
+          "topic": "Tawhīd and its importance",
+          "objectives": ["Analyse the concepts of Tawhīd"]
+        },
+        {
+          "topic": "Kalimatush-Shahādah",
+          "objectives": [
+            "Evaluate its meaning and importance",
+            "Oneness of Allah (relevant verses)",
+            "Servanthood and messengership of Prophet Muhammad (SAW)",
+            "Universality and finality of his message"
+          ]
+        },
+        {
+          "topic": "Shirk and incompatible practices",
+          "objectives": [
+            "Identify beliefs and actions constituting Shirk (idols, ancestral worship, Trinity, atheism)",
+            "Identify incompatible practices (superstition, fortune-telling, magic, cult worship, Bid'ah)"
+          ]
+        },
+        {
+          "topic": "Articles of Faith",
+          "subtopics": [
+            "Belief in Allah (Existence, Attributes, Works)",
+            "Belief in Angels",
+            "Belief in Books",
+            "Belief in Prophets (Ulul Azmi)",
+            "Belief in the Last Day",
+            "Belief in Destiny (Qada and Qadar)"
+          ]
+        },
+        {
+          "topic": "Ibādāt and their types",
+          "subtopics": [
+            "Good deeds",
+            "Taharah (types and importance)",
+            "Salah (importance, types, things that vitiate)",
+            "Zakah (types, collection, disbursement)",
+            "Sawm (types, exemptions, things that vitiate)",
+            "Hajj (importance, types, essentials, conditions)",
+            "Jihad (concept, kinds, manner, lessons)"
+          ]
+        },
+        {
+          "topic": "Family Matters",
+          "subtopics": [
+            "Marriage (importance, prohibited categories, conditions, rights/duties, polygamy)",
+            "Idrar (ill-treatment of wife)",
+            "Divorce (attitude, kinds, Iddah, prohibited forms, custody)",
+            "Inheritance (importance, heirs and shares)"
+          ]
+        },
+        {
+          "topic": "Sources and Schools of Law",
+          "objectives": [
+            "The four major sources (Qur’ān, Sunnah, Ijmā', Qiyās)",
+            "The four Sunni Schools and their founders"
+          ]
+        },
+        {
+          "topic": "Islamic Economic System",
+          "objectives": [
+            "Attitude to Riba",
+            "Attatfif, Hoarding (Ihtikar)",
+            "Sources of revenue (Zakah, Jizyah, Kharaj, Ghanimah)",
+            "Baitulmal",
+            "Difference from Western system"
+          ]
+        },
+        {
+          "topic": "Islamic Political System",
+          "objectives": [
+            "Allah as Sovereign",
+            "Shurah (consultation)",
+            "Adalah (justice) and accountability",
+            "Rights of non-Muslims",
+            "Differences from Western system"
+          ]
+        }
+      ]
+    },
+    {
+      "part": "PART III: ISLAMIC HISTORY AND CIVILIZATION",
+      "topics": [
+        {
+          "topic": "Pre-Islamic Arabia (Jahiliyyah)",
+          "objectives": [
+            "Practices (idol worship, infanticide, etc.)",
+            "Islamic reforms"
+          ]
+        },
+        {
+          "topic": "The Life of Prophet Muhammad (SAW)",
+          "events": [
+            "Birth and early life",
+            "Call to Prophethood",
+            "Da'wah in Makkah and Madinah",
+            "Hijrah",
+            "Administration in Madinah",
+            "Battles (Badr, Uhud, Khandaq)",
+            "Treaty of Hudaibiyyah and Conquest of Makkah",
+            "Hijjatul Wada' and farewell sermon",
+            "Qualities and lessons"
+          ]
+        },
+        {
+          "topic": "The Rightly Guided Caliphs (al-Khulafā'u ar-Rāshidūn)",
+          "objectives": ["Biographies and contributions of the four Caliphs"]
+        },
+        {
+          "topic": "Early contact of Islam with Africa",
+          "objectives": [
+            "Hijrah to Abyssinia",
+            "Spread to Egypt",
+            "Role of traders, teachers, preachers, Murabitun, Sufi orders, Mujaddidun in West Africa"
+          ]
+        },
+        {
+          "topic": "The Impact of Islam in West Africa",
+          "objectives": [
+            "Influence on socio-political life (Ghana, Mali, Songhai, Borno)",
+            "Impact on economic life (Timbuktu, Kano, Borno)"
+          ]
+        },
+        {
+          "topic": "Contributions of Islam to Education",
+          "objectives": [
+            "Aims and objectives",
+            "Qur’ān and Hadīth on education",
+            "Intellectual activities in West Africa",
+            "Contributions of scholars (Ahmad Baba, al-Maghili, Usman Dan Fodio, etc.)",
+            "Institutions (House of Wisdom, al-Azhar, etc.)",
+            "Contributions of Ibn Sina, al-Ghazali, Ibn Rushd, ar-Razi, Ibn Khaldun"
+          ]
+        }
+      ]
+    }
+  ]
+}

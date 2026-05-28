@@ -1,0 +1,553 @@
+{
+  "title": "BECE Islamic Religious Studies (IRS) Detailed Syllabus",
+  "exam": "Basic Education Certificate Examination (BECE)",
+  "subject": "Islamic Religious Studies",
+  "themes": [
+    {
+      "sn": 1,
+      "theme": "AL-QUR’AN",
+      "topics": [
+        {
+          "topic": "I. The Revelation and Preservation of al-Qur’an",
+          "objectives": [
+            "a. The definition and meaning of al-Qur’an",
+            "b. The revelation of al-Qur’an",
+            "c. Preservation of al-Qur’an",
+            "d. Difference between al-Qur’an and other revealed books."
+          ]
+        },
+        {
+          "topic": "II. Suratul Fatihah (Quran Chapter 01 Verse 1-7)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "III. Suratul Nas (Qur’an Chapter 114 Verse 1-6)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "IV. Suratul Falaq (Qur’an Chapter 113 Verse 1-5)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "V. Suratul Ikhlas (Qur’an Chapter 112 Verse 1-4)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "VI. Suratul-Masad (Qur’an Chapter 111 Verse 1-5)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "VII. Suratul Nasr (Qur’an Chapter 110 Verse 1-3)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "VIII. Suratul Kafirun (Qur’an Chapter 109 Verse 1-6)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "IX. Suratul Kawthar (Qur’an Chapter 108 Verse 1-3)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "X. Suratul Ma’un (Qur’an Chapter 107 Verse 1-7)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XI. Suratul Quraysh (Qur’an Chapter 106 Verse 1-4)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XII. Suratul Fil (Qur’an Chapter 105 Verse 1-5)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XIII. Süratul Humazah (Qur’an Chapter 104 Verse 1-9)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XIV. Süratul Asr (Qur’an Chapter 103 Verse 1-3)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XV. Süratul Takäthur (Qur’an Chapter 102 Verse 1-8)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XVI. Süratul Qäri’ah (Qur’an Chapter 101 Verse 1-11)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XXII. Süratut Tin (Qur’an Chapter 95 Verse 1-8)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XXIII. Suratul Sharah (Qur’an Chapter 94 Verse 1-8)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        },
+        {
+          "topic": "XXIV. Süratul Duha (Qur’an Chapter 93 Verse 1-11)",
+          "objectives": [
+            "a. Reading and writing of the Arabic text.",
+            "b. Meaning (Translation of the Arabic text)",
+            "c. Lessons of the Sürah and its significance.",
+            "d. Memorization of the Sürah With Tajwid"
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "theme": "FIQH",
+      "topics": [
+        {
+          "topic": "I. At-Tahärah (Purification)",
+          "objectives": [
+            "a. Definition of Tahärah.",
+            "b. Kinds of Tahärah.",
+            "c. Importance of Tahärah."
+          ]
+        },
+        {
+          "topic": "II. Performance of Ablution (al-Wudu) and things that vitiate it",
+          "objectives": [
+            "a. What necessitates the performance of ablution?",
+            "b. Performance of ablution",
+            "c. Things that vitiate it"
+          ]
+        },
+        {
+          "topic": "III. At Tayammum (Dry Ablution)",
+          "objectives": [
+            "a. What necessitates the performance of Tayammum?",
+            "b. Description of Tayammum.",
+            "c. Significance of Tayammum.",
+            "d. Things that vitiate Tayammum."
+          ]
+        },
+        {
+          "topic": "IV. Al-Ghusl (Ritual Bath)",
+          "objectives": [
+            "a. Conditions which necessitate the performance of Ghusl.",
+            "b. Performance of Ghusl.",
+            "c. Significance of Ghusl."
+          ]
+        },
+        {
+          "topic": "V. Al-Ädhän and Iqämah",
+          "objectives": [
+            "a. Times of Adhän and Iqämah.",
+            "b. Wordings of Adhän.",
+            "c. Wordings of Iqämah.",
+            "d. al-Adhän is called?",
+            "e. Why al-Iqämah is said.",
+            "f. Significance of Ädhän and Iqämah."
+          ]
+        },
+        {
+          "topic": "VI. As-Salah",
+          "objectives": [
+            "a. The five pillars of Isläm.",
+            "b. How to perform a complete unit of Raka’ah.",
+            "c. Number of Rakah in each of the obligatory prayers."
+          ]
+        },
+        {
+          "topic": "VII. At Tashahhud",
+          "objectives": [
+            "a. At-Tashahhud and its meaning.",
+            "b. Significance of At-Tashahhud."
+          ]
+        },
+        {
+          "topic": "VIII. Salätul Jama’ah (Congregational Prayer)",
+          "objectives": [
+            "a. The meaning of Salätul Jama’ah.",
+            "b. Condition for observance of Salätul Jama’ah.",
+            "c. The value of Salätul Jama’ah."
+          ]
+        },
+        {
+          "topic": "IX. Kinds of Salah",
+          "objectives": [
+            "a. Obligatory Prayers.",
+            "b. Non-obligatory Prayers.",
+            "c. Special Prayers."
+          ]
+        },
+        {
+          "topic": "X. Times of Salah",
+          "objectives": [
+            "a. Times for Fajr/Subh, Zuhr, Asr, Maghrib and Ishä prayers.",
+            "b. Importance of observing prayers at the prescribed time.",
+            "c. The text of Qur’än 4:103.",
+            "d. Value of time (Qur’än 17:78)."
+          ]
+        },
+        {
+          "topic": "XI. Hajjatul Wadäi’ (Farewell Pilgrimage)",
+          "objectives": [
+            "a. Meaning of Hajjatul Wadäi.",
+            "b. Extract from the Khutbatul Wadäi (Farewell sermon).",
+            "c. Lessons and Significance of the sermon."
+          ]
+        },
+        {
+          "topic": "XII. Sujüd Sahwi",
+          "objectives": [
+            "a. Define Sujüd Sahwi.",
+            "b. State what causes Sujüd Sahwi.",
+            "c. Describe how it is performed.",
+            "d. Describe the two kinds of Sujud Sahwi."
+          ]
+        },
+        {
+          "topic": "XIII. Al-Hajj",
+          "objectives": [
+            "a. Hajj as one of the five pillars of Isläm.",
+            "b. Meaning of Hajj and conditions for performing it.",
+            "c. The main acts of Hajj.",
+            "d. Things that vitiate Hajj."
+          ]
+        },
+        {
+          "topic": "XIV. An-Nikäh (Marriage)",
+          "objectives": [
+            "a. Definition of An-Nikäh.",
+            "b. Importance of An-Nikäh.",
+            "c. An-Nikäh as an act of Ibädah."
+          ]
+        },
+        {
+          "topic": "XV. Family Planning in Isläm",
+          "objectives": [
+            "a. Definition of family planning in Isläm.",
+            "b. Acceptable ways of family planning in Isläm."
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "theme": "TAWHID (THE ONENESS OF ALLAH)",
+      "topics": [
+        {
+          "topic": "I. The Religion of Isläm",
+          "objectives": [
+            "a. Definition of Isläm and Muslim.",
+            "b. The purpose of creation (Qur’än Chapter 51 verse 56–58)."
+          ]
+        },
+        {
+          "topic": "II. Kalimattus Shahädah",
+          "objectives": [
+            "a. Arabic text of the Kalimah.",
+            "b. Meaning of the kalimah.",
+            "c. Significance and implication of the two parts of the Kalimah."
+          ]
+        },
+        {
+          "topic": "III. Pillars of Isläm",
+          "objectives": [
+            "Significance of belief in Alläh (Iman) and other pillars of Isläm."
+          ]
+        },
+        {
+          "topic": "IV. The Beautiful Names of Allah (Asmā’ul Lāhil Husnā) (I)",
+          "objectives": [
+            "a. Reading and Meaning of the Attributes... (Qur’än 59:23)",
+            "b. Significance of the attributes..."
+          ]
+        },
+        {
+          "topic": "V. The Beautiful Names of Allah (Asmā’ul Lāhil Husnā) (II)",
+          "objectives": [
+            "a. Reading and Meaning... (Qur’än 59:24)",
+            "b. Significance..."
+          ]
+        },
+        {
+          "topic": "VI. The Beautiful Names of Allah (Asmā’ul Lāhil Husnā) (III)",
+          "objectives": [
+            "a. Reading and Meaning...",
+            "b. Significance..."
+          ]
+        },
+        {
+          "topic": "VII. The Beautiful Names of Allah (Asmā’ul Lāhil Husnā) (IV)",
+          "objectives": [
+            "a. Reading and meaning...",
+            "b. Significance..."
+          ]
+        },
+        {
+          "topic": "VIII. Beautiful Names of Allah (Asmā’ul Lāhil Husnā) (V)",
+          "objectives": [
+            "a. Reading and meaning...",
+            "b. Significance..."
+          ]
+        },
+        {
+          "topic": "IX. Prophets of Allah",
+          "objectives": [
+            "a. Definition and meaning of Prophets",
+            "b. Examples of some Prophets",
+            "c. Qualities and roles of the Prophets",
+            "d. Muhammad (SAW) The seal of the prophets."
+          ]
+        },
+        {
+          "topic": "X. The Angels",
+          "objectives": [
+            "a. Definition and nature of the Angels",
+            "b. Names and functions of Angels"
+          ]
+        },
+        {
+          "topic": "XI. Al-Qada and Al-Qadar",
+          "objectives": [
+            "a. Definition of Al-Qada and Al-Qadar",
+            "b. Al-Qada and Al-Qadar as one of the articles of faith",
+            "c. Application and importance of belief in Al-Qada and Al-Qadar"
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 1,
+      "theme": "HADITH STUDY (Paper 2)",
+      "topics": [
+        {
+          "topic": "I. The meaning and importance of Hadith",
+          "objectives": [
+            "a. Definition of Hadith and Sunnah",
+            "b. Differences between Hadith and Qur’än",
+            "c. The importance of Hadith"
+          ]
+        },
+        {
+          "topic": "II. The reporters of Hadith",
+          "objectives": [
+            "a. The two parts of Hadith (Isnäd and Matn)",
+            "b. Prominent reporters of Hadith",
+            "c. The three kinds of Hadith"
+          ]
+        },
+        {
+          "topic": "III. The Preservation and Collection of Hadith",
+          "objectives": [
+            "a. During and after the life of the Prophet",
+            "b. The six Authentic Collections (As-Shähus Sitta)"
+          ]
+        },
+        {
+          "topic": "IV–XXV. Specific Hadiths from An-Nawawi’s Collection (Nos. 1-27 selected)",
+          "objectives": [
+            "For each Hadith: a. Reading of the Arabic text. b. Meaning (translation). c. Lessons contained. d. Application of the Hadith."
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "theme": "SIRAH (ISLAMIC HISTORY)",
+      "topics": [
+        {
+          "topic": "I. Arabia Before Islam (Jahiliyyah Period)",
+          "objectives": [
+            "a. Arabian Peninsula",
+            "b. The Arabs way of life."
+          ]
+        },
+        {
+          "topic": "II. The Birth of the Prophet (SAW)",
+          "objectives": [
+            "The life of the Prophet from his childhood."
+          ]
+        },
+        {
+          "topic": "III. The Prophet (SAW): His Youth and marriage to Khadijah",
+          "objectives": [
+            "a. The life... during his youth",
+            "b. His marriage to Khadijah",
+            "c. Character of the Prophet (SAW) in his youth."
+          ]
+        },
+        {
+          "topic": "IV. Muhammad (SAW) Prophethood",
+          "objectives": [
+            "Muhammad (SAW) as Prophet and Messenger of Alläh."
+          ]
+        },
+        {
+          "topic": "V. Hijrah to Yathrib (Madinah)",
+          "objectives": [
+            "a. The meaning of Hijrah",
+            "b. Circumstance of the Hijrah",
+            "c. Significance of the Hijrah"
+          ]
+        },
+        {
+          "topic": "VI. Effects of the Hijrah",
+          "objectives": [
+            "a. Building of Masjid-Nabawi",
+            "b. Rehabilitation of the Muhajirun",
+            "c. Foundation of the Ummah",
+            "d. The battles and their causes"
+          ]
+        },
+        {
+          "topic": "VII. The Conquest of Makkah",
+          "objectives": [
+            "What led to the Conquest of Makkah."
+          ]
+        },
+        {
+          "topic": "VIII. Al-Khulafä’ur Rashidün (The Rightly Guided Caliphs): Abū Bakr",
+          "objectives": [
+            "a. Definition of Khalifah",
+            "b. Names...",
+            "c. Brief history of Abu Bakr, lessons derived."
+          ]
+        },
+        {
+          "topic": "IX–XIII. Prophets of Allah (Adam, Nüh, Ibrahim, Müsä, Isa)",
+          "objectives": [
+            "a. Brief history...",
+            "b. Lessons contained in his life."
+          ]
+        },
+        {
+          "topic": "XIV–XVI. Nigerian/Regional Islamic Figures (Uthmän bn Fodio, Al-Amin Al-Kanemi, Shitta Bey)",
+          "objectives": [
+            "a. Brief history...",
+            "b. Qualities...",
+            "c. Lessons..."
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "theme": "TAHDHIB (Moral Guidance)",
+      "topics": [
+        {
+          "topic": "I–III. Child’s Rights in Isläm (Survival, Development, Protection)",
+          "objectives": [
+            "Relevant Qur’anic references and explanations."
+          ]
+        },
+        {
+          "topic": "IV–V. Child’s responsibilities to Alläh, Parents and Relations",
+          "objectives": [
+            "a. Ibädah...",
+            "b. Goodness and obedience to parents..."
+          ]
+        },
+        {
+          "topic": "VI–IX. Human Relations and Social Responsibilities",
+          "objectives": [
+            "Forgiveness, Tolerance, Kindness, Greetings, Neighbourliness, Avoidance of Bribery, Corruption, Stealing."
+          ]
+        },
+        {
+          "topic": "X. Islamic Greeting (At-Taslim)",
+          "objectives": [
+            "a. As-Salāmu ‘Alaikum...",
+            "b. Wa’alaykumu Salam..."
+          ]
+        },
+        {
+          "topic": "XI–XIII. Social Responsibilities, Maintenance of Good Health",
+          "objectives": [
+            "Equity, Justice, Lawful/Unlawful foods, Dangers of alcohol, drugs, etc."
+          ]
+        }
+      ]
+    }
+  ]
+}

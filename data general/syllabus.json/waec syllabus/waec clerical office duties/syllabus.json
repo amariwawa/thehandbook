@@ -1,0 +1,486 @@
+{
+  "detailed_syllabus": [
+    {
+      "section": "1. THE OFFICE",
+      "topics": [
+        {
+          "topic": "Definition of an office"
+        },
+        {
+          "topic": "Functions",
+          "subtopics": [
+            "Receiving information",
+            "Recording information",
+            "Processing/Analysing information",
+            "Giving information",
+            "Storing information",
+            "Safeguarding/Protecting Assets"
+          ]
+        },
+        {
+          "topic": "Sections",
+          "subtopics": [
+            "Reception",
+            "General Office",
+            "Stores",
+            "Mail Room/Registry"
+          ]
+        },
+        {
+          "topic": "Departments",
+          "subtopics": [
+            "Accounts",
+            "Purchasing",
+            "Sales",
+            "Personnel/Human Resource",
+            "Production",
+            "Legal",
+            "Administration",
+            "Transport"
+          ]
+        },
+        {
+          "topic": "Office Personnel",
+          "subtopics": [
+            "Office Manager",
+            "Office Supervisor",
+            "General Clerks",
+            "Accounts Clerks",
+            "Data entry Clerks",
+            "Administrative Assistants",
+            "Secretaries (Company Secretary, Private Secretary, Stenographer Secretary)",
+            "Receptionist",
+            "Typist",
+            "Messenger"
+          ]
+        },
+        {
+          "topic": "Professional Image of Office Staff",
+          "subtopics": [
+            "Personal and Business Attributes",
+            "Social habits, Personal Hygiene and healthy Lifestyle",
+            "Time Management"
+          ]
+        },
+        {
+          "topic": "Layout",
+          "subtopics": [
+            "Open",
+            "Closed"
+          ]
+        }
+      ],
+      "learning_outcomes": "Identify roles of sections, linkages among departments, relationships among personnel, personal/business attributes, importance of hygiene/time management, factors for office layout, advantages/disadvantages of open/closed layouts."
+    },
+    {
+      "section": "2. ORGANISATION",
+      "topics": [
+        {
+          "topic": "Principles of Organisation",
+          "subtopics": [
+            "Unity of objectives",
+            "Span of control",
+            "Authority and Responsibility",
+            "Delegation",
+            "Unity of functions",
+            "Unity of command",
+            "Supervision",
+            "Remuneration",
+            "Accountability",
+            "Esprit de corps"
+          ]
+        },
+        {
+          "topic": "Organisational Structure",
+          "subtopics": [
+            "Line structure",
+            "Line and staff structure",
+            "Staff structure",
+            "Functional structure",
+            "Matrix structure"
+          ]
+        },
+        {
+          "topic": "Organisational Chart/Organogram"
+        }
+      ],
+      "learning_outcomes": "Explain principles and their application, draw organisational charts and state uses/advantages/disadvantages."
+    },
+    {
+      "section": "3. BUSINESS TRANSACTIONS",
+      "topics": [
+        {
+          "topic": "Documents used in Business Transactions",
+          "subtopics": [
+            "Letter of enquiry",
+            "Price list/Catalogue/Quotation",
+            "Local Purchase Order",
+            "Order",
+            "Proforma Invoice",
+            "Invoice",
+            "Delivery Note/Waybill",
+            "Debit note",
+            "Credit note",
+            "Statement of account",
+            "Cheques/Payment Orders",
+            "Receipt",
+            "Purchase Requisition"
+          ]
+        },
+        {
+          "topic": "Methods of Payment",
+          "subtopics": [
+            "Cash",
+            "Cheque",
+            "Standing order",
+            "Credit transfer",
+            "Money transfer"
+          ]
+        },
+        {
+          "topic": "Payroll Handling"
+        },
+        {
+          "topic": "Tax Regimes",
+          "subtopics": [
+            "VAT",
+            "Income Tax",
+            "Communication Service Tax (CST)",
+            "Property Tax",
+            "Import/Customs Duty"
+          ]
+        },
+        {
+          "topic": "Petty Cash"
+        }
+      ],
+      "learning_outcomes": "Identify documents/purposes/usage, complete documents, describe payment methods (advantages/disadvantages), explain payroll terms/methods/prepare payroll, explain taxes, explain petty cash/imprest and complete petty cash book."
+    },
+    {
+      "section": "4. BANKING",
+      "topics": [
+        {
+          "topic": "Types of Bank"
+        },
+        {
+          "topic": "Types of Account",
+          "subtopics": [
+            "Savings",
+            "Current",
+            "Fixed deposit"
+          ]
+        },
+        {
+          "topic": "Cheques"
+        }
+      ],
+      "learning_outcomes": "Know functions of various banks, features of accounts, definition/types/features of valid cheque, parties, reasons for dishonour, crossed cheques."
+    },
+    {
+      "section": "5. STOCK PROCEDURE",
+      "topics": [
+        {
+          "topic": "Ordering of Stock"
+        },
+        {
+          "topic": "Duties of the Storekeeper"
+        },
+        {
+          "topic": "Requisition Procedure"
+        },
+        {
+          "topic": "Stock Record and Stocktaking",
+          "subtopics": [
+            "Annual",
+            "Periodic",
+            "Perpetual"
+          ]
+        },
+        {
+          "topic": "Stock Control",
+          "subtopics": [
+            "Minimum Stock",
+            "Maximum Stock",
+            "Re-order level"
+          ]
+        },
+        {
+          "topic": "Stock Valuation",
+          "subtopics": [
+            "Cost price",
+            "Average price",
+            "Market price",
+            "Lower price"
+          ]
+        }
+      ],
+      "learning_outcomes": "Explain stock importance/procedures, duties of storekeeper, requisition, stock records/methods of stocktaking/documents, stock control levels, valuation methods."
+    },
+    {
+      "section": "7. OFFICE EQUIPMENT/MACHINES",
+      "topics": [
+        {
+          "topic": "General Office Machines/Equipment",
+          "subtopics": [
+            "Computer",
+            "Photocopier",
+            "Risograph",
+            "Collating machine",
+            "Dictaphone",
+            "Typewriters",
+            "Duplicating machines",
+            "Perforator",
+            "Calculator",
+            "Cash Register",
+            "Pager",
+            "Fax machines",
+            "Accounting machines",
+            "Scanner"
+          ]
+        },
+        {
+          "topic": "The Computer and ICT"
+        },
+        {
+          "topic": "Mail Room Equipment/Materials",
+          "subtopics": [
+            "Letter opening machine",
+            "Addressing machine",
+            "Franking machine",
+            "Shredding machine",
+            "Scales",
+            "Pair of scissors/paper knife or blade",
+            "Stapling machine",
+            "Staple remover",
+            "Guillotine"
+          ]
+        }
+      ],
+      "learning_outcomes": "Factors for purchasing, uses/advantages/disadvantages of machines, maintenance, computer components/types/uses/advantages/disadvantages, ICT terms, Internet/Intranet/Web."
+    },
+    {
+      "section": "8. COMMUNICATION",
+      "topics": [
+        {
+          "topic": "Meaning"
+        },
+        {
+          "topic": "Forms",
+          "subtopics": [
+            "Verbal (oral, written)",
+            "Non-verbal",
+            "Visual"
+          ]
+        },
+        {
+          "topic": "Channels of Communication"
+        },
+        {
+          "topic": "Barriers to effective Communication",
+          "subtopics": [
+            "Organisational Barriers",
+            "Physical Barriers",
+            "Psychological Barriers",
+            "Socio-Cultural Barrier"
+          ]
+        },
+        {
+          "topic": "Business Correspondence",
+          "subtopics": [
+            "Letters (Form Letters, Circulars)",
+            "Memos",
+            "Reports (Short formal, Short informal, Periodic/Routine, Special, Statutory)"
+          ]
+        },
+        {
+          "topic": "Mail handling",
+          "subtopics": [
+            "Mail Room",
+            "Incoming and Outgoing mail",
+            "Incoming and Outgoing mail register",
+            "Postage book",
+            "Messenger’s Receipt book"
+          ]
+        },
+        {
+          "topic": "Meetings",
+          "subtopics": [
+            "Purpose and kinds of meetings",
+            "Requirements for a valid Meeting",
+            "Officials (Chairperson, Secretary, Teller, Scrutineer)",
+            "Meeting terminologies",
+            "Preparation of meeting documents (Notice, Agenda, Minutes)"
+          ]
+        }
+      ],
+      "learning_outcomes": "Describe forms/advantages/disadvantages, channels (vertical/horizontal/diagonal), barriers with examples, parts/formats/uses of correspondence, report types/purposes/formats, mail procedures/books, meeting duties/terminologies/documents."
+    },
+    {
+      "section": "9. BUSINESS ENGLISH",
+      "topics": [
+        {
+          "topic": "Proofreading and office Abbreviations"
+        },
+        {
+          "topic": "Spelling, Word division and Punctuation"
+        }
+      ],
+      "learning_outcomes": "Importance/purpose of proofreading, correct errors, expand abbreviations, rules for spelling/word division/punctuation."
+    },
+    {
+      "section": "10. FILING AND INDEXING",
+      "topics": [
+        {
+          "topic": "Methods of Classification",
+          "subtopics": [
+            "Alphabetical",
+            "Numerical",
+            "Subject",
+            "Geographical",
+            "Chronological",
+            "Alpha-numeric",
+            "Subject-numeric"
+          ]
+        },
+        {
+          "topic": "Systems of filing",
+          "subtopics": [
+            "Lateral",
+            "Suspension",
+            "Vertical",
+            "Horizontal"
+          ]
+        },
+        {
+          "topic": "Rules for filing"
+        },
+        {
+          "topic": "Indexing and Cross-Referencing"
+        },
+        {
+          "topic": "Electronic filing"
+        },
+        {
+          "topic": "Central and Departmental filing"
+        }
+      ],
+      "learning_outcomes": "Explain filing/features/reasons, rules/advantages/disadvantages of methods/systems, indexing importance/types, electronic filing (e.g. microfilming), central vs departmental."
+    },
+    {
+      "section": "11. REFERENCE BOOKS AND SOURCES OF INFORMATION",
+      "topics": [
+        {
+          "topic": "Reference Books",
+          "subtopics": [
+            "General (dictionary, encyclopaedia, almanac)",
+            "Places (atlas, site plan)",
+            "Specialized (trade journals, post office guide, telephone directory)",
+            "Government Publications (Hansard, White paper, Gazette, Financial Instructions, General orders)"
+          ]
+        },
+        {
+          "topic": "Sources of Information",
+          "subtopics": [
+            "Personal documents",
+            "Driving documents",
+            "Passport",
+            "Visa",
+            "Tax clearance",
+            "Business Information (Exchange rates, Stock exchange listing, Financial bulletins, Employment Opportunities)"
+          ]
+        }
+      ],
+      "learning_outcomes": "Information obtainable from reference books, various sources with examples."
+    },
+    {
+      "section": "12. POST OFFICE SERVICES",
+      "topics": [
+        {
+          "topic": "Postal Services",
+          "subtopics": [
+            "Postage stamps",
+            "Express mail",
+            "Special mail",
+            "Poste restante",
+            "Private mail bag",
+            "Registered mail",
+            "Recorded delivery",
+            "Airmail",
+            "Business reply service",
+            "Private mail box"
+          ]
+        },
+        {
+          "topic": "Courier Services",
+          "subtopics": [
+            "Expedited Mail Service (EMS)",
+            "Delsey, Helbor & Lyn (DHL)",
+            "Federal Express (FedEx)"
+          ]
+        },
+        {
+          "topic": "Agency Services"
+        },
+        {
+          "topic": "Remittance services",
+          "subtopics": [
+            "Postal Order",
+            "Money Transfer"
+          ]
+        }
+      ],
+      "learning_outcomes": "Use of each postal/courier service, agency/remittance services."
+    },
+    {
+      "section": "13. HUMAN RELATIONS",
+      "topics": [
+        {
+          "topic": "Internal Relations in the Office"
+        },
+        {
+          "topic": "Relations with the Public"
+        },
+        {
+          "topic": "Interpersonal Skills"
+        }
+      ],
+      "learning_outcomes": "Explain internal/public relations, ways to improve, factors for public relations, interpersonal skills."
+    },
+    {
+      "section": "14. HEALTH, SAFETY AND WELFARE IN THE OFFICE",
+      "topics": [
+        {
+          "topic": "Health Hazards in the office"
+        },
+        {
+          "topic": "Accidents in the Office"
+        },
+        {
+          "topic": "Staff Welfare"
+        }
+      ],
+      "learning_outcomes": "Identify/prevent health hazards, types/causes/prevention of accidents, welfare services/benefits/advantages."
+    },
+    {
+      "section": "15. PRE-EMPLOYMENT PROCEDURES",
+      "topics": [
+        {
+          "topic": "Advertisement"
+        },
+        {
+          "topic": "Submission of Letters of application and curriculum vitae"
+        },
+        {
+          "topic": "The interview"
+        }
+      ],
+      "learning_outcomes": "Design advertisement, write application letters with CV, prepare for interview."
+    },
+    {
+      "section": "16. ENTREPRENEURSHIP AND SMALL SCALE BUSINESS",
+      "topics": [],
+      "learning_outcomes": "Explain entrepreneur/characteristics, small scale business/characteristics/importance."
+    }
+  ],
+  "note": "This JSON captures the main topics, subtopics, and key learning outcomes from the detailed syllabus sections. Some minor OCR/extraction artifacts were cleaned for clarity."
+}

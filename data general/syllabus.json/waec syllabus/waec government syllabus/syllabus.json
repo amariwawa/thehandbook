@@ -1,0 +1,202 @@
+{
+  "detailed_syllabus": {
+    "section_a": {
+      "title": "Elements of Government",
+      "topics": [
+        {
+          "number": 1,
+          "title": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT",
+          "subtopics": [
+            "Government as an institution of the state",
+            "Government as a process or art of governing",
+            "Government as an academic field of study – reasons for studying government"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT",
+          "subtopics": [
+            {
+              "category": "Basic concepts",
+              "items": [
+                "State", "Society", "Nation", "Power", "Authority", "Legitimacy", "Sovereignty",
+                "Democracy", "Political Culture and Socialization", "Communalism", "Feudalism",
+                "Oligarchy", "Liberalism", "Socialism", "Communism", "Capitalism", "Fascism",
+                "Aristocracy", "Totalitarianism"
+              ]
+            },
+            {
+              "category": "Basic principles",
+              "items": [
+                "Rule of Law", "Fundamental Human Rights", "Separation of Powers/Checks and Balances",
+                "Constitutionalism", "Political participation", "Representative Government",
+                "Centralization and Decentralization (Delegation, Devolution and Decentralization)"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "CONSTITUTIONS",
+          "subtopics": [
+            "Definition and Sources",
+            "Functions",
+            "Types and Features (Written and Unwritten, Rigid and Flexible)"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "ORGANS OF GOVERNMENT",
+          "subtopics": [
+            "The Executive, the Legislature and the Judiciary",
+            "Judicial Independence",
+            "Types, powers and limitations of each organ"
+          ]
+        },
+        {
+          "number": 5,
+          "title": "STATE STRUCTURE AND CHARACTERISTICS OF GOVERNMENT",
+          "subtopics": [
+            "Types: Unitary, Federal, Confederal",
+            "Presidential or Non-parliamentary, Parliamentary or Cabinet",
+            "Monarchical and Republican"
+          ]
+        },
+        {
+          "number": 6,
+          "title": "CITIZENSHIP",
+          "subtopics": [
+            "Meaning, modes of acquisition",
+            "Rights, duties and obligations of citizens",
+            "Means of safeguarding rights of citizens"
+          ]
+        },
+        {
+          "number": 7,
+          "title": "POLITICAL PARTIES AND PARTY SYSTEMS",
+          "subtopics": [
+            "Political Parties: definition, organization/structure, functions",
+            "Party Systems: definition, types, merits and demerits"
+          ]
+        },
+        {
+          "number": 8,
+          "title": "PRESSURE GROUPS, PUBLIC OPINION AND MASS MEDIA",
+          "subtopics": [
+            "Pressure Groups: definition, types, mode of operation, functions",
+            "Public opinion: definition, formation, measurement, importance",
+            "Mass Media: definition, roles and impact"
+          ]
+        },
+        {
+          "number": 9,
+          "title": "THE ELECTORAL SYSTEMS, PROCESSES AND ELECTORAL MANAGEMENT BODY",
+          "subtopics": [
+            "Election: Meaning and purpose",
+            "Franchise: meaning, types and limitations",
+            "Types of Electoral Systems, advantages and disadvantages",
+            "Electoral Management Body: definition, functions, problems/constraints"
+          ]
+        },
+        {
+          "number": 10,
+          "title": "PUBLIC/CIVIL SERVICE ADMINISTRATION",
+          "subtopics": [
+            "Public/Civil Service: Meaning, Structure, Characteristics and Functions",
+            "Public/Civil Service Commission: meaning and Functions",
+            "Public Corporations: definition, purposes, functions, control, challenges, commercialization and privatization",
+            "Local Governments: Meaning, structure, Purposes, Functions, Sources of revenue, control and problems"
+          ]
+        }
+      ]
+    },
+    "section_b": {
+      "title": "Political and Constitutional Developments in West Africa and International Relations",
+      "topics": [
+        {
+          "number": 11,
+          "title": "PRE-COLONIAL POLITICAL SYSTEM OF CANDIDATES’ RESPECTIVE COUNTRIES",
+          "subtopics": [
+            "Structural Organization of:",
+            "Nigeria - Hausa/Fulani, Yoruba and Igbo",
+            "Ghana - The Akan and Talensi",
+            "Sierra Leone - The Mende and Temne",
+            "The Gambia - The Wolof, Mandingo and Jola",
+            "Liberia - The Vai and Kru"
+          ]
+        },
+        {
+          "number": 12,
+          "title": "COLONIAL ADMINISTRATION",
+          "subtopics": [
+            "British Colonial Administration: Crown Colony, Protectorate and Indirect Rule",
+            "French Colonial Administration: Assimilation and Association (Loi Cadre)",
+            "Impact, Advantages and disadvantages of Colonial Rule"
+          ]
+        },
+        {
+          "number": 13,
+          "title": "NATIONALISM IN CANDIDATES’ RESPECTIVE COUNTRIES",
+          "subtopics": [
+            "Nationalism: Meaning, factors and effects",
+            "Key Nationalist leaders/movements and their contributions"
+          ]
+        },
+        {
+          "number": 14,
+          "title": "CONSTITUTIONAL DEVELOPMENTS IN CANDIDATES’ RESPECTIVE COUNTRIES",
+          "subtopics": [
+            "Pre-Independence Constitutions (features, merits and demerits) for each country",
+            "Post-Independence Constitutions (features, strengths, weaknesses) for each country"
+          ]
+        },
+        {
+          "number": 15,
+          "title": "DEVELOPMENT OF MAJOR POLITICAL PARTIES IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+          "description": "Formation, Objectives, Sources of Finance, Achievements and Failures"
+        },
+        {
+          "number": 16,
+          "title": "MILITARY RULE IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+          "subtopics": [
+            "Causes, effects and various military regimes (Nigeria, Ghana, Sierra Leone, The Gambia, Liberia)"
+          ]
+        },
+        {
+          "number": 17,
+          "title": "FEDERAL/UNITARY SYSTEMS OF GOVERNMENT IN WEST AFRICA",
+          "subtopics": [
+            "Definitions, Factors, objectives, advantages and disadvantages"
+          ]
+        },
+        {
+          "number": 18,
+          "title": "FOREIGN POLICIES OF THE CANDIDATES’ RESPECTIVE COUNTRIES",
+          "countries": ["Nigeria", "Ghana", "Sierra Leone", "The Gambia", "Liberia"]
+        },
+        {
+          "number": 19,
+          "title": "INTERNATIONAL ORGANIZATIONS",
+          "organizations": [
+            {
+              "name": "United Nations Organizations (UNO)",
+              "aspects": ["Origin, aims/objectives, achievements and problems"]
+            },
+            {
+              "name": "The Commonwealth of Nations",
+              "aspects": ["Origin, aims/objectives, achievements and problems"]
+            },
+            {
+              "name": "African Union (AU) - NEPAD",
+              "aspects": ["Origin, aims/objectives, achievements and problems"]
+            },
+            {
+              "name": "The Economic Community of West African States (ECOWAS)",
+              "aspects": ["Origin, aims/objectives, achievements and problems"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

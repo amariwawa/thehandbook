@@ -17,10 +17,10 @@ export default function ExamTypePage() {
   const selectedDetails = getSelectedSubjectDetails(type as any);
 
   const getSubjectCategory = (id: string) => {
-    if (allSubjectsData.science.find(s => s.id === id)) return 'science';
-    if (allSubjectsData.arts.find(s => s.id === id)) return 'arts';
-    if (allSubjectsData.commercial.find(s => s.id === id)) return 'commercial';
-    if (allSubjectsData.technical.find(s => s.id === id)) return 'technical';
+    if (allSubjectsData.waec.science.find(s => s.id === id)) return 'science';
+    if (allSubjectsData.waec.arts.find(s => s.id === id)) return 'arts';
+    if (allSubjectsData.waec.commercial.find(s => s.id === id)) return 'commercial';
+    if (allSubjectsData.waec.technical.find(s => s.id === id)) return 'technical';
     return 'science';
   };
 
@@ -48,11 +48,10 @@ export default function ExamTypePage() {
               Back to Practice
             </button>
             <div className="space-y-4">
-              <h1 className="text-8xl font-black display-font leading-[0.8] tracking-tighter text-slate-900 dark:text-white">
-                {exam.title} <br/>
-                <span className="text-[#1d3e8e] dark:text-indigo-400">Mastery.</span>
+              <h1 className="text-5xl font-bold display-font leading-none tracking-tighter text-slate-900 dark:text-white">
+                {exam.title} <span className="text-[#1d3e8e] dark:text-indigo-400">Mastery.</span>
               </h1>
-              <p className="text-2xl text-slate-500 dark:text-slate-400 font-medium max-w-2xl leading-relaxed">
+              <p className="text-sm text-zinc-400 font-medium max-w-2xl leading-relaxed">
                 Precision practice for your active {exam.title} stack. Select a subject to begin.
               </p>
             </div>

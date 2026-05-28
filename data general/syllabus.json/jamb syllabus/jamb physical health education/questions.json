@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 2,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 3,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 4,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 5,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE"
+      },
+      "answer": "D",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 6,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 7,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 8,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 9,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 10,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 11,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 12,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 13,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 14,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES"
+      },
+      "answer": "D",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 15,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 16,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 17,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "easy",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 18,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 19,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 20,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 21,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 22,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 23,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 24,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 25,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 26,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 27,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in FIRST AID AND SAFETY EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 28,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 29,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 30,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 31,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES"
+      },
+      "answer": "D",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 32,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 33,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "B": "It is not examined",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 34,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 35,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 36,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 37,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 38,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES"
+      },
+      "answer": "D",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 39,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 40,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 41,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in RECREATION, LEISURE AND DANCE"
+      },
+      "answer": "D",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 42,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 43,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 44,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 45,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 46,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 47,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 48,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE"
+      },
+      "answer": "D",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 49,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 50,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 51,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 52,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in FOOD, NUTRITION AND DRUGS"
+      },
+      "answer": "D",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 53,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "easy",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 54,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 55,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 56,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 57,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 58,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 59,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES"
+      },
+      "answer": "D",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 60,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 61,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "easy",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 62,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 63,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 64,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 65,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is a tested concept in RECREATION, LEISURE AND DANCE"
+      },
+      "answer": "D",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 66,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 67,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 68,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 69,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 70,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 71,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 72,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 73,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE"
+      },
+      "answer": "D",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 74,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 75,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in FIRST AID AND SAFETY EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 76,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 77,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES"
+      },
+      "answer": "D",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 78,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 79,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 80,
+      "topic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "section": "SECTION A",
+      "subtopic": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS AND PRINCIPLES OF PHYSICAL AND HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 81,
+      "topic": "FOOD, NUTRITION AND DRUGS",
+      "section": "SECTION D",
+      "subtopic": "FOOD, NUTRITION AND DRUGS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FOOD, NUTRITION AND DRUGS is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in FOOD, NUTRITION AND DRUGS",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "FOOD, NUTRITION AND DRUGS is included in the syllabus for this subject."
+    },
+    {
+      "id": 82,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "section": "SECTION B",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY IN RELATION TO PHE is included in the syllabus for this subject."
+    },
+    {
+      "id": 83,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES"
+      },
+      "answer": "D",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 84,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "easy",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in RECREATION, LEISURE AND DANCE",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 85,
+      "topic": "FIRST AID AND SAFETY EDUCATION",
+      "section": "SECTION G",
+      "subtopic": "FIRST AID AND SAFETY EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FIRST AID AND SAFETY EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in FIRST AID AND SAFETY EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "FIRST AID AND SAFETY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 86,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 87,
+      "topic": "RECREATION, LEISURE AND DANCE",
+      "section": "SECTION F",
+      "subtopic": "RECREATION, LEISURE AND DANCE",
+      "difficulty": "hard",
+      "question": "Which of the following statements about RECREATION, LEISURE AND DANCE is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in RECREATION, LEISURE AND DANCE"
+      },
+      "answer": "D",
+      "explanation": "RECREATION, LEISURE AND DANCE is included in the syllabus for this subject."
+    },
+    {
+      "id": 88,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES"
+      },
+      "answer": "D",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 89,
+      "topic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "section": "SECTION E",
+      "subtopic": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in PHYSICAL FITNESS AND CONDITIONING PROGRAMMES",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "PHYSICAL FITNESS AND CONDITIONING PROGRAMMES is included in the syllabus for this subject."
+    },
+    {
+      "id": 90,
+      "topic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "section": "SECTION C",
+      "subtopic": "THEORY OF PRACTICE OF SPORTS AND GAMES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about THEORY OF PRACTICE OF SPORTS AND GAMES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in THEORY OF PRACTICE OF SPORTS AND GAMES",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THEORY OF PRACTICE OF SPORTS AND GAMES is included in the syllabus for this subject."
+    }
+  ]
+}

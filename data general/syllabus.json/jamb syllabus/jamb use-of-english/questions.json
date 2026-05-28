@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A direct quotation",
+        "C": "A grammatical error",
+        "D": "The main title"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 2,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "A grammatical error"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 3,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A direct quotation",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "The main title"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 4,
+      "topic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "The main title",
+        "C": "A direct quotation",
+        "D": "A grammatical error"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 5,
+      "topic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "The main title",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A grammatical error"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 6,
+      "topic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 7,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A grammatical error",
+        "C": "A direct quotation",
+        "D": "The main title"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 8,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "The main title",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A grammatical error"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 9,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 10,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "easy",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Homonym",
+        "B": "Antonym",
+        "C": "Synonym",
+        "D": "Acronym"
+      },
+      "answer": "C",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 11,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Antonym",
+        "C": "Homonym",
+        "D": "Acronym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 12,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Acronym",
+        "C": "Antonym",
+        "D": "Homonym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 13,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Homonym",
+        "B": "Antonym",
+        "C": "Synonym",
+        "D": "Acronym"
+      },
+      "answer": "C",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 14,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Homonym",
+        "B": "Antonym",
+        "C": "Acronym",
+        "D": "Synonym"
+      },
+      "answer": "D",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 15,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "easy",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Acronym",
+        "B": "Antonym",
+        "C": "Synonym",
+        "D": "Homonym"
+      },
+      "answer": "C",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 16,
+      "topic": "Oral Forms",
+      "section": "General",
+      "subtopic": "Oral Forms",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Oral Forms in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Oral Forms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Oral Forms",
+      "section": "General",
+      "subtopic": "Oral Forms",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Oral Forms in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Oral Forms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Oral Forms",
+      "section": "General",
+      "subtopic": "Oral Forms",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Oral Forms in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "A",
+      "explanation": "Oral Forms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "C",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It belongs to French grammar",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "A grammatical error"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 28,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It belongs to French grammar",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "A grammatical error",
+        "C": "The main title",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 30,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A direct quotation",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A grammatical error"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 31,
+      "topic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "A grammatical error",
+        "C": "The main title",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 32,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A direct quotation",
+        "C": "The main title",
+        "D": "A grammatical error"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 33,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Antonym",
+        "B": "Synonym",
+        "C": "Homonym",
+        "D": "Acronym"
+      },
+      "answer": "B",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 34,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Antonym",
+        "B": "Homonym",
+        "C": "Acronym",
+        "D": "Synonym"
+      },
+      "answer": "D",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 36,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A grammatical error",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 37,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Acronym",
+        "B": "Synonym",
+        "C": "Homonym",
+        "D": "Antonym"
+      },
+      "answer": "B",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 38,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is a mathematical concept",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Homonym",
+        "B": "Antonym",
+        "C": "Acronym",
+        "D": "Synonym"
+      },
+      "answer": "D",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 40,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A grammatical error",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 41,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A grammatical error",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A direct quotation"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 42,
+      "topic": "Oral Forms",
+      "section": "General",
+      "subtopic": "Oral Forms",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Oral Forms in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "Oral Forms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is an essential English language skill",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "C",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "A grammatical error"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 46,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Acronym",
+        "C": "Homonym",
+        "D": "Antonym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 47,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A grammatical error",
+        "D": "A direct quotation"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 49,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "The main title",
+        "D": "A direct quotation"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 50,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is a mathematical concept",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A grammatical error",
+        "C": "A direct quotation",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 52,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "The main title",
+        "D": "A direct quotation"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 53,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "easy",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Antonym",
+        "B": "Synonym",
+        "C": "Acronym",
+        "D": "Homonym"
+      },
+      "answer": "B",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 54,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "easy",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Antonym",
+        "B": "Acronym",
+        "C": "Homonym",
+        "D": "Synonym"
+      },
+      "answer": "D",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 55,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A direct quotation",
+        "C": "A grammatical error",
+        "D": "The main title"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 56,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Antonym",
+        "C": "Acronym",
+        "D": "Homonym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 57,
+      "topic": "Oral Forms",
+      "section": "General",
+      "subtopic": "Oral Forms",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Oral Forms in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Oral Forms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 59,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Homonym",
+        "C": "Acronym",
+        "D": "Antonym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 60,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Homonym",
+        "B": "Antonym",
+        "C": "Synonym",
+        "D": "Acronym"
+      },
+      "answer": "C",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 61,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "The main title",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A direct quotation"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 62,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A grammatical error",
+        "C": "A direct quotation",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 63,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A direct quotation",
+        "C": "A grammatical error",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 64,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Oral Forms",
+      "section": "General",
+      "subtopic": "Oral Forms",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Oral Forms in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "Oral Forms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "B",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It is not part of the syllabus",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "B",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is a mathematical concept"
+      },
+      "answer": "A",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Antonym",
+        "B": "Homonym",
+        "C": "Acronym",
+        "D": "Synonym"
+      },
+      "answer": "D",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 70,
+      "topic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A grammatical error",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 71,
+      "topic": "Oral Forms",
+      "section": "General",
+      "subtopic": "Oral Forms",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Oral Forms in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Oral Forms is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "easy",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Acronym",
+        "B": "Antonym",
+        "C": "Homonym",
+        "D": "Synonym"
+      },
+      "answer": "D",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 73,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It belongs to French grammar",
+        "C": "It is not part of the syllabus",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A direct quotation",
+        "B": "The main title",
+        "C": "A grammatical error",
+        "D": "A conclusion drawn from evidence in the text"
+      },
+      "answer": "D",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 75,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is not part of the syllabus",
+        "B": "It is a mathematical concept",
+        "C": "It is an essential English language skill",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "C",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "section": "General",
+      "subtopic": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. in English Language?",
+      "options": {
+        "A": "It belongs to French grammar",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It is an essential English language skill"
+      },
+      "answer": "D",
+      "explanation": "Oral Forms: Emphatic stress involves the placement of stress on words in an utterance for the purpose of emphasis. is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is an essential English language skill",
+        "B": "It is not part of the syllabus",
+        "C": "It is a mathematical concept",
+        "D": "It belongs to French grammar"
+      },
+      "answer": "A",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Acronym",
+        "B": "Antonym",
+        "C": "Synonym",
+        "D": "Homonym"
+      },
+      "answer": "C",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 79,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Homonym",
+        "C": "Acronym",
+        "D": "Antonym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 80,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Antonym",
+        "B": "Homonym",
+        "C": "Acronym",
+        "D": "Synonym"
+      },
+      "answer": "D",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 81,
+      "topic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "section": "General",
+      "subtopic": "Lexis and Structure: Idioms to be tested are those that are formal and expressed in Standard British English (SBE).",
+      "difficulty": "hard",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Antonym",
+        "C": "Homonym",
+        "D": "Acronym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 82,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A direct quotation",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A grammatical error"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 83,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A conclusion drawn from evidence in the text",
+        "B": "A direct quotation",
+        "C": "The main title",
+        "D": "A grammatical error"
+      },
+      "answer": "A",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 84,
+      "topic": "Comprehension and Summary",
+      "section": "General",
+      "subtopic": "Comprehension and Summary",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A conclusion drawn from evidence in the text",
+        "C": "A direct quotation",
+        "D": "The main title"
+      },
+      "answer": "B",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 85,
+      "topic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Each of the three passages to be set (one will be a cloze test) should reflect various disciplines and be about 200 words long.",
+      "difficulty": "medium",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "The main title",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A direct quotation"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 86,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "easy",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "The main title",
+        "B": "A direct quotation",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "A grammatical error"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 87,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Acronym",
+        "B": "Antonym",
+        "C": "Synonym",
+        "D": "Homonym"
+      },
+      "answer": "C",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    },
+    {
+      "id": 88,
+      "topic": "source",
+      "section": "General",
+      "subtopic": "source",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about source in English Language?",
+      "options": {
+        "A": "It is a mathematical concept",
+        "B": "It is an essential English language skill",
+        "C": "It belongs to French grammar",
+        "D": "It is not part of the syllabus"
+      },
+      "answer": "B",
+      "explanation": "source is a core component of the Use of English syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "section": "General",
+      "subtopic": "Comprehension and Summary: Synthesis of ideas means the art of combining distinct or separate pieces of information to form a complete whole as summary.",
+      "difficulty": "hard",
+      "question": "In reading comprehension, an inference is:",
+      "options": {
+        "A": "A grammatical error",
+        "B": "A direct quotation",
+        "C": "A conclusion drawn from evidence in the text",
+        "D": "The main title"
+      },
+      "answer": "C",
+      "explanation": "An inference is an educated conclusion reached by reasoning from evidence and clues provided in the passage."
+    },
+    {
+      "id": 90,
+      "topic": "Lexis and Structure",
+      "section": "General",
+      "subtopic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "A word that has the same meaning as another word is called a:",
+      "options": {
+        "A": "Synonym",
+        "B": "Homonym",
+        "C": "Antonym",
+        "D": "Acronym"
+      },
+      "answer": "A",
+      "explanation": "A synonym is a word with the same or nearly the same meaning as another word (e.g., happy/joyful)."
+    }
+  ]
+}

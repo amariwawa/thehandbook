@@ -1,11 +1,12 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X, ChevronRight, RotateCcw, Award, BookOpen, BarChart3 } from "lucide-react";
 import Link from "next/link";
 import AITutorPracticePanel from "./AITutorPracticePanel";
 import { useRouter } from "next/navigation";
+import { useRecordSession } from "@/hooks/useRecordSession";
 
 interface Question {
   id: number;
@@ -24,6 +25,10 @@ interface PracticeSuiteProps {
 
 export default function PracticeSuite({ questions, subjectName }: PracticeSuiteProps) {
   const router = useRouter();
+  const { recordSession } = useRecordSession();
+  const sessionStartRef = useRef<number>(Date.now());
+  const hasRecordedRef = useRef(false);
+
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [isSubmitted, setIsSubmitted] = useState(false);
@@ -82,7 +87,27 @@ export default function PracticeSuite({ questions, subjectName }: PracticeSuiteP
     setIsSubmitted(false);
     setScore(0);
     setShowResults(false);
+    sessionStartRef.current = Date.now();
+    hasRecordedRef.current = false;
   };
+
+  // Record session to Supabase when quiz completes
+  useEffect(() => {
+    if (showResults && !hasRecordedRef.current && questions.length > 0) {
+      hasRecordedRef.current = true;
+      const durationMins = Math.max(1, Math.round((Date.now() - sessionStartRef.current) / 60000));
+      const accuracy = Math.round((score / questions.length) * 100);
+      const uniqueTopics = Array.from(new Set(results.map((r) => r.topic)));
+
+      recordSession({
+        subject: subjectName,
+        score: accuracy,
+        duration_mins: durationMins,
+        session_type: "quiz",
+        topics: uniqueTopics.length > 0 ? uniqueTopics : undefined,
+      });
+    }
+  }, [showResults, score, questions.length, subjectName, recordSession, results]);
 
   const [isGenerating, setIsGenerating] = useState(false);
 
@@ -234,7 +259,7 @@ export default function PracticeSuite({ questions, subjectName }: PracticeSuiteP
                           ? 'bg-[#1d3e8e] text-white'
                           : 'bg-slate-50 text-slate-400 group-hover:bg-slate-100'
                       }`}>
-                         {optionsKeys[i]}
+                         {String.fromCharCode(65 + i)}
                       </div>
                       <span className={`font-bold ${
                         isSelected || isCorrectAnswer || isWrongSelection 

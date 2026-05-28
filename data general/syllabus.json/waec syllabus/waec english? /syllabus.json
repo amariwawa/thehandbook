@@ -1,0 +1,163 @@
+{
+  "detailed_syllabus": {
+    "paper_1": {
+      "description": "Objective/multiple choice paper comprising eighty questions: forty lexical and forty structural questions. Each question has four options lettered A to D.",
+      "for_countries": ["The Gambia", "Nigeria", "Sierra Leone", "Liberia"],
+      "lexis": {
+        "everyday_usage": "Home, social relationships, and common core school subjects.",
+        "general_vocabulary_fields": [
+          "Building and Building Construction",
+          "Agriculture",
+          "Fishing",
+          "Stock exchange",
+          "Health",
+          "Environment",
+          "Culture, Institutions and Ceremonies",
+          "Law and Order",
+          "Motor Vehicles and Travelling",
+          "Government and Administration",
+          "Sports",
+          "Religion",
+          "Science and Technology",
+          "Animal husbandry",
+          "Advertising",
+          "Human Internal Body system and function"
+        ],
+        "idioms": "Idiomatic expressions and collocations (e.g., ‘hook, line and sinker’, ‘every Tom, Dick and Harry’) whose total meaning cannot be arrived at from dictionary meanings alone.",
+        "structural_elements": "Sequence of tenses, matching of pronouns with antecedents, correct use of prepositions, etc.",
+        "figurative_usage": "Candidates expected to recognize when an expression is used figuratively rather than literally.",
+        "sense_relations": "Synonyms, antonyms, homonyms."
+      },
+      "structure": {
+        "includes": [
+          "Patterns of changes in word-forms which indicate number, tense, degree, etc.",
+          "Patterns in which different categories of words regularly combine to form groups and sentences.",
+          "Use of structural words e.g. conjunctions, determiners, prepositions, etc."
+        ]
+      },
+      "ghana_specific": {
+        "description": "Multiple choice objective paper with Parts A (lexical and structural) and B (literature).",
+        "lexis_fields": [
+          "Building",
+          "Plumbing",
+          "Fishing",
+          "Finance – commerce, banking, stock exchange, insurance",
+          "Photography",
+          "Mineral exploration",
+          "Common manufacturing industries",
+          "Printing, publishing, the press and libraries",
+          "Sea, road, rail and air transport",
+          "Government and politics",
+          "Sports and entertainment",
+          "Religion",
+          "Science and Technology",
+          "Power production – hydro, thermal, solar",
+          "Education",
+          "Communication",
+          "Military",
+          "Journalism and Advertising"
+        ],
+        "literature": {
+          "questions": {
+            "drama": 10,
+            "prose": 10,
+            "poetry": 10
+          },
+          "note": "For Prose and Drama, study one prescribed text each."
+        }
+      }
+    },
+    "paper_2": {
+      "description": "Essay, Comprehension and Summary. Duration: 2 hours. Total: 100 marks.",
+      "section_a_essay": {
+        "marks": 50,
+        "time": "50 minutes",
+        "questions": "Five topics; answer one.",
+        "types_of_writing": [
+          "Letter",
+          "Speech",
+          "Narration",
+          "Description",
+          "Argument/Debate",
+          "Report",
+          "Article",
+          "Exposition",
+          "Creative writing"
+        ],
+        "assessment_criteria": [
+          "Content: relevance of ideas to the topic",
+          "Organization: formal features, paragraphing, emphasis and arrangement of ideas",
+          "Expression: effective control of vocabulary and sentence structure",
+          "Mechanical Accuracy: grammar, punctuation, spelling"
+        ],
+        "minimum_length": "450 words"
+      },
+      "section_b_comprehension": {
+        "marks": 20,
+        "time": "30 minutes",
+        "passage_length": "At least 350 words",
+        "skills_tested": [
+          "Find appropriate equivalents for selected words or phrases",
+          "Understand factual content",
+          "Make inferences",
+          "Understand expressions revealing sentiments/emotions/attitudes",
+          "Identify and label grammatical structures and explain functions",
+          "Identify and explain basic literary terms",
+          "Recast phrases or sentences into grammatical alternatives"
+        ]
+      },
+      "section_c_summary": {
+        "marks": 30,
+        "time": "40 minutes",
+        "passage_length": "About 500 words",
+        "skills_tested": [
+          "Extract relevant information",
+          "Summarize points in clear, concise English avoiding repetition",
+          "Present summary of specific aspects"
+        ]
+      }
+    },
+    "paper_3_oral_english": {
+      "marks": 30,
+      "alternatives": {
+        "listening_comprehension": {
+          "countries": ["Ghana", "The Gambia", "Sierra Leone"],
+          "description": "Sixty multiple choice questions on consonants, clusters, vowels, diphthongs, stress, intonation, dialogues and narratives.",
+          "sections": [
+            "Section 1: Word final voiced/voiceless consonants and clusters",
+            "Section 2: Vowel quality in isolated words",
+            "Section 3: Vowel quality and consonant contrasts",
+            "Section 4: Vowel/consonant contrasts (sentence, isolated words, or rhymes)",
+            "Section 5: Rhymes",
+            "Section 6: Emphatic stress",
+            "Section 7: Comprehension of longer dialogues and narratives"
+          ]
+        },
+        "test_of_orals": {
+          "countries": ["Nigeria", "Liberia"],
+          "description": "Sixty multiple-choice questions covering vowels, consonants/clusters, rhymes, word stress/syllable structure, emphatic stress/intonation patterns, phonetic symbols.",
+          "features": {
+            "consonants": {
+              "single": "Recognize and produce significant sound contrasts (examples provided in syllabus for initial, medial, final positions).",
+              "clusters": "Initial and final clusters; produce sounds in right order."
+            },
+            "vowels": {
+              "pure_vowels": "Significant contrasts (examples: seat-sit, sit-set, etc.).",
+              "diphthongs": "Included in contrasts.",
+              "triphthongs": "Included."
+            },
+            "stress": {
+              "word_stress": "Contrast stressed/unstressed syllables; shifting stress in derivations (e.g., ‘increase vs in’crease).",
+              "sentence_stress": "Stress-timed language; content words stressed."
+            },
+            "intonation": {
+              "patterns": ["Falling", "Rising"],
+              "emphatic_stress": "For contrast, with examples."
+            }
+          }
+        }
+      }
+    }
+  },
+  "notes": "The syllabus varies slightly by country (especially Paper 1 and Paper 3). General vocabulary focuses on educated, non-specialist usage. Emphasis on practical application rather than rote definitions."
+}

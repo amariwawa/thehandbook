@@ -1,0 +1,2014 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Revelation of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Revelation of the Glorious Qur’ān",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "622 CE",
+        "C": "570 CE",
+        "D": "632 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 2,
+      "topic": "Revelation of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Revelation of the Glorious Qur’ān",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "622 CE",
+        "B": "570 CE",
+        "C": "632 CE",
+        "D": "610 CE"
+      },
+      "answer": "A",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 3,
+      "topic": "Revelation of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Revelation of the Glorious Qur’ān",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "622 CE",
+        "B": "610 CE",
+        "C": "632 CE",
+        "D": "570 CE"
+      },
+      "answer": "A",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 4,
+      "topic": "Preservation of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Preservation of the Glorious Qur’ān",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "622 CE",
+        "C": "610 CE",
+        "D": "632 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 5,
+      "topic": "Preservation of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Preservation of the Glorious Qur’ān",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "622 CE",
+        "B": "610 CE",
+        "C": "570 CE",
+        "D": "632 CE"
+      },
+      "answer": "A",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 6,
+      "topic": "Preservation of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Preservation of the Glorious Qur’ān",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "610 CE",
+        "C": "622 CE",
+        "D": "632 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 7,
+      "topic": "Importance of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Importance of the Glorious Qur’ān",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "622 CE",
+        "B": "610 CE",
+        "C": "570 CE",
+        "D": "632 CE"
+      },
+      "answer": "A",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 8,
+      "topic": "Importance of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Importance of the Glorious Qur’ān",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "610 CE",
+        "C": "622 CE",
+        "D": "570 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 9,
+      "topic": "Importance of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Importance of the Glorious Qur’ān",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "570 CE",
+        "C": "632 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 10,
+      "topic": "Divine authenticity of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Divine authenticity of the Glorious Qur’ān",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "610 CE",
+        "C": "622 CE",
+        "D": "632 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 11,
+      "topic": "Divine authenticity of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Divine authenticity of the Glorious Qur’ān",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "622 CE",
+        "B": "632 CE",
+        "C": "610 CE",
+        "D": "570 CE"
+      },
+      "answer": "A",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 12,
+      "topic": "Divine authenticity of the Glorious Qur’ān",
+      "section": "General",
+      "subtopic": "Divine authenticity of the Glorious Qur’ān",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "622 CE",
+        "C": "610 CE",
+        "D": "570 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 13,
+      "topic": "Tafsīr",
+      "section": "General",
+      "subtopic": "Tafsīr",
+      "difficulty": "medium",
+      "question": "Which statement about Tafsīr is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Tafsīr is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 14,
+      "topic": "Tafsīr",
+      "section": "General",
+      "subtopic": "Tafsīr",
+      "difficulty": "hard",
+      "question": "Which statement about Tafsīr is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Tafsīr is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 15,
+      "topic": "Tafsīr",
+      "section": "General",
+      "subtopic": "Tafsīr",
+      "difficulty": "easy",
+      "question": "Which statement about Tafsīr is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Tafsīr is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 16,
+      "topic": "Introduction to Tajwīd (Theory and Practice)",
+      "section": "General",
+      "subtopic": "Introduction to Tajwīd (Theory and Practice)",
+      "difficulty": "hard",
+      "question": "Which statement about Introduction to Tajwīd (Theory and Practice) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Introduction to Tajwīd (Theory and Practice) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 17,
+      "topic": "Introduction to Tajwīd (Theory and Practice)",
+      "section": "General",
+      "subtopic": "Introduction to Tajwīd (Theory and Practice)",
+      "difficulty": "easy",
+      "question": "Which statement about Introduction to Tajwīd (Theory and Practice) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "Introduction to Tajwīd (Theory and Practice) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 18,
+      "topic": "Introduction to Tajwīd (Theory and Practice)",
+      "section": "General",
+      "subtopic": "Introduction to Tajwīd (Theory and Practice)",
+      "difficulty": "medium",
+      "question": "Which statement about Introduction to Tajwīd (Theory and Practice) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Introduction to Tajwīd (Theory and Practice) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 19,
+      "topic": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar)",
+      "section": "General",
+      "subtopic": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar)",
+      "difficulty": "easy",
+      "question": "Which statement about Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 20,
+      "topic": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar)",
+      "section": "General",
+      "subtopic": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar)",
+      "difficulty": "medium",
+      "question": "Which statement about Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 21,
+      "topic": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar)",
+      "section": "General",
+      "subtopic": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar)",
+      "difficulty": "hard",
+      "question": "Which statement about Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Study of selected Arabic texts of Suwar/Ayats with Tajwīd (Short Suwar) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 22,
+      "topic": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd",
+      "section": "General",
+      "subtopic": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd",
+      "difficulty": "medium",
+      "question": "Which statement about Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a secular concept",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "A",
+      "explanation": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 23,
+      "topic": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd",
+      "section": "General",
+      "subtopic": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd",
+      "difficulty": "hard",
+      "question": "Which statement about Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 24,
+      "topic": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd",
+      "section": "General",
+      "subtopic": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd",
+      "difficulty": "easy",
+      "question": "Which statement about Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Study of selected longer Arabic texts of Suwar/Ayats with Tajwīd is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 25,
+      "topic": "Hadīth",
+      "section": "General",
+      "subtopic": "Hadīth",
+      "difficulty": "hard",
+      "question": "Which statement about Hadīth is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Hadīth is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 26,
+      "topic": "Hadīth",
+      "section": "General",
+      "subtopic": "Hadīth",
+      "difficulty": "easy",
+      "question": "Which statement about Hadīth is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "Hadīth is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 27,
+      "topic": "Hadīth",
+      "section": "General",
+      "subtopic": "Hadīth",
+      "difficulty": "medium",
+      "question": "Which statement about Hadīth is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "Hadīth is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 28,
+      "topic": "Moral lessons in the Glorious Qur’ān and Hadīth",
+      "section": "General",
+      "subtopic": "Moral lessons in the Glorious Qur’ān and Hadīth",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "632 CE",
+        "C": "610 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 29,
+      "topic": "Moral lessons in the Glorious Qur’ān and Hadīth",
+      "section": "General",
+      "subtopic": "Moral lessons in the Glorious Qur’ān and Hadīth",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "622 CE",
+        "B": "570 CE",
+        "C": "632 CE",
+        "D": "610 CE"
+      },
+      "answer": "A",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 30,
+      "topic": "Moral lessons in the Glorious Qur’ān and Hadīth",
+      "section": "General",
+      "subtopic": "Moral lessons in the Glorious Qur’ān and Hadīth",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "610 CE",
+        "C": "622 CE",
+        "D": "632 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 31,
+      "topic": "Tawhīd and its importance",
+      "section": "General",
+      "subtopic": "Tawhīd and its importance",
+      "difficulty": "medium",
+      "question": "Which statement about Tawhīd and its importance is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Tawhīd and its importance is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 32,
+      "topic": "Tawhīd and its importance",
+      "section": "General",
+      "subtopic": "Tawhīd and its importance",
+      "difficulty": "hard",
+      "question": "Which statement about Tawhīd and its importance is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "Tawhīd and its importance is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 33,
+      "topic": "Tawhīd and its importance",
+      "section": "General",
+      "subtopic": "Tawhīd and its importance",
+      "difficulty": "easy",
+      "question": "Which statement about Tawhīd and its importance is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Tawhīd and its importance is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 34,
+      "topic": "Kalimatush-Shahādah",
+      "section": "General",
+      "subtopic": "Kalimatush-Shahādah",
+      "difficulty": "hard",
+      "question": "Who was the first rightly-guided caliph after the death of Prophet Muhammad (SAW)?",
+      "options": {
+        "A": "Uthman ibn Affan,Ali ibn Abi Talib",
+        "B": "Abu Bakr",
+        "C": "Umar ibn al-Khattab"
+      },
+      "answer": "B",
+      "explanation": "Abu Bakr as-Siddiq became the first Caliph (632-634 CE) and was instrumental in compiling the Qur'an."
+    },
+    {
+      "id": 35,
+      "topic": "Kalimatush-Shahādah",
+      "section": "General",
+      "subtopic": "Kalimatush-Shahādah",
+      "difficulty": "easy",
+      "question": "Who was the first rightly-guided caliph after the death of Prophet Muhammad (SAW)?",
+      "options": {
+        "A": "Umar ibn al-Khattab",
+        "B": "Uthman ibn Affan,Ali ibn Abi Talib",
+        "C": "Abu Bakr"
+      },
+      "answer": "C",
+      "explanation": "Abu Bakr as-Siddiq became the first Caliph (632-634 CE) and was instrumental in compiling the Qur'an."
+    },
+    {
+      "id": 36,
+      "topic": "Kalimatush-Shahādah",
+      "section": "General",
+      "subtopic": "Kalimatush-Shahādah",
+      "difficulty": "medium",
+      "question": "Who was the first rightly-guided caliph after the death of Prophet Muhammad (SAW)?",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Uthman ibn Affan,Ali ibn Abi Talib",
+        "C": "Umar ibn al-Khattab"
+      },
+      "answer": "A",
+      "explanation": "Abu Bakr as-Siddiq became the first Caliph (632-634 CE) and was instrumental in compiling the Qur'an."
+    },
+    {
+      "id": 37,
+      "topic": "Shirk and incompatible practices",
+      "section": "General",
+      "subtopic": "Shirk and incompatible practices",
+      "difficulty": "easy",
+      "question": "Which statement about Shirk and incompatible practices is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Shirk and incompatible practices is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 38,
+      "topic": "Shirk and incompatible practices",
+      "section": "General",
+      "subtopic": "Shirk and incompatible practices",
+      "difficulty": "medium",
+      "question": "Which statement about Shirk and incompatible practices is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Shirk and incompatible practices is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 39,
+      "topic": "Shirk and incompatible practices",
+      "section": "General",
+      "subtopic": "Shirk and incompatible practices",
+      "difficulty": "hard",
+      "question": "Which statement about Shirk and incompatible practices is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "Shirk and incompatible practices is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 40,
+      "topic": "Articles of Faith",
+      "section": "General",
+      "subtopic": "Articles of Faith",
+      "difficulty": "medium",
+      "question": "Which statement about Articles of Faith is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Articles of Faith is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 41,
+      "topic": "Articles of Faith",
+      "section": "General",
+      "subtopic": "Articles of Faith",
+      "difficulty": "hard",
+      "question": "Which statement about Articles of Faith is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "A",
+      "explanation": "Articles of Faith is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 42,
+      "topic": "Articles of Faith",
+      "section": "General",
+      "subtopic": "Articles of Faith",
+      "difficulty": "easy",
+      "question": "Which statement about Articles of Faith is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "Articles of Faith is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 43,
+      "topic": "Articles of Faith: Belief in Allah (Existence, Attributes, Works)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Allah (Existence, Attributes, Works)",
+      "difficulty": "hard",
+      "question": "Which statement about Articles of Faith: Belief in Allah (Existence, Attributes, Works) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Articles of Faith: Belief in Allah (Existence, Attributes, Works) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 44,
+      "topic": "Articles of Faith: Belief in Allah (Existence, Attributes, Works)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Allah (Existence, Attributes, Works)",
+      "difficulty": "easy",
+      "question": "Which statement about Articles of Faith: Belief in Allah (Existence, Attributes, Works) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Articles of Faith: Belief in Allah (Existence, Attributes, Works) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 45,
+      "topic": "Articles of Faith: Belief in Allah (Existence, Attributes, Works)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Allah (Existence, Attributes, Works)",
+      "difficulty": "medium",
+      "question": "Which statement about Articles of Faith: Belief in Allah (Existence, Attributes, Works) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Articles of Faith: Belief in Allah (Existence, Attributes, Works) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 46,
+      "topic": "Articles of Faith: Belief in Angels",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Angels",
+      "difficulty": "easy",
+      "question": "Which statement about Articles of Faith: Belief in Angels is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "Articles of Faith: Belief in Angels is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 47,
+      "topic": "Articles of Faith: Belief in Angels",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Angels",
+      "difficulty": "medium",
+      "question": "Which statement about Articles of Faith: Belief in Angels is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Articles of Faith: Belief in Angels is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 48,
+      "topic": "Articles of Faith: Belief in Angels",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Angels",
+      "difficulty": "hard",
+      "question": "Which statement about Articles of Faith: Belief in Angels is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Articles of Faith: Belief in Angels is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 49,
+      "topic": "Articles of Faith: Belief in Books",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Books",
+      "difficulty": "medium",
+      "question": "Which statement about Articles of Faith: Belief in Books is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Articles of Faith: Belief in Books is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 50,
+      "topic": "Articles of Faith: Belief in Books",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Books",
+      "difficulty": "hard",
+      "question": "Which statement about Articles of Faith: Belief in Books is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "Articles of Faith: Belief in Books is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 51,
+      "topic": "Articles of Faith: Belief in Books",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Books",
+      "difficulty": "easy",
+      "question": "Which statement about Articles of Faith: Belief in Books is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "A",
+      "explanation": "Articles of Faith: Belief in Books is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 52,
+      "topic": "Articles of Faith: Belief in Prophets (Ulul Azmi)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Prophets (Ulul Azmi)",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "622 CE",
+        "C": "610 CE",
+        "D": "570 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 53,
+      "topic": "Articles of Faith: Belief in Prophets (Ulul Azmi)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Prophets (Ulul Azmi)",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "610 CE",
+        "C": "632 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 54,
+      "topic": "Articles of Faith: Belief in Prophets (Ulul Azmi)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Prophets (Ulul Azmi)",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "570 CE",
+        "B": "622 CE",
+        "C": "610 CE",
+        "D": "632 CE"
+      },
+      "answer": "B",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 55,
+      "topic": "Articles of Faith: Belief in the Last Day",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in the Last Day",
+      "difficulty": "easy",
+      "question": "Which statement about Articles of Faith: Belief in the Last Day is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "Articles of Faith: Belief in the Last Day is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 56,
+      "topic": "Articles of Faith: Belief in the Last Day",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in the Last Day",
+      "difficulty": "medium",
+      "question": "Which statement about Articles of Faith: Belief in the Last Day is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Articles of Faith: Belief in the Last Day is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 57,
+      "topic": "Articles of Faith: Belief in the Last Day",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in the Last Day",
+      "difficulty": "hard",
+      "question": "Which statement about Articles of Faith: Belief in the Last Day is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is a secular concept",
+        "C": "It belongs to Christian theology",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "A",
+      "explanation": "Articles of Faith: Belief in the Last Day is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 58,
+      "topic": "Articles of Faith: Belief in Destiny (Qada and Qadar)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Destiny (Qada and Qadar)",
+      "difficulty": "medium",
+      "question": "Which statement about Articles of Faith: Belief in Destiny (Qada and Qadar) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "A",
+      "explanation": "Articles of Faith: Belief in Destiny (Qada and Qadar) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 59,
+      "topic": "Articles of Faith: Belief in Destiny (Qada and Qadar)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Destiny (Qada and Qadar)",
+      "difficulty": "hard",
+      "question": "Which statement about Articles of Faith: Belief in Destiny (Qada and Qadar) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Articles of Faith: Belief in Destiny (Qada and Qadar) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 60,
+      "topic": "Articles of Faith: Belief in Destiny (Qada and Qadar)",
+      "section": "General",
+      "subtopic": "Articles of Faith: Belief in Destiny (Qada and Qadar)",
+      "difficulty": "easy",
+      "question": "Which statement about Articles of Faith: Belief in Destiny (Qada and Qadar) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Articles of Faith: Belief in Destiny (Qada and Qadar) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 61,
+      "topic": "Ibādāt and their types",
+      "section": "General",
+      "subtopic": "Ibādāt and their types",
+      "difficulty": "hard",
+      "question": "Which statement about Ibādāt and their types is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Ibādāt and their types is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 62,
+      "topic": "Ibādāt and their types",
+      "section": "General",
+      "subtopic": "Ibādāt and their types",
+      "difficulty": "easy",
+      "question": "Which statement about Ibādāt and their types is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "Ibādāt and their types is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 63,
+      "topic": "Ibādāt and their types",
+      "section": "General",
+      "subtopic": "Ibādāt and their types",
+      "difficulty": "medium",
+      "question": "Which statement about Ibādāt and their types is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "Ibādāt and their types is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 64,
+      "topic": "Ibādāt and their types: Good deeds",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Good deeds",
+      "difficulty": "easy",
+      "question": "Which statement about Ibādāt and their types: Good deeds is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Ibādāt and their types: Good deeds is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 65,
+      "topic": "Ibādāt and their types: Good deeds",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Good deeds",
+      "difficulty": "medium",
+      "question": "Which statement about Ibādāt and their types: Good deeds is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "A",
+      "explanation": "Ibādāt and their types: Good deeds is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 66,
+      "topic": "Ibādāt and their types: Good deeds",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Good deeds",
+      "difficulty": "hard",
+      "question": "Which statement about Ibādāt and their types: Good deeds is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "Ibādāt and their types: Good deeds is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 67,
+      "topic": "Ibādāt and their types: Taharah (types and importance)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Taharah (types and importance)",
+      "difficulty": "medium",
+      "question": "Which statement about Ibādāt and their types: Taharah (types and importance) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "A",
+      "explanation": "Ibādāt and their types: Taharah (types and importance) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 68,
+      "topic": "Ibādāt and their types: Taharah (types and importance)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Taharah (types and importance)",
+      "difficulty": "hard",
+      "question": "Which statement about Ibādāt and their types: Taharah (types and importance) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "Ibādāt and their types: Taharah (types and importance) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 69,
+      "topic": "Ibādāt and their types: Taharah (types and importance)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Taharah (types and importance)",
+      "difficulty": "easy",
+      "question": "Which statement about Ibādāt and their types: Taharah (types and importance) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Ibādāt and their types: Taharah (types and importance) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 70,
+      "topic": "Ibādāt and their types: Salah (importance, types, things that vitiate)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Salah (importance, types, things that vitiate)",
+      "difficulty": "hard",
+      "question": "Which statement about Ibādāt and their types: Salah (importance, types, things that vitiate) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "Ibādāt and their types: Salah (importance, types, things that vitiate) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 71,
+      "topic": "Ibādāt and their types: Salah (importance, types, things that vitiate)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Salah (importance, types, things that vitiate)",
+      "difficulty": "easy",
+      "question": "Which statement about Ibādāt and their types: Salah (importance, types, things that vitiate) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "Ibādāt and their types: Salah (importance, types, things that vitiate) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 72,
+      "topic": "Ibādāt and their types: Salah (importance, types, things that vitiate)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Salah (importance, types, things that vitiate)",
+      "difficulty": "medium",
+      "question": "Which statement about Ibādāt and their types: Salah (importance, types, things that vitiate) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Ibādāt and their types: Salah (importance, types, things that vitiate) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 73,
+      "topic": "Ibādāt and their types: Zakah (types, collection, disbursement)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Zakah (types, collection, disbursement)",
+      "difficulty": "easy",
+      "question": "Which statement about Ibādāt and their types: Zakah (types, collection, disbursement) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "Ibādāt and their types: Zakah (types, collection, disbursement) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 74,
+      "topic": "Ibādāt and their types: Zakah (types, collection, disbursement)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Zakah (types, collection, disbursement)",
+      "difficulty": "medium",
+      "question": "Which statement about Ibādāt and their types: Zakah (types, collection, disbursement) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "Ibādāt and their types: Zakah (types, collection, disbursement) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 75,
+      "topic": "Ibādāt and their types: Zakah (types, collection, disbursement)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Zakah (types, collection, disbursement)",
+      "difficulty": "hard",
+      "question": "Which statement about Ibādāt and their types: Zakah (types, collection, disbursement) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Ibādāt and their types: Zakah (types, collection, disbursement) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 76,
+      "topic": "Ibādāt and their types: Sawm (types, exemptions, things that vitiate)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Sawm (types, exemptions, things that vitiate)",
+      "difficulty": "medium",
+      "question": "How many pillars of Islam are there?",
+      "options": {
+        "A": "Five",
+        "B": "Four",
+        "C": "Six",
+        "D": "Seven"
+      },
+      "answer": "A",
+      "explanation": "The Five Pillars are: Shahadah (faith), Salat (prayer), Zakat (charity), Sawm (fasting), and Hajj (pilgrimage)."
+    },
+    {
+      "id": 77,
+      "topic": "Ibādāt and their types: Sawm (types, exemptions, things that vitiate)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Sawm (types, exemptions, things that vitiate)",
+      "difficulty": "hard",
+      "question": "How many pillars of Islam are there?",
+      "options": {
+        "A": "Five",
+        "B": "Seven",
+        "C": "Four",
+        "D": "Six"
+      },
+      "answer": "A",
+      "explanation": "The Five Pillars are: Shahadah (faith), Salat (prayer), Zakat (charity), Sawm (fasting), and Hajj (pilgrimage)."
+    },
+    {
+      "id": 78,
+      "topic": "Ibādāt and their types: Sawm (types, exemptions, things that vitiate)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Sawm (types, exemptions, things that vitiate)",
+      "difficulty": "easy",
+      "question": "How many pillars of Islam are there?",
+      "options": {
+        "A": "Four",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Five"
+      },
+      "answer": "D",
+      "explanation": "The Five Pillars are: Shahadah (faith), Salat (prayer), Zakat (charity), Sawm (fasting), and Hajj (pilgrimage)."
+    },
+    {
+      "id": 79,
+      "topic": "Ibādāt and their types: Hajj (importance, types, essentials, conditions)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Hajj (importance, types, essentials, conditions)",
+      "difficulty": "hard",
+      "question": "How many pillars of Islam are there?",
+      "options": {
+        "A": "Six",
+        "B": "Seven",
+        "C": "Four",
+        "D": "Five"
+      },
+      "answer": "D",
+      "explanation": "The Five Pillars are: Shahadah (faith), Salat (prayer), Zakat (charity), Sawm (fasting), and Hajj (pilgrimage)."
+    },
+    {
+      "id": 80,
+      "topic": "Ibādāt and their types: Hajj (importance, types, essentials, conditions)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Hajj (importance, types, essentials, conditions)",
+      "difficulty": "easy",
+      "question": "How many pillars of Islam are there?",
+      "options": {
+        "A": "Four",
+        "B": "Seven",
+        "C": "Five",
+        "D": "Six"
+      },
+      "answer": "C",
+      "explanation": "The Five Pillars are: Shahadah (faith), Salat (prayer), Zakat (charity), Sawm (fasting), and Hajj (pilgrimage)."
+    },
+    {
+      "id": 81,
+      "topic": "Ibādāt and their types: Hajj (importance, types, essentials, conditions)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Hajj (importance, types, essentials, conditions)",
+      "difficulty": "medium",
+      "question": "How many pillars of Islam are there?",
+      "options": {
+        "A": "Six",
+        "B": "Seven",
+        "C": "Five",
+        "D": "Four"
+      },
+      "answer": "C",
+      "explanation": "The Five Pillars are: Shahadah (faith), Salat (prayer), Zakat (charity), Sawm (fasting), and Hajj (pilgrimage)."
+    },
+    {
+      "id": 82,
+      "topic": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons)",
+      "difficulty": "easy",
+      "question": "Which statement about Ibādāt and their types: Jihad (concept, kinds, manner, lessons) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "C",
+      "explanation": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 83,
+      "topic": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons)",
+      "difficulty": "medium",
+      "question": "Which statement about Ibādāt and their types: Jihad (concept, kinds, manner, lessons) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 84,
+      "topic": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons)",
+      "section": "General",
+      "subtopic": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons)",
+      "difficulty": "hard",
+      "question": "Which statement about Ibādāt and their types: Jihad (concept, kinds, manner, lessons) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "Ibādāt and their types: Jihad (concept, kinds, manner, lessons) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 85,
+      "topic": "Family Matters",
+      "section": "General",
+      "subtopic": "Family Matters",
+      "difficulty": "medium",
+      "question": "Which statement about Family Matters is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Family Matters is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 86,
+      "topic": "Family Matters",
+      "section": "General",
+      "subtopic": "Family Matters",
+      "difficulty": "hard",
+      "question": "Which statement about Family Matters is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Family Matters is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 87,
+      "topic": "Family Matters",
+      "section": "General",
+      "subtopic": "Family Matters",
+      "difficulty": "easy",
+      "question": "Which statement about Family Matters is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Family Matters is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 88,
+      "topic": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy)",
+      "section": "General",
+      "subtopic": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy)",
+      "difficulty": "hard",
+      "question": "Which statement about Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 89,
+      "topic": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy)",
+      "section": "General",
+      "subtopic": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy)",
+      "difficulty": "easy",
+      "question": "Which statement about Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "A",
+      "explanation": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 90,
+      "topic": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy)",
+      "section": "General",
+      "subtopic": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy)",
+      "difficulty": "medium",
+      "question": "Which statement about Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Family Matters: Marriage (importance, prohibited categories, conditions, rights/duties, polygamy) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 91,
+      "topic": "Family Matters: Idrar (ill-treatment of wife)",
+      "section": "General",
+      "subtopic": "Family Matters: Idrar (ill-treatment of wife)",
+      "difficulty": "easy",
+      "question": "Which statement about Family Matters: Idrar (ill-treatment of wife) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a secular concept",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Family Matters: Idrar (ill-treatment of wife) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 92,
+      "topic": "Family Matters: Idrar (ill-treatment of wife)",
+      "section": "General",
+      "subtopic": "Family Matters: Idrar (ill-treatment of wife)",
+      "difficulty": "medium",
+      "question": "Which statement about Family Matters: Idrar (ill-treatment of wife) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "Family Matters: Idrar (ill-treatment of wife) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 93,
+      "topic": "Family Matters: Idrar (ill-treatment of wife)",
+      "section": "General",
+      "subtopic": "Family Matters: Idrar (ill-treatment of wife)",
+      "difficulty": "hard",
+      "question": "Which statement about Family Matters: Idrar (ill-treatment of wife) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Family Matters: Idrar (ill-treatment of wife) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 94,
+      "topic": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody)",
+      "section": "General",
+      "subtopic": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody)",
+      "difficulty": "medium",
+      "question": "Which statement about Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "B",
+      "explanation": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 95,
+      "topic": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody)",
+      "section": "General",
+      "subtopic": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody)",
+      "difficulty": "hard",
+      "question": "Which statement about Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 96,
+      "topic": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody)",
+      "section": "General",
+      "subtopic": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody)",
+      "difficulty": "easy",
+      "question": "Which statement about Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "A",
+      "explanation": "Family Matters: Divorce (attitude, kinds, Iddah, prohibited forms, custody) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 97,
+      "topic": "Family Matters: Inheritance (importance, heirs and shares)",
+      "section": "General",
+      "subtopic": "Family Matters: Inheritance (importance, heirs and shares)",
+      "difficulty": "hard",
+      "question": "Which statement about Family Matters: Inheritance (importance, heirs and shares) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a secular concept",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "A",
+      "explanation": "Family Matters: Inheritance (importance, heirs and shares) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 98,
+      "topic": "Family Matters: Inheritance (importance, heirs and shares)",
+      "section": "General",
+      "subtopic": "Family Matters: Inheritance (importance, heirs and shares)",
+      "difficulty": "easy",
+      "question": "Which statement about Family Matters: Inheritance (importance, heirs and shares) is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Family Matters: Inheritance (importance, heirs and shares) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 99,
+      "topic": "Family Matters: Inheritance (importance, heirs and shares)",
+      "section": "General",
+      "subtopic": "Family Matters: Inheritance (importance, heirs and shares)",
+      "difficulty": "medium",
+      "question": "Which statement about Family Matters: Inheritance (importance, heirs and shares) is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Family Matters: Inheritance (importance, heirs and shares) is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 100,
+      "topic": "Sources and Schools of Law",
+      "section": "General",
+      "subtopic": "Sources and Schools of Law",
+      "difficulty": "easy",
+      "question": "Which statement about Sources and Schools of Law is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is not part of Islamic teachings",
+        "C": "It belongs to Christian theology",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Sources and Schools of Law is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 101,
+      "topic": "Sources and Schools of Law",
+      "section": "General",
+      "subtopic": "Sources and Schools of Law",
+      "difficulty": "medium",
+      "question": "Which statement about Sources and Schools of Law is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "Sources and Schools of Law is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 102,
+      "topic": "Sources and Schools of Law",
+      "section": "General",
+      "subtopic": "Sources and Schools of Law",
+      "difficulty": "hard",
+      "question": "Which statement about Sources and Schools of Law is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Sources and Schools of Law is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 103,
+      "topic": "Islamic Economic System",
+      "section": "General",
+      "subtopic": "Islamic Economic System",
+      "difficulty": "medium",
+      "question": "Which statement about Islamic Economic System is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "Islamic Economic System is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 104,
+      "topic": "Islamic Economic System",
+      "section": "General",
+      "subtopic": "Islamic Economic System",
+      "difficulty": "hard",
+      "question": "Which statement about Islamic Economic System is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is not part of Islamic teachings",
+        "C": "It is a secular concept",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Islamic Economic System is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 105,
+      "topic": "Islamic Economic System",
+      "section": "General",
+      "subtopic": "Islamic Economic System",
+      "difficulty": "easy",
+      "question": "Which statement about Islamic Economic System is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "A",
+      "explanation": "Islamic Economic System is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 106,
+      "topic": "Islamic Political System",
+      "section": "General",
+      "subtopic": "Islamic Political System",
+      "difficulty": "hard",
+      "question": "Which statement about Islamic Political System is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Islamic Political System is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 107,
+      "topic": "Islamic Political System",
+      "section": "General",
+      "subtopic": "Islamic Political System",
+      "difficulty": "easy",
+      "question": "Which statement about Islamic Political System is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Islamic Political System is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 108,
+      "topic": "Islamic Political System",
+      "section": "General",
+      "subtopic": "Islamic Political System",
+      "difficulty": "medium",
+      "question": "Which statement about Islamic Political System is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "Islamic Political System is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 109,
+      "topic": "Pre-Islamic Arabia (Jahiliyyah)",
+      "section": "General",
+      "subtopic": "Pre-Islamic Arabia (Jahiliyyah)",
+      "difficulty": "easy",
+      "question": "The period before the advent of Islam in Arabia is known as:",
+      "options": {
+        "A": "Jahiliyyah",
+        "B": "Fatrah",
+        "C": "Riddah",
+        "D": "Khilafah"
+      },
+      "answer": "A",
+      "explanation": "Jahiliyyah refers to the \"Age of Ignorance\" in pre-Islamic Arabia, characterized by idol worship and tribal conflict."
+    },
+    {
+      "id": 110,
+      "topic": "Pre-Islamic Arabia (Jahiliyyah)",
+      "section": "General",
+      "subtopic": "Pre-Islamic Arabia (Jahiliyyah)",
+      "difficulty": "medium",
+      "question": "The period before the advent of Islam in Arabia is known as:",
+      "options": {
+        "A": "Jahiliyyah",
+        "B": "Khilafah",
+        "C": "Riddah",
+        "D": "Fatrah"
+      },
+      "answer": "A",
+      "explanation": "Jahiliyyah refers to the \"Age of Ignorance\" in pre-Islamic Arabia, characterized by idol worship and tribal conflict."
+    },
+    {
+      "id": 111,
+      "topic": "Pre-Islamic Arabia (Jahiliyyah)",
+      "section": "General",
+      "subtopic": "Pre-Islamic Arabia (Jahiliyyah)",
+      "difficulty": "hard",
+      "question": "The period before the advent of Islam in Arabia is known as:",
+      "options": {
+        "A": "Jahiliyyah",
+        "B": "Fatrah",
+        "C": "Khilafah",
+        "D": "Riddah"
+      },
+      "answer": "A",
+      "explanation": "Jahiliyyah refers to the \"Age of Ignorance\" in pre-Islamic Arabia, characterized by idol worship and tribal conflict."
+    },
+    {
+      "id": 112,
+      "topic": "The Life of Prophet Muhammad (SAW)",
+      "section": "General",
+      "subtopic": "The Life of Prophet Muhammad (SAW)",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "610 CE",
+        "B": "632 CE",
+        "C": "570 CE",
+        "D": "622 CE"
+      },
+      "answer": "D",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 113,
+      "topic": "The Life of Prophet Muhammad (SAW)",
+      "section": "General",
+      "subtopic": "The Life of Prophet Muhammad (SAW)",
+      "difficulty": "hard",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "570 CE",
+        "C": "622 CE",
+        "D": "610 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 114,
+      "topic": "The Life of Prophet Muhammad (SAW)",
+      "section": "General",
+      "subtopic": "The Life of Prophet Muhammad (SAW)",
+      "difficulty": "easy",
+      "question": "The Prophet Muhammad (SAW) migrated from Makkah to Madinah in the year:",
+      "options": {
+        "A": "632 CE",
+        "B": "610 CE",
+        "C": "622 CE",
+        "D": "570 CE"
+      },
+      "answer": "C",
+      "explanation": "The Hijrah (migration) occurred in 622 CE (1 AH), marking the beginning of the Islamic calendar."
+    },
+    {
+      "id": 115,
+      "topic": "The Rightly Guided Caliphs (al-Khulafā'u ar-Rāshidūn)",
+      "section": "General",
+      "subtopic": "The Rightly Guided Caliphs (al-Khulafā'u ar-Rāshidūn)",
+      "difficulty": "hard",
+      "question": "Who was the first rightly-guided caliph after the death of Prophet Muhammad (SAW)?",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Uthman ibn Affan,Ali ibn Abi Talib",
+        "C": "Umar ibn al-Khattab"
+      },
+      "answer": "A",
+      "explanation": "Abu Bakr as-Siddiq became the first Caliph (632-634 CE) and was instrumental in compiling the Qur'an."
+    },
+    {
+      "id": 116,
+      "topic": "The Rightly Guided Caliphs (al-Khulafā'u ar-Rāshidūn)",
+      "section": "General",
+      "subtopic": "The Rightly Guided Caliphs (al-Khulafā'u ar-Rāshidūn)",
+      "difficulty": "easy",
+      "question": "Who was the first rightly-guided caliph after the death of Prophet Muhammad (SAW)?",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Umar ibn al-Khattab",
+        "C": "Uthman ibn Affan,Ali ibn Abi Talib"
+      },
+      "answer": "A",
+      "explanation": "Abu Bakr as-Siddiq became the first Caliph (632-634 CE) and was instrumental in compiling the Qur'an."
+    },
+    {
+      "id": 117,
+      "topic": "The Rightly Guided Caliphs (al-Khulafā'u ar-Rāshidūn)",
+      "section": "General",
+      "subtopic": "The Rightly Guided Caliphs (al-Khulafā'u ar-Rāshidūn)",
+      "difficulty": "medium",
+      "question": "Who was the first rightly-guided caliph after the death of Prophet Muhammad (SAW)?",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Uthman ibn Affan,Ali ibn Abi Talib",
+        "C": "Umar ibn al-Khattab"
+      },
+      "answer": "A",
+      "explanation": "Abu Bakr as-Siddiq became the first Caliph (632-634 CE) and was instrumental in compiling the Qur'an."
+    },
+    {
+      "id": 118,
+      "topic": "Early contact of Islam with Africa",
+      "section": "General",
+      "subtopic": "Early contact of Islam with Africa",
+      "difficulty": "easy",
+      "question": "Which statement about Early contact of Islam with Africa is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a secular concept",
+        "D": "It is a fundamental Islamic concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Early contact of Islam with Africa is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 119,
+      "topic": "Early contact of Islam with Africa",
+      "section": "General",
+      "subtopic": "Early contact of Islam with Africa",
+      "difficulty": "medium",
+      "question": "Which statement about Early contact of Islam with Africa is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It belongs to Christian theology",
+        "D": "It is a secular concept"
+      },
+      "answer": "B",
+      "explanation": "Early contact of Islam with Africa is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 120,
+      "topic": "Early contact of Islam with Africa",
+      "section": "General",
+      "subtopic": "Early contact of Islam with Africa",
+      "difficulty": "hard",
+      "question": "Which statement about Early contact of Islam with Africa is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It is a secular concept",
+        "C": "It is not part of Islamic teachings",
+        "D": "It belongs to Christian theology"
+      },
+      "answer": "A",
+      "explanation": "Early contact of Islam with Africa is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 121,
+      "topic": "The Impact of Islam in West Africa",
+      "section": "General",
+      "subtopic": "The Impact of Islam in West Africa",
+      "difficulty": "medium",
+      "question": "Which statement about The Impact of Islam in West Africa is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a secular concept",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "C",
+      "explanation": "The Impact of Islam in West Africa is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 122,
+      "topic": "The Impact of Islam in West Africa",
+      "section": "General",
+      "subtopic": "The Impact of Islam in West Africa",
+      "difficulty": "hard",
+      "question": "Which statement about The Impact of Islam in West Africa is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "The Impact of Islam in West Africa is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 123,
+      "topic": "The Impact of Islam in West Africa",
+      "section": "General",
+      "subtopic": "The Impact of Islam in West Africa",
+      "difficulty": "easy",
+      "question": "Which statement about The Impact of Islam in West Africa is correct in Islamic Studies?",
+      "options": {
+        "A": "It belongs to Christian theology",
+        "B": "It is a fundamental Islamic concept in the syllabus",
+        "C": "It is a secular concept",
+        "D": "It is not part of Islamic teachings"
+      },
+      "answer": "B",
+      "explanation": "The Impact of Islam in West Africa is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 124,
+      "topic": "Contributions of Islam to Education",
+      "section": "General",
+      "subtopic": "Contributions of Islam to Education",
+      "difficulty": "hard",
+      "question": "Which statement about Contributions of Islam to Education is correct in Islamic Studies?",
+      "options": {
+        "A": "It is a fundamental Islamic concept in the syllabus",
+        "B": "It belongs to Christian theology",
+        "C": "It is not part of Islamic teachings",
+        "D": "It is a secular concept"
+      },
+      "answer": "A",
+      "explanation": "Contributions of Islam to Education is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 125,
+      "topic": "Contributions of Islam to Education",
+      "section": "General",
+      "subtopic": "Contributions of Islam to Education",
+      "difficulty": "easy",
+      "question": "Which statement about Contributions of Islam to Education is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "Contributions of Islam to Education is essential knowledge for Islamic Studies examinations."
+    },
+    {
+      "id": 126,
+      "topic": "Contributions of Islam to Education",
+      "section": "General",
+      "subtopic": "Contributions of Islam to Education",
+      "difficulty": "medium",
+      "question": "Which statement about Contributions of Islam to Education is correct in Islamic Studies?",
+      "options": {
+        "A": "It is not part of Islamic teachings",
+        "B": "It belongs to Christian theology",
+        "C": "It is a fundamental Islamic concept in the syllabus",
+        "D": "It is a secular concept"
+      },
+      "answer": "C",
+      "explanation": "Contributions of Islam to Education is essential knowledge for Islamic Studies examinations."
+    }
+  ]
+}

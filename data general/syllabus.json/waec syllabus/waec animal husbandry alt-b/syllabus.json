@@ -1,0 +1,225 @@
+{
+  "syllabus_title": "Animal Husbandry (Alt B)",
+  "detailed_syllabus": {
+    "A": {
+      "section": "LIVESTOCK PRODUCTION",
+      "topics": [
+        {
+          "topic": "1. Importance of farm animals",
+          "notes": "Discussion should include: source of food (meat, milk, eggs, honey etc); raw materials e.g. hide and skin, bones, hooves, hair/fur, egg shells; source of manure (fertilizer, bio-gas, bio fuel), growing of maggots and earthworms; source of feed ingredients- blood meal, bone meal, meat and bone meal, snail shell, egg shell, feathers etc; animal power (animal traction, transportation); research (laboratory, field), drugs, vaccines, hormones etc; source of employment; sales of products and by-products; social functions e.g. payment of bride price, cultural displays (weddings); for security e.g. ducks, bees, turkeys; as pets e.g. rabbits, sheep, chickens; sports and games e.g. horse racing, chicken fighting; religious festivals e.g. turkeys, rams; source of foreign exchange through export of animal products and by-products."
+        },
+        {
+          "topic": "2. Classification of farm animals",
+          "subtopics": [
+            {
+              "sub": "(a) Classification of farm animals",
+              "notes": "Discussion should be based on stomach type: (a) Simple stomach (non-ruminant or monogastric) e.g. poultry (avian), pig (swine), rabbits, horses, donkeys, snails, bees, grasscutters; (b) Complex stomach (polygastric or ruminants) i.e. cattle, sheep and goat."
+            },
+            {
+              "sub": "(b) Identification of ruminants and non-ruminants",
+              "notes": "Identification should include: (i) external features of common ruminants and non-ruminants; (ii) differences should be based on type of stomach and type of feed consumed."
+            },
+            {
+              "sub": "(c) Reproduction in poultry"
+            }
+          ]
+        },
+        {
+          "topic": "3. Internal organs and their functions in farm animals",
+          "notes": "Identification of internal organs of farm animals e.g. (liver, lungs, heart, kidney, spleen, pancreas, stomach, crop, caecum, gizzard, small intestine, large intestine, tongue etc, and their functions)."
+        },
+        {
+          "topic": "4. Body systems and their functions in farm animals",
+          "notes": "Discussions should include digestive, respiratory, nervous, circulatory, skeletal, reproductive systems. Students are expected to understand the functions of each system."
+        },
+        {
+          "topic": "5. Reproduction in farm animals",
+          "subtopics": [
+            {
+              "sub": "(a) Definition of terms used in livestock reproduction",
+              "notes": "Discussion should include ovulation, oestrus cycle, heat period, signs of heat, mating, gestation, parturition, lactation, colostrum, flushing, steaming up, dystocia, vaginal prolapse etc."
+            },
+            {
+              "sub": "(b) Reproduction in livestock (mammals)",
+              "notes": "Discussion should include detection of heat, mating systems, pregnancy detection and signs of parturition."
+            },
+            {
+              "sub": "(d) Reproductive hormones and their functions",
+              "notes": "Sources and roles of female hormones (oestrogen, progesterone, relaxin, oxytocin etc) and male hormones (testosterone/androgen) should be emphasised."
+            },
+            {
+              "sub": "(e) Management of pregnant farm animals",
+              "notes": "Discussion should include regular and adequate feeding, body exercise, steaming up, separation from male animals, provision of clean and adequate water and administration of drugs where necessary, dipping to eliminate ecto-parasites, parturition etc."
+            }
+          ]
+        },
+        {
+          "topic": "6. Livestock management systems",
+          "notes": "Knowledge of livestock management systems: intensive, semi-intensive and extensive system is required. Discussion should include advantages and disadvantages of each of the systems."
+        },
+        {
+          "topic": "7. Management practices of livestock",
+          "notes": "Discussion should include housing requirements for each of the farm animals and students are expected to have the knowledge of the use of local materials for construction of the animal houses. Understanding of other management practices: feeding, sanitation, hygiene, castration, dehorning, deworming, vaccination, inoculation, culling, debeaking, smoking (in bees), docking (detailing), means of identification of farm animals (tattooing, branding, ear-notching, rings etc), isolation, weaning, care of the young animal until they are weaned etc, is essential. Simple record keeping including income and expenditure accounts is necessary. ... Discussion should also include the management practices from birth to maturity of a named large ruminant, small ruminant, poultry, pigs, grasscutter, bees and snails."
+        }
+      ]
+    },
+    "B": {
+      "section": "ANIMAL NUTRITION",
+      "topics": [
+        {
+          "topic": "1. Meaning and classes of animal feeds",
+          "notes": "Discussion should include the meaning of animal nutrition, feed nutrients (carbohydrates, proteins, fats and oil, vitamins, minerals and water), their functions and sources and their deficiencies in farm animals. Students should also be exposed to classification of animal feeds into concentrates, roughages, supplements, feed additives etc."
+        },
+        {
+          "topic": "2. Animal feeds and feeding (a) Livestock rations",
+          "notes": "Study should include meaning of livestock rations and types (balanced, maintenance, production rations). Malnutrition: meaning, causes, symptoms and practical ways to check malnutrition..."
+        },
+        {
+          "topic": "3. Formulation of livestock rations",
+          "notes": "Students should be exposed to practical diet formulations for the different classes of farm animals (starter, grower and finisher diets). Students should be able to identify different feed ingredients... Factors to consider in feed formulation..."
+        },
+        {
+          "topic": "4. Processing and marketing of animal products",
+          "subtopics": [
+            {
+              "sub": "(a) Processing techniques for different farm animal products",
+              "notes": "The processing techniques to include; pre-slaughtering, slaughtering and post-slaughtering activities. ... processing of animal products e.g. egg, milk, meat, skin, wool, honey, snail shell and feathers, fur, hooves, horns, blood, faeces/droppings into other forms (value addition)."
+            },
+            {
+              "sub": "(b) Marketing of animal products",
+              "notes": "Understanding of common marketing channels and agents such as producers, wholesalers, retailers, consumers etc is required. Advantages and disadvantages of each marketing channel and agent should be discussed."
+            }
+          ]
+        }
+      ]
+    },
+    "C": {
+      "section": "PASTURE AND RANGE MANAGEMENT",
+      "topics": [
+        {
+          "topic": "1. Pasture management",
+          "subtopics": [
+            {
+              "sub": "(a) Meaning and importance of pasture and forage crops"
+            },
+            {
+              "sub": "(b) Types of pasture and forage crops"
+            },
+            {
+              "sub": "(c) Terminologies in pasture management"
+            }
+          ],
+          "notes": "Discussion should include definition, examples and importance of pasture and forage crops."
+        },
+        {
+          "topic": "2. Rangeland improvement",
+          "subtopics": [
+            {
+              "sub": "(a) Meaning and characteristics of rangelands"
+            },
+            {
+              "sub": "(b) Methods of rangeland improvement"
+            },
+            {
+              "sub": "(c) Importance of rangeland"
+            }
+          ],
+          "notes": "Knowledge of methods of rangeland improvement (reseeding, rotational grazing, controlled stocking, deferred grazing, controlled burning, fertilizer application, pest control, disease control etc..."
+        }
+      ]
+    },
+    "D": {
+      "section": "ANIMAL IMPROVEMENT",
+      "topics": [
+        {
+          "topic": "1. Animal improvement",
+          "subtopics": [
+            {
+              "sub": "(a) Meaning of animal improvement"
+            },
+            {
+              "sub": "(b) Aims/importance of farm animal improvement",
+              "notes": "Knowledge of aims: high reproductive efficiency, potency, mothering ability, cool temperament, high libido, resistance to pests, resistance to diseases, tolerance to harsh environment, etc..."
+            }
+          ]
+        },
+        {
+          "topic": "Methods of farm animal improvement",
+          "subtopics": [
+            {
+              "sub": "(a) Methods used in farm animal improvement",
+              "notes": "Discussion should include various methods used in farm animal improvement: introduction, selection and breeding."
+            },
+            {
+              "sub": "(b) Merits and demerits of methods used in farm animal improvement"
+            }
+          ]
+        },
+        {
+          "topic": "2. Artificial insemination",
+          "subtopics": [
+            {
+              "sub": "(a) Meaning of artificial insemination"
+            },
+            {
+              "sub": "(b) Methods of artificial insemination",
+              "notes": "Discussion to include identification of materials, methods, steps and precautions..."
+            },
+            {
+              "sub": "(c) Advantages of artificial insemination"
+            }
+          ]
+        }
+      ]
+    },
+    "E": {
+      "section": "ANIMAL HEALTH",
+      "topics": [
+        {
+          "topic": "1. Farm animal diseases and pathogens",
+          "subtopics": [
+            {
+              "sub": "(a) Concept of farm animal disease",
+              "notes": "Knowledge of meaning and causal agents (bacteria, viruses, fungi, protozoa) of diseases in farm animals..."
+            },
+            {
+              "sub": "(b) General symptoms of diseases in farm animals"
+            },
+            {
+              "sub": "(c) Diseases of farm animals, prevention and control"
+            },
+            {
+              "sub": "(d) Factors predisposing farm animals to diseases"
+            }
+          ]
+        },
+        {
+          "topic": "2. Livestock parasites and pests",
+          "subtopics": [
+            {
+              "sub": "(a) Livestock parasites",
+              "notes": "Understanding of the meaning, classes, control/prevention and effects of parasites... Ability to identify and understand economic importance of ecto-parasites (ticks, lice, mites, fleas etc.) and endo-parasites (tapeworm, roundworm, hookworm, pinworm, liver fluke, trypanosome etc)..."
+            },
+            {
+              "sub": "(b) Livestock pests",
+              "notes": "Knowledge of livestock pests (rodents, snakes, soldier ants, birds, weevils, termites, flies etc)..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "practical_section": {
+    "title": "ANIMAL HUSBANDRY (PRACTICALS)",
+    "topics": [
+      "Products and by-products of farm animals",
+      "Identification of farm animals",
+      "Internal organs and their functions in farm animals",
+      "Tools and equipment used in management of farm animals",
+      "Feeds and feedstuffs",
+      "Pasture and forage crops",
+      "Artificial insemination",
+      "Pests and parasites of farm animals"
+    ]
+  }
+}

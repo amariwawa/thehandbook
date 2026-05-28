@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "THE CONCEPT OF CATERING",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING",
+      "difficulty": "easy",
+      "question": "Which statement about THE CONCEPT OF CATERING is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "THE CONCEPT OF CATERING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "THE CONCEPT OF CATERING",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "THE CONCEPT OF CATERING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "THE CONCEPT OF CATERING",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "THE CONCEPT OF CATERING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING: Hospitality industry/catering is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THE CONCEPT OF CATERING: Hospitality industry/catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING: Hospitality industry/catering is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THE CONCEPT OF CATERING: Hospitality industry/catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "difficulty": "easy",
+      "question": "Which statement about THE CONCEPT OF CATERING: Hospitality industry/catering is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THE CONCEPT OF CATERING: Hospitality industry/catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING: Types of catering establishments is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "THE CONCEPT OF CATERING: Types of catering establishments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "difficulty": "easy",
+      "question": "Which statement about THE CONCEPT OF CATERING: Types of catering establishments is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Types of catering establishments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING: Types of catering establishments is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THE CONCEPT OF CATERING: Types of catering establishments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "THE CONCEPT OF CATERING: Culinary terms",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Culinary terms",
+      "difficulty": "easy",
+      "question": "Which statement about THE CONCEPT OF CATERING: Culinary terms is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Culinary terms is part of the Home Economics syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "THE CONCEPT OF CATERING: Culinary terms",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Culinary terms",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING: Culinary terms is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "THE CONCEPT OF CATERING: Culinary terms is part of the Home Economics syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "THE CONCEPT OF CATERING: Culinary terms",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Culinary terms",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING: Culinary terms is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "THE CONCEPT OF CATERING: Culinary terms is part of the Home Economics syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING: Safety precaution in catering is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Safety precaution in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING: Safety precaution in catering is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THE CONCEPT OF CATERING: Safety precaution in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "difficulty": "easy",
+      "question": "Which statement about THE CONCEPT OF CATERING: Safety precaution in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Safety precaution in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "difficulty": "easy",
+      "question": "Which statement about THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION",
+      "difficulty": "easy",
+      "question": "Which statement about FOOD COMMODITIES AND METHODS OF FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES AND METHODS OF FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD COMMODITIES AND METHODS OF FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "difficulty": "easy",
+      "question": "Which statement about FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "SERVICE OF FOODS AND DRINKS",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "SERVICE OF FOODS AND DRINKS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "SERVICE OF FOODS AND DRINKS",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS",
+      "difficulty": "easy",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "SERVICE OF FOODS AND DRINKS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "SERVICE OF FOODS AND DRINKS",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS",
+      "difficulty": "medium",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "SERVICE OF FOODS AND DRINKS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel",
+      "difficulty": "easy",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Food and beverage service personnel is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel is part of the Home Economics syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel",
+      "difficulty": "medium",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Food and beverage service personnel is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel is part of the Home Economics syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Food and beverage service personnel is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Food and beverage service personnel is part of the Home Economics syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "difficulty": "medium",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "difficulty": "easy",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks is part of the Home Economics syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks",
+      "difficulty": "easy",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks is part of the Home Economics syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks",
+      "difficulty": "medium",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of alcoholic and non-alcoholic drinks is part of the Home Economics syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "difficulty": "easy",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Costing and control in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Costing and control in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "difficulty": "medium",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Costing and control in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Costing and control in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Costing and control in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Costing and control in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "difficulty": "medium",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "difficulty": "hard",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "difficulty": "easy",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "hard",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "easy",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "medium",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "difficulty": "easy",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "difficulty": "medium",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "difficulty": "hard",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "MENU PLANNING",
+      "section": "General",
+      "subtopic": "MENU PLANNING",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "MENU PLANNING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "MENU PLANNING",
+      "section": "General",
+      "subtopic": "MENU PLANNING",
+      "difficulty": "hard",
+      "question": "Which statement about MENU PLANNING is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "MENU PLANNING",
+      "section": "General",
+      "subtopic": "MENU PLANNING",
+      "difficulty": "easy",
+      "question": "Which statement about MENU PLANNING is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "MENU PLANNING: Principles of menu planning",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Principles of menu planning",
+      "difficulty": "hard",
+      "question": "Which statement about MENU PLANNING: Principles of menu planning is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "MENU PLANNING: Principles of menu planning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "MENU PLANNING: Principles of menu planning",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Principles of menu planning",
+      "difficulty": "easy",
+      "question": "Which statement about MENU PLANNING: Principles of menu planning is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING: Principles of menu planning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "MENU PLANNING: Principles of menu planning",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Principles of menu planning",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Principles of menu planning is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "MENU PLANNING: Principles of menu planning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "MENU PLANNING: Types of menu and demonstrations",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Types of menu and demonstrations",
+      "difficulty": "easy",
+      "question": "Which statement about MENU PLANNING: Types of menu and demonstrations is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "MENU PLANNING: Types of menu and demonstrations is part of the Home Economics syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "MENU PLANNING: Types of menu and demonstrations",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Types of menu and demonstrations",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Types of menu and demonstrations is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "MENU PLANNING: Types of menu and demonstrations is part of the Home Economics syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "MENU PLANNING: Types of menu and demonstrations",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Types of menu and demonstrations",
+      "difficulty": "hard",
+      "question": "Which statement about MENU PLANNING: Types of menu and demonstrations is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING: Types of menu and demonstrations is part of the Home Economics syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "MENU PLANNING: Special menu",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Special menu",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Special menu is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "MENU PLANNING: Special menu is part of the Home Economics syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "MENU PLANNING: Special menu",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Special menu",
+      "difficulty": "hard",
+      "question": "Which statement about MENU PLANNING: Special menu is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING: Special menu is part of the Home Economics syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "MENU PLANNING: Special menu",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Special menu",
+      "difficulty": "easy",
+      "question": "Which statement about MENU PLANNING: Special menu is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "MENU PLANNING: Special menu is part of the Home Economics syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "MENU PLANNING: Accompaniments",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Accompaniments",
+      "difficulty": "hard",
+      "question": "Which statement about MENU PLANNING: Accompaniments is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "MENU PLANNING: Accompaniments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "MENU PLANNING: Accompaniments",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Accompaniments",
+      "difficulty": "easy",
+      "question": "Which statement about MENU PLANNING: Accompaniments is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING: Accompaniments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "MENU PLANNING: Accompaniments",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Accompaniments",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Accompaniments is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING: Accompaniments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "difficulty": "medium",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "easy",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "difficulty": "medium",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Costing and control in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Costing and control in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Safety precaution in catering",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING: Safety precaution in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "THE CONCEPT OF CATERING: Safety precaution in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "MENU PLANNING: Special menu",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Special menu",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Special menu is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "MENU PLANNING: Special menu is part of the Home Economics syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "MENU PLANNING",
+      "section": "General",
+      "subtopic": "MENU PLANNING",
+      "difficulty": "hard",
+      "question": "Which statement about MENU PLANNING is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "MENU PLANNING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "difficulty": "easy",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "MENU PLANNING: Special menu",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Special menu",
+      "difficulty": "hard",
+      "question": "Which statement about MENU PLANNING: Special menu is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING: Special menu is part of the Home Economics syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION: Study of food commodities and principles of cooking methods is part of the Home Economics syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "medium",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "MENU PLANNING: Special menu",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Special menu",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Special menu is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "MENU PLANNING: Special menu is part of the Home Economics syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES",
+      "difficulty": "easy",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "medium",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Costing and control in catering",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Costing and control in catering is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Costing and control in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "MENU PLANNING: Accompaniments",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Accompaniments",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Accompaniments is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "MENU PLANNING: Accompaniments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "MENU PLANNING: Principles of menu planning",
+      "section": "General",
+      "subtopic": "MENU PLANNING: Principles of menu planning",
+      "difficulty": "medium",
+      "question": "Which statement about MENU PLANNING: Principles of menu planning is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "MENU PLANNING: Principles of menu planning is part of the Home Economics syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "MENU PLANNING",
+      "section": "General",
+      "subtopic": "MENU PLANNING",
+      "difficulty": "easy",
+      "question": "Which statement about MENU PLANNING is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "MENU PLANNING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment",
+      "difficulty": "easy",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Care and maintenance of kitchen equipment is part of the Home Economics syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Hospitality industry/catering",
+      "difficulty": "easy",
+      "question": "Which statement about THE CONCEPT OF CATERING: Hospitality industry/catering is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Hospitality industry/catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "medium",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "section": "General",
+      "subtopic": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting",
+      "difficulty": "hard",
+      "question": "Which statement about SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "SERVICE OF FOODS AND DRINKS: Types of food service and table laying/setting is part of the Home Economics syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "section": "General",
+      "subtopic": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses",
+      "difficulty": "hard",
+      "question": "Which statement about KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "KITCHEN EQUIPMENT AND THEIR USES: Types of kitchen equipment and their uses is part of the Home Economics syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Types of catering establishments",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING: Types of catering establishments is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "THE CONCEPT OF CATERING: Types of catering establishments is part of the Home Economics syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering",
+      "difficulty": "medium",
+      "question": "Which statement about THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "THE CONCEPT OF CATERING: Sanitation and Hygiene in catering is part of the Home Economics syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "THE CONCEPT OF CATERING: Culinary terms",
+      "section": "General",
+      "subtopic": "THE CONCEPT OF CATERING: Culinary terms",
+      "difficulty": "hard",
+      "question": "Which statement about THE CONCEPT OF CATERING: Culinary terms is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "THE CONCEPT OF CATERING: Culinary terms is part of the Home Economics syllabus."
+    }
+  ]
+}

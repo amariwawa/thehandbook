@@ -1,0 +1,183 @@
+{
+  "detailed_syllabus": {
+    "notes_on_the_syllabus": {
+      "structure": {
+        "description": "This will be tested, as far as possible, within suitable communicative contexts. Candidates are expected to be familiar with the following:",
+        "parts_of_speech": [
+          "Grammatical categories"
+        ],
+        "articles": [
+          "Definite, indefinite, partitive (Gender and number where applicable)"
+        ],
+        "verbs": {
+          "types": ["Regular and irregular"],
+          "moods_and_tenses": ["Common moods and tenses"],
+          "standard_expressions": [
+            "avoir + noun (e.g. avoir faim)",
+            "venir de + infinitive"
+          ]
+        },
+        "nouns": [
+          "Complements, gender, number"
+        ],
+        "pronouns": [
+          "Personal, possessive, indefinite, demonstrative, relative, impersonal (number and gender where applicable)"
+        ],
+        "adjectives": [
+          "Possessive, demonstrative, indefinite, interrogative (agreement and position)"
+        ],
+        "adverbs": [
+          "Formation and position",
+          "Special adverbs (mal, vite, fort, tout, etc.)"
+        ],
+        "negatives": [
+          "Negative expressions (ne…pas, ne…rien, ne…jamais, etc.)"
+        ],
+        "conjunctions": [
+          "Common use: et, mais, donc, ou, parce que, etc."
+        ],
+        "prepositions": [
+          "à, de, sur, en, devant, etc."
+        ],
+        "sentence_patterns": [
+          "Declarative, interrogative, exclamative, etc."
+        ],
+        "voice": [
+          "Active/passive"
+        ],
+        "speech": [
+          "Direct speech/reported speech"
+        ],
+        "sentence_types": [
+          "Compound and complex sentences"
+        ],
+        "other": [
+          "Idiomatic expressions & proverbs",
+          "Forms of writing (formal/informal)",
+          "Context and meaning e.g. to convey politeness, disgust, disappointment",
+          "Common figures of speech e.g. (similes, metaphors, hyperbole)",
+          "Structures of major “Acte de Parole” e.g. (exprimer la deception, la probation, le degout, la surprise, le plaisir, le regret, etc.)"
+        ]
+      }
+    },
+    "suggested_reading_list": {
+      "course_books": [
+        {
+          "author": "De Grandsaigne, J.",
+          "title": "France-Afrique 4",
+          "publisher": "Lagos, Macmillan"
+        },
+        {
+          "author": "Plaisant, Chantal, et al.",
+          "title": "Trans Afrique 3",
+          "publisher": "Lagos, Macmillan"
+        },
+        {
+          "author": "Ajiboye, Tunde et al.",
+          "title": "Nouvel Horizon 4",
+          "publisher": "Ibadan, Bounty Press Ltd."
+        },
+        {
+          "author": "Mazauric, Catherine et al.",
+          "title": "On y va 3",
+          "publisher": "Ibadan, Spectrum"
+        },
+        {
+          "author": "Berard, Evelyne et al.",
+          "title": "Tempo 1 & 2",
+          "publisher": "Didier, Hatier"
+        },
+        {
+          "author": "Task Force (MEST)",
+          "title": "Et en français 1 - 3",
+          "publisher": "Freetown"
+        },
+        {
+          "author": "Girardet J. & Pécheir J.",
+          "title": "Écho junior A2 méthode de français",
+          "publisher": "Paris: CLÉ"
+        }
+      ],
+      "general_grammar_books": [
+        {
+          "author": "Ajiboye, T.",
+          "title": "Companion to French Grammar",
+          "publisher": "Ilorin, Info-Links Publishers"
+        },
+        {
+          "author": "Ferrar H. A.",
+          "title": "French Reference Grammar",
+          "publisher": "Oxford University Press"
+        },
+        {
+          "author": "Dangnaud-Macé, P & Sylès, G.",
+          "title": "Le Français sans faute",
+          "publisher": "Paris, Hatier"
+        },
+        {
+          "title": "La grammaire pour tous",
+          "publisher": "Paris, Hatier"
+        },
+        {
+          "author": "Le Nouveau Bescherelle"
+        },
+        {
+          "author": "Soyoye, F. A.",
+          "title": "Manuel de conjugaison de verbes",
+          "publisher": "Sophire Ed. Resources"
+        }
+      ],
+      "oral_practice": [
+        {
+          "author": "Ajiboye, T.",
+          "title": "An Introduction to Practice in Oral French (Revised edition)",
+          "publisher": "Ibadan, Bounty Press Ltd."
+        },
+        {
+          "author": "Grandsaigne, J.",
+          "title": "France Afrique 5",
+          "publisher": "Lagos, Macmillan"
+        },
+        {
+          "author": "Adegbilero, L. M.",
+          "title": "Teaching Yourself French (with cassette/CD) (Revised edition)",
+          "publisher": "Ibadan, Bounty Press Ltd."
+        },
+        {
+          "author": "Chamberlain, Alan & Steele Ross",
+          "title": "Guide pratique de la communication",
+          "publisher": "Paris, Didier"
+        },
+        "Any other useful document designed for Oral Practice"
+      ],
+      "literature_ghana_only": [
+        {
+          "author": "J. N. D. Dodoo",
+          "title": "La Belle Fleure et d’autres Histoires",
+          "publisher": "Accra"
+        },
+        {
+          "author": "Tunde Ajiboye",
+          "title": "Olurounbi ou Le Prix d’un Pari"
+        },
+        {
+          "author": "Hector, Malot",
+          "title": "Sans Famille",
+          "publisher": "Paris"
+        }
+      ],
+      "dictionaries_glossaries": [
+        "Micro Robert / Petit Robert",
+        "Petit Larousse",
+        "Dictionnaire du français fondamental pour l’Afrique",
+        "Shorter Harraps",
+        "Collins",
+        "Cassell’s",
+        "Français Fondamental for West Africa, WAEC, Accra, Black Mask Ltd.",
+        "Any useful French – English/English-French dictionary",
+        "Any useful French glossary"
+      ],
+      "additional": "To enhance comprehension skills, extracts from simple modern literary and other texts (magazines, newspapers, brochures, etc.) dealing with contemporary issues may be of immense assistance."
+    }
+  }
+}

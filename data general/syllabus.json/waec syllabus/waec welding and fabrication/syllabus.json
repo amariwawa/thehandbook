@@ -1,0 +1,267 @@
+{
+  "syllabus_title": "WAEC SSCE Welding and Fabrication Engineering Craft Practice Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Workshop and Standard Workshop Practices",
+      "topics": [
+        {
+          "topic": "Introduction to fabrication and welding practice"
+        },
+        {
+          "topic": "Safety precautions in welding and fabrication workshop",
+          "subtopics": [
+            "Types and causes of accident in the workshop (fire, explosion, sharp objects, hazardous gases, etc.)",
+            "Accident prevention measures",
+            "Types and causes of environmental pollution",
+            "Methods of preventing environmental pollution",
+            "Safety facilities and protective wears"
+          ]
+        },
+        {
+          "topic": "Workshop layout (fabrication and welding)"
+        },
+        {
+          "topic": "Standard welding codes and symbols"
+        },
+        {
+          "topic": "First-Aid administration in the workshop"
+        }
+      ],
+      "practical": [
+        "Demonstration of the use of protective wears in welding and fabrication",
+        "Demonstration of the use of first aid in the workshop"
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "Properties of Metals and Selection",
+      "topics": [
+        {
+          "topic": "Ferrous and non-ferrous metals",
+          "subtopics": ["Steel, aluminum, cast iron, copper and zinc, tin, alloy steel"]
+        },
+        {
+          "topic": "Properties of metals",
+          "subtopics": ["Ductility, hardness, toughness, malleability, fusion and tenacity, brittleness, elasticity and plasticity"]
+        },
+        {
+          "topic": "Sheet metal",
+          "subtopics": ["Aluminum, mild steel, brass", "Concept of sheet metal", "Gauges of sheet metal"]
+        },
+        {
+          "topic": "Selection of suitable metals for specific jobs"
+        },
+        {
+          "topic": "Heat treatment of metals",
+          "subtopics": ["Hardening, annealing, normalizing, tempering and case-hardening, etc."]
+        }
+      ],
+      "practical": [
+        "Identification of ferrous and non-ferrous metals",
+        "Annealing, Hardening and Normalizing of metals"
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "Tools and Equipment in Fabrication and Welding",
+      "topics": [
+        {
+          "topic": "Identification of tools and equipment for fabrication and welding"
+        },
+        {
+          "topic": "Equipment set-up for gas, arc welding and fabrication"
+        },
+        {
+          "topic": "Job holding devices for fabrication and welding"
+        },
+        {
+          "topic": "Measuring instruments, marking out and cutting tools"
+        },
+        {
+          "topic": "Identification of parts and accessories for gas and arc welding"
+        },
+        {
+          "topic": "Maintenance procedure for arc and gas (oxy-acetylene) welding equipments"
+        },
+        {
+          "topic": "Preparation of acetylene gas from carbide"
+        },
+        {
+          "topic": "Types of electrodes and their composition, their application, gauges of electrodes, selection of appropriate electrode for a specific job"
+        },
+        {
+          "topic": "Equipment for fault detection and trouble shooting in fabrication and welding"
+        }
+      ],
+      "practical": [
+        "Student to set up oxy–acetylene equipment",
+        "Demonstration of the use of measuring, marking out and cutting tools",
+        "Demonstration of the preparation of acetylene gas from carbide"
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "Operations and Techniques in Welding and Fabrication",
+      "topics": [
+        {
+          "topic": "Types of welding (Gas and Arc welding)",
+          "subtopics": ["Explanation of the principles of gas and arc welding and their differences"]
+        },
+        {
+          "topic": "Description of a typical fabrication process"
+        },
+        {
+          "topic": "Types of joints, joint methods and application in welding and fabrication"
+        },
+        {
+          "topic": "Classification of marking out techniques in welding and fabrications"
+        },
+        {
+          "topic": "Description of the use of templates for fabricated and welded assemblies"
+        },
+        {
+          "topic": "Welding techniques and application"
+        },
+        {
+          "topic": "Techniques in fabrication work",
+          "subtopics": ["Description of folding techniques and its importance in fabrication work"]
+        }
+      ],
+      "practical": [
+        "Demonstration of various jobs cutting techniques",
+        "Students to weld using both leftward and rightward methods",
+        "Students to work on wire-edge projects"
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "Fasteners",
+      "topics": [
+        {
+          "topic": "Classification of fasteners"
+        },
+        {
+          "topic": "Rivet and its application",
+          "subtopics": ["Types of rivets", "Uses of rivets"]
+        },
+        {
+          "topic": "Bolt and nuts",
+          "subtopics": ["Description of bolts and nuts", "Uses of bolts and nuts"]
+        },
+        {
+          "topic": "Screws",
+          "subtopics": ["Classes of rivets and screws"]
+        },
+        {
+          "topic": "Permanent and temporary fasteners"
+        }
+      ],
+      "practical": [
+        "Students to produce rivets joints",
+        "Students to produce bolts and nuts"
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "Forging Process",
+      "topics": [
+        {
+          "topic": "Definition of forging"
+        },
+        {
+          "topic": "Forging tools and equipment",
+          "subtopics": ["Furnace, swages, fullers, flatters and tongs"]
+        },
+        {
+          "topic": "Forging process",
+          "subtopics": ["Upsetting", "Drawing down", "Twisting", "Bending", "Forging an eye"]
+        }
+      ],
+      "practical": [
+        "Students to form an eye"
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "Preparation of Welding Surfaces and Environment",
+      "topics": [
+        {
+          "topic": "Preparation of welding surfaces",
+          "subtopics": ["Cleaning with wire brush, emery cloth, files, scrappers and grinding machine"]
+        },
+        {
+          "topic": "Preparation of edges for welding",
+          "subtopics": ["Single V, double V, fillets"]
+        },
+        {
+          "topic": "Post surface preparation",
+          "subtopics": ["Cleaning surface with wire brush", "Oiling surface to protect from corrosion or rusting"]
+        },
+        {
+          "topic": "Defect in welding surfaces (causes and remedies)"
+        },
+        {
+          "topic": "Definition of welding environment",
+          "subtopics": ["Awkward, unventilated, flammable material", "Slippery floor (oil/grease on floor)"]
+        },
+        {
+          "topic": "Surface furnishing for fabrication and welding",
+          "subtopics": ["Painting, metal spraying, galvanizing and oiling"]
+        }
+      ],
+      "practical": [
+        "Preparation of single V surface for welding"
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "Practical Work/Project",
+      "topics": [
+        {
+          "topic": "Marking of shapes (triangle, square and rectangle)"
+        },
+        {
+          "topic": "Cutting and bending of triangles, square and rectangles"
+        },
+        {
+          "topic": "Soldering of sheet metals"
+        },
+        {
+          "topic": "Welding of steel using arc welding"
+        },
+        {
+          "topic": "Welding of steel using gas welding"
+        },
+        {
+          "topic": "Fabrication of ferrous and non-ferrous metals into required shapes"
+        },
+        {
+          "topic": "Suggested projects",
+          "subtopics": ["Named plate", "Trinket box", "Funnel", "Kitchen stool", "Car stopper", "Metal rake", "Scoop", "Hinges", "Charcoal stove, etc."]
+        }
+      ]
+    },
+    {
+      "section_number": 9,
+      "title": "Business Entrepreneurship Opportunity",
+      "topics": [
+        {
+          "topic": "Definition of",
+          "subtopics": ["Entrepreneurship", "Employer", "Employee"]
+        },
+        {
+          "topic": "Enterprises",
+          "subtopics": ["Small scale enterprise", "Medium scale enterprise", "Large scale enterprise"]
+        },
+        {
+          "topic": "Factors for setting a workshop",
+          "subtopics": ["Cost, site, weather, material, manpower, market, source of power, transportations"]
+        }
+      ],
+      "practical": [
+        "Site visitations to existing enterprise (small, medium or large scale enterprise)"
+      ]
+    }
+  ]
+}

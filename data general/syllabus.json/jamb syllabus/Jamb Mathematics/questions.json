@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Number bases",
+      "section": "General",
+      "subtopic": "Number bases",
+      "difficulty": "easy",
+      "question": "Convert 35₁₀ to base 2.",
+      "options": {
+        "A": "1022",
+        "B": "100011",
+        "C": "101111",
+        "D": "110101"
+      },
+      "answer": "B",
+      "explanation": "Divide 35 repeatedly by 2 and collect remainders in reverse order to get 1000112."
+    },
+    {
+      "id": 2,
+      "topic": "Number bases",
+      "section": "General",
+      "subtopic": "Number bases",
+      "difficulty": "medium",
+      "question": "Convert 203₁₀ to base 4.",
+      "options": {
+        "A": "3130",
+        "B": "10232",
+        "C": "3023",
+        "D": "1303"
+      },
+      "answer": "C",
+      "explanation": "Divide 203 repeatedly by 4 and collect remainders in reverse order to get 30234."
+    },
+    {
+      "id": 3,
+      "topic": "Number bases",
+      "section": "General",
+      "subtopic": "Number bases",
+      "difficulty": "hard",
+      "question": "Convert 223₁₀ to base 8.",
+      "options": {
+        "A": "337",
+        "B": "345",
+        "C": "267",
+        "D": "502"
+      },
+      "answer": "A",
+      "explanation": "Divide 223 repeatedly by 8 and collect remainders in reverse order to get 3378."
+    },
+    {
+      "id": 4,
+      "topic": "Fractions, Decimals, Approximations and Percentages",
+      "section": "General",
+      "subtopic": "Fractions, Decimals, Approximations and Percentages",
+      "difficulty": "medium",
+      "question": "Simplify (3/9) ÷ (6/8).",
+      "options": {
+        "A": "4/9",
+        "B": "12/14",
+        "C": "18/72",
+        "D": "9/17"
+      },
+      "answer": "A",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (3/9) × (8/6) = 24/54 = 4/9."
+    },
+    {
+      "id": 5,
+      "topic": "Fractions, Decimals, Approximations and Percentages",
+      "section": "General",
+      "subtopic": "Fractions, Decimals, Approximations and Percentages",
+      "difficulty": "hard",
+      "question": "Simplify (3/6) ÷ (3/8).",
+      "options": {
+        "A": "9/48",
+        "B": "9/11",
+        "C": "6/14",
+        "D": "4/3"
+      },
+      "answer": "D",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (3/6) × (8/3) = 24/18 = 4/3."
+    },
+    {
+      "id": 6,
+      "topic": "Fractions, Decimals, Approximations and Percentages",
+      "section": "General",
+      "subtopic": "Fractions, Decimals, Approximations and Percentages",
+      "difficulty": "easy",
+      "question": "Simplify (2/6) ÷ (5/9).",
+      "options": {
+        "A": "10/54",
+        "B": "8/14",
+        "C": "7/15",
+        "D": "3/5"
+      },
+      "answer": "D",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (2/6) × (9/5) = 18/30 = 3/5."
+    },
+    {
+      "id": 7,
+      "topic": "Indices, Logarithms and Surds",
+      "section": "General",
+      "subtopic": "Indices, Logarithms and Surds",
+      "difficulty": "hard",
+      "question": "Evaluate 3⁴ × 3³.",
+      "options": {
+        "A": "3",
+        "B": "108",
+        "C": "531441",
+        "D": "2187"
+      },
+      "answer": "D",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 3⁴ × 3³ = 3⁷ = 2187."
+    },
+    {
+      "id": 8,
+      "topic": "Indices, Logarithms and Surds",
+      "section": "General",
+      "subtopic": "Indices, Logarithms and Surds",
+      "difficulty": "easy",
+      "question": "Evaluate 5³ × 5³.",
+      "options": {
+        "A": "15625",
+        "B": "1953125",
+        "C": "250",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 5³ × 5³ = 5⁶ = 15625."
+    },
+    {
+      "id": 9,
+      "topic": "Indices, Logarithms and Surds",
+      "section": "General",
+      "subtopic": "Indices, Logarithms and Surds",
+      "difficulty": "medium",
+      "question": "Evaluate 3⁵ × 3⁴.",
+      "options": {
+        "A": "324",
+        "B": "3",
+        "C": "3486784401",
+        "D": "19683"
+      },
+      "answer": "D",
+      "explanation": "Using law of indices: a^m × a^n = a^(m+n). So 3⁵ × 3⁴ = 3⁹ = 19683."
+    },
+    {
+      "id": 10,
+      "topic": "Polynomials",
+      "section": "General",
+      "subtopic": "Polynomials",
+      "difficulty": "easy",
+      "question": "Solve simultaneously: 2x + y = 6 and x - y = 0.",
+      "options": {
+        "A": "x = 2, y = 2",
+        "B": "x = 1, y = 3",
+        "C": "x = 4, y = 0",
+        "D": "x = 3, y = 1"
+      },
+      "answer": "A",
+      "explanation": "From x - y = 0, x = y + 0. Substituting into 2x + y = 6: 2(y + 0) + y = 6 → 3y = 6 → y = 2, so x = 2."
+    },
+    {
+      "id": 11,
+      "topic": "Polynomials",
+      "section": "General",
+      "subtopic": "Polynomials",
+      "difficulty": "medium",
+      "question": "Solve simultaneously: 2x + y = 9 and x - y = 3.",
+      "options": {
+        "A": "x = 5, y = 3",
+        "B": "x = 4, y = 1",
+        "C": "x = 3, y = 2",
+        "D": "x = 5, y = 0"
+      },
+      "answer": "B",
+      "explanation": "From x - y = 3, x = y + 3. Substituting into 2x + y = 9: 2(y + 3) + y = 9 → 3y = 3 → y = 1, so x = 4."
+    },
+    {
+      "id": 12,
+      "topic": "Polynomials",
+      "section": "General",
+      "subtopic": "Polynomials",
+      "difficulty": "hard",
+      "question": "Solve simultaneously: 2x + y = 11 and x - y = 4.",
+      "options": {
+        "A": "x = 4, y = 2",
+        "B": "x = 5, y = 1",
+        "C": "x = 6, y = 0",
+        "D": "x = 6, y = 4"
+      },
+      "answer": "B",
+      "explanation": "From x - y = 4, x = y + 4. Substituting into 2x + y = 11: 2(y + 4) + y = 11 → 3y = 3 → y = 1, so x = 5."
+    },
+    {
+      "id": 13,
+      "topic": "Variation",
+      "section": "General",
+      "subtopic": "Variation",
+      "difficulty": "medium",
+      "question": "If y varies directly as x and y = 81 when x = 9, find y when x = 14.",
+      "options": {
+        "A": "86",
+        "B": "1134",
+        "C": "126",
+        "D": "23"
+      },
+      "answer": "C",
+      "explanation": "y = kx → 81 = k(9) → k = 9. When x = 14, y = 9 × 14 = 126."
+    },
+    {
+      "id": 14,
+      "topic": "Variation",
+      "section": "General",
+      "subtopic": "Variation",
+      "difficulty": "hard",
+      "question": "If y varies directly as x and y = 21 when x = 3, find y when x = 8.",
+      "options": {
+        "A": "26",
+        "B": "168",
+        "C": "56",
+        "D": "15"
+      },
+      "answer": "C",
+      "explanation": "y = kx → 21 = k(3) → k = 7. When x = 8, y = 7 × 8 = 56."
+    },
+    {
+      "id": 15,
+      "topic": "Variation",
+      "section": "General",
+      "subtopic": "Variation",
+      "difficulty": "easy",
+      "question": "If y varies directly as x and y = 28 when x = 4, find y when x = 9.",
+      "options": {
+        "A": "33",
+        "B": "16",
+        "C": "63",
+        "D": "252"
+      },
+      "answer": "C",
+      "explanation": "y = kx → 28 = k(4) → k = 7. When x = 9, y = 7 × 9 = 63."
+    },
+    {
+      "id": 16,
+      "topic": "Inequalities",
+      "section": "General",
+      "subtopic": "Inequalities",
+      "difficulty": "hard",
+      "question": "Solve for x: 4x + 3 ≤ 20.",
+      "options": {
+        "A": "x ≤ 4.25",
+        "B": "x ≤ 5.25",
+        "C": "x = 4.25",
+        "D": "x ≥ 4.25"
+      },
+      "answer": "A",
+      "explanation": "4x ≤ 17 → x ≤ 17/4 = 4.25."
+    },
+    {
+      "id": 17,
+      "topic": "Inequalities",
+      "section": "General",
+      "subtopic": "Inequalities",
+      "difficulty": "easy",
+      "question": "Solve for x: 5x + 3 ≤ 19.",
+      "options": {
+        "A": "x ≤ 4.2",
+        "B": "x ≥ 3.2",
+        "C": "x = 3.2",
+        "D": "x ≤ 3.2"
+      },
+      "answer": "D",
+      "explanation": "5x ≤ 16 → x ≤ 16/5 = 3.2."
+    },
+    {
+      "id": 18,
+      "topic": "Inequalities",
+      "section": "General",
+      "subtopic": "Inequalities",
+      "difficulty": "medium",
+      "question": "Solve for x: 5x + 3 ≤ 6.",
+      "options": {
+        "A": "x ≥ 0.6",
+        "B": "x = 0.6",
+        "C": "x ≤ 1.6",
+        "D": "x ≤ 0.6"
+      },
+      "answer": "D",
+      "explanation": "5x ≤ 3 → x ≤ 3/5 = 0.6."
+    },
+    {
+      "id": 19,
+      "topic": "Progression",
+      "section": "General",
+      "subtopic": "Progression",
+      "difficulty": "easy",
+      "question": "Find the 5th term of the A.P: 10, 15, 20, ...",
+      "options": {
+        "A": "35",
+        "B": "55",
+        "C": "35",
+        "D": "30"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 10 + (5-1)5 = 10 + 20 = 30."
+    },
+    {
+      "id": 20,
+      "topic": "Progression",
+      "section": "General",
+      "subtopic": "Progression",
+      "difficulty": "medium",
+      "question": "Find the 9th term of the A.P: 3, 8, 13, ...",
+      "options": {
+        "A": "48",
+        "B": "32",
+        "C": "43",
+        "D": "48"
+      },
+      "answer": "C",
+      "explanation": "nth term = a + (n-1)d = 3 + (9-1)5 = 3 + 40 = 43."
+    },
+    {
+      "id": 21,
+      "topic": "Progression",
+      "section": "General",
+      "subtopic": "Progression",
+      "difficulty": "hard",
+      "question": "Find the 8th term of the A.P: 2, 4, 6, ...",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "18",
+        "D": "18"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 2 + (8-1)2 = 2 + 14 = 16."
+    },
+    {
+      "id": 22,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "medium",
+      "question": "Evaluate 8 × 7 + 15.",
+      "options": {
+        "A": "56",
+        "B": "72",
+        "C": "71",
+        "D": "41"
+      },
+      "answer": "C",
+      "explanation": "8 × 7 + 15 = 56 + 15 = 71."
+    },
+    {
+      "id": 23,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "hard",
+      "question": "Evaluate 3 × 4 + 7.",
+      "options": {
+        "A": "12",
+        "B": "5",
+        "C": "19",
+        "D": "20"
+      },
+      "answer": "C",
+      "explanation": "3 × 4 + 7 = 12 + 7 = 19."
+    },
+    {
+      "id": 24,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "easy",
+      "question": "Evaluate 9 × 11 + 20.",
+      "options": {
+        "A": "120",
+        "B": "79",
+        "C": "99",
+        "D": "119"
+      },
+      "answer": "D",
+      "explanation": "9 × 11 + 20 = 99 + 20 = 119."
+    },
+    {
+      "id": 25,
+      "topic": "Matrices and Determinants",
+      "section": "General",
+      "subtopic": "Matrices and Determinants",
+      "difficulty": "hard",
+      "question": "Find the determinant of the matrix [3 5; 3 5].",
+      "options": {
+        "A": "30",
+        "B": "0",
+        "C": "8",
+        "D": "-16"
+      },
+      "answer": "B",
+      "explanation": "Determinant = (3 × 5) - (5 × 3) = 15 - 15 = 0."
+    },
+    {
+      "id": 26,
+      "topic": "Matrices and Determinants",
+      "section": "General",
+      "subtopic": "Matrices and Determinants",
+      "difficulty": "easy",
+      "question": "Find the determinant of the matrix [5 4; 3 2].",
+      "options": {
+        "A": "22",
+        "B": "-2",
+        "C": "7",
+        "D": "7"
+      },
+      "answer": "B",
+      "explanation": "Determinant = (5 × 2) - (4 × 3) = 10 - 12 = -2."
+    },
+    {
+      "id": 27,
+      "topic": "Matrices and Determinants",
+      "section": "General",
+      "subtopic": "Matrices and Determinants",
+      "difficulty": "medium",
+      "question": "Find the determinant of the matrix [1 5; 2 3].",
+      "options": {
+        "A": "-7",
+        "B": "13",
+        "C": "4",
+        "D": "-13"
+      },
+      "answer": "A",
+      "explanation": "Determinant = (1 × 3) - (5 × 2) = 3 - 10 = -7."
+    },
+    {
+      "id": 28,
+      "topic": "Euclidean Geometry",
+      "section": "General",
+      "subtopic": "Euclidean Geometry",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 132°. How many sides has the polygon?",
+      "options": {
+        "A": "6.5",
+        "B": "3.75",
+        "C": "8.5",
+        "D": "7.5"
+      },
+      "answer": "D",
+      "explanation": "Exterior angle = 180° - 132° = 48°. Number of sides = 360°/48° = 7.5."
+    },
+    {
+      "id": 29,
+      "topic": "Euclidean Geometry",
+      "section": "General",
+      "subtopic": "Euclidean Geometry",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 124°. How many sides has the polygon?",
+      "options": {
+        "A": "6.428571428571429",
+        "B": "7.428571428571429",
+        "C": "3.2142857142857144",
+        "D": "5.428571428571429"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 124° = 56°. Number of sides = 360°/56° = 6.428571428571429."
+    },
+    {
+      "id": 30,
+      "topic": "Euclidean Geometry",
+      "section": "General",
+      "subtopic": "Euclidean Geometry",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 69°. How many sides has the polygon?",
+      "options": {
+        "A": "3.2432432432432434",
+        "B": "2.2432432432432434",
+        "C": "4.243243243243244",
+        "D": "1.6216216216216217"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 69° = 111°. Number of sides = 360°/111° = 3.2432432432432434."
+    },
+    {
+      "id": 31,
+      "topic": "Mensuration",
+      "section": "General",
+      "subtopic": "Mensuration",
+      "difficulty": "medium",
+      "question": "Find the area of a sector of a circle of radius 7 cm that subtends an angle of 60° at the centre. [Take π = 22/7]",
+      "options": {
+        "A": "51.4 cm²",
+        "B": "26.7 cm²",
+        "C": "25.7 cm²",
+        "D": "25.6 cm²"
+      },
+      "answer": "C",
+      "explanation": "Area of sector = (θ/360) × πr² = (60/360) × (22/7) × 7² = 25.7 cm²."
+    },
+    {
+      "id": 32,
+      "topic": "Mensuration",
+      "section": "General",
+      "subtopic": "Mensuration",
+      "difficulty": "hard",
+      "question": "Find the area of a sector of a circle of radius 6 cm that subtends an angle of 90° at the centre. [Take π = 22/7]",
+      "options": {
+        "A": "29.3 cm²",
+        "B": "28.3 cm²",
+        "C": "28.3 cm²",
+        "D": "56.6 cm²"
+      },
+      "answer": "C",
+      "explanation": "Area of sector = (θ/360) × πr² = (90/360) × (22/7) × 6² = 28.3 cm²."
+    },
+    {
+      "id": 33,
+      "topic": "Mensuration",
+      "section": "General",
+      "subtopic": "Mensuration",
+      "difficulty": "easy",
+      "question": "Find the area of a sector of a circle of radius 8 cm that subtends an angle of 120° at the centre. [Take π = 22/7]",
+      "options": {
+        "A": "67 cm²",
+        "B": "134 cm²",
+        "C": "67 cm²",
+        "D": "68 cm²"
+      },
+      "answer": "C",
+      "explanation": "Area of sector = (θ/360) × πr² = (120/360) × (22/7) × 8² = 67 cm²."
+    },
+    {
+      "id": 34,
+      "topic": "Coordinate Geometry",
+      "section": "General",
+      "subtopic": "Coordinate Geometry",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 84°. How many sides has the polygon?",
+      "options": {
+        "A": "4.75",
+        "B": "1.875",
+        "C": "3.75",
+        "D": "2.75"
+      },
+      "answer": "C",
+      "explanation": "Exterior angle = 180° - 84° = 96°. Number of sides = 360°/96° = 3.75."
+    },
+    {
+      "id": 35,
+      "topic": "Coordinate Geometry",
+      "section": "General",
+      "subtopic": "Coordinate Geometry",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 136°. How many sides has the polygon?",
+      "options": {
+        "A": "8.181818181818182",
+        "B": "4.090909090909091",
+        "C": "9.181818181818182",
+        "D": "7.181818181818182"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 136° = 44°. Number of sides = 360°/44° = 8.181818181818182."
+    },
+    {
+      "id": 36,
+      "topic": "Coordinate Geometry",
+      "section": "General",
+      "subtopic": "Coordinate Geometry",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 114°. How many sides has the polygon?",
+      "options": {
+        "A": "2.727272727272727",
+        "B": "6.454545454545454",
+        "C": "4.454545454545454",
+        "D": "5.454545454545454"
+      },
+      "answer": "D",
+      "explanation": "Exterior angle = 180° - 114° = 66°. Number of sides = 360°/66° = 5.454545454545454."
+    },
+    {
+      "id": 37,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "easy",
+      "question": "In a right-angled triangle, the hypotenuse is 10 cm and one angle is 30°. Find the length of the side opposite the 30° angle.",
+      "options": {
+        "A": "10 cm",
+        "B": "5 cm",
+        "C": "8.7 cm",
+        "D": "5 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(30°) = opposite/hypotenuse → opposite = 10 × sin(30°) = 5 cm."
+    },
+    {
+      "id": 38,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "medium",
+      "question": "In a right-angled triangle, the hypotenuse is 13 cm and one angle is 45°. Find the length of the side opposite the 45° angle.",
+      "options": {
+        "A": "13 cm",
+        "B": "6.5 cm",
+        "C": "9.2 cm",
+        "D": "9.2 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(45°) = opposite/hypotenuse → opposite = 13 × sin(45°) = 9.2 cm."
+    },
+    {
+      "id": 39,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "hard",
+      "question": "In a right-angled triangle, the hypotenuse is 12 cm and one angle is 30°. Find the length of the side opposite the 30° angle.",
+      "options": {
+        "A": "6 cm",
+        "B": "10.4 cm",
+        "C": "12 cm",
+        "D": "6 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(30°) = opposite/hypotenuse → opposite = 12 × sin(30°) = 6 cm."
+    },
+    {
+      "id": 40,
+      "topic": "Differentiation",
+      "section": "General",
+      "subtopic": "Differentiation",
+      "difficulty": "medium",
+      "question": "Differentiate y = 1x⁴ with respect to x.",
+      "options": {
+        "A": "4x³",
+        "B": "1x⁵",
+        "C": "4x⁴",
+        "D": "4x³"
+      },
+      "answer": "D",
+      "explanation": "d/dx(1x⁴) = 1 × 4x³ = 4x³."
+    },
+    {
+      "id": 41,
+      "topic": "Differentiation",
+      "section": "General",
+      "subtopic": "Differentiation",
+      "difficulty": "hard",
+      "question": "Differentiate y = 2x⁴ with respect to x.",
+      "options": {
+        "A": "4x³",
+        "B": "8x⁴",
+        "C": "8x³",
+        "D": "2x⁵"
+      },
+      "answer": "C",
+      "explanation": "d/dx(2x⁴) = 2 × 4x³ = 8x³."
+    },
+    {
+      "id": 42,
+      "topic": "Differentiation",
+      "section": "General",
+      "subtopic": "Differentiation",
+      "difficulty": "easy",
+      "question": "Differentiate y = 3x⁴ with respect to x.",
+      "options": {
+        "A": "3x⁵",
+        "B": "4x³",
+        "C": "12x⁴",
+        "D": "12x³"
+      },
+      "answer": "D",
+      "explanation": "d/dx(3x⁴) = 3 × 4x³ = 12x³."
+    },
+    {
+      "id": 43,
+      "topic": "Application of differentiation",
+      "section": "General",
+      "subtopic": "Application of differentiation",
+      "difficulty": "hard",
+      "question": "Find the 6th term of the A.P: 8, 11, 14, ...",
+      "options": {
+        "A": "26",
+        "B": "51",
+        "C": "26",
+        "D": "23"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 8 + (6-1)3 = 8 + 15 = 23."
+    },
+    {
+      "id": 44,
+      "topic": "Application of differentiation",
+      "section": "General",
+      "subtopic": "Application of differentiation",
+      "difficulty": "easy",
+      "question": "Find the 5th term of the A.P: 2, 4, 6, ...",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "12",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 2 + (5-1)2 = 2 + 8 = 10."
+    },
+    {
+      "id": 45,
+      "topic": "Application of differentiation",
+      "section": "General",
+      "subtopic": "Application of differentiation",
+      "difficulty": "medium",
+      "question": "Find the 6th term of the A.P: 7, 10, 13, ...",
+      "options": {
+        "A": "25",
+        "B": "25",
+        "C": "45",
+        "D": "22"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 7 + (6-1)3 = 7 + 15 = 22."
+    },
+    {
+      "id": 46,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "easy",
+      "question": "Evaluate ∫ 1x³ dx.",
+      "options": {
+        "A": "1x⁴ + c",
+        "B": "1/3x³ + c",
+        "C": "3x² + c",
+        "D": "1/4x⁴ + c"
+      },
+      "answer": "D",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫1x³ dx = 1/4x⁴ + c."
+    },
+    {
+      "id": 47,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "medium",
+      "question": "Evaluate ∫ 4x³ dx.",
+      "options": {
+        "A": "12x² + c",
+        "B": "4/4x⁴ + c",
+        "C": "4/3x³ + c",
+        "D": "4x⁴ + c"
+      },
+      "answer": "B",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫4x³ dx = 4/4x⁴ + c."
+    },
+    {
+      "id": 48,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "hard",
+      "question": "Evaluate ∫ 4x² dx.",
+      "options": {
+        "A": "8x¹ + c",
+        "B": "4x³ + c",
+        "C": "4/3x³ + c",
+        "D": "4/2x² + c"
+      },
+      "answer": "C",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫4x² dx = 4/3x³ + c."
+    },
+    {
+      "id": 49,
+      "topic": "Representation of data",
+      "section": "General",
+      "subtopic": "Representation of data",
+      "difficulty": "medium",
+      "question": "Evaluate 10 × 5 + 15.",
+      "options": {
+        "A": "65",
+        "B": "50",
+        "C": "35",
+        "D": "66"
+      },
+      "answer": "A",
+      "explanation": "10 × 5 + 15 = 50 + 15 = 65."
+    },
+    {
+      "id": 50,
+      "topic": "Representation of data",
+      "section": "General",
+      "subtopic": "Representation of data",
+      "difficulty": "hard",
+      "question": "Evaluate 3 × 11 + 14.",
+      "options": {
+        "A": "19",
+        "B": "47",
+        "C": "48",
+        "D": "33"
+      },
+      "answer": "B",
+      "explanation": "3 × 11 + 14 = 33 + 14 = 47."
+    },
+    {
+      "id": 51,
+      "topic": "Representation of data",
+      "section": "General",
+      "subtopic": "Representation of data",
+      "difficulty": "easy",
+      "question": "Evaluate 11 × 2 + 13.",
+      "options": {
+        "A": "36",
+        "B": "22",
+        "C": "35",
+        "D": "9"
+      },
+      "answer": "C",
+      "explanation": "11 × 2 + 13 = 22 + 13 = 35."
+    },
+    {
+      "id": 52,
+      "topic": "Measures of Location",
+      "section": "General",
+      "subtopic": "Measures of Location",
+      "difficulty": "hard",
+      "question": "Evaluate 5 × 5 + 10.",
+      "options": {
+        "A": "15",
+        "B": "36",
+        "C": "35",
+        "D": "25"
+      },
+      "answer": "C",
+      "explanation": "5 × 5 + 10 = 25 + 10 = 35."
+    },
+    {
+      "id": 53,
+      "topic": "Measures of Location",
+      "section": "General",
+      "subtopic": "Measures of Location",
+      "difficulty": "easy",
+      "question": "Evaluate 7 × 3 + 10.",
+      "options": {
+        "A": "21",
+        "B": "31",
+        "C": "11",
+        "D": "32"
+      },
+      "answer": "B",
+      "explanation": "7 × 3 + 10 = 21 + 10 = 31."
+    },
+    {
+      "id": 54,
+      "topic": "Measures of Location",
+      "section": "General",
+      "subtopic": "Measures of Location",
+      "difficulty": "medium",
+      "question": "Evaluate 7 × 6 + 13.",
+      "options": {
+        "A": "55",
+        "B": "42",
+        "C": "56",
+        "D": "29"
+      },
+      "answer": "A",
+      "explanation": "7 × 6 + 13 = 42 + 13 = 55."
+    },
+    {
+      "id": 55,
+      "topic": "Measures of Dispersion",
+      "section": "General",
+      "subtopic": "Measures of Dispersion",
+      "difficulty": "easy",
+      "question": "Evaluate 12 × 7 + 19.",
+      "options": {
+        "A": "65",
+        "B": "104",
+        "C": "103",
+        "D": "84"
+      },
+      "answer": "C",
+      "explanation": "12 × 7 + 19 = 84 + 19 = 103."
+    },
+    {
+      "id": 56,
+      "topic": "Measures of Dispersion",
+      "section": "General",
+      "subtopic": "Measures of Dispersion",
+      "difficulty": "medium",
+      "question": "Evaluate 11 × 4 + 15.",
+      "options": {
+        "A": "29",
+        "B": "44",
+        "C": "59",
+        "D": "60"
+      },
+      "answer": "C",
+      "explanation": "11 × 4 + 15 = 44 + 15 = 59."
+    },
+    {
+      "id": 57,
+      "topic": "Measures of Dispersion",
+      "section": "General",
+      "subtopic": "Measures of Dispersion",
+      "difficulty": "hard",
+      "question": "Evaluate 7 × 11 + 18.",
+      "options": {
+        "A": "77",
+        "B": "59",
+        "C": "96",
+        "D": "95"
+      },
+      "answer": "D",
+      "explanation": "7 × 11 + 18 = 77 + 18 = 95."
+    },
+    {
+      "id": 58,
+      "topic": "Permutation and Combination",
+      "section": "General",
+      "subtopic": "Permutation and Combination",
+      "difficulty": "medium",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "5040",
+        "B": "5047",
+        "C": "49",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 59,
+      "topic": "Permutation and Combination",
+      "section": "General",
+      "subtopic": "Permutation and Combination",
+      "difficulty": "hard",
+      "question": "In how many ways can 4 different books be arranged on a shelf?",
+      "options": {
+        "A": "12",
+        "B": "16",
+        "C": "24",
+        "D": "28"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 4! = 24."
+    },
+    {
+      "id": 60,
+      "topic": "Permutation and Combination",
+      "section": "General",
+      "subtopic": "Permutation and Combination",
+      "difficulty": "easy",
+      "question": "In how many ways can 4 different books be arranged on a shelf?",
+      "options": {
+        "A": "28",
+        "B": "12",
+        "C": "24",
+        "D": "16"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 4! = 24."
+    },
+    {
+      "id": 61,
+      "topic": "Probability",
+      "section": "General",
+      "subtopic": "Probability",
+      "difficulty": "hard",
+      "question": "In how many ways can 6 different books be arranged on a shelf?",
+      "options": {
+        "A": "726",
+        "B": "30",
+        "C": "720",
+        "D": "36"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 6! = 720."
+    },
+    {
+      "id": 62,
+      "topic": "Probability",
+      "section": "General",
+      "subtopic": "Probability",
+      "difficulty": "easy",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "125",
+        "B": "120",
+        "C": "20",
+        "D": "25"
+      },
+      "answer": "B",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 63,
+      "topic": "Probability",
+      "section": "General",
+      "subtopic": "Probability",
+      "difficulty": "medium",
+      "question": "In how many ways can 7 different books be arranged on a shelf?",
+      "options": {
+        "A": "49",
+        "B": "5047",
+        "C": "5040",
+        "D": "42"
+      },
+      "answer": "C",
+      "explanation": "Number of arrangements = 7! = 5040."
+    },
+    {
+      "id": 64,
+      "topic": "Progression",
+      "section": "General",
+      "subtopic": "Progression",
+      "difficulty": "medium",
+      "question": "Find the 8th term of the A.P: 10, 14, 18, ...",
+      "options": {
+        "A": "42",
+        "B": "38",
+        "C": "84",
+        "D": "42"
+      },
+      "answer": "B",
+      "explanation": "nth term = a + (n-1)d = 10 + (8-1)4 = 10 + 28 = 38."
+    },
+    {
+      "id": 65,
+      "topic": "Mensuration",
+      "section": "General",
+      "subtopic": "Mensuration",
+      "difficulty": "hard",
+      "question": "Find the area of a sector of a circle of radius 3 cm that subtends an angle of 90° at the centre. [Take π = 22/7]",
+      "options": {
+        "A": "7.1 cm²",
+        "B": "7.1 cm²",
+        "C": "14.2 cm²",
+        "D": "8.1 cm²"
+      },
+      "answer": "B",
+      "explanation": "Area of sector = (θ/360) × πr² = (90/360) × (22/7) × 3² = 7.1 cm²."
+    },
+    {
+      "id": 66,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "hard",
+      "question": "In a right-angled triangle, the hypotenuse is 15 cm and one angle is 30°. Find the length of the side opposite the 30° angle.",
+      "options": {
+        "A": "13 cm",
+        "B": "15 cm",
+        "C": "7.5 cm",
+        "D": "7.5 cm"
+      },
+      "answer": "D",
+      "explanation": "sin(30°) = opposite/hypotenuse → opposite = 15 × sin(30°) = 7.5 cm."
+    },
+    {
+      "id": 67,
+      "topic": "Measures of Dispersion",
+      "section": "General",
+      "subtopic": "Measures of Dispersion",
+      "difficulty": "hard",
+      "question": "Evaluate 11 × 4 + 15.",
+      "options": {
+        "A": "59",
+        "B": "29",
+        "C": "60",
+        "D": "44"
+      },
+      "answer": "A",
+      "explanation": "11 × 4 + 15 = 44 + 15 = 59."
+    },
+    {
+      "id": 68,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "easy",
+      "question": "Evaluate ∫ 2x³ dx.",
+      "options": {
+        "A": "2/4x⁴ + c",
+        "B": "6x² + c",
+        "C": "2x⁴ + c",
+        "D": "2/3x³ + c"
+      },
+      "answer": "A",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫2x³ dx = 2/4x⁴ + c."
+    },
+    {
+      "id": 69,
+      "topic": "Euclidean Geometry",
+      "section": "General",
+      "subtopic": "Euclidean Geometry",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 150°. How many sides has the polygon?",
+      "options": {
+        "A": "6",
+        "B": "13",
+        "C": "12",
+        "D": "11"
+      },
+      "answer": "C",
+      "explanation": "Exterior angle = 180° - 150° = 30°. Number of sides = 360°/30° = 12."
+    },
+    {
+      "id": 70,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "medium",
+      "question": "Evaluate 11 × 4 + 15.",
+      "options": {
+        "A": "29",
+        "B": "60",
+        "C": "59",
+        "D": "44"
+      },
+      "answer": "C",
+      "explanation": "11 × 4 + 15 = 44 + 15 = 59."
+    },
+    {
+      "id": 71,
+      "topic": "Matrices and Determinants",
+      "section": "General",
+      "subtopic": "Matrices and Determinants",
+      "difficulty": "hard",
+      "question": "Find the determinant of the matrix [4 5; 3 5].",
+      "options": {
+        "A": "-13",
+        "B": "35",
+        "C": "5",
+        "D": "9"
+      },
+      "answer": "C",
+      "explanation": "Determinant = (4 × 5) - (5 × 3) = 20 - 15 = 5."
+    },
+    {
+      "id": 72,
+      "topic": "Polynomials",
+      "section": "General",
+      "subtopic": "Polynomials",
+      "difficulty": "medium",
+      "question": "Solve simultaneously: 2x + y = 6 and x - y = 0.",
+      "options": {
+        "A": "x = 4, y = 0",
+        "B": "x = 3, y = 1",
+        "C": "x = 1, y = 3",
+        "D": "x = 2, y = 2"
+      },
+      "answer": "D",
+      "explanation": "From x - y = 0, x = y + 0. Substituting into 2x + y = 6: 2(y + 0) + y = 6 → 3y = 6 → y = 2, so x = 2."
+    },
+    {
+      "id": 73,
+      "topic": "Permutation and Combination",
+      "section": "General",
+      "subtopic": "Permutation and Combination",
+      "difficulty": "easy",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "125",
+        "B": "20",
+        "C": "25",
+        "D": "120"
+      },
+      "answer": "D",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 74,
+      "topic": "Inequalities",
+      "section": "General",
+      "subtopic": "Inequalities",
+      "difficulty": "easy",
+      "question": "Solve for x: 3x + 3 ≤ 11.",
+      "options": {
+        "A": "x ≤ 2.6666666666666665",
+        "B": "x ≤ 3.6666666666666665",
+        "C": "x = 2.6666666666666665",
+        "D": "x ≥ 2.6666666666666665"
+      },
+      "answer": "A",
+      "explanation": "3x ≤ 8 → x ≤ 8/3 = 2.6666666666666665."
+    },
+    {
+      "id": 75,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "medium",
+      "question": "Evaluate 7 × 2 + 9.",
+      "options": {
+        "A": "23",
+        "B": "5",
+        "C": "24",
+        "D": "14"
+      },
+      "answer": "A",
+      "explanation": "7 × 2 + 9 = 14 + 9 = 23."
+    },
+    {
+      "id": 76,
+      "topic": "Euclidean Geometry",
+      "section": "General",
+      "subtopic": "Euclidean Geometry",
+      "difficulty": "medium",
+      "question": "The interior angles of a regular polygon are each 93°. How many sides has the polygon?",
+      "options": {
+        "A": "4.137931034482759",
+        "B": "2.0689655172413794",
+        "C": "3.137931034482759",
+        "D": "5.137931034482759"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° - 93° = 87°. Number of sides = 360°/87° = 4.137931034482759."
+    },
+    {
+      "id": 77,
+      "topic": "Mensuration",
+      "section": "General",
+      "subtopic": "Mensuration",
+      "difficulty": "hard",
+      "question": "Find the area of a sector of a circle of radius 8 cm that subtends an angle of 90° at the centre. [Take π = 22/7]",
+      "options": {
+        "A": "50.3 cm²",
+        "B": "50.2 cm²",
+        "C": "100.6 cm²",
+        "D": "51.3 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area of sector = (θ/360) × πr² = (90/360) × (22/7) × 8² = 50.3 cm²."
+    },
+    {
+      "id": 78,
+      "topic": "Number bases",
+      "section": "General",
+      "subtopic": "Number bases",
+      "difficulty": "easy",
+      "question": "Convert 94₁₀ to base 2.",
+      "options": {
+        "A": "1110010",
+        "B": "10111",
+        "C": "1011110",
+        "D": "110001"
+      },
+      "answer": "C",
+      "explanation": "Divide 94 repeatedly by 2 and collect remainders in reverse order to get 10111102."
+    },
+    {
+      "id": 79,
+      "topic": "Number bases",
+      "section": "General",
+      "subtopic": "Number bases",
+      "difficulty": "medium",
+      "question": "Convert 86₁₀ to base 6.",
+      "options": {
+        "A": "222",
+        "B": "152",
+        "C": "152",
+        "D": "235"
+      },
+      "answer": "A",
+      "explanation": "Divide 86 repeatedly by 6 and collect remainders in reverse order to get 2226."
+    },
+    {
+      "id": 80,
+      "topic": "Euclidean Geometry",
+      "section": "General",
+      "subtopic": "Euclidean Geometry",
+      "difficulty": "easy",
+      "question": "The interior angles of a regular polygon are each 96°. How many sides has the polygon?",
+      "options": {
+        "A": "5.285714285714286",
+        "B": "2.142857142857143",
+        "C": "4.285714285714286",
+        "D": "3.2857142857142856"
+      },
+      "answer": "C",
+      "explanation": "Exterior angle = 180° - 96° = 84°. Number of sides = 360°/84° = 4.285714285714286."
+    },
+    {
+      "id": 81,
+      "topic": "Coordinate Geometry",
+      "section": "General",
+      "subtopic": "Coordinate Geometry",
+      "difficulty": "hard",
+      "question": "The interior angles of a regular polygon are each 107°. How many sides has the polygon?",
+      "options": {
+        "A": "2.4657534246575343",
+        "B": "5.931506849315069",
+        "C": "3.9315068493150687",
+        "D": "4.931506849315069"
+      },
+      "answer": "D",
+      "explanation": "Exterior angle = 180° - 107° = 73°. Number of sides = 360°/73° = 4.931506849315069."
+    },
+    {
+      "id": 82,
+      "topic": "Probability",
+      "section": "General",
+      "subtopic": "Probability",
+      "difficulty": "hard",
+      "question": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": {
+        "A": "120",
+        "B": "125",
+        "C": "20",
+        "D": "25"
+      },
+      "answer": "A",
+      "explanation": "Number of arrangements = 5! = 120."
+    },
+    {
+      "id": 83,
+      "topic": "Trigonometry",
+      "section": "General",
+      "subtopic": "Trigonometry",
+      "difficulty": "hard",
+      "question": "In a right-angled triangle, the hypotenuse is 17 cm and one angle is 60°. Find the length of the side opposite the 60° angle.",
+      "options": {
+        "A": "8.5 cm",
+        "B": "14.7 cm",
+        "C": "8.5 cm",
+        "D": "17 cm"
+      },
+      "answer": "B",
+      "explanation": "sin(60°) = opposite/hypotenuse → opposite = 17 × sin(60°) = 14.7 cm."
+    },
+    {
+      "id": 84,
+      "topic": "Integration",
+      "section": "General",
+      "subtopic": "Integration",
+      "difficulty": "easy",
+      "question": "Evaluate ∫ 3x³ dx.",
+      "options": {
+        "A": "3/3x³ + c",
+        "B": "3x⁴ + c",
+        "C": "3/4x⁴ + c",
+        "D": "9x² + c"
+      },
+      "answer": "C",
+      "explanation": "∫xⁿ dx = x^(n+1)/(n+1) + c. So ∫3x³ dx = 3/4x⁴ + c."
+    },
+    {
+      "id": 85,
+      "topic": "Application of differentiation",
+      "section": "General",
+      "subtopic": "Application of differentiation",
+      "difficulty": "medium",
+      "question": "Find the 9th term of the A.P: 7, 9, 11, ...",
+      "options": {
+        "A": "23",
+        "B": "65",
+        "C": "25",
+        "D": "25"
+      },
+      "answer": "A",
+      "explanation": "nth term = a + (n-1)d = 7 + (9-1)2 = 7 + 16 = 23."
+    },
+    {
+      "id": 86,
+      "topic": "Polynomials",
+      "section": "General",
+      "subtopic": "Polynomials",
+      "difficulty": "easy",
+      "question": "Solve simultaneously: 2x + y = 6 and x - y = 0.",
+      "options": {
+        "A": "x = 4, y = 0",
+        "B": "x = 2, y = 2",
+        "C": "x = 3, y = 1",
+        "D": "x = 1, y = 3"
+      },
+      "answer": "B",
+      "explanation": "From x - y = 0, x = y + 0. Substituting into 2x + y = 6: 2(y + 0) + y = 6 → 3y = 6 → y = 2, so x = 2."
+    },
+    {
+      "id": 87,
+      "topic": "Fractions, Decimals, Approximations and Percentages",
+      "section": "General",
+      "subtopic": "Fractions, Decimals, Approximations and Percentages",
+      "difficulty": "easy",
+      "question": "Simplify (4/6) ÷ (2/8).",
+      "options": {
+        "A": "6/14",
+        "B": "8/48",
+        "C": "8/3",
+        "D": "10/10"
+      },
+      "answer": "C",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (4/6) × (8/2) = 32/12 = 8/3."
+    },
+    {
+      "id": 88,
+      "topic": "Fractions, Decimals, Approximations and Percentages",
+      "section": "General",
+      "subtopic": "Fractions, Decimals, Approximations and Percentages",
+      "difficulty": "hard",
+      "question": "Simplify (4/8) ÷ (9/8).",
+      "options": {
+        "A": "4/9",
+        "B": "36/64",
+        "C": "13/16",
+        "D": "12/17"
+      },
+      "answer": "A",
+      "explanation": "Dividing by a fraction = multiplying by its reciprocal: (4/8) × (8/9) = 32/72 = 4/9."
+    },
+    {
+      "id": 89,
+      "topic": "Binary Operations",
+      "section": "General",
+      "subtopic": "Binary Operations",
+      "difficulty": "hard",
+      "question": "Evaluate 2 × 6 + 8.",
+      "options": {
+        "A": "4",
+        "B": "21",
+        "C": "12",
+        "D": "20"
+      },
+      "answer": "D",
+      "explanation": "2 × 6 + 8 = 12 + 8 = 20."
+    },
+    {
+      "id": 90,
+      "topic": "Application of differentiation",
+      "section": "General",
+      "subtopic": "Application of differentiation",
+      "difficulty": "hard",
+      "question": "Find the 9th term of the A.P: 8, 13, 18, ...",
+      "options": {
+        "A": "53",
+        "B": "77",
+        "C": "53",
+        "D": "48"
+      },
+      "answer": "D",
+      "explanation": "nth term = a + (n-1)d = 8 + (9-1)5 = 8 + 40 = 48."
+    }
+  ]
+}

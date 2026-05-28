@@ -1,0 +1,294 @@
+{
+  "detailed_syllabus": {
+    "section_A": {
+      "title": "Themes from the Old Testament",
+      "topics": [
+        {
+          "sn": 1,
+          "title": "The Sovereignty of God",
+          "subtopics": [
+            {
+              "title": "God, the Creator",
+              "references": "Gen. 1; 2"
+            },
+            {
+              "title": "God, the Controller of the universe",
+              "references": ""
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "title": "Leadership roles",
+          "subtopics": [
+            {
+              "title": "Joseph",
+              "references": "Gen. 37; 1-28, 41: 1-57, 45: 1-15"
+            },
+            {
+              "title": "Moses",
+              "references": "Exodus 1;2;3;4:1-17;5: 1-5, 22-23; 6: 28-30, 7; 1-7; 14;32: 1-14 Numbers 13:1-33; 14: 1-19"
+            },
+            {
+              "title": "Joshua",
+              "references": "Numbers 27: 15-23 Joshua 1: 1-9"
+            },
+            {
+              "title": "Deborah",
+              "references": "Judges 4"
+            }
+          ]
+        },
+        {
+          "sn": 3,
+          "title": "Parental Responsibility",
+          "subtopics": [
+            {
+              "title": "Eli and Samuel",
+              "references": "1 Sam 2: 11-36; 3:1-18; 4: 10-22; 8: 1-5"
+            }
+          ]
+        },
+        {
+          "sn": 4,
+          "title": "Consequences of Saul’s disobedience",
+          "references": "1 Samuel 15: 1-26; 16: 14-23; 31: 1-13"
+        },
+        {
+          "sn": 5,
+          "title": "Submission to the will of God",
+          "subtopics": [
+            {
+              "title": "David’s submission to the will of God",
+              "references": "1 Sam 26"
+            },
+            {
+              "title": "David’s sin, repentance and forgiveness",
+              "references": "2 Sam 12: 15-25"
+            }
+          ]
+        },
+        {
+          "sn": 6,
+          "title": "Making Decisions",
+          "subtopics": [
+            {
+              "title": "Solomon’s wisdom",
+              "references": "1 Kings 3: 3-28; 4: 29-34; 5: 1-12; 8"
+            },
+            {
+              "title": "The unwise decision of Solomon and Rehoboam",
+              "references": "1 Kings 9:15-23; 11: 1-13; 12:1-20"
+            }
+          ]
+        },
+        {
+          "sn": 7,
+          "title": "Supremacy of God",
+          "subtopics": [
+            {
+              "title": "Religious tensions during Ahab’s reign",
+              "references": "1 Kings 16: 29-34; 17: 1-7; 18: 1-19"
+            },
+            {
+              "title": "Elijah at Mount Carmel",
+              "references": "1 Kings 18: 17-46"
+            }
+          ]
+        },
+        {
+          "sn": 8,
+          "title": "Greed and its effects",
+          "subtopics": [
+            {
+              "title": "Ahab",
+              "references": "1 Kings 21: 1-29"
+            },
+            {
+              "title": "Gehazi",
+              "references": "2 Kings 5"
+            }
+          ]
+        },
+        {
+          "sn": 9,
+          "title": "Religious reforms",
+          "subtopics": [
+            {
+              "title": "The reign of King Josiah",
+              "references": "2 Kings 22; 23: 1-30"
+            }
+          ]
+        },
+        {
+          "sn": 10,
+          "title": "Concern for one’s Nation",
+          "subtopics": [
+            {
+              "title": "The condition of the nation",
+              "references": "2 Kings 24; 25:1-17"
+            },
+            {
+              "title": "Response to the state of the nation",
+              "references": "Nehemiah 1; 2: 9-20; 4 Ezra 1; 4; 5: 1-2; 6: 13-22; 7: 1-10"
+            }
+          ]
+        },
+        {
+          "sn": 11,
+          "title": "Faith in God",
+          "subtopics": [
+            {
+              "title": "Faith and courage",
+              "references": "Daniel 3"
+            },
+            {
+              "title": "Faith and power",
+              "references": "Daniel 6"
+            }
+          ]
+        },
+        {
+          "sn": 12,
+          "title": "Nature of God",
+          "subtopics": [
+            {
+              "title": "True religion and social justice – Amos",
+              "references": "Amos 2: 6-8; 4; 5: 1-24; 7: 10-17; 8"
+            },
+            {
+              "title": "God’s divine love – Hosea",
+              "references": "Hosea 1; 2; 3; 6"
+            }
+          ]
+        }
+      ]
+    },
+    "section_B": {
+      "title": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "topics": [
+        {
+          "sn": 1,
+          "title": "Baptism and Temptation of Jesus",
+          "subtopics": [
+            {
+              "title": "The Baptism",
+              "references": "Matthew 3:13-17 Mark 1: 9-11; Luke 3: 21-22"
+            },
+            {
+              "title": "The Temptation",
+              "references": "Matthew 4: 1-11 Mark 1: 12-13; Luke 4:1-13"
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "title": "The Call and Demands of Discipleship",
+          "references": "Matthew 4: 18-25; 8: 18-22; 9:9-13 Mark 1: 16-20; 2: 13-17 Luke 5: 1-11; 9: 57-63; 14: 25-33"
+        },
+        {
+          "sn": 3,
+          "title": "Jesus’ Teaching on forgiveness",
+          "references": "Matthew 6: 12,14-15; 18:21-35"
+        },
+        {
+          "sn": 4,
+          "title": "The Trials of Jesus",
+          "subtopics": [
+            {
+              "title": "Jesus at Gethsemane",
+              "references": "Matthew 26:36-56; Mk 14: 32-52"
+            },
+            {
+              "title": "Peter’s Denials",
+              "references": "Matthew 26: 69-75 Mark 14: 66-72; Luke 22: 54-62"
+            },
+            {
+              "title": "Condemnation of Jesus",
+              "references": "Matthew 26:47-75 Mark 14: 53-72; Luke 22: 66-71; 23: 1-12"
+            }
+          ]
+        },
+        {
+          "sn": 5,
+          "title": "The Crucifixion, Burial and Resurrection of Jesus",
+          "subtopics": [
+            {
+              "title": "Crucifixion and burial",
+              "references": "Matthew 27: 32-66 Mark 15: 16-47 Luke 23: 26-56"
+            },
+            {
+              "title": "The Resurrection",
+              "references": "Matthew 28:1-10 Mark 16: 1-14; Luke 24: 1-35"
+            }
+          ]
+        },
+        {
+          "sn": 6,
+          "title": "Fellowship in the Early Church",
+          "references": "Acts 1:15-26; 2:41-47; 4:32-37; 5:1-11; 6:2-6"
+        },
+        {
+          "sn": 7,
+          "title": "The Holy Spirit and the Mission to the Gentiles",
+          "subtopics": [
+            {
+              "title": "The Holy Spirit at Pentecost",
+              "references": "Acts 2"
+            },
+            {
+              "title": "Mission to the Gentiles",
+              "references": "Acts 9; 11:1-18"
+            }
+          ]
+        },
+        {
+          "sn": 8,
+          "title": "Opposition to the Gospel Message",
+          "references": "Acts 4:1-31; 5:17-42; 6:8-9; 7:1-10; 12:1-24"
+        }
+      ]
+    },
+    "section_C": {
+      "title": "Themes from selected Epistles",
+      "topics": [
+        {
+          "sn": 1,
+          "title": "The Epistles of James",
+          "subtopics": [
+            {
+              "title": "Faith and Works",
+              "references": "James 1: 2-27; 2:14-26"
+            },
+            {
+              "title": "Impartiality",
+              "references": "James 2:1-13"
+            },
+            {
+              "title": "Effective Prayers",
+              "references": "James 1: 2-8; 5:13-18"
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "title": "The Epistle of 1 Peter",
+          "subtopics": [
+            {
+              "title": "Good Citizenship",
+              "references": "1 Peter 2:13-17"
+            },
+            {
+              "title": "Christians Living among non-Christians",
+              "references": "1 Peter 2:1-25"
+            },
+            {
+              "title": "Interpersonal Relationship among Christians",
+              "references": "1 Peter 5:1-11"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

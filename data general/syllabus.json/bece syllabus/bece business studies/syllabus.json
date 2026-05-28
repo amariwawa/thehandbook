@@ -1,0 +1,159 @@
+{
+  "subject": "Business Studies",
+  "level": "BECE (JSS 1-3)",
+  "core_areas": [
+    {
+      "area": "Office Practice",
+      "topics": [
+        {
+          "topic": "The Office",
+          "subtopics": [
+            "Meaning and definition of an office",
+            "Types of office (small office, large office)",
+            "Differences between open and closed office",
+            "Functions of an office"
+          ]
+        },
+        {
+          "topic": "Office Staff and Personnel",
+          "subtopics": [
+            "Clerical staff: meaning, functions, and qualities",
+            "Office personnel and their duties (manager, secretary, messenger, clerk, typist, etc.)",
+            "Attributes/qualities of good office workers"
+          ]
+        },
+        {
+          "topic": "Office Departments",
+          "subtopics": [
+            "Meaning and examples of departments",
+            "Functions of various departments (Accounts, Purchasing, Sales, etc.)"
+          ]
+        },
+        {
+          "topic": "Office Tools, Equipment and Materials",
+          "subtopics": [
+            "Common office tools and equipment (typewriter, computer, duplicating machine, etc.)",
+            "Maintenance of office equipment"
+          ]
+        },
+        {
+          "topic": "Filing and Records Management",
+          "subtopics": [
+            "Meaning and importance of filing",
+            "Methods of filing",
+            "Filing equipment and materials"
+          ]
+        },
+        {
+          "topic": "Communication in the Office",
+          "subtopics": [
+            "Types of communication (oral, written, electronic)",
+            "Business correspondence and mail handling"
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Commerce",
+      "topics": [
+        {
+          "topic": "Introduction to Business Studies and Commerce",
+          "subtopics": [
+            "Meaning and branches of Business Studies",
+            "Meaning and importance of Commerce",
+            "Branches of Commerce (Trade and Aids to Trade)"
+          ]
+        },
+        {
+          "topic": "Production",
+          "subtopics": [
+            "Meaning and types of production",
+            "Factors of production (Land, Labour, Capital, Entrepreneurship)",
+            "Industry, Commerce and Direct Services",
+            "Relationship between producers and consumers"
+          ]
+        },
+        {
+          "topic": "Trade",
+          "subtopics": [
+            "Meaning and types of trade (Home trade, Foreign trade)",
+            "Retail trade and Wholesale trade",
+            "Forms of business organizations (Sole proprietorship, Partnership, etc.)"
+          ]
+        },
+        {
+          "topic": "Aids to Trade",
+          "subtopics": [
+            "Banking, Insurance, Transportation, Warehousing, Advertising, etc.",
+            "Importance of Aids to Trade"
+          ]
+        },
+        {
+          "topic": "Consumer and Market",
+          "subtopics": [
+            "Meaning of consumer and market",
+            "Consumer rights and protection"
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Book-keeping (Accounting)",
+      "topics": [
+        {
+          "topic": "Introduction to Book-keeping",
+          "subtopics": [
+            "Meaning, importance, and functions of Book-keeping",
+            "Differences between Book-keeping and Accounting",
+            "Principles and concepts of Book-keeping"
+          ]
+        },
+        {
+          "topic": "Books of Original Entry and Ledger",
+          "subtopics": [
+            "Source documents (Invoice, Receipt, Cheque, etc.)",
+            "Journal, Cash Book, Petty Cash Book",
+            "Ledger accounts and posting"
+          ]
+        },
+        {
+          "topic": "Trial Balance and Final Accounts",
+          "subtopics": [
+            "Preparation of Trial Balance",
+            "Trading Account, Profit and Loss Account",
+            "Balance Sheet for sole proprietor"
+          ]
+        },
+        {
+          "topic": "Methods of Payment and Banking",
+          "subtopics": [
+            "Cash, Cheque, Bank transfer, POS, etc.",
+            "Bank services and accounts"
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Keyboarding and Computer Education",
+      "topics": [
+        {
+          "topic": "Keyboarding",
+          "subtopics": [
+            "Introduction to keyboard and typing techniques",
+            "Parts of a computer keyboard",
+            "Correct sitting posture and touch typing"
+          ]
+        },
+        {
+          "topic": "Basic Computer Concepts",
+          "subtopics": [
+            "Components of a computer system",
+            "Basic computer operations and applications in business",
+            "Introduction to word processing and spreadsheets"
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "This JSON covers the detailed syllabus topics across JSS 1-3 (Basic 7-9). Topics are progressive; earlier years focus on foundations while later years build on applications and practical skills. For full objectives and recommended textbooks, refer to the official NECO/syllabus.ng resources."
+}

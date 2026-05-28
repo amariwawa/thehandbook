@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Organ",
+        "C": "Organism",
+        "D": "Cell"
+      },
+      "answer": "B",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 2,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Organ",
+        "C": "Organism",
+        "D": "Cell"
+      },
+      "answer": "B",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 3,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Organ",
+        "C": "Organism",
+        "D": "Cell"
+      },
+      "answer": "B",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 4,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a fundamental biological concept in FORM AND FUNCTIONS"
+      },
+      "answer": "D",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 5,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "B": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "A",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 6,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 7,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in ECOLOGY",
+        "C": "It is a chemical compound unrelated to ECOLOGY",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 8,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a chemical compound unrelated to ECOLOGY",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a fundamental biological concept in ECOLOGY"
+      },
+      "answer": "D",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 9,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a fundamental biological concept in ECOLOGY",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "A",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 10,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "A",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 11,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS"
+      },
+      "answer": "A",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 12,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS"
+      },
+      "answer": "B",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 13,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Gregor Mendel"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 14,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Charles Darwin",
+        "D": "Alfred Wallace"
+      },
+      "answer": "C",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 15,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Alfred Wallace"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 16,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a fundamental biological concept in ECOLOGY",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "A",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 17,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a fundamental biological concept in ECOLOGY",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "A",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 18,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Jean-Baptiste Lamarck",
+        "B": "Alfred Wallace",
+        "C": "Charles Darwin",
+        "D": "Gregor Mendel"
+      },
+      "answer": "C",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 19,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "D": "It is a fundamental biological concept in FORM AND FUNCTIONS"
+      },
+      "answer": "D",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 20,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to FORM AND FUNCTIONS"
+      },
+      "answer": "B",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 21,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in ECOLOGY",
+        "C": "It is a chemical compound unrelated to ECOLOGY",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 22,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "System",
+        "C": "Cell",
+        "D": "Organ"
+      },
+      "answer": "D",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 23,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a chemical compound unrelated to ECOLOGY",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a fundamental biological concept in ECOLOGY"
+      },
+      "answer": "D",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 24,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to FORM AND FUNCTIONS"
+      },
+      "answer": "B",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 25,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "B": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "A",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 26,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a fundamental biological concept in FORM AND FUNCTIONS"
+      },
+      "answer": "D",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 27,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 28,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a chemical compound unrelated to ECOLOGY",
+        "D": "It is a fundamental biological concept in ECOLOGY"
+      },
+      "answer": "D",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 29,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "B": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "A",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 30,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "A",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 31,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Gregor Mendel",
+        "D": "Alfred Wallace"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 32,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to FORM AND FUNCTIONS"
+      },
+      "answer": "B",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 33,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "C": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 34,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "Organ",
+        "C": "System",
+        "D": "Organism"
+      },
+      "answer": "B",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 35,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "A physical process occurring only in plants",
+        "C": "It is a chemical compound unrelated to ECOLOGY",
+        "D": "It is a fundamental biological concept in ECOLOGY"
+      },
+      "answer": "D",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 36,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a chemical compound unrelated to ECOLOGY",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a fundamental biological concept in ECOLOGY"
+      },
+      "answer": "D",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 37,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "B": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 38,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a fundamental biological concept in ECOLOGY",
+        "B": "A term used exclusively in physics",
+        "C": "It is a chemical compound unrelated to ECOLOGY",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "A",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 39,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a chemical compound unrelated to ECOLOGY",
+        "B": "It is a fundamental biological concept in ECOLOGY",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 40,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "B": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 41,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "System",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 42,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "B": "A term used exclusively in physics",
+        "C": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "C",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 43,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a fundamental biological concept in HEREDITY AND VARIATIONS"
+      },
+      "answer": "D",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 44,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "A term used exclusively in physics",
+        "C": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "D": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS"
+      },
+      "answer": "C",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 45,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Jean-Baptiste Lamarck",
+        "B": "Charles Darwin",
+        "C": "Alfred Wallace",
+        "D": "Gregor Mendel"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 46,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "Alfred Wallace",
+        "D": "Jean-Baptiste Lamarck"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 47,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 48,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "System",
+        "C": "Cell",
+        "D": "Organ"
+      },
+      "answer": "D",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 49,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a fundamental biological concept in ECOLOGY",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "A",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 50,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "C": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 51,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "C": "A term used exclusively in physics",
+        "D": "It is a fundamental biological concept in HEREDITY AND VARIATIONS"
+      },
+      "answer": "D",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 52,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Charles Darwin",
+        "D": "Gregor Mendel"
+      },
+      "answer": "C",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 53,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "C": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 54,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "It is a fundamental biological concept in ECOLOGY",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "A",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 55,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "System",
+        "C": "Organ",
+        "D": "Cell"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 56,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "medium",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "Organism",
+        "C": "System",
+        "D": "Organ"
+      },
+      "answer": "D",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 57,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Gregor Mendel"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 58,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Organism",
+        "C": "Organ",
+        "D": "Cell"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 59,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "B": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 60,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Alfred Wallace",
+        "D": "Charles Darwin"
+      },
+      "answer": "D",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 61,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "C": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 62,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "Organism",
+        "C": "System",
+        "D": "Organ"
+      },
+      "answer": "D",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 63,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "B": "A term used exclusively in physics",
+        "C": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "A",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 64,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a fundamental biological concept in FORM AND FUNCTIONS"
+      },
+      "answer": "D",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 65,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "System",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 66,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "B": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "C": "A term used exclusively in physics",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "A",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 67,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Jean-Baptiste Lamarck",
+        "B": "Charles Darwin",
+        "C": "Gregor Mendel",
+        "D": "Alfred Wallace"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 68,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in ECOLOGY",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "B",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 69,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in ECOLOGY",
+        "C": "It is a chemical compound unrelated to ECOLOGY",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "B",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 70,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "C": "A term used exclusively in physics",
+        "D": "It is a fundamental biological concept in HEREDITY AND VARIATIONS"
+      },
+      "answer": "D",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 71,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Alfred Wallace"
+      },
+      "answer": "B",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 72,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organ",
+        "B": "Organism",
+        "C": "Cell",
+        "D": "System"
+      },
+      "answer": "A",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 73,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "B": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "A",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 74,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a chemical compound unrelated to ECOLOGY",
+        "C": "It is a fundamental biological concept in ECOLOGY",
+        "D": "A physical process occurring only in plants"
+      },
+      "answer": "C",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 75,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Charles Darwin",
+        "D": "Gregor Mendel"
+      },
+      "answer": "C",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 76,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "medium",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Gregor Mendel",
+        "D": "Alfred Wallace"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 77,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A term used exclusively in physics",
+        "B": "It is a fundamental biological concept in ECOLOGY",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "B",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 78,
+      "topic": "ECOLOGY",
+      "section": "General",
+      "subtopic": "ECOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about ECOLOGY?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a fundamental biological concept in ECOLOGY",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to ECOLOGY"
+      },
+      "answer": "B",
+      "explanation": "ECOLOGY is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 79,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Gregor Mendel",
+        "C": "Charles Darwin",
+        "D": "Jean-Baptiste Lamarck"
+      },
+      "answer": "C",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 80,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "System",
+        "C": "Organ",
+        "D": "Cell"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 81,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Organism",
+        "B": "System",
+        "C": "Organ",
+        "D": "Cell"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 82,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "B": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "C": "A physical process occurring only in plants",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "B",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 83,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "B": "A physical process occurring only in plants",
+        "C": "A term used exclusively in physics",
+        "D": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS"
+      },
+      "answer": "A",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 84,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "hard",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Jean-Baptiste Lamarck",
+        "B": "Alfred Wallace",
+        "C": "Gregor Mendel",
+        "D": "Charles Darwin"
+      },
+      "answer": "D",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 85,
+      "topic": "FORM AND FUNCTIONS",
+      "section": "General",
+      "subtopic": "FORM AND FUNCTIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about FORM AND FUNCTIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a chemical compound unrelated to FORM AND FUNCTIONS",
+        "C": "It is a fundamental biological concept in FORM AND FUNCTIONS",
+        "D": "A term used exclusively in physics"
+      },
+      "answer": "C",
+      "explanation": "FORM AND FUNCTIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 86,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "hard",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "Organism",
+        "C": "System",
+        "D": "Organ"
+      },
+      "answer": "D",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    },
+    {
+      "id": 87,
+      "topic": "EVOLUTION",
+      "section": "General",
+      "subtopic": "EVOLUTION",
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Alfred Wallace",
+        "B": "Gregor Mendel",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Charles Darwin"
+      },
+      "answer": "D",
+      "explanation": "Charles Darwin published \"On the Origin of Species\" in 1859, proposing natural selection as the mechanism of evolution."
+    },
+    {
+      "id": 88,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "A physical process occurring only in plants",
+        "B": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS",
+        "C": "A term used exclusively in physics",
+        "D": "It is a fundamental biological concept in HEREDITY AND VARIATIONS"
+      },
+      "answer": "D",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 89,
+      "topic": "HEREDITY AND VARIATIONS",
+      "section": "General",
+      "subtopic": "HEREDITY AND VARIATIONS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about HEREDITY AND VARIATIONS?",
+      "options": {
+        "A": "It is a fundamental biological concept in HEREDITY AND VARIATIONS",
+        "B": "A term used exclusively in physics",
+        "C": "A physical process occurring only in plants",
+        "D": "It is a chemical compound unrelated to HEREDITY AND VARIATIONS"
+      },
+      "answer": "A",
+      "explanation": "HEREDITY AND VARIATIONS is essential to understanding living systems and is regularly tested in biology examinations."
+    },
+    {
+      "id": 90,
+      "topic": "VARIETY OF ORGANISMS",
+      "section": "General",
+      "subtopic": "VARIETY OF ORGANISMS",
+      "difficulty": "easy",
+      "question": "Which level of organization comes immediately after tissue?",
+      "options": {
+        "A": "Cell",
+        "B": "System",
+        "C": "Organ",
+        "D": "Organism"
+      },
+      "answer": "C",
+      "explanation": "The hierarchy is: Cell → Tissue → Organ → System → Organism."
+    }
+  ]
+}

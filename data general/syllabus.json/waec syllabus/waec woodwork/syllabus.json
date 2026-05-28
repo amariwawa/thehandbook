@@ -1,0 +1,291 @@
+{
+  "syllabus_title": "WAEC SSCE Woodwork to I.E. Detailed Syllabus",
+  "practical_section": {
+    "description": "The practical activities would require the use of common hand tools, portable power tools and basic woodworking machines, different joints and shapes, nails, screws and other fasteners and fittings, solid wood, manufactured boards and non-wood materials.",
+    "joints": {
+      "widening_joints": ["plain/simple butt", "dowelled", "tongued and grooved", "rebated butt"],
+      "angle_joints": {
+        "box_like": ["common and lapped dovetail", "pin joints"],
+        "shelf_like": ["housing joints", "pinned joints", "dowelled", "plain mitre"]
+      },
+      "framing_joints": ["mortise and tenon", "bridle and lapped joints", "mitre", "dowelled"]
+    },
+    "operations": [
+      "Cutting – e.g. ripping, cross-cutting",
+      "Planing – e.g. surfacing, thicknessing",
+      "Shaping – e.g. chamfering, rounding and tapering",
+      "Assembling and finishing – e.g. testing for squareness, parallelism, use of diagonals, trial assembly, cramping methods, preparation of surfaces and application of finishes"
+    ]
+  },
+  "theory_sections": [
+    {
+      "s_no": 1,
+      "topic": "General Workshop Safety",
+      "content": [
+        "Personal safety precautions",
+        "General Workshop safety regulations",
+        "Safety devices and appliances",
+        "Hand tool safety",
+        "Machine safety (General machine shop safety, Safety precautions in the use of portable power tools and machines, Safety in machines operations, Prevention of mechanical faults)",
+        "First aid"
+      ]
+    },
+    {
+      "s_no": 2,
+      "topic": "Hand tools",
+      "content": [
+        "Types",
+        "Classification: geometrical, holding and supporting, impelling and percussion, cutting, boring, abrading and scraping tools"
+      ],
+      "notes": "To include identification, description and sketching."
+    },
+    {
+      "s_no": 3,
+      "topic": "Special Purpose Hand tools",
+      "content": [
+        "Planes: spokeshaves, rebate Plane, Plough plane, block plane, shoulder plane etc.",
+        "Saws: bow saw, pad/keyhole saw, coping saw, fret saw",
+        "Boring bits: expansion bit, forstner bit, countersink bit, auger bit etc.",
+        "Shapers: scrapers, rasps, surforms etc."
+      ],
+      "notes": "To include identification, description and sketching."
+    },
+    {
+      "s_no": 4,
+      "topic": "Portable Power tools",
+      "content": [
+        "Types: Power drill, jig saw, spray gun, screw driver, sanders, router, power circular saw etc.",
+        "Uses"
+      ],
+      "notes": "To include identification, description, care and safe use."
+    },
+    {
+      "s_no": 5,
+      "topic": "Woodworking machines",
+      "content": [
+        "Types: Circular saw, crosscut saw, thicknesser, surface planer, mortiser, lathe, grinding wheel, drilling machine etc.",
+        "Uses",
+        "Safety Precautions"
+      ],
+      "notes": "To include identification."
+    },
+    {
+      "s_no": 6,
+      "topic": "Maintenance",
+      "content": [
+        "Types: corrective, routine, predictive and preventive",
+        "Reasons for maintenance",
+        "Maintenance of hand tools (oiling, sharpening, repairing, storing etc.)",
+        "Maintenance of machines (cleaning, oiling, servicing, replacing parts etc.)"
+      ]
+    },
+    {
+      "s_no": 7,
+      "topic": "West African Timbers in common use",
+      "content": [
+        "Timber growth and structure",
+        "Common West African Timbers e.g. Iroko (Odum), abura, mahogany, obeche (Wawa), African walnut, afara, ebony, danta, emery, shedua, mansonia, cedar, afromosia (kokrodua), avodire, kusia",
+        "Characteristics",
+        "Uses"
+      ]
+    },
+    {
+      "s_no": 8,
+      "topic": "Timber Conversion",
+      "content": [
+        "Explanation",
+        "Conversion methods: plain/through and through/live sawing, Tangential/back/flat/rake sawing, Quarter/radial/rift sawing",
+        "Common market sizes: log, plank, scantling, board, batten, strip/lath, squares"
+      ]
+    },
+    {
+      "s_no": 9,
+      "topic": "Timber seasoning",
+      "content": [
+        "Explanation",
+        "Reasons for seasoning",
+        "Methods of seasoning: Natural/open air, artificial/kiln, water and chemical seasoning",
+        "Determination of moisture content: moisture meter method, oven dry method"
+      ]
+    },
+    {
+      "s_no": 10,
+      "topic": "Timber defects",
+      "content": [
+        "Explanation of timber defect",
+        "Types of defects: natural growth defects, felling defects, conversion defects, seasoning defects, defects caused by Organisms"
+      ],
+      "notes": "Causes, prevention, remedies, description and sketching."
+    },
+    {
+      "s_no": 11,
+      "topic": "Timber preservation",
+      "content": [
+        "Reasons for preserving timber",
+        "Common timber preservatives",
+        "Properties of a good timber preservative",
+        "Methods of applying timber preservatives: brushing, dipping, spraying etc."
+      ]
+    },
+    {
+      "s_no": 12,
+      "topic": "Manufactured boards",
+      "content": [
+        "Types",
+        "Structure",
+        "Characteristics",
+        "Uses"
+      ],
+      "notes": "Advantages and disadvantages of each type."
+    },
+    {
+      "s_no": 13,
+      "topic": "Timber Preparation",
+      "content": [
+        "Selection of tools and machines",
+        "Operational sequence: hand preparation, machine preparation"
+      ]
+    },
+    {
+      "s_no": 14,
+      "topic": "Woodwork joints",
+      "content": [
+        "Classification: widening joints (simple butt, dowel, tongued and grooved, loose tongue, rebated butt etc.), angle joints (mortise and tenon, dowelled butt, dovetails, housing, halving etc.), framing joints (mortise and tenon, bridle, plain mitre, dowelled butt, halving etc.)"
+      ],
+      "notes": "To include identification, description, sketching, construction, specific use etc."
+    },
+    {
+      "s_no": 15,
+      "topic": "Wood finishes and finishing",
+      "content": [
+        "Types: fillers, stains, paints, varnishes, lacquers, polishes etc.",
+        "Application of finishes: surface preparation, tools, methods (brushing, spraying, dipping, etc.)"
+      ],
+      "notes": "Properties, characteristics and uses; stages and tools; Safety precautions."
+    },
+    {
+      "s_no": 16,
+      "topic": "Wood abrasives",
+      "content": [
+        "Meaning",
+        "Grades: coarse, medium and fine",
+        "Selection and uses"
+      ]
+    },
+    {
+      "s_no": 17,
+      "topic": "Wood adhesives",
+      "content": [
+        "Types: protein (animal, casein), synthetic resins (urea, phenol and melamine formaldehydes, epoxyl resins, polyvinyl acetate (PVA)), contact/rubber based"
+      ],
+      "notes": "Characteristics, uses, preparation and application and safety precaution."
+    },
+    {
+      "s_no": 18,
+      "topic": "Wood fittings and fasteners",
+      "content": [
+        "Fittings: e.g. hinges, locks, handles, bolts, catches etc.",
+        "Fasteners: Nails, screws, bolts and nuts, corrugated fasteners etc."
+      ],
+      "notes": "Identification, description, sketching, uses, application, fixing etc."
+    },
+    {
+      "s_no": 19,
+      "topic": "Non-wood materials",
+      "content": ["Glass, plastics, rubber, ceramics, metal, leather etc."],
+      "notes": "Identification, description, characteristics, uses."
+    },
+    {
+      "s_no": 20,
+      "topic": "Veneers and Veneering",
+      "content": [
+        "Veneers: Types, Production",
+        "Veneering: Methods (hammer, press), Tools (veneer hammer, pressing iron, cramps, caul etc.)"
+      ]
+    },
+    {
+      "s_no": 21,
+      "topic": "Wood shaping and bending",
+      "content": [
+        "Shaping: Rounding, moulding, bevelling, chamfering, tapering, carving etc.",
+        "Bending: Solid, laminated"
+      ]
+    },
+    {
+      "s_no": 22,
+      "topic": "Design and Drawing",
+      "content": [
+        "Concept of design",
+        "Design fundamentals and processes",
+        "Free hand sketching",
+        "Working drawings",
+        "Cutting list and bill of materials",
+        "Basic draftsmanship skills"
+      ],
+      "notes": "Working drawings in the First and Third Angle orthographic projections."
+    },
+    {
+      "s_no": 23,
+      "topic": "Project Design and Construction",
+      "content": [
+        "Identification and analysis of given design problems",
+        "Designing to solve the problems",
+        "Estimating the cost of the design",
+        "Constructing to meet the design specification"
+      ]
+    },
+    {
+      "s_no": 24,
+      "topic": "Upholstery",
+      "content": [
+        "Upholstery work",
+        "Hand tools and machines",
+        "Materials",
+        "Processes and techniques"
+      ]
+    },
+    {
+      "s_no": 25,
+      "topic": "Wood turning",
+      "content": [
+        "The wood lathe: Parts and accessories",
+        "Turning tools",
+        "Turning operations",
+        "Suitable wood for turning",
+        "Projects: vase, bowl, candle holder etc."
+      ]
+    },
+    {
+      "s_no": 26,
+      "topic": "Wood carving and sculpture",
+      "content": [
+        "Carving: incise and relief",
+        "Sculpture: Production of simple ornaments",
+        "Tools e.g. chisels, gouges, knives, files etc."
+      ]
+    },
+    {
+      "s_no": 27,
+      "topic": "Surface Decoration",
+      "content": ["inlaying, veneering, marquetry, lamination, laminated plastics, mouldings etc."]
+    },
+    {
+      "s_no": 28,
+      "topic": "Mass Production",
+      "content": [
+        "Concept and principles",
+        "Processes: Market survey, design, production, quality assurance, sales/marketing, management, procurement, cost estimation, tooling up for production"
+      ]
+    },
+    {
+      "s_no": 29,
+      "topic": "Entrepreneurship in Woodworking (For candidates in Nigeria only)",
+      "content": [
+        "Types of business organisation",
+        "Business opportunities in Woodworking",
+        "Business plans",
+        "Sources of fund"
+      ]
+    }
+  ]
+}

@@ -27,7 +27,11 @@ export default function PracticePage() {
       try {
         // Find exam and subject data
         const currentExam = exams[type as keyof typeof exams];
-        const allSubjects = Object.values(allSubjectsData).flat();
+        const allSubjects = [
+          ...Object.values(allSubjectsData.waec).flat(),
+          ...allSubjectsData.jamb,
+          ...allSubjectsData.bece
+        ];
         const currentSubject = allSubjects.find(s => s.id === subjectId);
         
         setExam(currentExam);

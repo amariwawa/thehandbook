@@ -34,7 +34,7 @@ export default function OnboardingPage() {
   ];
 
   return (
-    <div className="min-h-screen bg-[#fdfcff] dark:bg-black flex items-center justify-center p-6 relative overflow-hidden transition-colors">
+    <div className="dark min-h-screen bg-black flex items-center justify-center p-6 relative overflow-hidden transition-colors">
       {/* Background Decor */}
       <div className="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-indigo-50 dark:bg-indigo-900/10 rounded-full blur-[120px] opacity-60" />
       <div className="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-50 dark:bg-indigo-900/10 rounded-full blur-[120px] opacity-60" />
@@ -136,7 +136,7 @@ export default function OnboardingPage() {
                     <button 
                        onClick={() => setStep(2)}
                        disabled={!profile.fullName}
-                       className="w-full bg-[#1d3e8e] text-white py-5 rounded-2xl font-black text-xs uppercase tracking-widest shadow-xl shadow-indigo-100 flex items-center justify-center gap-4 hover:bg-slate-900 transition-all active:scale-95 disabled:opacity-50"
+                       className="w-full bg-[#1d3e8e] text-white py-5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center justify-center gap-4 hover:bg-slate-900 transition-all active:scale-95 disabled:opacity-50"
                     >
                        Analyze & Proceed <ArrowRight className="w-5 h-5" />
                     </button>

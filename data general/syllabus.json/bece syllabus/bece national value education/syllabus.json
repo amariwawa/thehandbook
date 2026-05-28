@@ -1,0 +1,383 @@
+{
+  "exam": "BECE National Values Education (NVE)",
+  "description": "National Values Education (NVE) combines Civic Education, Security Education, and Social Studies.",
+  "themes": [
+    {
+      "theme": "CIVIC EDUCATION",
+      "topics": [
+        {
+          "sn": 1,
+          "sub_theme": "OUR VALUES",
+          "topic": "National Values: Honesty, Cooperation and Self Reliance",
+          "objectives": [
+            "VALUES: a. Meaning of Values: likes and dislikes. b. Levels of manifestation of Values: i. Individual ii. Society. c. Importance of Values in the society: i. Unity ii. Cooperation iii. Harmony. d. Factors that promote Value system: i. Consistency ii. Trust iii. Tolerance Fairness v. Integrity vi. Commitment.",
+            "HONESTY: i. Meaning of Honesty ii. Attributes of Honesty iii. Benefits of Honesty iv. Consequences of Dishonesty e.g. in examination malpractice, cheating, fraudulent practices etc.",
+            "COOPERATION: a. Meaning of Cooperation b. Attributes of Cooperation: i. Sharing ii. Caring iii. Supporting etc. c. Factors that promote Cooperation. d. Benefits of Cooperation: i. Harmony ii. Progress iii. Goal achievement.",
+            "SELF-RELIANCE: a. Meaning of Self-reliance. b. Attributes of Self-reliance. c. Processes of identifying, nurturing and perfection of talents and skills. d. Benefits of Self-reliance to: i. Oneself ii. Family iii. Society. e. Understanding that the wealth of a nation is contained in its natural and human resources. f. Consequences of undiscovered talents and undeveloped skills."
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "OUR VALUES",
+          "topic": "National Values: Integrity, Contentment and Discipline",
+          "objectives": [
+            "INTEGRITY: a. Meaning of Integrity b. Attributes of Integrity. i. Probity and Honesty ii. Contentment iii. Truthfulness iv. Fair-play v. Non-compromise of principles c. Examples of people of Integrity in the society. d. Need for people of Integrity in the society",
+            "CONTENTMENT: a. Meaning of Contentment. b. Attributes of Contentment: i. Satisfaction ii. Lack of envy iii. Rejection of greed and corruption iv. Humiliation etc. c. Effects of lack of Contentment on the society. i. Corruption ii. Greed iii. Envy iv. Prostitution v. Robbery vi. Cheating etc.",
+            "DISCIPLINE: a. Meaning of Discipline. b. Attributes of Discipline: i. Self control ii. Moderation iii. Modesty iv. Respect for legitimate authority v. Respect for rules and regulations vi. Perseverance vii. Dedication etc.",
+            "COURAGE: a. Meaning of Courage. b. Types of Courage: i. Physical Courage ii. Moral Courage iii. Spiritual Courage c. Attributes of a Courageous Person: i. Commitment ii. Endurance iii. Determination iv. Steadfastness v. Diligence vi. Boldness vii. Bravery etc."
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "OUR VALUES",
+          "topic": "National Values: Right Attitude to Work",
+          "objectives": [
+            "RIGHT ATTITUDE TO WORK: a. Meaning of Right Attitude to Work. b. Attributes of Right Attitude to Work: i. Honesty ii. Discipline iii. Integrity iv. Commitment v. Punctuality vi. Regularity vii. Consistency viii. Diligence ix. Transparency etc. c. Importance of Reward: i. Higher productivity ii. Efficiency iii. Progress iv. Recognition v. Improved National Image d. Consequences of not having Right Attitude to Work: i. Declining productivity ii. Lack of motivation iii. Indiscipline iv. National disasters: air, sea, road etc."
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "OUR VALUES",
+          "topic": "Negative Behaviour",
+          "objectives": [
+            "NEGATIVE BEHAVIOUR: a. Meaning of Negative Behaviour. b. Types of Negative Behaviour. i. Dishonesty ii. Excessive love of money iii. Ostentatious living iv. Disregard for time v. Drug Trafficking vi. Examination malpractice vii. Cultism etc. c. Effects of Negative Behaviour on i. Value disorientation ii. Inefficiency iii. High crime rate etc. d. Promoting positive Behavioural"
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "CITIZENSHIP",
+          "topic": "Citizenship",
+          "objectives": [
+            "a. Meaning of Citizenship. b. Types of Citizenship: i. By birth ii. By registration iii. By naturalization c. Process of becoming a citizen of a country."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "CITIZENSHIP",
+          "topic": "Rights and Duties of a Citizen",
+          "objectives": [
+            "a. Meaning of Rights and Duties. b. Differences between Rights and Duties. c. Importance of Citizens’ Rights and Duties: i. Social control ii. Peace iii. Due process iv. Discipline."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "CITIZENSHIP",
+          "topic": "Supremacy of Constitution",
+          "objectives": []
+        },
+        {
+          "sn": 2,
+          "sub_theme": "CITIZENSHIP",
+          "topic": "The Constitution",
+          "objectives": [
+            "a. Meaning of Constitution. b. Colonial Nigeria Constitutions: i. Clifford Constitution 1922 ii. Richards Constitution 1946 iii. Macpherson Constitution 1951 iv. Lytleton Constitution 1954 v. Independence Constitution 1960. c. Features of Colonial Constitutions. d. Post-1960 Constitutions: i. 1963 Constitution ii. 1979 Constitution iii. 1989 Constitution. e. Features of Post-1960 Constitutions."
+          ]
+        },
+        {
+          "sn": 3,
+          "sub_theme": "NATIONAL CONSCIOUSNESS AND IDENTITY",
+          "topic": "Objects for National Consciousness",
+          "objectives": [
+            "a. National Symbols: i. Coat of arms ii. National flag iii. National currency b. National Anthem and Pledge c. Purpose of establishment of National Institutions like NYSC, Unity Schools, Federal Character d. Ways of promoting National Unity. i. Tolerance ii. Hospitality iii. Non-discrimination iv. Inter-marriage etc."
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "GOVERNANCE",
+          "topic": "Nigeria as a Federation",
+          "objectives": [
+            "a. Meaning of Federation. b. Need for Federation: i. National Integration ii. Unity in Diversity iii. Controlling activities of States. c. Characteristics of a Federation: i. Sharing of powers between Central and State governments ii. States have constitutionally defined control over their own affairs iii. Central government controls the States iv. Constitution of federal"
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "GOVERNANCE",
+          "topic": "Relationship Between Federal, State and Local Governments",
+          "objectives": [
+            "a. Relationship: i. Perform function according to constitutional provision ii. Power to legislate iii. Power to carry out functions in accordance with constitutional provisions. b. Differences among the three tiers of government: i. Functions ii. Legislative powers iii. Executive powers iv. Concurrent and Exclusive Powers etc."
+          ]
+        },
+        {
+          "sn": 5,
+          "sub_theme": "HUMAN RIGHTS AND THE RULE OF LAW",
+          "topic": "The Rule of Law",
+          "objectives": [
+            "a. The meaning of Law and Rule of Law b. The benefits of Rule of Law as against arbitrary rule. c. Punishment for breaking the law d. Equality of all citizens before the law."
+          ]
+        },
+        {
+          "sn": 5,
+          "sub_theme": "HUMAN RIGHTS AND THE RULE OF LAW",
+          "topic": "Protection of Human Rights and the Rule of Law",
+          "objectives": [
+            "a. Ways of protecting Human Rights: i. Representing the affected persons in court ii. Drawing attention to cases of Human Rights violations through: iii. Protest march Media coverage Hunger strike. b. Groups that assist in protecting Human Rights of citizens: i. Civil Society Organizations e.g. CLO, CDHR, CRP etc. ii. Trade Unions iii. Students Unions iv. Ethnic Associations v. Legal Aid Council."
+          ]
+        },
+        {
+          "sn": 5,
+          "sub_theme": "HUMAN RIGHTS AND THE RULE OF LAW",
+          "topic": "Consumer Rights and Responsibilities",
+          "objectives": [
+            "a. Universal Rights of a consumer are rights to: i. Satisfaction of basic needs ii. Safety iii. Information iv. Redress v. Consumer education vi. Representation to be heard vii. Healthy environment. b. The responsibilities of consumer: i. Be aware ii. Demand and keep proofs of transactions e.g. receipts, invoice warranty etc iii. Think independently iv. Speak out v. Respect the environment"
+          ]
+        },
+        {
+          "sn": 6,
+          "sub_theme": "DEMOCRACY",
+          "topic": "Democracy",
+          "objectives": [
+            "a. Meaning of Democracy b. Features of Democracy c. Democratic institutions and their functions: i. INEC ii. Political parties iii. Pressure groups iv. Arms of government. d. Importance of democracy"
+          ]
+        },
+        {
+          "sn": 6,
+          "sub_theme": "DEMOCRACY",
+          "topic": "Pillars of Democracy",
+          "objectives": [
+            "a. Meaning and explanation of Pillars of Democracy b. Pillars of Democracy. i. People ii. Democratic institutions iii. Rule of law iv. Transparent electoral process v. Majority rule and Minority rights etc."
+          ]
+        },
+        {
+          "sn": 6,
+          "sub_theme": "DEMOCRACY",
+          "topic": "Election and Voter responsibilities",
+          "objectives": [
+            "a. The concepts of Election, Voter and Voting. b. Differences between various types of elections. c. Enumerate the basic qualifications for election. d. Discuss the responsibilities of a voter e. Describe the procedure for voting and discuss the importance of election."
+          ]
+        },
+        {
+          "sn": 6,
+          "sub_theme": "DEMOCRACY",
+          "topic": "Electoral Malpractices",
+          "objectives": [
+            "a. Meaning of Electoral Malpractice. b. Forms of Electoral Malpractices: i. Fake ballot papers, manipulation of votes, multiple voting etc. ii. Artificial scarcity of electoral materials iii. Underage voting iv. Thuggery and intimidation v. Inducement and corrupt vi. Fake manifestoes."
+          ]
+        },
+        {
+          "sn": 6,
+          "sub_theme": "DEMOCRACY",
+          "topic": "Elections and Electoral Bodies in Nigeria",
+          "objectives": [
+            "a. Meaning and importance of b. Electoral Bodies: INEC/SIEC national and state government respectively. c. Need for Free and Fair elections. d. Electoral Malpractices in Nigeria and how to prevent them."
+          ]
+        },
+        {
+          "sn": 6,
+          "sub_theme": "DEMOCRACY",
+          "topic": "Democratic (Voting)",
+          "objectives": [
+            "a. Meaning of Voting. b. Voters Registration. c. Importance of Voting. d. The Process of Voting"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "SECURITY EDUCATION",
+      "topics": [
+        {
+          "sn": 1,
+          "sub_theme": "COMMON CRIMES AND SECURITY MANAGEMENT",
+          "topic": "Common Crimes, Causes and Effects",
+          "objectives": [
+            "a. Examples of Crime: i. Falsehood ii. Theft iii. Rape iv. Murder v. Advance Fee Fraud (419) vi. Sale of contaminated food vii. Dealing In fake drug etc. b. Causes and Effect of Common Crimes. c. Crime prevention: Cooperation with Security agents. Schools and Neighbourhood authorities."
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "COMMON CRIMES AND SECURITY MANAGEMENT",
+          "topic": "Observing and Reporting Common Crimes",
+          "objectives": [
+            "a. Different ways of observing and reporting common crimes. b. Appropriate response"
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "COMMON CRIMES AND SECURITY MANAGEMENT",
+          "topic": "Common Crimes and Associated punishments",
+          "objectives": [
+            "a. Common crimes and associated punishments: i. Theft (imprisonment) ii. Rape (imprisonment) iii. Drug Trafficking (10 years imprisonment) iv. Human Trafficking (5—10 years imprisonment) v. Murder (death). b. Food contamination. c. Drug Contamination/Adulteration."
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "COMMON CRIMES AND SECURITY MANAGEMENT",
+          "topic": "Emergency Management",
+          "objectives": [
+            "a. Meaning of Emergency Management. b. Types of Emergency Management: i. Accidents ii. Fire iii. Drowning iv. Building collapse v. Food poisoning vi. Fake c. Appropriate response to Emergency Management"
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "COMMON CRIMES AND SECURITY MANAGEMENT",
+          "topic": "Crimes and National Security",
+          "objectives": [
+            "a. Meaning of National Security. b. Crimes that affect National Security: i. Pipeline Vandalization ii. Drug Trafficking iii. Human Trafficking iv. Illegal Bunkering v. Terrorism vi. Arson vii. Importation of expired foods, drug etc. c. Demonstration of awareness."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "SOCIAL STUDIES",
+      "topics": [
+        {
+          "sn": 1,
+          "sub_theme": "FUNDAMENTALS OF SOCIAL STUDIES EDUCATION",
+          "topic": "History of Nigerian Social Studies Education",
+          "objectives": []
+        },
+        {
+          "sn": 1,
+          "sub_theme": "FUNDAMENTALS OF SOCIAL STUDIES EDUCATION",
+          "topic": "General objectives of Social Studies",
+          "objectives": [
+            "General Objectives of Social Studies include to i. Develop the ability to adapt to changing environment. ii. Inculcate national consciousness and national iii. Become a good citizen. capable of and willing to contribute to the development of the society iv. Inculcate the right types of values and attitude."
+          ]
+        },
+        {
+          "sn": 1,
+          "sub_theme": "FUNDAMENTALS OF SOCIAL STUDIES EDUCATION",
+          "topic": "Contents of Social Studies",
+          "objectives": [
+            "Meaning of Social Studies Contents: i. Facts conceptualization. skills. values and attitude relevant for learners and society ii. Cognitive, Affective and Psychomotor contents."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Family as a Primary Group",
+          "objectives": [
+            "a. Meaning of Primary Social Group. b. What makes the Family a Primary Group. c. The roles and responsibilities of members of a Social Group."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "The Consequences of Large and Small Family Sizes",
+          "objectives": [
+            "a. Characteristics of Large Family Size; father, mother. and many children. b. Characteristics of Small Family Size; father, mother and very few c. Consequences of Family Size on: i. Quality of individual lives ii. The national economy"
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Purpose of Marriage",
+          "objectives": [
+            "a. Meaning of Marriage. b. Purpose of Marriage: i. Procreation ii. Satisfying economic and social iii. Sexual satisfaction iv. Growth in mutual love etc."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Readiness in Marriage",
+          "objectives": [
+            "a. Conditions for Marriage: i. Physical fitness ii. Psychological fitness iii. Social stability iv. Financial readiness. b. Effects of lack of readiness on Marriage Relationship: i. Constant fight/instability ii. Divorce iii. Broken homes etc."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Positive Group Behaviours",
+          "objectives": [
+            "a. Types of Group Behaviour: i. Mass action ii. Communal labour iii. Joining a protest or march iv. Participating in a fight or v. Acting patriotically. b. Benefits of Positive Group Behaviours: i. Companionship ii. Survival and security iii. Affiliation and status iv. Power and control v. Achievement. c. Characteristics of different types of Group Behaviours: i. Destructive(negative) ii. Constructive(positive)"
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Human Trafficking",
+          "objectives": [
+            "a. Meaning of Human Trafficking b. Factors responsible for Children and Women Trafficking. c. Consequences of Human Trafficking: i. Loss of human resources ii. Life of crime. addiction and sexual violence iii. Weakens of family love and influence etc."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Preventing Human Trafficking",
+          "objectives": [
+            "Preventive Measures: i. Awareness campaign ii. Education iii. Advocacy iv. Legislation etc."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Harmful Traditional Practices",
+          "objectives": [
+            "a. Meaning of Harmful Traditional practices. b. Examples of Harmful Traditional Practices: i. Use of children for begging ii. Child labour iii. Female circumcision iv. Early marriage etc. c. Consequences of Harmful Traditional Practices: i. Problem at child birth ii. Exploitation of children iii. Deprivation of schooling etc. d. Preventing of Harmful Traditional Practices."
+          ]
+        },
+        {
+          "sn": 2,
+          "sub_theme": "FAMILY AS THE BASIC UNIT OF THE SOCIETY",
+          "topic": "Promoting Peaceful Living in our Society",
+          "objectives": [
+            "a. Meaning of Peace, Cordial and Friendly living among different groups of people b. Types of Peace: i. Positive peace ii. Negative/uneasy peace. c. Importance of Peace: i. Lack of Violence/Conflict ii. Progress and Development iii. Happiness and less stress etc. d. Ways of Promoting Peace: i. Tolerance ii. Social Justice iii. Human Rights etc."
+          ]
+        },
+        {
+          "sn": 3,
+          "sub_theme": "AGENT OF SOCIALIZATION",
+          "topic": "Agents and Processes of Socialization",
+          "objectives": [
+            "a. Meaning of Socialization. b. Agents of socialization: i. Family ii. School, iii. Religious organizations iv. Press v. Age grade vi. Peer group vii. Clubs and Societies etc. c. Importance of Socialization."
+          ]
+        },
+        {
+          "sn": 3,
+          "sub_theme": "AGENT OF SOCIALIZATION",
+          "topic": "Road Safety Club as an Agent of Socialization",
+          "objectives": [
+            "a. Structure and processes of forming Road Safety Club in Schools. b. The roles of Road Safety Club in Socialization of Youths."
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "SOCIAL AND HEALTH ISSUES",
+          "topic": "Common Social Problems in Nigeria",
+          "objectives": [
+            "a. Contemporary Social Problems in Nigeria b. Causes of Contemporary Social Problems in Nigeria."
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "SOCIAL AND HEALTH ISSUES",
+          "topic": "Ways of Solving Social Problems in Nigeria",
+          "objectives": [
+            "a. Effects of Social Problems. b. Ways of solving Contemporary Social Problems"
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "SOCIAL AND HEALTH ISSUES",
+          "topic": "Our Roles in Promoting Safety in our Community",
+          "objectives": [
+            "a. Need for Safety. b. Safety Measures in the Home. Schools and Workplaces. c. Safety guidelines for Pedestrians, Cyclists, Motor cyclists, Motorists"
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "SOCIAL AND HEALTH ISSUES",
+          "topic": "Dangers of Drug Trafficking",
+          "objectives": [
+            "a. Meaning of Drug Trafficking b. Reasons for Trafficking in Drug: i. Poverty ii. Ignorance iii. Greed etc. c. Dangers of Drug Trafficking: i. Bad image for the country ii. Imprisonment iii. Death penalty in some cases iv. Affects national security v. Negative impact on the economy etc. d. Ways of discouraging Drug Abuse: i. Choosing good friends ii. Forming drug free clubs iii. Acquiring coping skills such as assertiveness, Refusal/ Resistance skills, Problem solving, Communication skills, Decision making skills etc. iv. Constructive use of time e.g. Sports. religious activities etc"
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "SOCIAL AND HEALTH ISSUES",
+          "topic": "Preventing Drug Trafficking",
+          "objectives": [
+            "a. Meaning of Drug Trafficking b. Reasons for Trafficking in Drugs: i. Poverty ii. Ignorance iii. Greed etc. c. Consequences of Drug Trafficking: i. Bad image for the Country ii. Imprisonment iii. Death penalty in some cases iv. Forfeiture of assets (local and foreign) etc. d. Prevention of Drug Trafficking: i. Education ii. Alleviation of Poverty iii. Legislation iv. International Community"
+          ]
+        },
+        {
+          "sn": 4,
+          "sub_theme": "SOCIAL AND HEALTH ISSUES",
+          "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+          "objectives": [
+            "a. Meaning of Drug/Substance Abuse. b. Forms of Drug Abuse. c. Consequences of Drug Abuse on the: i. Individual ii. Community iii. Nation iv. International community"
+          ]
+        }
+      ]
+    }
+  ]
+}

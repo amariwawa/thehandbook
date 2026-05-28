@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Protein",
+        "B": "Vitamin C",
+        "C": "Carbohydrate",
+        "D": "Fat"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 8,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Carbohydrate",
+        "C": "Vitamin C",
+        "D": "Protein"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 9,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Vitamin C",
+        "C": "Protein",
+        "D": "Fat"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 10,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Back stitch",
+        "C": "Overcasting stitch",
+        "D": "Running stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 11,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Back stitch",
+        "C": "Hemming stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 12,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Back stitch",
+        "B": "Running stitch",
+        "C": "Overcasting stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 13,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Vitamin C",
+        "C": "Fat",
+        "D": "Protein"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 15,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Back stitch",
+        "B": "Overcasting stitch",
+        "C": "Running stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "B",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 16,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Hemming stitch",
+        "C": "Back stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 18,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Fat",
+        "C": "Protein",
+        "D": "Carbohydrate"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 20,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Hemming stitch",
+        "C": "Back stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 22,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Back stitch",
+        "C": "Hemming stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 23,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Running stitch",
+        "C": "Overcasting stitch",
+        "D": "Back stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 24,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Vitamin C",
+        "D": "Fat"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 26,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Overcasting stitch",
+        "C": "Running stitch",
+        "D": "Back stitch"
+      },
+      "answer": "B",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 29,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Running stitch",
+        "C": "Hemming stitch",
+        "D": "Back stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 30,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Running stitch",
+        "C": "Overcasting stitch",
+        "D": "Back stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 34,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Carbohydrate",
+        "C": "Protein",
+        "D": "Vitamin C"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 35,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Overcasting stitch",
+        "C": "Running stitch",
+        "D": "Back stitch"
+      },
+      "answer": "B",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 37,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Running stitch",
+        "C": "Overcasting stitch",
+        "D": "Back stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 41,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Vitamin C",
+        "C": "Fat",
+        "D": "Protein"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 44,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Running stitch",
+        "C": "Back stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 46,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Hemming stitch",
+        "C": "Back stitch",
+        "D": "Running stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 47,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Protein",
+        "C": "Vitamin C",
+        "D": "Carbohydrate"
+      },
+      "answer": "B",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 48,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Protein",
+        "B": "Fat",
+        "C": "Carbohydrate",
+        "D": "Vitamin C"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 49,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Hemming stitch",
+        "C": "Back stitch",
+        "D": "Running stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 50,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Fat",
+        "C": "Vitamin C",
+        "D": "Protein"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 51,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Hemming stitch",
+        "C": "Back stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 53,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Running stitch",
+        "C": "Back stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 55,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Protein",
+        "C": "Vitamin C",
+        "D": "Carbohydrate"
+      },
+      "answer": "B",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 58,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Back stitch",
+        "C": "Overcasting stitch",
+        "D": "Running stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 59,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Carbohydrate",
+        "C": "Protein",
+        "D": "Vitamin C"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 60,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Back stitch",
+        "B": "Hemming stitch",
+        "C": "Running stitch",
+        "D": "Overcasting stitch"
+      },
+      "answer": "D",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 64,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Protein",
+        "C": "Vitamin C",
+        "D": "Fat"
+      },
+      "answer": "B",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 66,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Hemming stitch",
+        "C": "Running stitch",
+        "D": "Back stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 67,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Carbohydrate",
+        "C": "Protein",
+        "D": "Fat"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 70,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Overcasting stitch",
+        "C": "Back stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "B",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 73,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Hemming stitch",
+        "B": "Back stitch",
+        "C": "Overcasting stitch",
+        "D": "Running stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 74,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Back stitch",
+        "B": "Overcasting stitch",
+        "C": "Running stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "B",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 75,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Vitamin C",
+        "D": "Fat"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 79,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Fat",
+        "C": "Protein",
+        "D": "Carbohydrate"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 80,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "medium",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Running stitch",
+        "C": "Hemming stitch",
+        "D": "Back stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 81,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "HOME MANAGEMENT",
+      "section": "General",
+      "subtopic": "HOME MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about HOME MANAGEMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "HOME MANAGEMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Vitamin C",
+        "C": "Carbohydrate",
+        "D": "Protein"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 87,
+      "topic": "HOME ECONOMICS EDUCATION",
+      "section": "General",
+      "subtopic": "HOME ECONOMICS EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about HOME ECONOMICS EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "HOME ECONOMICS EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "easy",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Overcasting stitch",
+        "B": "Back stitch",
+        "C": "Hemming stitch",
+        "D": "Running stitch"
+      },
+      "answer": "A",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 89,
+      "topic": "CLOTHING & TEXTILE",
+      "section": "General",
+      "subtopic": "CLOTHING & TEXTILE",
+      "difficulty": "hard",
+      "question": "Which stitch is commonly used to finish raw edges of fabric to prevent fraying?",
+      "options": {
+        "A": "Back stitch",
+        "B": "Running stitch",
+        "C": "Overcasting stitch",
+        "D": "Hemming stitch"
+      },
+      "answer": "C",
+      "explanation": "Overcasting stitches wrap around the raw edge of fabric to prevent threads from unraveling."
+    },
+    {
+      "id": 90,
+      "topic": "FOODS & NUTRITION",
+      "section": "General",
+      "subtopic": "FOODS & NUTRITION",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Vitamin C",
+        "C": "Protein",
+        "D": "Fat"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    }
+  ]
+}

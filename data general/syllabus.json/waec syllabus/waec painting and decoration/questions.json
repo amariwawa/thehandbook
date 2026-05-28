@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Yellow, Blue",
+        "C": "Red, Green, Blue",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 5,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Orange, Purple, Green",
+        "C": "Red, Yellow, Blue",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 6,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Red, Yellow, Blue",
+        "C": "Red, Green, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 7,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "PERSPECTIVE",
+      "section": "General",
+      "subtopic": "PERSPECTIVE",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Perspective",
+        "C": "Texture",
+        "D": "Composition"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 17,
+      "topic": "PERSPECTIVE",
+      "section": "General",
+      "subtopic": "PERSPECTIVE",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Perspective",
+        "C": "Composition",
+        "D": "Colour harmony"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 18,
+      "topic": "PERSPECTIVE",
+      "section": "General",
+      "subtopic": "PERSPECTIVE",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Texture",
+        "C": "Perspective",
+        "D": "Composition"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 19,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "medium",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "hard",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "easy",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "easy",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "PERSPECTIVE",
+      "section": "General",
+      "subtopic": "PERSPECTIVE",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Texture",
+        "C": "Composition",
+        "D": "Colour harmony"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 34,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Red, Green, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 41,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Orange, Purple, Green",
+        "C": "Black, White, Grey",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 43,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "PERSPECTIVE",
+      "section": "General",
+      "subtopic": "PERSPECTIVE",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Composition",
+        "C": "Texture",
+        "D": "Colour harmony"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 52,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Red, Green, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 54,
+      "topic": "PERSPECTIVE",
+      "section": "General",
+      "subtopic": "PERSPECTIVE",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Colour harmony",
+        "C": "Composition",
+        "D": "Texture"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 55,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Black, White, Grey",
+        "C": "Red, Yellow, Blue",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 56,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "medium",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Red, Yellow, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 58,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "hard",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "easy",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "easy",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Red, Green, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 71,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "medium",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "hard",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "COSTING / MARKETING OF PAINTINGS",
+      "section": "General",
+      "subtopic": "COSTING / MARKETING OF PAINTINGS",
+      "difficulty": "medium",
+      "question": "Which statement about COSTING / MARKETING OF PAINTINGS is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "COSTING / MARKETING OF PAINTINGS is included in the Art/Music syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "TECHNIQUES IN PAINTING",
+      "section": "General",
+      "subtopic": "TECHNIQUES IN PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about TECHNIQUES IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "TECHNIQUES IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TYPES AND FUNCTIONS OF PICTORIAL PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF PICTORIAL PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "COLOUR THEORY",
+      "section": "General",
+      "subtopic": "COLOUR THEORY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Black, White, Grey",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 88,
+      "topic": "INTRODUCTION TO PAINTING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "PROSPECTS IN PAINTING",
+      "section": "General",
+      "subtopic": "PROSPECTS IN PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about PROSPECTS IN PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "PROSPECTS IN PAINTING is included in the Art/Music syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "section": "General",
+      "subtopic": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING",
+      "difficulty": "medium",
+      "question": "Which statement about TYPES AND FUNCTIONS OF DECORATIVE PAINTING is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "TYPES AND FUNCTIONS OF DECORATIVE PAINTING is included in the Art/Music syllabus."
+    }
+  ]
+}

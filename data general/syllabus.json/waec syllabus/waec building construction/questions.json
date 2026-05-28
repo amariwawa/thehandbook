@@ -1,0 +1,3937 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS",
+      "difficulty": "easy",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS",
+      "difficulty": "medium",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS",
+      "difficulty": "hard",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession",
+      "difficulty": "medium",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession",
+      "difficulty": "hard",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession",
+      "difficulty": "easy",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Definition and scope of the building profession is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Roles of different professionals: architect, quantity surveyor, engineer, building technician, etc.",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Roles of different professionals: architect, quantity surveyor, engineer, building technician, etc.",
+      "difficulty": "hard",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "MIG welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 8,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Roles of different professionals: architect, quantity surveyor, engineer, building technician, etc.",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Roles of different professionals: architect, quantity surveyor, engineer, building technician, etc.",
+      "difficulty": "easy",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "Arc welding,Oxy-acetylene welding",
+        "B": "MIG welding",
+        "C": "TIG welding"
+      },
+      "answer": "C",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 9,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Roles of different professionals: architect, quantity surveyor, engineer, building technician, etc.",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Roles of different professionals: architect, quantity surveyor, engineer, building technician, etc.",
+      "difficulty": "medium",
+      "question": "Which welding process uses a non-consumable tungsten electrode?",
+      "options": {
+        "A": "MIG welding",
+        "B": "TIG welding",
+        "C": "Arc welding,Oxy-acetylene welding"
+      },
+      "answer": "B",
+      "explanation": "Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode and an inert shielding gas."
+    },
+    {
+      "id": 10,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO)",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO)",
+      "difficulty": "easy",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO) is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO)",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO)",
+      "difficulty": "medium",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO) is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO)",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO)",
+      "difficulty": "hard",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO) is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Codes of practice and standards (e.g. BS, BS EN, ISO) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction",
+      "difficulty": "medium",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction",
+      "difficulty": "hard",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction",
+      "difficulty": "easy",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Legal requirements in building construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions",
+      "difficulty": "hard",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions",
+      "difficulty": "easy",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions",
+      "section": "General",
+      "subtopic": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions",
+      "difficulty": "medium",
+      "question": "Which statement about PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "PROFESSIONAL AND LEGAL MATTERS: Professional bodies and their functions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "SITE AND SITE PREPARATION",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION",
+      "difficulty": "easy",
+      "question": "Which statement about SITE AND SITE PREPARATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "SITE AND SITE PREPARATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "SITE AND SITE PREPARATION",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION",
+      "difficulty": "medium",
+      "question": "Which statement about SITE AND SITE PREPARATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "SITE AND SITE PREPARATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "SITE AND SITE PREPARATION",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION",
+      "difficulty": "hard",
+      "question": "Which statement about SITE AND SITE PREPARATION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SITE AND SITE PREPARATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "SITE AND SITE PREPARATION: Location and site selection",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Location and site selection",
+      "difficulty": "medium",
+      "question": "Which statement about SITE AND SITE PREPARATION: Location and site selection is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "SITE AND SITE PREPARATION: Location and site selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "SITE AND SITE PREPARATION: Location and site selection",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Location and site selection",
+      "difficulty": "hard",
+      "question": "Which statement about SITE AND SITE PREPARATION: Location and site selection is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "SITE AND SITE PREPARATION: Location and site selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "SITE AND SITE PREPARATION: Location and site selection",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Location and site selection",
+      "difficulty": "easy",
+      "question": "Which statement about SITE AND SITE PREPARATION: Location and site selection is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SITE AND SITE PREPARATION: Location and site selection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "SITE AND SITE PREPARATION: Site survey and site sketch",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site survey and site sketch",
+      "difficulty": "hard",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site survey and site sketch is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SITE AND SITE PREPARATION: Site survey and site sketch is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "SITE AND SITE PREPARATION: Site survey and site sketch",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site survey and site sketch",
+      "difficulty": "easy",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site survey and site sketch is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "SITE AND SITE PREPARATION: Site survey and site sketch is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "SITE AND SITE PREPARATION: Site survey and site sketch",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site survey and site sketch",
+      "difficulty": "medium",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site survey and site sketch is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "SITE AND SITE PREPARATION: Site survey and site sketch is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "SITE AND SITE PREPARATION: Site clearing and setting out",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site clearing and setting out",
+      "difficulty": "easy",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site clearing and setting out is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SITE AND SITE PREPARATION: Site clearing and setting out is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "SITE AND SITE PREPARATION: Site clearing and setting out",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site clearing and setting out",
+      "difficulty": "medium",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site clearing and setting out is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "SITE AND SITE PREPARATION: Site clearing and setting out is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "SITE AND SITE PREPARATION: Site clearing and setting out",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site clearing and setting out",
+      "difficulty": "hard",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site clearing and setting out is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "SITE AND SITE PREPARATION: Site clearing and setting out is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "SITE AND SITE PREPARATION: Site drainage and erosion control",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site drainage and erosion control",
+      "difficulty": "medium",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site drainage and erosion control is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SITE AND SITE PREPARATION: Site drainage and erosion control is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "SITE AND SITE PREPARATION: Site drainage and erosion control",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site drainage and erosion control",
+      "difficulty": "hard",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site drainage and erosion control is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SITE AND SITE PREPARATION: Site drainage and erosion control is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "SITE AND SITE PREPARATION: Site drainage and erosion control",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Site drainage and erosion control",
+      "difficulty": "easy",
+      "question": "Which statement about SITE AND SITE PREPARATION: Site drainage and erosion control is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "SITE AND SITE PREPARATION: Site drainage and erosion control is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "SITE AND SITE PREPARATION: Temporary works and site protection",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Temporary works and site protection",
+      "difficulty": "hard",
+      "question": "Which statement about SITE AND SITE PREPARATION: Temporary works and site protection is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "SITE AND SITE PREPARATION: Temporary works and site protection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "SITE AND SITE PREPARATION: Temporary works and site protection",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Temporary works and site protection",
+      "difficulty": "easy",
+      "question": "Which statement about SITE AND SITE PREPARATION: Temporary works and site protection is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "SITE AND SITE PREPARATION: Temporary works and site protection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "SITE AND SITE PREPARATION: Temporary works and site protection",
+      "section": "General",
+      "subtopic": "SITE AND SITE PREPARATION: Temporary works and site protection",
+      "difficulty": "medium",
+      "question": "Which statement about SITE AND SITE PREPARATION: Temporary works and site protection is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SITE AND SITE PREPARATION: Temporary works and site protection is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "FOUNDATIONS",
+      "section": "General",
+      "subtopic": "FOUNDATIONS",
+      "difficulty": "easy",
+      "question": "Which statement about FOUNDATIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "FOUNDATIONS",
+      "section": "General",
+      "subtopic": "FOUNDATIONS",
+      "difficulty": "medium",
+      "question": "Which statement about FOUNDATIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "FOUNDATIONS",
+      "section": "General",
+      "subtopic": "FOUNDATIONS",
+      "difficulty": "hard",
+      "question": "Which statement about FOUNDATIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "FOUNDATIONS: Types of foundations: shallow and deep",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Types of foundations: shallow and deep",
+      "difficulty": "medium",
+      "question": "Which statement about FOUNDATIONS: Types of foundations: shallow and deep is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS: Types of foundations: shallow and deep is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "FOUNDATIONS: Types of foundations: shallow and deep",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Types of foundations: shallow and deep",
+      "difficulty": "hard",
+      "question": "Which statement about FOUNDATIONS: Types of foundations: shallow and deep is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FOUNDATIONS: Types of foundations: shallow and deep is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "FOUNDATIONS: Types of foundations: shallow and deep",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Types of foundations: shallow and deep",
+      "difficulty": "easy",
+      "question": "Which statement about FOUNDATIONS: Types of foundations: shallow and deep is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS: Types of foundations: shallow and deep is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "FOUNDATIONS: Functions and requirements of foundations",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Functions and requirements of foundations",
+      "difficulty": "hard",
+      "question": "Which statement about FOUNDATIONS: Functions and requirements of foundations is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS: Functions and requirements of foundations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "FOUNDATIONS: Functions and requirements of foundations",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Functions and requirements of foundations",
+      "difficulty": "easy",
+      "question": "Which statement about FOUNDATIONS: Functions and requirements of foundations is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS: Functions and requirements of foundations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "FOUNDATIONS: Functions and requirements of foundations",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Functions and requirements of foundations",
+      "difficulty": "medium",
+      "question": "Which statement about FOUNDATIONS: Functions and requirements of foundations is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS: Functions and requirements of foundations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "FOUNDATIONS: Types of soil and their bearing characteristics",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Types of soil and their bearing characteristics",
+      "difficulty": "easy",
+      "question": "Which statement about FOUNDATIONS: Types of soil and their bearing characteristics is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS: Types of soil and their bearing characteristics is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "FOUNDATIONS: Types of soil and their bearing characteristics",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Types of soil and their bearing characteristics",
+      "difficulty": "medium",
+      "question": "Which statement about FOUNDATIONS: Types of soil and their bearing characteristics is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS: Types of soil and their bearing characteristics is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "FOUNDATIONS: Types of soil and their bearing characteristics",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Types of soil and their bearing characteristics",
+      "difficulty": "hard",
+      "question": "Which statement about FOUNDATIONS: Types of soil and their bearing characteristics is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS: Types of soil and their bearing characteristics is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "FOUNDATIONS: Foundation materials and construction methods",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Foundation materials and construction methods",
+      "difficulty": "medium",
+      "question": "Which statement about FOUNDATIONS: Foundation materials and construction methods is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS: Foundation materials and construction methods is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "FOUNDATIONS: Foundation materials and construction methods",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Foundation materials and construction methods",
+      "difficulty": "hard",
+      "question": "Which statement about FOUNDATIONS: Foundation materials and construction methods is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOUNDATIONS: Foundation materials and construction methods is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "FOUNDATIONS: Foundation materials and construction methods",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Foundation materials and construction methods",
+      "difficulty": "easy",
+      "question": "Which statement about FOUNDATIONS: Foundation materials and construction methods is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS: Foundation materials and construction methods is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations",
+      "difficulty": "hard",
+      "question": "Which statement about FOUNDATIONS: Uses of strip, pad, raft and pile foundations is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations",
+      "difficulty": "easy",
+      "question": "Which statement about FOUNDATIONS: Uses of strip, pad, raft and pile foundations is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations",
+      "section": "General",
+      "subtopic": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations",
+      "difficulty": "medium",
+      "question": "Which statement about FOUNDATIONS: Uses of strip, pad, raft and pile foundations is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "FOUNDATIONS: Uses of strip, pad, raft and pile foundations is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "WALLS: Functions and types of walls",
+      "section": "General",
+      "subtopic": "WALLS: Functions and types of walls",
+      "difficulty": "easy",
+      "question": "Which statement about WALLS: Functions and types of walls is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "WALLS: Functions and types of walls is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "WALLS: Functions and types of walls",
+      "section": "General",
+      "subtopic": "WALLS: Functions and types of walls",
+      "difficulty": "medium",
+      "question": "Which statement about WALLS: Functions and types of walls is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "WALLS: Functions and types of walls is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "WALLS: Functions and types of walls",
+      "section": "General",
+      "subtopic": "WALLS: Functions and types of walls",
+      "difficulty": "hard",
+      "question": "Which statement about WALLS: Functions and types of walls is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "WALLS: Functions and types of walls is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "WALLS: Materials for walling: blocks, bricks, stone, etc.",
+      "section": "General",
+      "subtopic": "WALLS: Materials for walling: blocks, bricks, stone, etc.",
+      "difficulty": "medium",
+      "question": "Which statement about WALLS: Materials for walling: blocks, bricks, stone, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "WALLS: Materials for walling: blocks, bricks, stone, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "WALLS: Materials for walling: blocks, bricks, stone, etc.",
+      "section": "General",
+      "subtopic": "WALLS: Materials for walling: blocks, bricks, stone, etc.",
+      "difficulty": "hard",
+      "question": "Which statement about WALLS: Materials for walling: blocks, bricks, stone, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "WALLS: Materials for walling: blocks, bricks, stone, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "WALLS: Materials for walling: blocks, bricks, stone, etc.",
+      "section": "General",
+      "subtopic": "WALLS: Materials for walling: blocks, bricks, stone, etc.",
+      "difficulty": "easy",
+      "question": "Which statement about WALLS: Materials for walling: blocks, bricks, stone, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WALLS: Materials for walling: blocks, bricks, stone, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "WALLS: Bonding and laying of walls",
+      "section": "General",
+      "subtopic": "WALLS: Bonding and laying of walls",
+      "difficulty": "hard",
+      "question": "Which statement about WALLS: Bonding and laying of walls is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "WALLS: Bonding and laying of walls is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "WALLS: Bonding and laying of walls",
+      "section": "General",
+      "subtopic": "WALLS: Bonding and laying of walls",
+      "difficulty": "easy",
+      "question": "Which statement about WALLS: Bonding and laying of walls is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WALLS: Bonding and laying of walls is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "WALLS: Bonding and laying of walls",
+      "section": "General",
+      "subtopic": "WALLS: Bonding and laying of walls",
+      "difficulty": "medium",
+      "question": "Which statement about WALLS: Bonding and laying of walls is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WALLS: Bonding and laying of walls is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "WALLS: Wall finishes and rendering",
+      "section": "General",
+      "subtopic": "WALLS: Wall finishes and rendering",
+      "difficulty": "easy",
+      "question": "Which statement about WALLS: Wall finishes and rendering is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "WALLS: Wall finishes and rendering is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "WALLS: Wall finishes and rendering",
+      "section": "General",
+      "subtopic": "WALLS: Wall finishes and rendering",
+      "difficulty": "medium",
+      "question": "Which statement about WALLS: Wall finishes and rendering is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "WALLS: Wall finishes and rendering is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "WALLS: Wall finishes and rendering",
+      "section": "General",
+      "subtopic": "WALLS: Wall finishes and rendering",
+      "difficulty": "hard",
+      "question": "Which statement about WALLS: Wall finishes and rendering is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "WALLS: Wall finishes and rendering is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "WALLS: Damp proof courses and wall insulation",
+      "section": "General",
+      "subtopic": "WALLS: Damp proof courses and wall insulation",
+      "difficulty": "medium",
+      "question": "Which statement about WALLS: Damp proof courses and wall insulation is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WALLS: Damp proof courses and wall insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "WALLS: Damp proof courses and wall insulation",
+      "section": "General",
+      "subtopic": "WALLS: Damp proof courses and wall insulation",
+      "difficulty": "hard",
+      "question": "Which statement about WALLS: Damp proof courses and wall insulation is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "WALLS: Damp proof courses and wall insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "WALLS: Damp proof courses and wall insulation",
+      "section": "General",
+      "subtopic": "WALLS: Damp proof courses and wall insulation",
+      "difficulty": "easy",
+      "question": "Which statement about WALLS: Damp proof courses and wall insulation is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "WALLS: Damp proof courses and wall insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "FLOORS",
+      "section": "General",
+      "subtopic": "FLOORS",
+      "difficulty": "hard",
+      "question": "Which statement about FLOORS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "FLOORS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "FLOORS",
+      "section": "General",
+      "subtopic": "FLOORS",
+      "difficulty": "easy",
+      "question": "Which statement about FLOORS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "FLOORS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "FLOORS",
+      "section": "General",
+      "subtopic": "FLOORS",
+      "difficulty": "medium",
+      "question": "Which statement about FLOORS is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FLOORS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "FLOORS: Functions and types of floors",
+      "section": "General",
+      "subtopic": "FLOORS: Functions and types of floors",
+      "difficulty": "easy",
+      "question": "Which statement about FLOORS: Functions and types of floors is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FLOORS: Functions and types of floors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "FLOORS: Functions and types of floors",
+      "section": "General",
+      "subtopic": "FLOORS: Functions and types of floors",
+      "difficulty": "medium",
+      "question": "Which statement about FLOORS: Functions and types of floors is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "FLOORS: Functions and types of floors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "FLOORS: Functions and types of floors",
+      "section": "General",
+      "subtopic": "FLOORS: Functions and types of floors",
+      "difficulty": "hard",
+      "question": "Which statement about FLOORS: Functions and types of floors is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FLOORS: Functions and types of floors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "FLOORS: Materials for floor construction",
+      "section": "General",
+      "subtopic": "FLOORS: Materials for floor construction",
+      "difficulty": "medium",
+      "question": "Which statement about FLOORS: Materials for floor construction is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FLOORS: Materials for floor construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "FLOORS: Materials for floor construction",
+      "section": "General",
+      "subtopic": "FLOORS: Materials for floor construction",
+      "difficulty": "hard",
+      "question": "Which statement about FLOORS: Materials for floor construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FLOORS: Materials for floor construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "FLOORS: Materials for floor construction",
+      "section": "General",
+      "subtopic": "FLOORS: Materials for floor construction",
+      "difficulty": "easy",
+      "question": "Which statement about FLOORS: Materials for floor construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FLOORS: Materials for floor construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc.",
+      "section": "General",
+      "subtopic": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc.",
+      "difficulty": "hard",
+      "question": "Which statement about FLOORS: Types of floor finishes: concrete, tiles, carpet, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc.",
+      "section": "General",
+      "subtopic": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc.",
+      "difficulty": "easy",
+      "question": "Which statement about FLOORS: Types of floor finishes: concrete, tiles, carpet, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc.",
+      "section": "General",
+      "subtopic": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc.",
+      "difficulty": "medium",
+      "question": "Which statement about FLOORS: Types of floor finishes: concrete, tiles, carpet, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FLOORS: Types of floor finishes: concrete, tiles, carpet, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "FLOORS: Floor screeding and levelling",
+      "section": "General",
+      "subtopic": "FLOORS: Floor screeding and levelling",
+      "difficulty": "easy",
+      "question": "Which statement about FLOORS: Floor screeding and levelling is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FLOORS: Floor screeding and levelling is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "FLOORS: Floor screeding and levelling",
+      "section": "General",
+      "subtopic": "FLOORS: Floor screeding and levelling",
+      "difficulty": "medium",
+      "question": "Which statement about FLOORS: Floor screeding and levelling is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FLOORS: Floor screeding and levelling is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "FLOORS: Floor screeding and levelling",
+      "section": "General",
+      "subtopic": "FLOORS: Floor screeding and levelling",
+      "difficulty": "hard",
+      "question": "Which statement about FLOORS: Floor screeding and levelling is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FLOORS: Floor screeding and levelling is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "FLOORS: Floor damp proofing and insulation",
+      "section": "General",
+      "subtopic": "FLOORS: Floor damp proofing and insulation",
+      "difficulty": "medium",
+      "question": "Which statement about FLOORS: Floor damp proofing and insulation is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FLOORS: Floor damp proofing and insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "FLOORS: Floor damp proofing and insulation",
+      "section": "General",
+      "subtopic": "FLOORS: Floor damp proofing and insulation",
+      "difficulty": "hard",
+      "question": "Which statement about FLOORS: Floor damp proofing and insulation is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FLOORS: Floor damp proofing and insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "FLOORS: Floor damp proofing and insulation",
+      "section": "General",
+      "subtopic": "FLOORS: Floor damp proofing and insulation",
+      "difficulty": "easy",
+      "question": "Which statement about FLOORS: Floor damp proofing and insulation is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FLOORS: Floor damp proofing and insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "ROOFS: Functions and types of roofs",
+      "section": "General",
+      "subtopic": "ROOFS: Functions and types of roofs",
+      "difficulty": "hard",
+      "question": "Which statement about ROOFS: Functions and types of roofs is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "ROOFS: Functions and types of roofs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "ROOFS: Functions and types of roofs",
+      "section": "General",
+      "subtopic": "ROOFS: Functions and types of roofs",
+      "difficulty": "easy",
+      "question": "Which statement about ROOFS: Functions and types of roofs is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ROOFS: Functions and types of roofs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "ROOFS: Functions and types of roofs",
+      "section": "General",
+      "subtopic": "ROOFS: Functions and types of roofs",
+      "difficulty": "medium",
+      "question": "Which statement about ROOFS: Functions and types of roofs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "ROOFS: Functions and types of roofs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 91,
+      "topic": "ROOFS: Roof framing and truss construction",
+      "section": "General",
+      "subtopic": "ROOFS: Roof framing and truss construction",
+      "difficulty": "easy",
+      "question": "Which statement about ROOFS: Roof framing and truss construction is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "ROOFS: Roof framing and truss construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 92,
+      "topic": "ROOFS: Roof framing and truss construction",
+      "section": "General",
+      "subtopic": "ROOFS: Roof framing and truss construction",
+      "difficulty": "medium",
+      "question": "Which statement about ROOFS: Roof framing and truss construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "ROOFS: Roof framing and truss construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 93,
+      "topic": "ROOFS: Roof framing and truss construction",
+      "section": "General",
+      "subtopic": "ROOFS: Roof framing and truss construction",
+      "difficulty": "hard",
+      "question": "Which statement about ROOFS: Roof framing and truss construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "ROOFS: Roof framing and truss construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 94,
+      "topic": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc.",
+      "section": "General",
+      "subtopic": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc.",
+      "difficulty": "medium",
+      "question": "Which statement about ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 95,
+      "topic": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc.",
+      "section": "General",
+      "subtopic": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc.",
+      "difficulty": "hard",
+      "question": "Which statement about ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 96,
+      "topic": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc.",
+      "section": "General",
+      "subtopic": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc.",
+      "difficulty": "easy",
+      "question": "Which statement about ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "ROOFS: Roof coverings: clay tiles, concrete tiles, metal sheets, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 97,
+      "topic": "ROOFS: Roof ventilation and insulation",
+      "section": "General",
+      "subtopic": "ROOFS: Roof ventilation and insulation",
+      "difficulty": "hard",
+      "question": "Which statement about ROOFS: Roof ventilation and insulation is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ROOFS: Roof ventilation and insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 98,
+      "topic": "ROOFS: Roof ventilation and insulation",
+      "section": "General",
+      "subtopic": "ROOFS: Roof ventilation and insulation",
+      "difficulty": "easy",
+      "question": "Which statement about ROOFS: Roof ventilation and insulation is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "ROOFS: Roof ventilation and insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 99,
+      "topic": "ROOFS: Roof ventilation and insulation",
+      "section": "General",
+      "subtopic": "ROOFS: Roof ventilation and insulation",
+      "difficulty": "medium",
+      "question": "Which statement about ROOFS: Roof ventilation and insulation is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ROOFS: Roof ventilation and insulation is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 100,
+      "topic": "ROOFS: Roof drainage and guttering systems",
+      "section": "General",
+      "subtopic": "ROOFS: Roof drainage and guttering systems",
+      "difficulty": "easy",
+      "question": "Which statement about ROOFS: Roof drainage and guttering systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ROOFS: Roof drainage and guttering systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 101,
+      "topic": "ROOFS: Roof drainage and guttering systems",
+      "section": "General",
+      "subtopic": "ROOFS: Roof drainage and guttering systems",
+      "difficulty": "medium",
+      "question": "Which statement about ROOFS: Roof drainage and guttering systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "ROOFS: Roof drainage and guttering systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 102,
+      "topic": "ROOFS: Roof drainage and guttering systems",
+      "section": "General",
+      "subtopic": "ROOFS: Roof drainage and guttering systems",
+      "difficulty": "hard",
+      "question": "Which statement about ROOFS: Roof drainage and guttering systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "ROOFS: Roof drainage and guttering systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 103,
+      "topic": "WINDOWS AND DOORS",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS",
+      "difficulty": "medium",
+      "question": "Which statement about WINDOWS AND DOORS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 104,
+      "topic": "WINDOWS AND DOORS",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS",
+      "difficulty": "hard",
+      "question": "Which statement about WINDOWS AND DOORS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 105,
+      "topic": "WINDOWS AND DOORS",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS",
+      "difficulty": "easy",
+      "question": "Which statement about WINDOWS AND DOORS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "WINDOWS AND DOORS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 106,
+      "topic": "WINDOWS AND DOORS: Functions and types of windows",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Functions and types of windows",
+      "difficulty": "hard",
+      "question": "Which statement about WINDOWS AND DOORS: Functions and types of windows is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "WINDOWS AND DOORS: Functions and types of windows is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 107,
+      "topic": "WINDOWS AND DOORS: Functions and types of windows",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Functions and types of windows",
+      "difficulty": "easy",
+      "question": "Which statement about WINDOWS AND DOORS: Functions and types of windows is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "WINDOWS AND DOORS: Functions and types of windows is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 108,
+      "topic": "WINDOWS AND DOORS: Functions and types of windows",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Functions and types of windows",
+      "difficulty": "medium",
+      "question": "Which statement about WINDOWS AND DOORS: Functions and types of windows is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS: Functions and types of windows is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 109,
+      "topic": "WINDOWS AND DOORS: Functions and types of doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Functions and types of doors",
+      "difficulty": "easy",
+      "question": "Which statement about WINDOWS AND DOORS: Functions and types of doors is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS: Functions and types of doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 110,
+      "topic": "WINDOWS AND DOORS: Functions and types of doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Functions and types of doors",
+      "difficulty": "medium",
+      "question": "Which statement about WINDOWS AND DOORS: Functions and types of doors is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS: Functions and types of doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 111,
+      "topic": "WINDOWS AND DOORS: Functions and types of doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Functions and types of doors",
+      "difficulty": "hard",
+      "question": "Which statement about WINDOWS AND DOORS: Functions and types of doors is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS: Functions and types of doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 112,
+      "topic": "WINDOWS AND DOORS: Materials for windows and doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Materials for windows and doors",
+      "difficulty": "medium",
+      "question": "Which statement about WINDOWS AND DOORS: Materials for windows and doors is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "WINDOWS AND DOORS: Materials for windows and doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 113,
+      "topic": "WINDOWS AND DOORS: Materials for windows and doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Materials for windows and doors",
+      "difficulty": "hard",
+      "question": "Which statement about WINDOWS AND DOORS: Materials for windows and doors is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS: Materials for windows and doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 114,
+      "topic": "WINDOWS AND DOORS: Materials for windows and doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Materials for windows and doors",
+      "difficulty": "easy",
+      "question": "Which statement about WINDOWS AND DOORS: Materials for windows and doors is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "WINDOWS AND DOORS: Materials for windows and doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 115,
+      "topic": "WINDOWS AND DOORS: Installation of windows and doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Installation of windows and doors",
+      "difficulty": "hard",
+      "question": "Which statement about WINDOWS AND DOORS: Installation of windows and doors is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "WINDOWS AND DOORS: Installation of windows and doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 116,
+      "topic": "WINDOWS AND DOORS: Installation of windows and doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Installation of windows and doors",
+      "difficulty": "easy",
+      "question": "Which statement about WINDOWS AND DOORS: Installation of windows and doors is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "WINDOWS AND DOORS: Installation of windows and doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 117,
+      "topic": "WINDOWS AND DOORS: Installation of windows and doors",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Installation of windows and doors",
+      "difficulty": "medium",
+      "question": "Which statement about WINDOWS AND DOORS: Installation of windows and doors is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "WINDOWS AND DOORS: Installation of windows and doors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 118,
+      "topic": "WINDOWS AND DOORS: Finishes and maintenance",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Finishes and maintenance",
+      "difficulty": "easy",
+      "question": "Which statement about WINDOWS AND DOORS: Finishes and maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "WINDOWS AND DOORS: Finishes and maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 119,
+      "topic": "WINDOWS AND DOORS: Finishes and maintenance",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Finishes and maintenance",
+      "difficulty": "medium",
+      "question": "Which statement about WINDOWS AND DOORS: Finishes and maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "WINDOWS AND DOORS: Finishes and maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 120,
+      "topic": "WINDOWS AND DOORS: Finishes and maintenance",
+      "section": "General",
+      "subtopic": "WINDOWS AND DOORS: Finishes and maintenance",
+      "difficulty": "hard",
+      "question": "Which statement about WINDOWS AND DOORS: Finishes and maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WINDOWS AND DOORS: Finishes and maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 121,
+      "topic": "STAIRS AND STAIRCASES",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES",
+      "difficulty": "medium",
+      "question": "Which statement about STAIRS AND STAIRCASES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "STAIRS AND STAIRCASES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 122,
+      "topic": "STAIRS AND STAIRCASES",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES",
+      "difficulty": "hard",
+      "question": "Which statement about STAIRS AND STAIRCASES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "STAIRS AND STAIRCASES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 123,
+      "topic": "STAIRS AND STAIRCASES",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES",
+      "difficulty": "easy",
+      "question": "Which statement about STAIRS AND STAIRCASES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "STAIRS AND STAIRCASES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 124,
+      "topic": "STAIRS AND STAIRCASES: Functions and types of stairs",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Functions and types of stairs",
+      "difficulty": "hard",
+      "question": "Which statement about STAIRS AND STAIRCASES: Functions and types of stairs is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "STAIRS AND STAIRCASES: Functions and types of stairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 125,
+      "topic": "STAIRS AND STAIRCASES: Functions and types of stairs",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Functions and types of stairs",
+      "difficulty": "easy",
+      "question": "Which statement about STAIRS AND STAIRCASES: Functions and types of stairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "STAIRS AND STAIRCASES: Functions and types of stairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 126,
+      "topic": "STAIRS AND STAIRCASES: Functions and types of stairs",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Functions and types of stairs",
+      "difficulty": "medium",
+      "question": "Which statement about STAIRS AND STAIRCASES: Functions and types of stairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "STAIRS AND STAIRCASES: Functions and types of stairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 127,
+      "topic": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc.",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc.",
+      "difficulty": "easy",
+      "question": "Which statement about STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 128,
+      "topic": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc.",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc.",
+      "difficulty": "medium",
+      "question": "Which statement about STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 129,
+      "topic": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc.",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc.",
+      "difficulty": "hard",
+      "question": "Which statement about STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "STAIRS AND STAIRCASES: Components of stairs: treads, risers, landings, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 130,
+      "topic": "STAIRS AND STAIRCASES: Design considerations and dimensions",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Design considerations and dimensions",
+      "difficulty": "medium",
+      "question": "Which statement about STAIRS AND STAIRCASES: Design considerations and dimensions is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "STAIRS AND STAIRCASES: Design considerations and dimensions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 131,
+      "topic": "STAIRS AND STAIRCASES: Design considerations and dimensions",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Design considerations and dimensions",
+      "difficulty": "hard",
+      "question": "Which statement about STAIRS AND STAIRCASES: Design considerations and dimensions is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "STAIRS AND STAIRCASES: Design considerations and dimensions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 132,
+      "topic": "STAIRS AND STAIRCASES: Design considerations and dimensions",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Design considerations and dimensions",
+      "difficulty": "easy",
+      "question": "Which statement about STAIRS AND STAIRCASES: Design considerations and dimensions is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "STAIRS AND STAIRCASES: Design considerations and dimensions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 133,
+      "topic": "STAIRS AND STAIRCASES: Construction methods",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Construction methods",
+      "difficulty": "hard",
+      "question": "Which statement about STAIRS AND STAIRCASES: Construction methods is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "STAIRS AND STAIRCASES: Construction methods is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 134,
+      "topic": "STAIRS AND STAIRCASES: Construction methods",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Construction methods",
+      "difficulty": "easy",
+      "question": "Which statement about STAIRS AND STAIRCASES: Construction methods is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "STAIRS AND STAIRCASES: Construction methods is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 135,
+      "topic": "STAIRS AND STAIRCASES: Construction methods",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Construction methods",
+      "difficulty": "medium",
+      "question": "Which statement about STAIRS AND STAIRCASES: Construction methods is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "STAIRS AND STAIRCASES: Construction methods is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 136,
+      "topic": "STAIRS AND STAIRCASES: Safety requirements and balustrades",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Safety requirements and balustrades",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 137,
+      "topic": "STAIRS AND STAIRCASES: Safety requirements and balustrades",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Safety requirements and balustrades",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 138,
+      "topic": "STAIRS AND STAIRCASES: Safety requirements and balustrades",
+      "section": "General",
+      "subtopic": "STAIRS AND STAIRCASES: Safety requirements and balustrades",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 139,
+      "topic": "SANITATION AND PLUMBING SERVICES",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES",
+      "difficulty": "medium",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "SANITATION AND PLUMBING SERVICES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 140,
+      "topic": "SANITATION AND PLUMBING SERVICES",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES",
+      "difficulty": "hard",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SANITATION AND PLUMBING SERVICES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 141,
+      "topic": "SANITATION AND PLUMBING SERVICES",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES",
+      "difficulty": "easy",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "SANITATION AND PLUMBING SERVICES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 142,
+      "topic": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings",
+      "difficulty": "hard",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 143,
+      "topic": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings",
+      "difficulty": "easy",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 144,
+      "topic": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings",
+      "difficulty": "medium",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Introduction to sanitation in buildings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 145,
+      "topic": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems",
+      "difficulty": "easy",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Types of sanitation systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 146,
+      "topic": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems",
+      "difficulty": "medium",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Types of sanitation systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 147,
+      "topic": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems",
+      "difficulty": "hard",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Types of sanitation systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Types of sanitation systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 148,
+      "topic": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal",
+      "difficulty": "medium",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Drainage and waste disposal is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 149,
+      "topic": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal",
+      "difficulty": "hard",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Drainage and waste disposal is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 150,
+      "topic": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal",
+      "difficulty": "easy",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Drainage and waste disposal is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Drainage and waste disposal is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 151,
+      "topic": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings",
+      "difficulty": "hard",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 152,
+      "topic": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings",
+      "difficulty": "easy",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 153,
+      "topic": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings",
+      "difficulty": "medium",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Plumbing systems and fittings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 154,
+      "topic": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services",
+      "difficulty": "easy",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 155,
+      "topic": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services",
+      "difficulty": "medium",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 156,
+      "topic": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services",
+      "section": "General",
+      "subtopic": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services",
+      "difficulty": "hard",
+      "question": "Which statement about SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "SANITATION AND PLUMBING SERVICES: Maintenance of sanitation and plumbing services is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 157,
+      "topic": "BUILDING SERVICES",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING SERVICES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING SERVICES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 158,
+      "topic": "BUILDING SERVICES",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING SERVICES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BUILDING SERVICES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 159,
+      "topic": "BUILDING SERVICES",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING SERVICES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BUILDING SERVICES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 160,
+      "topic": "BUILDING SERVICES: Introduction to building services",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Introduction to building services",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING SERVICES: Introduction to building services is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BUILDING SERVICES: Introduction to building services is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 161,
+      "topic": "BUILDING SERVICES: Introduction to building services",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Introduction to building services",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING SERVICES: Introduction to building services is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUILDING SERVICES: Introduction to building services is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 162,
+      "topic": "BUILDING SERVICES: Introduction to building services",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Introduction to building services",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING SERVICES: Introduction to building services is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING SERVICES: Introduction to building services is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 163,
+      "topic": "BUILDING SERVICES: Electrical services: wiring, switches, lighting",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Electrical services: wiring, switches, lighting",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING SERVICES: Electrical services: wiring, switches, lighting is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING SERVICES: Electrical services: wiring, switches, lighting is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 164,
+      "topic": "BUILDING SERVICES: Electrical services: wiring, switches, lighting",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Electrical services: wiring, switches, lighting",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING SERVICES: Electrical services: wiring, switches, lighting is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING SERVICES: Electrical services: wiring, switches, lighting is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 165,
+      "topic": "BUILDING SERVICES: Electrical services: wiring, switches, lighting",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Electrical services: wiring, switches, lighting",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING SERVICES: Electrical services: wiring, switches, lighting is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING SERVICES: Electrical services: wiring, switches, lighting is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 166,
+      "topic": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 167,
+      "topic": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 168,
+      "topic": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING SERVICES: Mechanical services: lifts, escalators, HVAC is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 169,
+      "topic": "BUILDING SERVICES: Fire protection systems",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Fire protection systems",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING SERVICES: Fire protection systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING SERVICES: Fire protection systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 170,
+      "topic": "BUILDING SERVICES: Fire protection systems",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Fire protection systems",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING SERVICES: Fire protection systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING SERVICES: Fire protection systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 171,
+      "topic": "BUILDING SERVICES: Fire protection systems",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Fire protection systems",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING SERVICES: Fire protection systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING SERVICES: Fire protection systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 172,
+      "topic": "BUILDING SERVICES: Building management systems",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Building management systems",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING SERVICES: Building management systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING SERVICES: Building management systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 173,
+      "topic": "BUILDING SERVICES: Building management systems",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Building management systems",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING SERVICES: Building management systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING SERVICES: Building management systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 174,
+      "topic": "BUILDING SERVICES: Building management systems",
+      "section": "General",
+      "subtopic": "BUILDING SERVICES: Building management systems",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING SERVICES: Building management systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING SERVICES: Building management systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 175,
+      "topic": "BUILDING MATERIALS",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MATERIALS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 176,
+      "topic": "BUILDING MATERIALS",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MATERIALS is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING MATERIALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 177,
+      "topic": "BUILDING MATERIALS",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MATERIALS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 178,
+      "topic": "BUILDING MATERIALS: Types of building materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Types of building materials",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MATERIALS: Types of building materials is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS: Types of building materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 179,
+      "topic": "BUILDING MATERIALS: Types of building materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Types of building materials",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MATERIALS: Types of building materials is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MATERIALS: Types of building materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 180,
+      "topic": "BUILDING MATERIALS: Types of building materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Types of building materials",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MATERIALS: Types of building materials is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS: Types of building materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 181,
+      "topic": "BUILDING MATERIALS: Properties of building materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Properties of building materials",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MATERIALS: Properties of building materials is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BUILDING MATERIALS: Properties of building materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 182,
+      "topic": "BUILDING MATERIALS: Properties of building materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Properties of building materials",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MATERIALS: Properties of building materials is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUILDING MATERIALS: Properties of building materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 183,
+      "topic": "BUILDING MATERIALS: Properties of building materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Properties of building materials",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MATERIALS: Properties of building materials is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS: Properties of building materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 184,
+      "topic": "BUILDING MATERIALS: Testing and quality control",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Testing and quality control",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MATERIALS: Testing and quality control is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS: Testing and quality control is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 185,
+      "topic": "BUILDING MATERIALS: Testing and quality control",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Testing and quality control",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MATERIALS: Testing and quality control is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS: Testing and quality control is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 186,
+      "topic": "BUILDING MATERIALS: Testing and quality control",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Testing and quality control",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MATERIALS: Testing and quality control is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MATERIALS: Testing and quality control is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 187,
+      "topic": "BUILDING MATERIALS: Selection of materials for specific uses",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Selection of materials for specific uses",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MATERIALS: Selection of materials for specific uses is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUILDING MATERIALS: Selection of materials for specific uses is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 188,
+      "topic": "BUILDING MATERIALS: Selection of materials for specific uses",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Selection of materials for specific uses",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MATERIALS: Selection of materials for specific uses is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING MATERIALS: Selection of materials for specific uses is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 189,
+      "topic": "BUILDING MATERIALS: Selection of materials for specific uses",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Selection of materials for specific uses",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MATERIALS: Selection of materials for specific uses is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS: Selection of materials for specific uses is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 190,
+      "topic": "BUILDING MATERIALS: Storage and handling of materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Storage and handling of materials",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MATERIALS: Storage and handling of materials is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MATERIALS: Storage and handling of materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 191,
+      "topic": "BUILDING MATERIALS: Storage and handling of materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Storage and handling of materials",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MATERIALS: Storage and handling of materials is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MATERIALS: Storage and handling of materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 192,
+      "topic": "BUILDING MATERIALS: Storage and handling of materials",
+      "section": "General",
+      "subtopic": "BUILDING MATERIALS: Storage and handling of materials",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MATERIALS: Storage and handling of materials is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MATERIALS: Storage and handling of materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 193,
+      "topic": "BUILDING CONSTRUCTION SAFETY",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 194,
+      "topic": "BUILDING CONSTRUCTION SAFETY",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 195,
+      "topic": "BUILDING CONSTRUCTION SAFETY",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 196,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Introduction to safety in building construction",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Introduction to safety in building construction",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 197,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Introduction to safety in building construction",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Introduction to safety in building construction",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 198,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Introduction to safety in building construction",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Introduction to safety in building construction",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 199,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Common hazards on building sites",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Common hazards on building sites",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 200,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Common hazards on building sites",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Common hazards on building sites",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 201,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Common hazards on building sites",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Common hazards on building sites",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 202,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Personal protective equipment (PPE)",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Personal protective equipment (PPE)",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 203,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Personal protective equipment (PPE)",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Personal protective equipment (PPE)",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 204,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Personal protective equipment (PPE)",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Personal protective equipment (PPE)",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 205,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Safety procedures and regulations",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Safety procedures and regulations",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 206,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Safety procedures and regulations",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Safety procedures and regulations",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 207,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Safety procedures and regulations",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Safety procedures and regulations",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 208,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Accident prevention and reporting",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Accident prevention and reporting",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 209,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Accident prevention and reporting",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Accident prevention and reporting",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 210,
+      "topic": "BUILDING CONSTRUCTION SAFETY: Accident prevention and reporting",
+      "section": "General",
+      "subtopic": "BUILDING CONSTRUCTION SAFETY: Accident prevention and reporting",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 211,
+      "topic": "BUILDING MAINTENANCE",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MAINTENANCE is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MAINTENANCE is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 212,
+      "topic": "BUILDING MAINTENANCE",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MAINTENANCE is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MAINTENANCE is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 213,
+      "topic": "BUILDING MAINTENANCE",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MAINTENANCE is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MAINTENANCE is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 214,
+      "topic": "BUILDING MAINTENANCE: Importance of building maintenance",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Importance of building maintenance",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MAINTENANCE: Importance of building maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MAINTENANCE: Importance of building maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 215,
+      "topic": "BUILDING MAINTENANCE: Importance of building maintenance",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Importance of building maintenance",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MAINTENANCE: Importance of building maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MAINTENANCE: Importance of building maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 216,
+      "topic": "BUILDING MAINTENANCE: Importance of building maintenance",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Importance of building maintenance",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MAINTENANCE: Importance of building maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING MAINTENANCE: Importance of building maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 217,
+      "topic": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 218,
+      "topic": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 219,
+      "topic": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MAINTENANCE: Types of maintenance: routine, preventive, corrective is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 220,
+      "topic": "BUILDING MAINTENANCE: Common defects in buildings",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Common defects in buildings",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MAINTENANCE: Common defects in buildings is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING MAINTENANCE: Common defects in buildings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 221,
+      "topic": "BUILDING MAINTENANCE: Common defects in buildings",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Common defects in buildings",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MAINTENANCE: Common defects in buildings is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING MAINTENANCE: Common defects in buildings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 222,
+      "topic": "BUILDING MAINTENANCE: Common defects in buildings",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Common defects in buildings",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MAINTENANCE: Common defects in buildings is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MAINTENANCE: Common defects in buildings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 223,
+      "topic": "BUILDING MAINTENANCE: Repair methods and materials",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Repair methods and materials",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MAINTENANCE: Repair methods and materials is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MAINTENANCE: Repair methods and materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 224,
+      "topic": "BUILDING MAINTENANCE: Repair methods and materials",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Repair methods and materials",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MAINTENANCE: Repair methods and materials is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MAINTENANCE: Repair methods and materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 225,
+      "topic": "BUILDING MAINTENANCE: Repair methods and materials",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Repair methods and materials",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MAINTENANCE: Repair methods and materials is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "BUILDING MAINTENANCE: Repair methods and materials is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 226,
+      "topic": "BUILDING MAINTENANCE: Record keeping and maintenance schedules",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Record keeping and maintenance schedules",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING MAINTENANCE: Record keeping and maintenance schedules is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING MAINTENANCE: Record keeping and maintenance schedules is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 227,
+      "topic": "BUILDING MAINTENANCE: Record keeping and maintenance schedules",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Record keeping and maintenance schedules",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING MAINTENANCE: Record keeping and maintenance schedules is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING MAINTENANCE: Record keeping and maintenance schedules is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 228,
+      "topic": "BUILDING MAINTENANCE: Record keeping and maintenance schedules",
+      "section": "General",
+      "subtopic": "BUILDING MAINTENANCE: Record keeping and maintenance schedules",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING MAINTENANCE: Record keeping and maintenance schedules is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BUILDING MAINTENANCE: Record keeping and maintenance schedules is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 229,
+      "topic": "BUILDING DESIGN AND DRAFTING",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BUILDING DESIGN AND DRAFTING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 230,
+      "topic": "BUILDING DESIGN AND DRAFTING",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING DESIGN AND DRAFTING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 231,
+      "topic": "BUILDING DESIGN AND DRAFTING",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING DESIGN AND DRAFTING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 232,
+      "topic": "BUILDING DESIGN AND DRAFTING: Introduction to building design",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Introduction to building design",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Introduction to building design is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Introduction to building design is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 233,
+      "topic": "BUILDING DESIGN AND DRAFTING: Introduction to building design",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Introduction to building design",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Introduction to building design is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Introduction to building design is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 234,
+      "topic": "BUILDING DESIGN AND DRAFTING: Introduction to building design",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Introduction to building design",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Introduction to building design is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Introduction to building design is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 235,
+      "topic": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc.",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc.",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 236,
+      "topic": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc.",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc.",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 237,
+      "topic": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc.",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc.",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc. is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Principles of design: function, form, aesthetics, etc. is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 238,
+      "topic": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 239,
+      "topic": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 240,
+      "topic": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Types of drawings: plans, elevations, sections is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 241,
+      "topic": "BUILDING DESIGN AND DRAFTING: Drawing instruments and techniques",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Drawing instruments and techniques",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Vernier caliper",
+        "C": "Try square",
+        "D": "Steel rule"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 242,
+      "topic": "BUILDING DESIGN AND DRAFTING: Drawing instruments and techniques",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Drawing instruments and techniques",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 243,
+      "topic": "BUILDING DESIGN AND DRAFTING: Drawing instruments and techniques",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Drawing instruments and techniques",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 244,
+      "topic": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction",
+      "difficulty": "easy",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 245,
+      "topic": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction",
+      "difficulty": "medium",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 246,
+      "topic": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction",
+      "section": "General",
+      "subtopic": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction",
+      "difficulty": "hard",
+      "question": "Which statement about BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUILDING DESIGN AND DRAFTING: Computer‑aided design (CAD) in building construction is part of the technical/vocational syllabus."
+    }
+  ]
+}

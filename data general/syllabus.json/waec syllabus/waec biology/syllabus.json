@@ -1,0 +1,128 @@
+{
+  "syllabus": "WAEC SSCE Biology",
+  "sections": [
+    {
+      "section": "A",
+      "description": "For all candidates",
+      "topics": [
+        {
+          "topic": "Concept of Living",
+          "subtopics": [
+            {
+              "title": "Classification",
+              "content": "Living and non-living things; Classification of living things into Kingdoms: Monera, Protoctista (Protista), Fungi, Plantae, Animalia.",
+              "notes": "Viruses as link between living and non-living. Major characteristics and examples for each kingdom/phylum/division (e.g., bacteria, Amoeba, Rhizopus, mosses, ferns, flowering plants, major animal phyla). External features of named organisms (cockroach, butterfly, Tilapia, toad, lizard, fowl)."
+            },
+            {
+              "title": "Organization of life",
+              "content": "Levels of organization (cell, tissue, organ, system); Differences between plants and animals; Complexity of organization in higher organisms.",
+              "notes": "Advantages/disadvantages of complexity. Examples: Amoeba, Hydra, etc."
+            },
+            {
+              "title": "Forms in which living cells exist",
+              "content": "Single-celled (Amoeba, Paramecium, Euglena, Chlamydomonas); Colony (Volvox); Filament (Spirogyra); Part of organism (cheek cells, onion root tip).",
+              "notes": "Distinguish tissues from colonies/filaments."
+            },
+            {
+              "title": "Cell structure and functions",
+              "content": "Plant and animal cells; Cell components (wall, membrane, nucleus, organelles: mitochondria, chloroplasts, etc.).",
+              "notes": "Similarities and differences."
+            },
+            {
+              "title": "The Cell and its environment",
+              "content": "Biophysical processes: diffusion, osmosis, active transport.",
+              "notes": "Haemolysis, plasmolysis, turgidity, crenation."
+            },
+            {
+              "title": "Properties and functions of the living cell",
+              "content": "Nutrition (autotrophic/heterotrophic); Cellular respiration (aerobic/anaerobic); Excretion; Growth (mitosis, etc.); Development; Movement (cilia, flagella, cyclosis); Reproduction (asexual/sexual).",
+              "notes": "Photosynthesis, glycolysis/Krebs, tropisms, conjugation, etc."
+            },
+            {
+              "title": "Tissues and supporting systems",
+              "content": "Skeleton and supporting systems in animals; Supporting tissues in plants (parenchyma, collenchyma, xylem, sclerenchyma).",
+              "notes": "Bones, joints, functions; T.S. of stem/root."
+            },
+            {
+              "title": "Transport System",
+              "content": "Need for transport; Transport in animals (heart, blood vessels, blood/lymph); Transport in plants (uptake, translocation, transpiration).",
+              "notes": "Experiments (eosin, ringing)."
+            },
+            {
+              "title": "Respiratory System",
+              "content": "Body surface, gills, lungs; Mechanisms in fish, toad, mammals, plants.",
+              "notes": "Respiratory organs, stomata."
+            },
+            {
+              "title": "Excretory Systems and Mechanisms",
+              "content": "Kidney, stomata, lenticels; Homeostasis.",
+              "notes": "Structure/functions, osmoregulation."
+            },
+            {
+              "title": "Regulation of Internal Environment (Homeostasis)",
+              "content": "Kidney, liver, skin.",
+              "notes": "Functions."
+            },
+            {
+              "title": "Hormonal Coordination",
+              "content": "Animal hormones (pituitary, thyroid, etc.); Plant hormones (auxins).",
+              "notes": "Effects of over/under secretion."
+            },
+            {
+              "title": "Nervous Coordination",
+              "content": "Central and peripheral nervous system; Neurones; Reflex actions; Sense organs (eye, ear).",
+              "notes": "Brain parts, reflex arc."
+            },
+            {
+              "title": "Reproductive System",
+              "content": "Mammalian reproduction; Reproduction in flowering plants (pollination, fertilization, fruits, seeds, dispersal); Comparison across vertebrates; Metamorphosis in insects.",
+              "notes": "Floral parts, agents of pollination, birth control."
+            }
+          ]
+        },
+        {
+          "topic": "Plant and Animal Nutrition",
+          "subtopics": [
+            {"title": "Plant Nutrition", "content": "Photosynthesis; Mineral requirements."},
+            {"title": "Animal Nutrition", "content": "Food substances, balanced diet, digestive enzymes, alimentary system, dental formula, feeding in protozoa/mammals."}
+          ]
+        },
+        {
+          "topic": "Basic Ecological Concepts",
+          "subtopics": [
+            {"title": "Ecosystem", "content": "Components, ecological factors."},
+            {"title": "Food webs and trophic levels", "content": "Producers, consumers, decomposers, energy flow, pyramids."},
+            {"title": "Ecological Management", "content": "Associations, adaptations, pollution, population ecology, succession, pests, microorganisms."}
+          ]
+        },
+        {
+          "topic": "Conservation of Natural Resources",
+          "content": "Soil, water, wildlife, forest, minerals; Ways of conservation."
+        },
+        {
+          "topic": "Variation in Population",
+          "subtopics": [
+            {"title": "Morphological variations", "content": "Size, colour, fingerprints."},
+            {"title": "Physiological variations", "content": "Tongue rolling, PTC tasting, blood groups."}
+          ]
+        },
+        {
+          "topic": "Biology of Heredity (Genetics)",
+          "subtopics": [
+            {"title": "Genetic terminologies and Mendel's work", "content": "Laws, monohybrid/dihybrid."},
+            {"title": "Chromosomes", "content": "Structure, transmission."},
+            {"title": "Applications", "content": "Agriculture and medicine."}
+          ]
+        },
+        {
+          "topic": "Adaptation for survival and Evolution",
+          "subtopics": [
+            {"title": "Behavioural Adaptations", "content": "Social animals (termites, bees)."},
+            {"title": "Evolution", "content": "Evidence, theories (Lamarck, Darwin)."}
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "This JSON focuses on the detailed syllabus content (SECTION A). Sections B (Ghana-specific) and C (Nigeria, Sierra Leone, etc.) contain additional topics like advanced cell biology, specific dissections, industry applications, etc. The full PDF has more granular notes, practicals, and examples. Ignore preamble and exam scheme as requested."
+}

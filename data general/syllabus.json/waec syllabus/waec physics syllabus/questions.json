@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Brownian motion",
+        "B": "Simple harmonic motion",
+        "C": "Circular motion",
+        "D": "Rotational motion"
+      },
+      "answer": "A",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 2,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Rotational motion",
+        "B": "Simple harmonic motion",
+        "C": "Circular motion",
+        "D": "Brownian motion"
+      },
+      "answer": "D",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 3,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Rotational motion",
+        "B": "Brownian motion",
+        "C": "Simple harmonic motion",
+        "D": "Circular motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 4,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 9m/s.",
+      "options": {
+        "A": "18J",
+        "B": "374.5J",
+        "C": "81J",
+        "D": "364.5J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 9² = 364.5J."
+    },
+    {
+      "id": 5,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 3m/s.",
+      "options": {
+        "A": "12J",
+        "B": "50.5J",
+        "C": "40.5J",
+        "D": "27J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 3² = 40.5J."
+    },
+    {
+      "id": 6,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 5kg mass moving at 6m/s.",
+      "options": {
+        "A": "11J",
+        "B": "30J",
+        "C": "90J",
+        "D": "100J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 5 × 6² = 90J."
+    },
+    {
+      "id": 7,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Aluminium"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 8,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Iron",
+        "C": "Aluminium",
+        "D": "Copper"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 9,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Copper",
+        "C": "Aluminium",
+        "D": "Iron"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 10,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Ionization",
+        "B": "Nuclear fusion",
+        "C": "Radioactive decay",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 11,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "medium",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Radioactive decay",
+        "B": "Nuclear fission",
+        "C": "Ionization",
+        "D": "Nuclear fusion"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 12,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "hard",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fission",
+        "B": "Radioactive decay",
+        "C": "Ionization",
+        "D": "Nuclear fusion"
+      },
+      "answer": "A",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 13,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Aluminium",
+        "C": "Iron",
+        "D": "Copper"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 14,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Steel",
+        "C": "Iron",
+        "D": "Copper"
+      },
+      "answer": "B",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 15,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Copper",
+        "B": "Aluminium",
+        "C": "Iron",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 16,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 10kg mass moving at 7m/s.",
+      "options": {
+        "A": "70J",
+        "B": "245J",
+        "C": "17J",
+        "D": "255J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 10 × 7² = 245J."
+    },
+    {
+      "id": 17,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Brownian motion",
+        "B": "Simple harmonic motion",
+        "C": "Rotational motion",
+        "D": "Circular motion"
+      },
+      "answer": "A",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 18,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "medium",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Ionization",
+        "C": "Radioactive decay",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 19,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Brownian motion",
+        "C": "Circular motion",
+        "D": "Rotational motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 20,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Radioactive decay",
+        "B": "Nuclear fusion",
+        "C": "Nuclear fission",
+        "D": "Ionization"
+      },
+      "answer": "C",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 21,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Aluminium",
+        "C": "Copper",
+        "D": "Iron"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 22,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Nuclear fission",
+        "C": "Radioactive decay",
+        "D": "Ionization"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 23,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 7m/s.",
+      "options": {
+        "A": "230.5J",
+        "B": "220.5J",
+        "C": "16J",
+        "D": "63J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 7² = 220.5J."
+    },
+    {
+      "id": 24,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Copper",
+        "C": "Iron",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 25,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fission",
+        "B": "Nuclear fusion",
+        "C": "Ionization",
+        "D": "Radioactive decay"
+      },
+      "answer": "A",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 26,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Circular motion",
+        "B": "Simple harmonic motion",
+        "C": "Brownian motion",
+        "D": "Rotational motion"
+      },
+      "answer": "C",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 27,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Nuclear fission",
+        "C": "Radioactive decay",
+        "D": "Ionization"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 28,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 4kg mass moving at 6m/s.",
+      "options": {
+        "A": "82J",
+        "B": "24J",
+        "C": "72J",
+        "D": "10J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 4 × 6² = 72J."
+    },
+    {
+      "id": 29,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Iron",
+        "C": "Steel",
+        "D": "Copper"
+      },
+      "answer": "C",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 30,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Nuclear fission",
+        "C": "Radioactive decay",
+        "D": "Ionization"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 31,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 6kg mass moving at 9m/s.",
+      "options": {
+        "A": "243J",
+        "B": "253J",
+        "C": "15J",
+        "D": "54J"
+      },
+      "answer": "A",
+      "explanation": "KE = ½mv² = 0.5 × 6 × 9² = 243J."
+    },
+    {
+      "id": 32,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 4kg mass moving at 5m/s.",
+      "options": {
+        "A": "9J",
+        "B": "20J",
+        "C": "60J",
+        "D": "50J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 4 × 5² = 50J."
+    },
+    {
+      "id": 33,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Radioactive decay",
+        "B": "Nuclear fusion",
+        "C": "Ionization",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 34,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "medium",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fission",
+        "B": "Ionization",
+        "C": "Nuclear fusion",
+        "D": "Radioactive decay"
+      },
+      "answer": "A",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 35,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Iron",
+        "B": "Aluminium",
+        "C": "Steel",
+        "D": "Copper"
+      },
+      "answer": "C",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 36,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "hard",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Ionization",
+        "B": "Nuclear fission",
+        "C": "Nuclear fusion",
+        "D": "Radioactive decay"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 37,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Brownian motion",
+        "B": "Simple harmonic motion",
+        "C": "Rotational motion",
+        "D": "Circular motion"
+      },
+      "answer": "A",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 38,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Copper",
+        "C": "Steel",
+        "D": "Iron"
+      },
+      "answer": "C",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 39,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Aluminium",
+        "C": "Iron",
+        "D": "Copper"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 40,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 6kg mass moving at 6m/s.",
+      "options": {
+        "A": "12J",
+        "B": "118J",
+        "C": "36J",
+        "D": "108J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 6 × 6² = 108J."
+    },
+    {
+      "id": 41,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Radioactive decay",
+        "B": "Ionization",
+        "C": "Nuclear fusion",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 42,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 4kg mass moving at 4m/s.",
+      "options": {
+        "A": "42J",
+        "B": "16J",
+        "C": "8J",
+        "D": "32J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 4 × 4² = 32J."
+    },
+    {
+      "id": 43,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Copper",
+        "C": "Aluminium",
+        "D": "Iron"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 44,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 7m/s.",
+      "options": {
+        "A": "16J",
+        "B": "230.5J",
+        "C": "63J",
+        "D": "220.5J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 7² = 220.5J."
+    },
+    {
+      "id": 45,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 6m/s.",
+      "options": {
+        "A": "54J",
+        "B": "162J",
+        "C": "15J",
+        "D": "172J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 6² = 162J."
+    },
+    {
+      "id": 46,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Radioactive decay",
+        "B": "Nuclear fission",
+        "C": "Ionization",
+        "D": "Nuclear fusion"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 47,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Rotational motion",
+        "C": "Brownian motion",
+        "D": "Circular motion"
+      },
+      "answer": "C",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 48,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Brownian motion",
+        "B": "Simple harmonic motion",
+        "C": "Rotational motion",
+        "D": "Circular motion"
+      },
+      "answer": "A",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 49,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "easy",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 50,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Ionization",
+        "B": "Nuclear fission",
+        "C": "Radioactive decay",
+        "D": "Nuclear fusion"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 51,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Iron",
+        "B": "Copper",
+        "C": "Aluminium",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 52,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 3kg mass moving at 6m/s.",
+      "options": {
+        "A": "9J",
+        "B": "64J",
+        "C": "54J",
+        "D": "18J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 3 × 6² = 54J."
+    },
+    {
+      "id": 53,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "medium",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Radioactive decay",
+        "C": "Nuclear fission",
+        "D": "Ionization"
+      },
+      "answer": "C",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 54,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 10m/s.",
+      "options": {
+        "A": "19J",
+        "B": "450J",
+        "C": "460J",
+        "D": "90J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 10² = 450J."
+    },
+    {
+      "id": 55,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 8kg mass moving at 4m/s.",
+      "options": {
+        "A": "32J",
+        "B": "12J",
+        "C": "74J",
+        "D": "64J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 8 × 4² = 64J."
+    },
+    {
+      "id": 56,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Copper",
+        "C": "Aluminium",
+        "D": "Iron"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 57,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 9m/s.",
+      "options": {
+        "A": "18J",
+        "B": "364.5J",
+        "C": "81J",
+        "D": "374.5J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 9² = 364.5J."
+    },
+    {
+      "id": 58,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Brownian motion",
+        "B": "Rotational motion",
+        "C": "Circular motion",
+        "D": "Simple harmonic motion"
+      },
+      "answer": "A",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 59,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Copper",
+        "B": "Steel",
+        "C": "Aluminium",
+        "D": "Iron"
+      },
+      "answer": "B",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 60,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Copper",
+        "B": "Steel",
+        "C": "Aluminium",
+        "D": "Iron"
+      },
+      "answer": "B",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 61,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Circular motion",
+        "C": "Rotational motion",
+        "D": "Brownian motion"
+      },
+      "answer": "D",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 62,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Circular motion",
+        "C": "Rotational motion",
+        "D": "Brownian motion"
+      },
+      "answer": "D",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 63,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Iron",
+        "B": "Aluminium",
+        "C": "Copper",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 64,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "hard",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Rotational motion",
+        "C": "Circular motion",
+        "D": "Brownian motion"
+      },
+      "answer": "D",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 65,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 4kg mass moving at 4m/s.",
+      "options": {
+        "A": "32J",
+        "B": "42J",
+        "C": "16J",
+        "D": "8J"
+      },
+      "answer": "A",
+      "explanation": "KE = ½mv² = 0.5 × 4 × 4² = 32J."
+    },
+    {
+      "id": 66,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 3kg mass moving at 9m/s.",
+      "options": {
+        "A": "27J",
+        "B": "121.5J",
+        "C": "12J",
+        "D": "131.5J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 3 × 9² = 121.5J."
+    },
+    {
+      "id": 67,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "hard",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Ionization",
+        "B": "Nuclear fusion",
+        "C": "Radioactive decay",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 68,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "medium",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Circular motion",
+        "C": "Brownian motion",
+        "D": "Rotational motion"
+      },
+      "answer": "C",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 69,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Circular motion",
+        "C": "Rotational motion",
+        "D": "Brownian motion"
+      },
+      "answer": "D",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 70,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Iron",
+        "B": "Aluminium",
+        "C": "Steel",
+        "D": "Copper"
+      },
+      "answer": "C",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 71,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Nuclear fission",
+        "C": "Radioactive decay",
+        "D": "Ionization"
+      },
+      "answer": "B",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 72,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Steel"
+      },
+      "answer": "D",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 73,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 7kg mass moving at 9m/s.",
+      "options": {
+        "A": "16J",
+        "B": "293.5J",
+        "C": "63J",
+        "D": "283.5J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 7 × 9² = 283.5J."
+    },
+    {
+      "id": 74,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "hard",
+      "question": "Calculate the kinetic energy of a 9kg mass moving at 10m/s.",
+      "options": {
+        "A": "460J",
+        "B": "90J",
+        "C": "19J",
+        "D": "450J"
+      },
+      "answer": "D",
+      "explanation": "KE = ½mv² = 0.5 × 9 × 10² = 450J."
+    },
+    {
+      "id": 75,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Copper",
+        "C": "Iron",
+        "D": "Aluminium"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 76,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 4kg mass moving at 7m/s.",
+      "options": {
+        "A": "11J",
+        "B": "98J",
+        "C": "28J",
+        "D": "108J"
+      },
+      "answer": "B",
+      "explanation": "KE = ½mv² = 0.5 × 4 × 7² = 98J."
+    },
+    {
+      "id": 77,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "medium",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Ionization",
+        "C": "Nuclear fission",
+        "D": "Radioactive decay"
+      },
+      "answer": "C",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 78,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "medium",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Steel",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Aluminium"
+      },
+      "answer": "A",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 79,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Rotational motion",
+        "B": "Brownian motion",
+        "C": "Simple harmonic motion",
+        "D": "Circular motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 80,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "hard",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Radioactive decay",
+        "B": "Nuclear fusion",
+        "C": "Ionization",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 81,
+      "topic": "FIELDS",
+      "section": "General",
+      "subtopic": "FIELDS",
+      "difficulty": "hard",
+      "question": "Which material is most suitable for making a permanent magnet?",
+      "options": {
+        "A": "Copper",
+        "B": "Steel",
+        "C": "Iron",
+        "D": "Aluminium"
+      },
+      "answer": "B",
+      "explanation": "Steel retains magnetism longer than iron due to its higher retentivity and coercivity."
+    },
+    {
+      "id": 82,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Brownian motion",
+        "C": "Circular motion",
+        "D": "Rotational motion"
+      },
+      "answer": "B",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 83,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "hard",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fission",
+        "B": "Nuclear fusion",
+        "C": "Radioactive decay",
+        "D": "Ionization"
+      },
+      "answer": "A",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 84,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "easy",
+      "question": "Calculate the kinetic energy of a 5kg mass moving at 10m/s.",
+      "options": {
+        "A": "250J",
+        "B": "15J",
+        "C": "260J",
+        "D": "50J"
+      },
+      "answer": "A",
+      "explanation": "KE = ½mv² = 0.5 × 5 × 10² = 250J."
+    },
+    {
+      "id": 85,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "medium",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fission",
+        "B": "Ionization",
+        "C": "Radioactive decay",
+        "D": "Nuclear fusion"
+      },
+      "answer": "A",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 86,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "hard",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Ionization",
+        "C": "Radioactive decay",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    },
+    {
+      "id": 87,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Simple harmonic motion",
+        "B": "Rotational motion",
+        "C": "Brownian motion",
+        "D": "Circular motion"
+      },
+      "answer": "C",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 88,
+      "topic": "INTERACTION OF MATTER, SPACE & TIME",
+      "section": "General",
+      "subtopic": "INTERACTION OF MATTER, SPACE & TIME",
+      "difficulty": "easy",
+      "question": "The random motion of particles in a fluid is called:",
+      "options": {
+        "A": "Brownian motion",
+        "B": "Simple harmonic motion",
+        "C": "Rotational motion",
+        "D": "Circular motion"
+      },
+      "answer": "A",
+      "explanation": "Brownian motion is the erratic movement of particles suspended in a fluid, providing evidence for the kinetic theory of matter."
+    },
+    {
+      "id": 89,
+      "topic": "ENERGY: Mechanical and Heat",
+      "section": "General",
+      "subtopic": "ENERGY: Mechanical and Heat",
+      "difficulty": "medium",
+      "question": "Calculate the kinetic energy of a 5kg mass moving at 10m/s.",
+      "options": {
+        "A": "50J",
+        "B": "260J",
+        "C": "250J",
+        "D": "15J"
+      },
+      "answer": "C",
+      "explanation": "KE = ½mv² = 0.5 × 5 × 10² = 250J."
+    },
+    {
+      "id": 90,
+      "topic": "ATOMIC AND NUCLEAR PHYSICS",
+      "section": "General",
+      "subtopic": "ATOMIC AND NUCLEAR PHYSICS",
+      "difficulty": "easy",
+      "question": "The process by which a heavy nucleus splits into lighter nuclei is called:",
+      "options": {
+        "A": "Radioactive decay",
+        "B": "Ionization",
+        "C": "Nuclear fusion",
+        "D": "Nuclear fission"
+      },
+      "answer": "D",
+      "explanation": "Nuclear fission involves splitting a heavy nucleus (e.g., Uranium-235) into smaller nuclei with release of energy."
+    }
+  ]
+}

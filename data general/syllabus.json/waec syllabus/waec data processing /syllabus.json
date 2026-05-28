@@ -1,0 +1,364 @@
+{
+  "detailed_syllabus": {
+    "sections": [
+      {
+        "section_title": "INFORMATION AGE",
+        "topics": [
+          {
+            "sn": "1",
+            "topic": "History of Computers",
+            "content": [
+              {
+                "sub": "i",
+                "title": "Computing devices",
+                "notes": "Candidates should identify the various computing devices since the beginning of counting/computing."
+              },
+              {
+                "sub": "ii",
+                "title": "Concept of Number system in computing",
+                "notes": "Should include the importance of number system to computing."
+              },
+              {
+                "sub": "iii",
+                "title": "Generations of Computer: first, second, third, fourth, fifth generations of computer",
+                "notes": "Relate each generation with its characteristic feature. Describe each generation under: year of development, basic component/type of technology, speed of operation, storage capacity/component."
+              }
+            ]
+          },
+          {
+            "sn": "2",
+            "topic": "Data and Information",
+            "content": [
+              {
+                "sub": "i",
+                "title": "Definition of data and information",
+                "notes": "Differences between data and information should be emphasized."
+              },
+              {
+                "sub": "ii",
+                "title": "Types of Data"
+              },
+              {
+                "sub": "iii",
+                "title": "Ways of handling Data"
+              },
+              {
+                "sub": "iv",
+                "title": "Digitalization"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_title": "BASIC COMPUTING",
+        "topics": [
+          {
+            "sn": "3",
+            "topic": "Classification of Computers",
+            "content": [
+              {
+                "title": "Classify computers by: Type, Size, Usage"
+              }
+            ]
+          },
+          {
+            "sn": "4",
+            "topic": "Application of ICT in everyday life",
+            "content": [
+              {
+                "sub": "i",
+                "title": "Uses of ICT in everyday activities",
+                "notes": "The use and areas of ICT application should be linked to societal development."
+              },
+              {
+                "sub": "ii",
+                "title": "Impact of ICT in the society"
+              }
+            ]
+          },
+          {
+            "sn": "5",
+            "topic": "Components of Computers",
+            "content": [
+              {"sub": "i", "title": "Input Devices"},
+              {"sub": "ii", "title": "Output Devices"},
+              {"sub": "iii", "title": "System Unit"},
+              {"sub": "iv", "title": "Storage Devices"}
+            ],
+            "notes": "Examples of each component should be treated and how they are used in data processing."
+          }
+        ]
+      },
+      {
+        "section_title": "INFORMATION PROCESSING",
+        "topics": [
+          {
+            "sn": "6",
+            "topic": "The art of Information processing",
+            "content": [
+              {"sub": "i", "title": "Definition of Information Processing"},
+              {
+                "sub": "ii",
+                "title": "Steps involved in Information Processing",
+                "notes": "Description of each step involved in information processing is required."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_title": "INFORMATION TRANSMISSION",
+        "topics": [
+          {
+            "sn": "7",
+            "topic": "Process of Information transmission",
+            "content": [
+              {"sub": "i", "title": "Definition of information transmission"},
+              {
+                "sub": "ii",
+                "title": "Methods of transmitting information",
+                "notes": "Modes of information transmission such as visuals (newspaper), audio (radio, telephone), audio-visual (GSM, Television) are required."
+              }
+            ]
+          },
+          {
+            "sn": "8",
+            "topic": "Medium of Information Transmission",
+            "content": [
+              {"sub": "i", "title": "Types of Information Transmission"},
+              {"sub": "ii", "title": "Classification of means of transmission"}
+            ],
+            "notes": "Medium of information transmission such as radio, television, newspaper etc."
+          },
+          {
+            "sn": "9",
+            "topic": "Networking",
+            "content": [
+              {"sub": "i", "title": "Meaning of Networking, Internet and Intranet", "notes": "Significance of networking should be mentioned."},
+              {"sub": "ii", "title": "Types of Networking", "notes": "Types such as MAN, LAN, WAN should be treated."}
+            ]
+          },
+          {
+            "sn": "10",
+            "topic": "Internet",
+            "content": [
+              {"sub": "i", "title": "Definition of Internet"},
+              {"sub": "ii", "title": "Benefits of internet"},
+              {"sub": "iii", "title": "Internet browsers"},
+              {"sub": "iv", "title": "Internet security"},
+              {"sub": "v", "title": "Abuse of the Internet"}
+            ],
+            "notes": "Candidates should be able to develop skills in the use of various services available on the internet."
+          }
+        ]
+      },
+      {
+        "section_title": "TOOLS FOR PROCESSING INFORMATION",
+        "topics": [
+          {
+            "sn": "11",
+            "topic": "Operating System",
+            "content": [
+              {"sub": "i", "title": "Definition of Operating System"},
+              {"sub": "ii", "title": "Types of Operating System"},
+              {"sub": "iii", "title": "Examples of Operating System"},
+              {"sub": "iv", "title": "Functions of Operating System"}
+            ],
+            "notes": "Differences between text (character) base interface and Graphical User Interface should be treated."
+          },
+          {
+            "sn": "12",
+            "topic": "Word Processing",
+            "content": [
+              {"sub": "i", "title": "Definition of Word Processing"},
+              {"sub": "ii", "title": "Uses of Word Processing"},
+              {"sub": "iii", "title": "Examples of word Processing software"},
+              {"sub": "iv", "title": "Starting, loading and exiting word processing"},
+              {"sub": "v", "title": "Creating, saving and retrieving documents"}
+            ],
+            "notes": "Candidates should be able to make use of word processor to create and manipulate documents."
+          },
+          {
+            "sn": "13",
+            "topic": "Spreadsheet",
+            "content": [
+              {"sub": "i", "title": "Definition"},
+              {"sub": "ii", "title": "Uses"},
+              {"sub": "iii", "title": "Examples of Spreadsheet Applications"},
+              {"sub": "iv", "title": "Loading and exiting spreadsheets"},
+              {"sub": "v", "title": "Creating, saving and retrieving Spreadsheet files"}
+            ],
+            "notes": "Candidates should be able to make use of spreadsheet to create and manipulate worksheets."
+          },
+          {
+            "sn": "14",
+            "topic": "Database Management System",
+            "content": [
+              {"sub": "i", "title": "Definition"},
+              {"sub": "ii", "title": "Uses"},
+              {"sub": "iii", "title": "Examples of Database Applications"},
+              {"sub": "iv", "title": "Loading and exiting DBMS"},
+              {"sub": "v", "title": "Creating, saving and retrieving database files"}
+            ],
+            "notes": "Candidates should be able to use DBMS to create and manipulate Database files. Include examples of packages such as Microsoft Access."
+          },
+          {
+            "sn": "15",
+            "topic": "Presentation Package",
+            "content": [
+              {"sub": "i", "title": "Definition, uses, examples"},
+              {"sub": "ii", "title": "Loading and exiting Presentation programs"},
+              {"sub": "iii", "title": "Creating, saving and retrieving presentation files"}
+            ],
+            "notes": "Candidates should be able to use presentation programs to create and manipulate slides."
+          },
+          {
+            "sn": "16",
+            "topic": "Web Design Packages",
+            "content": [
+              {"sub": "i", "title": "Definition"},
+              {"sub": "ii", "title": "Uses"},
+              {"sub": "iii", "title": "Components"},
+              {"sub": "iv", "title": "Examples"}
+            ],
+            "notes": "Designing of web pages not required."
+          },
+          {
+            "sn": "17",
+            "topic": "Graphic Packages",
+            "content": [
+              {"sub": "i", "title": "Definition"},
+              {"sub": "ii", "title": "Uses of Graphic software packages"},
+              {"sub": "iii", "title": "Examples of graphic packages"}
+            ],
+            "notes": "Focus should be placed on Corel Draw."
+          }
+        ]
+      },
+      {
+        "section_title": "COMPUTER MAINTENANCE, ETHICS AND HUMAN ISSUES",
+        "topics": [
+          {
+            "sn": "18",
+            "topic": "Maintenance of Computer",
+            "content": [
+              {"sub": "i", "title": "General Cleaning"},
+              {"sub": "ii", "title": "Battery Charging and replacement for portable systems and UPS"},
+              {"sub": "iii", "title": "DVD drive lens cleaning"},
+              {"sub": "iv", "title": "Details of Hardware maintenance"},
+              {"sub": "v", "title": "Details of Software maintenance"},
+              {"sub": "vi", "title": "Computer crash and data recovery"}
+            ],
+            "notes": "Candidates should take note of basic maintenance procedures. Students should be able to ensure data integrity and recover data after a crash."
+          },
+          {
+            "sn": "19",
+            "topic": "Computer Ethics",
+            "content": [
+              {"sub": "i", "title": "Computer room management ethics"},
+              {"sub": "ii", "title": "Laboratory rules and regulations"}
+            ],
+            "notes": "Responsible ways of using and securing computers should be emphasized."
+          },
+          {
+            "sn": "20",
+            "topic": "Safety Measures",
+            "content": [
+              {"sub": "i", "title": "The sitting arrangement"},
+              {"sub": "ii", "title": "Positioning of the monitor, keyboard, CPU, mouse and any other peripheral devices"},
+              {"sub": "iii", "title": "Illuminating the computer room"},
+              {"sub": "iv", "title": "Maintaining a dust free environment"},
+              {"sub": "v", "title": "Keep liquid away from the computer room"}
+            ],
+            "notes": "Importance of safety measures should be emphasized."
+          },
+          {
+            "sn": "21",
+            "topic": "Career opportunities in Data Processing",
+            "content": [
+              {"sub": "i", "title": "Professions in computer"},
+              {"sub": "ii", "title": "Qualities of a good data processing professional"},
+              {"sub": "iii", "title": "Computer professional bodies"}
+            ],
+            "notes": "Duties of each professional/professional bodies should be treated."
+          },
+          {
+            "sn": "22",
+            "topic": "Computer Virus",
+            "content": [
+              {"sub": "i", "title": "Definition"},
+              {"sub": "ii", "title": "Types/Examples"},
+              {"sub": "iii", "title": "Sources"},
+              {"sub": "iv", "title": "Signals of virus warning"},
+              {"sub": "v", "title": "Virus prevention, detection and deletion"}
+            ],
+            "notes": "Destructive effects of virus infection on computers."
+          }
+        ]
+      },
+      {
+        "section_title": "DATA MANAGEMENT",
+        "topics": [
+          {
+            "sn": "23",
+            "topic": "Relational Model",
+            "content": [
+              {
+                "sub": "i",
+                "title": "Database and table creation using application packages",
+                "notes": "Arranging data in tables and forms should be emphasized."
+              },
+              {
+                "sub": "ii",
+                "title": "Creating relationships between tables",
+                "notes": "The concept of primary and foreign keys, entities, attributes and relationships should be emphasized."
+              },
+              {
+                "sub": "iii",
+                "title": "Creation of forms, queries and report",
+                "notes": "Query language should be limited to those available to the database application package (e.g. query by example, SQL)."
+              }
+            ]
+          },
+          {
+            "sn": "24",
+            "topic": "File Organization",
+            "content": [
+              {"sub": "i", "title": "Definition of File organization"},
+              {
+                "sub": "ii",
+                "title": "Types of File organization",
+                "notes": "Comparison between the various types of File Organization is required."
+              }
+            ]
+          },
+          {
+            "sn": "25",
+            "topic": "Database Security",
+            "content": [
+              {
+                "sub": "i",
+                "title": "Concept of data security, access control and data encryption",
+                "notes": "Importance of securing data is required."
+              },
+              {"sub": "ii", "title": "Role of a database administrator"}
+            ]
+          },
+          {
+            "sn": "26",
+            "topic": "Parallel and Distributed databases",
+            "content": [
+              {"sub": "i", "title": "Basic concept of parallel and distributed database"},
+              {
+                "sub": "ii",
+                "title": "Storing data in a distributed database (DBM)",
+                "notes": "Definitions of concepts is required. Significance of storing data in a distributed database management system is also required."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

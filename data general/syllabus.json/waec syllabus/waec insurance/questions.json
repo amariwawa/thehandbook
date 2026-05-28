@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 4,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Policy",
+        "C": "Indemnity",
+        "D": "Claim"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 5,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Claim",
+        "C": "Policy",
+        "D": "Indemnity"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 6,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Policy",
+        "C": "Indemnity",
+        "D": "Claim"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 7,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "hard",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 8,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "easy",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 9,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "medium",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 10,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 11,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Claim",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 12,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Premium",
+        "D": "Policy"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 13,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Persuading customers",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 14,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Persuading customers",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 15,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 16,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 17,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 18,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 19,
+      "topic": "INSURANCE REGULATORS",
+      "section": "General",
+      "subtopic": "INSURANCE REGULATORS",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Premium",
+        "D": "Policy"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 20,
+      "topic": "INSURANCE REGULATORS",
+      "section": "General",
+      "subtopic": "INSURANCE REGULATORS",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Policy",
+        "C": "Claim",
+        "D": "Indemnity"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 21,
+      "topic": "INSURANCE REGULATORS",
+      "section": "General",
+      "subtopic": "INSURANCE REGULATORS",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 22,
+      "topic": "COMMON INSURANCE TERMINOLOGIES",
+      "section": "General",
+      "subtopic": "COMMON INSURANCE TERMINOLOGIES",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Premium",
+        "C": "Indemnity",
+        "D": "Claim"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 23,
+      "topic": "COMMON INSURANCE TERMINOLOGIES",
+      "section": "General",
+      "subtopic": "COMMON INSURANCE TERMINOLOGIES",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 24,
+      "topic": "COMMON INSURANCE TERMINOLOGIES",
+      "section": "General",
+      "subtopic": "COMMON INSURANCE TERMINOLOGIES",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Premium",
+        "D": "Claim"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 25,
+      "topic": "COMMON INSURANCE TERMINOLOGIES",
+      "section": "General",
+      "subtopic": "COMMON INSURANCE TERMINOLOGIES",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Policy",
+        "C": "Indemnity",
+        "D": "Claim"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 26,
+      "topic": "COMMON INSURANCE TERMINOLOGIES",
+      "section": "General",
+      "subtopic": "COMMON INSURANCE TERMINOLOGIES",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Premium",
+        "D": "Policy"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 27,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Indemnity",
+        "C": "Claim",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 28,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 29,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Premium",
+        "D": "Claim"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 30,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Premium",
+        "C": "Indemnity",
+        "D": "Claim"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 31,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 32,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 33,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Claim",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 34,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "hard",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 35,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Premium",
+        "C": "Policy",
+        "D": "Indemnity"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 36,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 37,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 38,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 39,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Creating awareness",
+        "C": "Persuading customers",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 40,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 41,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 42,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 43,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 44,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 45,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Policy"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 46,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Persuading customers",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 47,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 48,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 49,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Premium",
+        "C": "Claim",
+        "D": "Policy"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 50,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 51,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Policy",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 52,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Claim",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 53,
+      "topic": "INSURANCE REGULATORS",
+      "section": "General",
+      "subtopic": "INSURANCE REGULATORS",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Policy",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 54,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 55,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Claim",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 56,
+      "topic": "INSURANCE REGULATORS",
+      "section": "General",
+      "subtopic": "INSURANCE REGULATORS",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Premium",
+        "C": "Indemnity",
+        "D": "Policy"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 57,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Premium",
+        "D": "Claim"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 58,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Policy",
+        "C": "Claim",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 59,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "hard",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 60,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Persuading customers",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 61,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Claim",
+        "C": "Indemnity",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 62,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Indemnity",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 63,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Premium",
+        "C": "Indemnity",
+        "D": "Claim"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 64,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Policy",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 65,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Policy",
+        "D": "Premium"
+      },
+      "answer": "D",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 66,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 67,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "hard",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 68,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Indemnity",
+        "C": "Claim",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 69,
+      "topic": "INSURANCE MARKET",
+      "section": "General",
+      "subtopic": "INSURANCE MARKET",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Policy"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 70,
+      "topic": "COMMON INSURANCE TERMINOLOGIES",
+      "section": "General",
+      "subtopic": "COMMON INSURANCE TERMINOLOGIES",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Premium",
+        "C": "Claim",
+        "D": "Policy"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 71,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 72,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "easy",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 73,
+      "topic": "INSURANCE REGULATORS",
+      "section": "General",
+      "subtopic": "INSURANCE REGULATORS",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Indemnity",
+        "C": "Premium",
+        "D": "Claim"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 74,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 75,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Claim",
+        "B": "Policy",
+        "C": "Premium",
+        "D": "Indemnity"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 76,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Policy",
+        "B": "Premium",
+        "C": "Claim",
+        "D": "Indemnity"
+      },
+      "answer": "B",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 77,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "medium",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 78,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 79,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "medium",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 80,
+      "topic": "INSURANCE PRACTICE",
+      "section": "General",
+      "subtopic": "INSURANCE PRACTICE",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Indemnity",
+        "C": "Claim",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 81,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "medium",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 82,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 83,
+      "topic": "INSURANCE REGULATORS",
+      "section": "General",
+      "subtopic": "INSURANCE REGULATORS",
+      "difficulty": "easy",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Policy",
+        "C": "Claim",
+        "D": "Indemnity"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 84,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 85,
+      "topic": "PRINCIPLES OF INSURANCE",
+      "section": "General",
+      "subtopic": "PRINCIPLES OF INSURANCE",
+      "difficulty": "hard",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Indemnity",
+        "B": "Claim",
+        "C": "Premium",
+        "D": "Policy"
+      },
+      "answer": "C",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 86,
+      "topic": "COMMON INSURANCE TERMINOLOGIES",
+      "section": "General",
+      "subtopic": "COMMON INSURANCE TERMINOLOGIES",
+      "difficulty": "medium",
+      "question": "The amount paid periodically to an insurance company is called:",
+      "options": {
+        "A": "Premium",
+        "B": "Indemnity",
+        "C": "Claim",
+        "D": "Policy"
+      },
+      "answer": "A",
+      "explanation": "A premium is the regular payment made by the insured to the insurer to keep the insurance policy active."
+    },
+    {
+      "id": 87,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Persuading customers",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 88,
+      "topic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "section": "General",
+      "subtopic": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "difficulty": "hard",
+      "question": "Which statement about DOCUMENTS USED IN EFFECTING CONTRACT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "DOCUMENTS USED IN EFFECTING CONTRACT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 89,
+      "topic": "NON-LIFE INSURANCE PRODUCTS",
+      "section": "General",
+      "subtopic": "NON-LIFE INSURANCE PRODUCTS",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Persuading customers",
+        "C": "Informing the public",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 90,
+      "topic": "INTRODUCTION",
+      "section": "General",
+      "subtopic": "INTRODUCTION",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION is part of the Commerce syllabus and is regularly tested."
+    }
+  ]
+}

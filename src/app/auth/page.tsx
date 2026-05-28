@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowLeft, Mail, Lock, User, Github, Chrome, ArrowRight, Zap } from "lucide-react";
+import { ArrowLeft, Mail, Lock, User, ArrowRight, Zap } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
@@ -45,7 +45,7 @@ export default function AuthPage() {
           <div className="flex justify-center mb-12">
             <Link href="/" className="flex items-center gap-3">
               <div className="w-12 h-12 bg-[#1d3e8e] rounded-2xl flex items-center justify-center text-white font-black text-2xl shadow-lg shadow-indigo-100 dark:shadow-none">H</div>
-              <span className="text-3xl font-black text-slate-900 dark:text-white display-font tracking-tight italic">Handbook.</span>
+              <span className="text-3xl font-black text-slate-900 dark:text-white display-font tracking-tight">Handbook.</span>
             </Link>
           </div>
 

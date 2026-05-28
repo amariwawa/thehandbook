@@ -1,0 +1,502 @@
+{
+  "syllabus_title": "BECE Basic Science and Technology Syllabus",
+  "themes": [
+    {
+      "theme": "BASIC SCIENCE",
+      "topics": [
+        {
+          "sn": 1,
+          "topic": "LEARNING ABOUT YOUR ENVIRONMENT",
+          "sub_themes": [
+            {
+              "sub_theme": "Family Health",
+              "objectives": [
+                "Sanitation",
+                "Nutrition",
+                "Drug and substance Abuse"
+              ]
+            },
+            {
+              "sub_theme": "Environmental pollution",
+              "objectives": [
+                "Definition of air, soil and water pollution",
+                "Causes of air, soil and water pollution (e.g. domestic/industrial waste, fertilizer/insecticide, agricultural chemical, non-biodegradable materials, oil spillage etc.)",
+                "Consequences of pollution (e.g. respiratory tract infection, water-borne diseases, destruction of soil organisms, poor plant growth)",
+                "Control measures"
+              ]
+            },
+            {
+              "sub_theme": "Living and Non-Living Things",
+              "objectives": [
+                "Meaning, identification and classification of matter",
+                "States of matter",
+                "Characteristics of living and non-living things",
+                "Examples, characteristics and importance of plants and animals",
+                "Differences between plants and animals",
+                "Examples, properties, uses and importance of living and non-living things",
+                "Classification of non-living things into metals and non-metals"
+              ]
+            },
+            {
+              "sub_theme": "Living Things",
+              "objectives": [
+                "Habitats and their examples",
+                "Adaptation of living things to their habitat",
+                "Relationship between organisms in the same habitat",
+                "Uniqueness of human beings (reasoning, problem solving, observation, inquisitiveness, measurement, inference)",
+                "Measurement of growth and development (changes in height, weight, size; developmental stages: infancy, adolescence, adulthood; characteristic features; temporal/permanent changes)"
+              ]
+            },
+            {
+              "sub_theme": "Chemicals",
+              "objectives": [
+                "Meaning of chemicals",
+                "Classes of chemicals based on use (pharmaceutical/cosmetics, nuclear, industrial, laboratory etc.) and hazardous nature (highly hazardous/toxic, moderately hazardous/toxic, non-hazardous/non-toxic)",
+                "Safety measures when using chemicals (manufacturer’s instructions, storage/handling guidelines, labelling etc.)"
+              ]
+            },
+            {
+              "sub_theme": "Family Traits",
+              "objectives": [
+                "Skin colour, height, albinism etc.",
+                "Meaning of dominant and recessive traits",
+                "Importance of family traits (intelligence, diseases, resemblance etc.)"
+              ]
+            },
+            {
+              "sub_theme": "Environmental Hazards",
+              "objectives": [
+                "Soil Erosion: definition, causes, control",
+                "Flooding: drainage patterns, causes, prevention, effects",
+                "Bush Burning: practices, effects, regulations",
+                "Deforestation: reasons, effects, regulations",
+                "Desertification: definition, geographical area, causes, control measures",
+                "Depletion of ozone layer: description, importance, effects (global warming, greenhouse effect etc.), control measures"
+              ]
+            },
+            {
+              "sub_theme": "Drug and Substance Abuse",
+              "objectives": [
+                "Effects of drug abuse",
+                "Prevention of drug abuse",
+                "Activities of drug control agencies (NAFDAC, NDLEA)",
+                "Misuse of herbal medicine"
+              ]
+            },
+            {
+              "sub_theme": "Resources from Living Things",
+              "objectives": [
+                "Plant sources (cash/food crops, dyes, drugs etc.)",
+                "Animal sources (hides/skin, dairy products etc.)",
+                "Economic importance"
+              ]
+            },
+            {
+              "sub_theme": "Resources from Non-Living Things",
+              "objectives": [
+                "Solid minerals (coal, limestone, gold, tin etc.)",
+                "Location in Nigeria",
+                "Economic importance"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "topic": "YOU AND ENERGY",
+          "sub_themes": [
+            {
+              "sub_theme": "Energy",
+              "objectives": [
+                "Meaning of energy",
+                "Sources of energy",
+                "Forms of energy",
+                "Transformation of energy",
+                "Uses of energy"
+              ]
+            },
+            {
+              "sub_theme": "Renewable and Non-Renewable Energy",
+              "objectives": [
+                "Meaning and examples",
+                "Use and misuse",
+                "Energy and society"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 3,
+          "topic": "SCIENCE AND DEVELOPMENT",
+          "sub_themes": [
+            {
+              "sub_theme": "The Solar System",
+              "objectives": [
+                "Gravitation and weightlessness",
+                "The earth in space",
+                "Space travel, Satellite"
+              ]
+            },
+            {
+              "sub_theme": "Crude Oil And Petrochemicals",
+              "objectives": [
+                "Meaning of radioactivity",
+                "Refining of crude oil",
+                "Uses of crude oil and petrochemicals",
+                "Importance"
+              ]
+            },
+            {
+              "sub_theme": "Skill Acquisition",
+              "objectives": [
+                "Meaning",
+                "Reasons (taking risks, survival strategy, managing emergency, learning to live together)",
+                "Types (farming, photography, basic computer literacy etc.)",
+                "Importance (improves quality of life, appreciate human capacity etc.)"
+              ]
+            },
+            {
+              "sub_theme": "Ethical Issues in Science and Development",
+              "objectives": [
+                "Meaning of right and wrong application of science",
+                "Implication of bad scientific practices",
+                "Adverse effects on a country"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "BASIC TECHNOLOGY",
+      "topics": [
+        {
+          "sn": 1,
+          "topic": "UNDERSTANDING BASIC TECHNOLOGY",
+          "sub_themes": [
+            {
+              "sub_theme": "Understanding Technology",
+              "objectives": [
+                "Technology related professions",
+                "Importance of technology"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "topic": "SAFETY",
+          "sub_themes": [
+            {
+              "sub_theme": "Safety Guidelines",
+              "objectives": [
+                "Safety guidelines for pedestrians, cyclists/motor cyclists, motorists"
+              ]
+            },
+            {
+              "sub_theme": "Workshop Safety",
+              "objectives": [
+                "Causes and types of workshop accidents",
+                "Workshop safety devices, rules and regulations",
+                "Accident prevention techniques"
+              ]
+            },
+            {
+              "sub_theme": "First Aid",
+              "objectives": [
+                "Meaning and materials",
+                "Application of simple first aid",
+                "ABC of First Aid (Airways, Bleeding and breaks, Circulation)"
+              ]
+            },
+            {
+              "sub_theme": "Rescue Operations",
+              "objectives": [
+                "Meaning",
+                "Different aspects",
+                "Securing the environment, vehicle and victim(s); steps involved"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 3,
+          "topic": "MATERIALS AND PROCESSING",
+          "sub_themes": [
+            {
+              "sub_theme": "Properties of Materials",
+              "objectives": [
+                "Wood: identification, classification (hardwood/softwood)",
+                "Metals: identification by properties, classification (ferrous/non-ferrous), forms",
+                "Ceramics and Glass: types, properties"
+              ]
+            },
+            {
+              "sub_theme": "Building Materials",
+              "objectives": [
+                "Common building materials and their uses"
+              ]
+            },
+            {
+              "sub_theme": "Materials and Their Common Uses",
+              "objectives": [
+                "Specific uses of wood, metals, brass, bronze, ceramics, rubber, plastic etc."
+              ]
+            },
+            {
+              "sub_theme": "Processing of Materials",
+              "objectives": [
+                "Timber processing (growth, felling, conversion, seasoning; defects; treatment)",
+                "Metal processing (smelting, casting; alloys)",
+                "Clay, ceramics and glass processing",
+                "Plastics and rubber processing"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 4,
+          "topic": "DRAWING PRACTICE",
+          "sub_themes": [
+            {
+              "sub_theme": "Drawing Instruments and Materials",
+              "objectives": [
+                "Instruments (Tee-square, set square, compasses etc.), handling, uses, care"
+              ]
+            },
+            {
+              "sub_theme": "Board Practice",
+              "objectives": [
+                "Setting paper, sharpening pencil, drawing lines, title block, lettering"
+              ]
+            },
+            {
+              "sub_theme": "Freehand Sketching",
+              "objectives": [
+                "Techniques for lines, curves, circles, irregular shapes"
+              ]
+            },
+            {
+              "sub_theme": "Geometrical Construction",
+              "objectives": [
+                "Circles (parts, division, tangents, normals)",
+                "Triangles (types, inscribed/circumscribed circles)",
+                "Polygons (regular/irregular: pentagon, hexagon etc.)"
+              ]
+            },
+            {
+              "sub_theme": "Plane Figures",
+              "objectives": [
+                "Construction, areas, enlargement/reduction"
+              ]
+            },
+            {
+              "sub_theme": "Isometric, Oblique, Orthographic Projection, Perspective, Scales, Plans and Blue-Prints",
+              "objectives": [
+                "Various drawing techniques, symbols, dimensioning etc."
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 5,
+          "topic": "TOOLS, MACHINES AND PROCESSES",
+          "sub_themes": [
+            {
+              "sub_theme": "Hand Tools (Woodwork and Metalwork)",
+              "objectives": [
+                "Types (measuring, marking, driving, cutting etc.), care and maintenance"
+              ]
+            },
+            {
+              "sub_theme": "Maintenance of Tools and Machines",
+              "objectives": [
+                "Types (preventive, corrective, predictive), importance"
+              ]
+            },
+            {
+              "sub_theme": "Machines (Woodwork, Metalwork)",
+              "objectives": [
+                "Types, uses, care"
+              ]
+            },
+            {
+              "sub_theme": "Drives and Motions",
+              "objectives": [
+                "Belt/chain drives, hydraulic/pneumatic, gears, linear/rotary motion, conversion"
+              ]
+            },
+            {
+              "sub_theme": "Projects and Joining",
+              "objectives": [
+                "Woodwork and metalwork projects",
+                "Soldering and brazing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "PHYSICAL AND HEALTH EDUCATION",
+      "topics": [
+        {
+          "sn": 1,
+          "topic": "BASIC HUMAN MOVEMENT",
+          "sub_themes": [
+            {
+              "sub_theme": "Physical Fitness and Conditioning",
+              "objectives": [
+                "Meaning, components, characteristics, importance, exercises, safety, benefits, influencing factors"
+              ]
+            },
+            {
+              "sub_theme": "Recreation, Leisure and Dance",
+              "objectives": [
+                "Meanings, differences, benefits, indoor/outdoor activities, demonstrations, types of dances, computer games"
+              ]
+            },
+            {
+              "sub_theme": "Posture and Postural Defects",
+              "objectives": [
+                "Meaning, kinds, defects (kyphosis etc.), causes, correction"
+              ]
+            },
+            {
+              "sub_theme": "Issues and Challenges",
+              "objectives": [
+                "Human trafficking, sports laws etc."
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "topic": "SPORTS AND GAMES",
+          "sub_themes": [
+            {
+              "sub_theme": "Athletics (Track and Field)",
+              "objectives": [
+                "Skills in field events (shot put, discus, pole vault, javelin), rules, safety, combined events"
+              ]
+            },
+            {
+              "sub_theme": "Ball Games (Soccer, Volleyball, Hockey)",
+              "objectives": [
+                "Skills, rules, officials, facilities, values, injuries"
+              ]
+            },
+            {
+              "sub_theme": "Contact and Non-Contact Sports",
+              "objectives": [
+                "Definitions, examples, benefits, skills, safety"
+              ]
+            },
+            {
+              "sub_theme": "Striking Games (Table Tennis, Tennis, Badminton)",
+              "objectives": [
+                "Skills, equipment, rules, officials"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 3,
+          "topic": "HEALTH EDUCATION",
+          "sub_themes": [
+            {
+              "sub_theme": "Personal, School and Community Health",
+              "objectives": [
+                "Determinants of health, characteristics of healthy person, sewage/refuse disposal, school health programme, pollution, family life education, agencies, personal health, ageing, drug abuse"
+              ]
+            },
+            {
+              "sub_theme": "Nutrition and Health",
+              "objectives": [
+                "Food types, nutrients, importance"
+              ]
+            },
+            {
+              "sub_theme": "Pathogens, Diseases and Prevention",
+              "objectives": [
+                "Diseases by pathogens, preventive measures, non-communicable diseases (sickle cell, obesity etc.), family health, vectors, STIs/HIV"
+              ]
+            },
+            {
+              "sub_theme": "First Aid and Safety",
+              "objectives": [
+                "Accidents, safety measures, injuries and first aid"
+              ]
+            },
+            {
+              "sub_theme": "Nigerian Sports Heroes",
+              "objectives": [
+                "Career guidance, heroes, professionals, injury prevention"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "COMPUTER STUDIES",
+      "topics": [
+        {
+          "sn": 1,
+          "topic": "BASIC COMPUTER OPERATIONS CONCEPTS",
+          "sub_themes": [
+            {
+              "sub_theme": "Historical Development of Computers",
+              "objectives": [
+                "Early devices, mechanical, electro-mechanical, electronic, generations"
+              ]
+            },
+            {
+              "sub_theme": "Data Processing",
+              "objectives": [
+                "Definition, cycle, importance of computer"
+              ]
+            },
+            {
+              "sub_theme": "Computer Ethics, Software, Operating System, Units of Storage, Programming, Safety, Viruses, Opportunities",
+              "objectives": [
+                "Various rules, types, functions, BASIC language, safety measures, virus types/sources/prevention, professionals and bodies"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "topic": "BASIC KNOWLEDGE OF INFORMATION TECHNOLOGY",
+          "sub_themes": [
+            {
+              "sub_theme": "Application of IT, Information Transmission, ICT, Gadgets, Internet",
+              "objectives": [
+                "Uses, ancient/modern methods, benefits/disadvantages, internet features, search engines etc."
+              ]
+            },
+            {
+              "sub_theme": "Digital Device and Economy",
+              "objectives": [
+                "Old vs new economy features, benefits"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 3,
+          "topic": "COMPUTER APPLICATION PACKAGES",
+          "sub_themes": [
+            {
+              "sub_theme": "Word Processing, Graphic Packages, Paint, Spreadsheet, Database, Graph",
+              "objectives": [
+                "Examples, uses, features, operations (creating, editing, formatting, calculations etc.)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "This JSON captures the detailed syllabus structure from the page, focusing on themes, topics, sub-themes, and key objectives. Some text had OCR/typing errors in the source which have been cleaned for readability where possible."
+}

@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "section": "Section c",
+      "subtopic": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Section B (For candidates in Ghana only)",
+      "section": "Section b",
+      "subtopic": "Section B (For candidates in Ghana only)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section B (For candidates in Ghana only) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Section B (For candidates in Ghana only) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "Section A (For all candidates)",
+      "section": "Section a",
+      "subtopic": "Section A (For all candidates)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Section A (For all candidates) in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Section A (For all candidates) is included in the Computer Studies/ICT syllabus."
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "subject": "Cultural and Creative Arts (CCA)",
+  "level": "BECE/Junior WAEC",
+  "themes": [
+    {
+      "theme": "THEME 1: ART AND CRAFTS",
+      "sub_themes": [
+        {
+          "sub_theme": "ARTS",
+          "topics": [
+            {
+              "topic": "Introduction to Arts",
+              "objectives": [
+                "Definition of Arts.",
+                "History and Origin of Arts: i. Early Man ii. Nigerian Arts",
+                "Categories/Types of Arts: i. Textile Design ii. Ceramics iii. Graphics Design iv. Aesthetics (Beautification and Decoration) v. Sculpture vi. Painting"
+              ]
+            },
+            {
+              "topic": "Elements of Design",
+              "objectives": [
+                "Meaning of Elements of Design.",
+                "Examples of Elements of Design.",
+                "Application of Elements of Design"
+              ]
+            },
+            {
+              "topic": "Principles of Design",
+              "objectives": [
+                "Meaning of Principles of Design.",
+                "Principles of Design: i. Harmony ii. Variety iii. Balance iv. Proportion v. Dominance vi. Rhythm",
+                "Uses of Principles of Design"
+              ]
+            },
+            {
+              "topic": "The study of Colours",
+              "objectives": [
+                "The Study of Colours.",
+                "Classification of Colours",
+                "Mixing of Colours",
+                "Sources of Local Colours (Dyes).",
+                "Uses of Colours",
+                "Making of a Colour Wheel"
+              ]
+            },
+            {
+              "topic": "Types and Features of Nigerian Traditional Arts",
+              "objectives": [
+                "Types of Traditional Arts: Nok, Igbo-Ukwu, Ife, Benin etc.",
+                "Places of Origin of Nigerian Traditional Arts: i. Nok – Kaduna State ii. Igbo-Ukwu – Anambra State iii. Ife – Osun State iv. Benin- Edo State etc.",
+                "Functions of Nigerian Traditional Arts"
+              ]
+            },
+            {
+              "topic": "Contemporary Nigerian Arts",
+              "objectives": [
+                "Nigerian Contemporary Artists.",
+                "Efforts of some Pioneering Nigerian Artists: i. Aina Onabolu ii. Akinola Lasekan iii. Ben Enwonwu iv. Etsu Ngbodaga v. Ladi Kwali vi. Bruce Onabrakpeya vii. Lamidi Fakeye etc.",
+                "Prominent Art Works and their Locations.",
+                "Income Generation through Contemporary Art"
+              ]
+            }
+          ]
+        },
+        {
+          "sub_theme": "CRAFTS",
+          "topics": [
+            {
+              "topic": "Crafts",
+              "objectives": [
+                "Meaning of Crafts",
+                "Types of Crafts: i. Fabric Craft ii. Paper Maché iii. Carving Craft iv. Woven craft v. Blacksmithing vi. Leather craft etc",
+                "Examples of Craft Works.",
+                "Uses of Crafts"
+              ]
+            },
+            {
+              "topic": "Materials, Tools and Equipment in Craft Making",
+              "objectives": [
+                "Types of Materials for Craft Production.",
+                "Tools and Equipments for Craft Production"
+              ]
+            },
+            {
+              "topic": "Tie and Dye",
+              "objectives": [
+                "Meaning of Tie and Dye.",
+                "Methods of Tying.",
+                "Materials and Tools for Tie and Dye.",
+                "Preparation of Dye bath",
+                "Dyeing process"
+              ]
+            },
+            {
+              "topic": "Paper Craft",
+              "objectives": [
+                "Meaning of Paper Craft",
+                "Materials and Tools for Making Paper Craft",
+                "Methods of Folding in Paper Craft",
+                "Paper Craft Production",
+                "Application of Colours in Craft Works"
+              ]
+            },
+            {
+              "topic": "Collage",
+              "objectives": [
+                "Meaning of Collage",
+                "Materials and Tools for Collage Making",
+                "Methods of Producing Collage"
+              ]
+            },
+            {
+              "topic": "Modelling with Paper Maché",
+              "objectives": [
+                "Meaning of Paper Maché",
+                "Processes of Modelling using Paper Maché",
+                "Objects that can be made from Paper Maché"
+              ]
+            },
+            {
+              "topic": "Bead Works",
+              "objectives": [
+                "Definition of Bead Works",
+                "Production of Beaded jewelleries using various materials.",
+                "Uses of Beads"
+              ]
+            },
+            {
+              "topic": "Mosaics",
+              "objectives": [
+                "Meaning of Mosaics",
+                "Materials and Tools for Making Mosaics",
+                "Uses of Mosaics"
+              ]
+            },
+            {
+              "topic": "Painting",
+              "objectives": [
+                "Painting of the following: i. Still life ii. Nature iii. Landscape iv. Imaginative object v. Figure.",
+                "Using tones, tints, shapes, lines etc."
+              ]
+            },
+            {
+              "topic": "Production of Patterns",
+              "objectives": [
+                "Meaning of Pattern.",
+                "Types of Patterns.",
+                "Producing Designs using Repeat Patterns"
+              ]
+            },
+            {
+              "topic": "Motifs",
+              "objectives": [
+                "Meaning of Motif.",
+                "Types of Motifs.",
+                "Uses of Motifs"
+              ]
+            },
+            {
+              "topic": "Lettering",
+              "objectives": [
+                "Meaning of Lettering",
+                "Types of Lettering",
+                "Uses of Lettering",
+                "Construction of Letters A — Z (lower and upper cases)",
+                "Qualities of a good Lettering"
+              ]
+            },
+            {
+              "topic": "Introduction to Embroidery",
+              "objectives": [
+                "Meaning of Embroidery",
+                "Embroidery Materials and Tools",
+                "Sources of Embroidery Designs.",
+                "Methods of Transferring Embroidery Designs",
+                "Embroidery Stitches"
+              ]
+            },
+            {
+              "topic": "Introduction to Knitting",
+              "objectives": [
+                "Meaning of Knitting",
+                "Materials and Tools used in Knitting",
+                "Basic Knitting Stitches"
+              ]
+            },
+            {
+              "topic": "Introduction to Crochetting",
+              "objectives": [
+                "Meaning of Crochetting",
+                "Materials and Tools used in Crochetting",
+                "Making of Crochetting Stitches"
+              ]
+            },
+            {
+              "topic": "Batik",
+              "objectives": [
+                "Meaning of Batik",
+                "Materials and Tools used for Batik Works",
+                "Making Batik Project: Techniques, Processes etc."
+              ]
+            },
+            {
+              "topic": "Packaging",
+              "objectives": [
+                "Meaning of Packaging",
+                "Constructing and Designing of Packages.",
+                "Methods of Package Design",
+                "Captions for Packages",
+                "Functions of Package Design"
+              ]
+            },
+            {
+              "topic": "Exhibition and Display Techniques",
+              "objectives": [
+                "Meaning of Exhibition",
+                "Places where Art Works can be Exhibited",
+                "Techniques of Art Works Display"
+              ]
+            },
+            {
+              "topic": "Marketing of Art Works",
+              "objectives": [
+                "Meaning of Marketing",
+                "Outlets for Marketing Art Works",
+                "Sources of Funding",
+                "Ways of Marketing Art Products"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "THEME 2: PERFORMING ART AND ENTERTAINMENT",
+      "sub_themes": [
+        {
+          "sub_theme": "MUSIC",
+          "topics": [
+            {
+              "topic": "Theory of Music",
+              "objectives": [
+                "Meaning of Music",
+                "Theory and Fundamentals of Music",
+                "Elements of Music: Pitch, Melody, Harmony, Rhythm, Texture, Timbre",
+                "Form or Structure of Music",
+                "Identification of the keyboard"
+              ]
+            },
+            {
+              "topic": "Rudiments of Music",
+              "objectives": [
+                "Meaning of Staff",
+                "Musical Alphabets",
+                "Clef and Names of the Staff",
+                "Types of Staff",
+                "Musical Notes and their relative value",
+                "Major Scale of C Natural etc."
+              ]
+            },
+            {
+              "topic": "Playing an Instrument",
+              "objectives": [
+                "The Recorder: Types, Uses, Steps of Playing"
+              ]
+            },
+            {
+              "topic": "Uses of Music",
+              "objectives": [
+                "Uses of Music in various contexts.",
+                "Impact of Music in the Society"
+              ]
+            },
+            {
+              "topic": "Musical Practices",
+              "objectives": [
+                "Music Listening",
+                "Popular Music genres.",
+                "Musical Styles: African, Western",
+                "Singing: Nigerian National Anthem, Scales, Pitch Identification, Voice Training"
+              ]
+            },
+            {
+              "topic": "Ear Training and Harmony",
+              "objectives": [
+                "Meaning of Ear Training",
+                "Rudiments of Harmony"
+              ]
+            },
+            {
+              "topic": "Creating Music/Solfa Notation",
+              "objectives": [
+                "Setting Words to music (Solfa) Syllables"
+              ]
+            }
+          ]
+        },
+        {
+          "sub_theme": "DRAMA",
+          "topics": [
+            {
+              "topic": "Drama and Theatre",
+              "objectives": [
+                "Meaning of Drama and Theatre",
+                "People involved in Drama/Theatre"
+              ]
+            },
+            {
+              "topic": "Functions of Drama",
+              "objectives": [
+                "Functions of Drama: Education, Information, Entertainment, Therapeutic, Development etc."
+              ]
+            },
+            {
+              "topic": "Elements of Drama",
+              "objectives": [
+                "Elements of Drama.",
+                "Identifying and Creating Elements in Drama"
+              ]
+            },
+            {
+              "topic": "Forms of Drama",
+              "objectives": [
+                "Forms of Drama: Comedy, Tragedy, Tragi-comedy"
+              ]
+            },
+            {
+              "topic": "Origin of Drama",
+              "objectives": [
+                "Origin of Drama: Mimesis, Ritual, Storytelling",
+                "Dramatic Elements of Festivals"
+              ]
+            },
+            {
+              "topic": "Playwriting",
+              "objectives": [
+                "Meaning of Playwriting.",
+                "Categories of Dramatists/Playwrights.",
+                "Duties of a Playwright"
+              ]
+            },
+            {
+              "topic": "The Director",
+              "objectives": [
+                "Meaning and Duties of a Play Director"
+              ]
+            },
+            {
+              "topic": "Costume and Make-up in Drama",
+              "objectives": [
+                "Meaning, Types and Uses of Costume and Make-up",
+                "Make-up Items"
+              ]
+            },
+            {
+              "topic": "Design in the Theatre",
+              "objectives": [
+                "Meaning of Theatre Design",
+                "Areas of Theatre Design.",
+                "Elements of Design"
+              ]
+            },
+            {
+              "topic": "Rehearsal",
+              "objectives": [
+                "Meaning of Rehearsal",
+                "Activities Involved in Rehearsal.",
+                "Stages of Rehearsal"
+              ]
+            },
+            {
+              "topic": "Drama and the Development of Rural Communities",
+              "objectives": [
+                "Drama and Theatre for Development"
+              ]
+            },
+            {
+              "topic": "Opportunities for Career Dramatists",
+              "objectives": [
+                "Career Prospects for Dramatists.",
+                "How they affect the society"
+              ]
+            }
+          ]
+        },
+        {
+          "sub_theme": "DANCE",
+          "topics": [
+            {
+              "topic": "Dance",
+              "objectives": [
+                "Meaning of Dance",
+                "Origin of Dance",
+                "Uses of Dance, How to Dance"
+              ]
+            },
+            {
+              "topic": "Introduction to Choreography",
+              "objectives": [
+                "Meaning of Choreography.",
+                "Principles of Choreography.",
+                "Meaning of a choreographer"
+              ]
+            },
+            {
+              "topic": "Process of Choreography",
+              "objectives": [
+                "Processes of Choreography"
+              ]
+            },
+            {
+              "topic": "Contemporary Dance",
+              "objectives": [
+                "Meaning and Features of Contemporary Dance",
+                "Performing some Contemporary Dance Movements"
+              ]
+            },
+            {
+              "topic": "Types of Dance",
+              "objectives": [
+                "Types of Dance: Pure Dance, Dance Drama, Dramatic Dance, Comic Dance, Abstract Dance, Study Dance etc."
+              ]
+            },
+            {
+              "topic": "Dance as a Career",
+              "objectives": [
+                "Dance as a Career and respectable Profession"
+              ]
+            },
+            {
+              "topic": "Prospects of Studying Dance in Nigeria",
+              "objectives": [
+                "Prospects of Dance in Nigeria"
+              ]
+            },
+            {
+              "topic": "Nigerian Traditional Dance",
+              "objectives": [
+                "Examples: Bata Dance, Koroso Dance, Ohafia Dance etc."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

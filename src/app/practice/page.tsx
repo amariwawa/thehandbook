@@ -1,6 +1,7 @@
 "use client";
 
 import SidebarLayout from "@/components/ui/SidebarLayout";
+import { GeistMono } from "geist/font/mono";
 import { subjects as allSubjectsData } from "@/lib/data";
 import { 
   Search, 
@@ -18,11 +19,12 @@ import {
   Plus,
   ArrowRight,
   GraduationCap,
-  Smile
+  Smile,
+  Orbit
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useSubjectSelection } from "@/context/SubjectSelectionContext";
 
 const subjectsData = [
@@ -40,6 +42,44 @@ export default function PracticePage() {
   // For the main practice hub, we show the 'mixed' stack by default
   const selectedDetails = getSelectedSubjectDetails('mixed');
 
+  const [activeExam, setActiveExam] = useState<'waec' | 'jamb' | 'bece'>('waec');
+  const [selectedSubjectId, setSelectedSubjectId] = useState<string | null>(null);
+  const [selectedSubjectName, setSelectedSubjectName] = useState<string | null>(null);
+  const [topicsList, setTopicsList] = useState<string[]>([]);
+  const [loadingTopics, setLoadingTopics] = useState(false);
+  const [subjectQuery, setSubjectQuery] = useState("");
+
+  const handleSelectSubject = async (subId: string, subName: string) => {
+    setSelectedSubjectId(subId);
+    setSelectedSubjectName(subName);
+    setLoadingTopics(true);
+    setTopicsList([]);
+    try {
+      const res = await fetch(`/api/syllabus/topics?subject=${encodeURIComponent(subId)}&exam=${activeExam}`);
+      const data = await res.json();
+      if (data.topics && Array.isArray(data.topics)) {
+        setTopicsList(data.topics);
+      } else {
+        setTopicsList(["Foundational Principles", "Advanced Concepts", "Core Theories", "Final Assessment"]);
+      }
+    } catch (err) {
+      console.error("Error loading syllabus topics:", err);
+      setTopicsList(["Foundational Principles", "Advanced Concepts", "Core Theories", "Final Assessment"]);
+    } finally {
+      setLoadingTopics(false);
+    }
+  };
+
+  const getSubjectsForExam = () => {
+    if (activeExam === 'waec') {
+      return Object.values(allSubjectsData.waec).flat();
+    }
+    return allSubjectsData[activeExam] || [];
+  };
+
+  const filteredSubjects = getSubjectsForExam().filter(sub => 
+    sub.name.toLowerCase().includes(subjectQuery.toLowerCase())
+  );
 
   return (
     <SidebarLayout>
@@ -55,51 +95,17 @@ export default function PracticePage() {
               <Play className="w-3 h-3 fill-current" />
               Academic Entry Point
             </div>
-            <h1 className="text-8xl font-black display-font leading-[0.85] tracking-tighter text-slate-900 dark:text-white transition-all">
-               Choose Your <br/>
-               <span className="text-[#1d3e8e] dark:text-indigo-400">Path.</span>
-            </h1>
-            <p className="text-xl text-slate-600 font-medium max-w-lg leading-relaxed">
-              Explore specialized curriculums to prepare for your specific mission-critical examinations.
-            </p>
+            <div className="space-y-4">
+              <h1 className="text-5xl font-bold display-font leading-none tracking-tighter text-slate-900 dark:text-white transition-all">
+                 Choose Your <span className="text-[#1d3e8e] dark:text-indigo-400">Path.</span>
+              </h1>
+              <p className="text-sm text-slate-500 dark:text-zinc-400 font-medium max-w-lg leading-relaxed">
+                Explore specialized curriculums to prepare for your specific mission-critical examinations.
+              </p>
+            </div>
           </motion.div>
           
-          <Link href="/practice/arena" className="w-full lg:w-96 relative group">
-             <div className="absolute -inset-4 bg-indigo-100/30 dark:bg-indigo-900/10 rounded-[3rem] blur-3xl group-hover:bg-indigo-300/30 dark:group-hover:bg-indigo-900/20 transition-all opacity-0 group-hover:opacity-100" />
-             <div className="relative bg-white dark:bg-zinc-900 rounded-[3.5rem] border border-slate-200 dark:border-white/5 shadow-premium overflow-hidden h-full flex flex-col group">
-                <div className="p-10 space-y-8 flex-1">
-                   <div className="flex justify-between items-start">
-                      <div className="w-16 h-16 bg-[#1d3e8e] rounded-2xl flex items-center justify-center text-white shadow-xl shadow-indigo-100">
-                         <Zap className="w-8 h-8 fill-current" />
-                      </div>
-                      <div className="text-[10px] font-black text-[#1d3e8e] dark:text-indigo-400 bg-indigo-50 dark:bg-white/5 px-4 py-1.5 rounded-full uppercase tracking-widest">Active Hub</div>
-                   </div>
-                   
-                   <div className="space-y-3">
-                      <h3 className="text-3xl font-black display-font text-slate-900 dark:text-white tracking-tight leading-none uppercase">Topical-Based <br/> Learning.</h3>
-                      <p className="text-xs text-slate-500 dark:text-slate-400 font-medium leading-relaxed">
-                         Access your scholarly stack and initiate high-precision AI practice sessions. 
-                      </p>
-                   </div>
-                </div>
 
-                <div className="bg-slate-50 dark:bg-black/40 p-8 border-t border-slate-100 dark:border-white/5 grid grid-cols-2 divide-x divide-slate-100 dark:divide-white/5">
-                   <div className="space-y-1">
-                      <div className="text-[9px] font-black text-slate-400 uppercase tracking-widest leading-none">Subjects</div>
-                      <div className="text-xl font-black display-font text-slate-900 dark:text-white leading-none">{selectedSubjects.length} Active</div>
-                   </div>
-                   <div className="space-y-1 pl-8">
-                      <div className="text-[9px] font-black text-slate-400 uppercase tracking-widest leading-none">Ready</div>
-                      <div className="text-xl font-black display-font text-indigo-600 dark:text-indigo-400 leading-none">NOW</div>
-                   </div>
-                </div>
-
-                <div className="bg-slate-900 text-white px-10 py-5 flex items-center justify-between group-hover:bg-[#1d3e8e] transition-colors">
-                   <span className="text-[10px] font-black uppercase tracking-[0.4em]">Launch Selection</span>
-                   <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                </div>
-             </div>
-          </Link>
         </section>
 
         {/* Categories Section - Unified Row */}
@@ -179,10 +185,9 @@ export default function PracticePage() {
                </div>
                <div className="flex flex-col md:flex-row items-center gap-12 relative z-10">
                   <div className="flex-1 space-y-4">
-                     <div className="inline-flex items-center gap-2 bg-white/10 px-4 py-1.5 rounded-full text-[9px] font-black uppercase tracking-widest text-indigo-300">
-                        Subject Curator
+                     <div className="flex items-center gap-4">
+                        <h3 className="text-5xl font-bold display-font tracking-tight text-white">Academic Stack Builder</h3>
                      </div>
-                     <h3 className="text-4xl font-black display-font tracking-tight">Academic Stack Builder</h3>
                      <p className="text-sm text-white/60 font-medium max-w-xl leading-relaxed">
                         Choose the official subjects you offer to build your academic stack. Our AI uses this selection to personalize your entire learning suite.
                      </p>
@@ -234,27 +239,133 @@ export default function PracticePage() {
           </Link>
         </section>
 
-        {/* Historical Archives */}
-        <section className="bg-white dark:bg-black rounded-[5rem] border border-slate-100 dark:border-white/10 p-16 grid grid-cols-1 lg:grid-cols-2 gap-20 items-center transition-colors">
-           <div className="space-y-10">
-              <h2 className="text-5xl font-black display-font leading-[0.95] tracking-tight text-slate-900 dark:text-white">
-                Historical <br/>
-                <span className="text-[#1d3e8e] dark:text-indigo-400">Archives.</span>
-              </h2>
-              <p className="text-lg text-slate-500 dark:text-slate-400 font-medium leading-relaxed">
-                Access the most comprehensive database of past questions in West Africa. Choose a specific year to simulate real exam conditions.
-              </p>
-              <div className="grid grid-cols-4 gap-4">
-                {[2024, 2023, 2022, 2021, 2020, 2019, 2018, "MORE"].map((year) => (
-                  <button key={year} className="bg-slate-50 dark:bg-white/5 border border-slate-100 dark:border-white/10 rounded-xl py-3 text-[10px] font-black text-slate-500 dark:text-slate-300 hover:bg-[#1d3e8e] hover:text-white transition-all">
-                    {year}
-                  </button>
-                ))}
+        {/* Topical-Based Learning Section */}
+        <section className="bg-white dark:bg-[#0a0a0a] rounded-[3.5rem] border border-slate-100 dark:border-zinc-800/80 p-12 space-y-10 transition-colors shadow-soft">
+           <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
+              <div className="space-y-4">
+                 <div className="inline-flex items-center gap-2 bg-[#1d3e8e]/5 dark:bg-[#141414] border border-[#1d3e8e]/10 dark:border-zinc-800 text-[#1d3e8e] dark:text-indigo-400 px-4 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-widest">
+                   <Zap className="w-3 h-3 fill-current" />
+                   Active Learning Hub
+                 </div>
+                 <h2 className="text-4xl font-black display-font leading-none tracking-tight text-slate-900 dark:text-white">
+                   Topical-Based <span className="text-[#1d3e8e] dark:text-indigo-400">Learning.</span>
+                 </h2>
+                 <p className="text-sm text-slate-500 dark:text-zinc-400 font-medium max-w-xl">
+                   Select an examination, choose a subject, and practice with high-precision questions built directly from the official syllabus topics.
+                 </p>
+              </div>
+
+              {/* Exam Tabs Selector */}
+              <div className="flex bg-slate-100 dark:bg-[#141414] p-1.5 rounded-2xl border border-slate-200/50 dark:border-zinc-800/50">
+                 {['waec', 'jamb', 'bece'].map((exam) => (
+                    <button
+                      key={exam}
+                      onClick={() => {
+                        setActiveExam(exam as any);
+                        setSelectedSubjectId(null);
+                        setSelectedSubjectName(null);
+                        setTopicsList([]);
+                        setSubjectQuery("");
+                      }}
+                      className={`px-6 py-3 rounded-xl text-xs font-black uppercase tracking-widest transition-all ${
+                        activeExam === exam
+                          ? 'bg-[#1d3e8e] text-white shadow-lg'
+                          : 'text-slate-400 hover:text-slate-950 dark:hover:text-white'
+                      }`}
+                    >
+                      {exam}
+                    </button>
+                 ))}
               </div>
            </div>
-           <div className="relative rounded-[4rem] overflow-hidden shadow-premium dark:shadow-none">
-              <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=2670" alt="Archives" className="w-full h-[450px] object-cover grayscale brightness-95 dark:brightness-75" />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#1d3e8e]/20 to-transparent" />
+
+           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+              {/* Subjects Panel */}
+              <div className="lg:col-span-2 space-y-6">
+                 <div className="flex items-center justify-between gap-4">
+                    <div className="text-xs font-black uppercase text-slate-400 tracking-widest">Subjects Available</div>
+                    {/* Subject search */}
+                    <div className="relative max-w-xs flex-1">
+                       <Search className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+                       <input 
+                         type="text"
+                         placeholder="Filter subjects..."
+                         value={subjectQuery}
+                         onChange={(e) => setSubjectQuery(e.target.value)}
+                         className="w-full bg-slate-50 dark:bg-[#141414] border border-slate-100 dark:border-zinc-800 rounded-xl py-2 pl-10 pr-4 text-xs font-bold text-slate-700 dark:text-slate-200 outline-none focus:border-[#1d3e8e] dark:focus:border-indigo-500"
+                       />
+                    </div>
+                 </div>
+
+                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 max-h-[360px] overflow-y-auto pr-2 no-scrollbar">
+                    {filteredSubjects.map((sub) => {
+                       const isSelected = selectedSubjectId === sub.id;
+                       return (
+                          <button
+                            key={sub.id}
+                            onClick={() => handleSelectSubject(sub.id, sub.name)}
+                            className={`p-4 rounded-2xl border text-left flex items-center gap-3 transition-all hover:scale-[1.02] active:scale-95 ${
+                              isSelected
+                                ? 'bg-indigo-50/50 dark:bg-indigo-950/20 border-indigo-500 dark:border-indigo-500 shadow-sm'
+                                : 'bg-slate-50/50 dark:bg-[#0a0a0a] border-slate-100 dark:border-zinc-800 hover:border-slate-200 dark:hover:border-zinc-700'
+                            }`}
+                          >
+                             <div className="w-10 h-10 bg-white dark:bg-zinc-800 rounded-xl p-1.5 flex items-center justify-center border border-slate-100 dark:border-zinc-700 shadow-sm shrink-0">
+                                <img src={sub.image || "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"} alt={sub.name} className="w-full h-full object-contain" />
+                             </div>
+                             <div className="truncate">
+                                <div className="text-xs font-bold text-slate-800 dark:text-slate-200 truncate">{sub.name}</div>
+                                <div className="text-[9px] font-black uppercase text-slate-400 tracking-wider">Tap to load topics</div>
+                             </div>
+                          </button>
+                       );
+                    })}
+                 </div>
+              </div>
+
+              {/* Topics Panel */}
+              <div className="bg-slate-50/50 dark:bg-[#141414] rounded-3xl p-6 border border-slate-100 dark:border-zinc-800/60 flex flex-col h-[420px] overflow-hidden">
+                 <div className="space-y-1 mb-4 border-b border-slate-100 dark:border-zinc-800 pb-3">
+                    <div className="text-[9px] font-black uppercase text-[#1d3e8e] dark:text-indigo-400 tracking-[0.15em]">Syllabus Curriculum</div>
+                    <h3 className="text-sm font-black display-font text-slate-800 dark:text-slate-100 truncate">
+                       {selectedSubjectName ? `${selectedSubjectName} Topics` : "Select a Subject"}
+                    </h3>
+                 </div>
+
+                 <div className="flex-1 overflow-y-auto pr-1 no-scrollbar space-y-2">
+                    {loadingTopics ? (
+                       <div className="h-full flex flex-col items-center justify-center text-center space-y-2 text-slate-400">
+                          <div className="w-6 h-6 border-2 border-indigo-500 border-t-transparent rounded-full animate-spin" />
+                          <div className="text-[10px] font-black uppercase tracking-widest animate-pulse">Loading topics...</div>
+                       </div>
+                    ) : selectedSubjectId ? (
+                       topicsList.map((topic, index) => (
+                          <Link 
+                            key={index}
+                            href={`/practice/session/${activeExam}/${selectedSubjectId}?topic=${encodeURIComponent(topic)}`}
+                            className="group block"
+                          >
+                             <div className="p-3 bg-white dark:bg-[#0a0a0a] border border-slate-100 dark:border-zinc-800 rounded-xl hover:border-[#1d3e8e] dark:hover:border-indigo-500 transition-all flex items-center justify-between gap-3 shadow-soft hover:shadow-md">
+                                <span className="text-[11px] font-bold text-slate-600 dark:text-slate-300 group-hover:text-[#1d3e8e] dark:group-hover:text-indigo-400 transition-colors line-clamp-2 leading-relaxed">
+                                   {topic}
+                                </span>
+                                <ChevronRight className="w-3.5 h-3.5 text-slate-300 dark:text-zinc-600 group-hover:text-[#1d3e8e] dark:group-hover:text-indigo-400 group-hover:translate-x-0.5 transition-all shrink-0" />
+                             </div>
+                          </Link>
+                       ))
+                    ) : (
+                       <div className="h-full flex flex-col items-center justify-center text-center p-6 space-y-4 text-slate-400 dark:text-zinc-600">
+                          <div className="w-16 h-16 bg-slate-100 dark:bg-zinc-800/40 rounded-2xl flex items-center justify-center">
+                             <BookOpen className="w-8 h-8 opacity-40" />
+                          </div>
+                          <div>
+                             <div className="text-xs font-black uppercase tracking-wider mb-1">No Subject Selected</div>
+                             <p className="text-[10px] max-w-[180px] leading-relaxed">Select any subject from the grid on the left to reveal all official topics.</p>
+                          </div>
+                       </div>
+                    )}
+                 </div>
+              </div>
            </div>
         </section>
       </div>

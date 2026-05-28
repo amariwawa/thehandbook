@@ -1,0 +1,2260 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Uses of ICT tools e.g. mobile phones, computers, Internet, television set, radio, etc.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Uses of ICT tools e.g. mobile phones, computers, Internet, television set, radio, etc.",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "TCP",
+        "B": "SMTP",
+        "C": "HTTP",
+        "D": "FTP"
+      },
+      "answer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 5,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Uses of ICT tools e.g. mobile phones, computers, Internet, television set, radio, etc.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Uses of ICT tools e.g. mobile phones, computers, Internet, television set, radio, etc.",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "SMTP",
+        "B": "HTTP",
+        "C": "TCP",
+        "D": "FTP"
+      },
+      "answer": "A",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 6,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Uses of ICT tools e.g. mobile phones, computers, Internet, television set, radio, etc.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Uses of ICT tools e.g. mobile phones, computers, Internet, television set, radio, etc.",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "SMTP",
+        "B": "FTP",
+        "C": "HTTP",
+        "D": "TCP"
+      },
+      "answer": "A",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 7,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Impact of ICT on Education, Social and Economic Development. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Information processing cycle; distinction between data and information. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BASIC ICT CONCEPTS AND COMPUTERS: Types and uses of computers. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "COMPUTER HARDWARE",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE",
+      "difficulty": "hard",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Keyboard",
+        "B": "Printer",
+        "C": "Touchscreen monitor",
+        "D": "Scanner"
+      },
+      "answer": "C",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 17,
+      "topic": "COMPUTER HARDWARE",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE",
+      "difficulty": "easy",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Touchscreen monitor",
+        "B": "Scanner",
+        "C": "Keyboard",
+        "D": "Printer"
+      },
+      "answer": "A",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 18,
+      "topic": "COMPUTER HARDWARE",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE",
+      "difficulty": "medium",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Touchscreen monitor",
+        "B": "Scanner",
+        "C": "Keyboard",
+        "D": "Printer"
+      },
+      "answer": "A",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 19,
+      "topic": "COMPUTER HARDWARE: Categories of computer hardware:",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: Categories of computer hardware:",
+      "difficulty": "easy",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Scanner",
+        "B": "Printer",
+        "C": "Touchscreen monitor",
+        "D": "Keyboard"
+      },
+      "answer": "C",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 20,
+      "topic": "COMPUTER HARDWARE: Categories of computer hardware:",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: Categories of computer hardware:",
+      "difficulty": "medium",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Touchscreen monitor",
+        "B": "Scanner",
+        "C": "Printer",
+        "D": "Keyboard"
+      },
+      "answer": "A",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 21,
+      "topic": "COMPUTER HARDWARE: Categories of computer hardware:",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: Categories of computer hardware:",
+      "difficulty": "hard",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Touchscreen monitor",
+        "B": "Scanner",
+        "C": "Printer",
+        "D": "Keyboard"
+      },
+      "answer": "A",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 22,
+      "topic": "COMPUTER HARDWARE: - The system unit",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - The system unit",
+      "difficulty": "medium",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Scanner",
+        "B": "Keyboard",
+        "C": "Printer",
+        "D": "Touchscreen monitor"
+      },
+      "answer": "D",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 23,
+      "topic": "COMPUTER HARDWARE: - The system unit",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - The system unit",
+      "difficulty": "hard",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Keyboard",
+        "B": "Touchscreen monitor",
+        "C": "Printer",
+        "D": "Scanner"
+      },
+      "answer": "B",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 24,
+      "topic": "COMPUTER HARDWARE: - The system unit",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - The system unit",
+      "difficulty": "easy",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Touchscreen monitor",
+        "B": "Printer",
+        "C": "Keyboard",
+        "D": "Scanner"
+      },
+      "answer": "A",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 25,
+      "topic": "COMPUTER HARDWARE: - Peripherals",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - Peripherals",
+      "difficulty": "hard",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Printer",
+        "B": "Touchscreen monitor",
+        "C": "Keyboard",
+        "D": "Scanner"
+      },
+      "answer": "B",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 26,
+      "topic": "COMPUTER HARDWARE: - Peripherals",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - Peripherals",
+      "difficulty": "easy",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Scanner",
+        "B": "Printer",
+        "C": "Keyboard",
+        "D": "Touchscreen monitor"
+      },
+      "answer": "D",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 27,
+      "topic": "COMPUTER HARDWARE: - Peripherals",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - Peripherals",
+      "difficulty": "medium",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Printer",
+        "B": "Touchscreen monitor",
+        "C": "Scanner",
+        "D": "Keyboard"
+      },
+      "answer": "B",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 28,
+      "topic": "COMPUTER HARDWARE: - Storage media.",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - Storage media.",
+      "difficulty": "easy",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Touchscreen monitor",
+        "B": "Keyboard",
+        "C": "Scanner",
+        "D": "Printer"
+      },
+      "answer": "A",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 29,
+      "topic": "COMPUTER HARDWARE: - Storage media.",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - Storage media.",
+      "difficulty": "medium",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Scanner",
+        "B": "Printer",
+        "C": "Keyboard",
+        "D": "Touchscreen monitor"
+      },
+      "answer": "D",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 30,
+      "topic": "COMPUTER HARDWARE: - Storage media.",
+      "section": "General",
+      "subtopic": "COMPUTER HARDWARE: - Storage media.",
+      "difficulty": "hard",
+      "question": "Which device is both an input and output device?",
+      "options": {
+        "A": "Keyboard",
+        "B": "Scanner",
+        "C": "Touchscreen monitor",
+        "D": "Printer"
+      },
+      "answer": "C",
+      "explanation": "A touchscreen accepts input (touch) and displays output, making it both an input and output device."
+    },
+    {
+      "id": 31,
+      "topic": "COMPUTER SOFTWARE",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Windows OS"
+      },
+      "answer": "D",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 32,
+      "topic": "COMPUTER SOFTWARE",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Adobe Photoshop",
+        "C": "Windows OS",
+        "D": "Google Chrome"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 33,
+      "topic": "COMPUTER SOFTWARE",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Adobe Photoshop",
+        "C": "Google Chrome",
+        "D": "Windows OS"
+      },
+      "answer": "D",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 34,
+      "topic": "COMPUTER SOFTWARE: Types of software: System and application software.",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE: Types of software: System and application software.",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Microsoft Word",
+        "C": "Windows OS",
+        "D": "Google Chrome"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 35,
+      "topic": "COMPUTER SOFTWARE: Types of software: System and application software.",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE: Types of software: System and application software.",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Google Chrome",
+        "B": "Windows OS",
+        "C": "Adobe Photoshop",
+        "D": "Microsoft Word"
+      },
+      "answer": "B",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 36,
+      "topic": "COMPUTER SOFTWARE: Types of software: System and application software.",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE: Types of software: System and application software.",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Google Chrome",
+        "C": "Microsoft Word",
+        "D": "Windows OS"
+      },
+      "answer": "D",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 37,
+      "topic": "COMPUTER SOFTWARE: Open source and proprietary software.",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE: Open source and proprietary software.",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Windows OS",
+        "D": "Adobe Photoshop"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 38,
+      "topic": "COMPUTER SOFTWARE: Open source and proprietary software.",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE: Open source and proprietary software.",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Windows OS",
+        "B": "Microsoft Word",
+        "C": "Adobe Photoshop",
+        "D": "Google Chrome"
+      },
+      "answer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 39,
+      "topic": "COMPUTER SOFTWARE: Open source and proprietary software.",
+      "section": "General",
+      "subtopic": "COMPUTER SOFTWARE: Open source and proprietary software.",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Windows OS",
+        "C": "Google Chrome",
+        "D": "Microsoft Word"
+      },
+      "answer": "B",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 40,
+      "topic": "THREATS TO COMPUTERS AND USERS",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "THREATS TO COMPUTERS AND USERS is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "THREATS TO COMPUTERS AND USERS",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THREATS TO COMPUTERS AND USERS is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "THREATS TO COMPUTERS AND USERS",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "THREATS TO COMPUTERS AND USERS is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Meaning of computer threats. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Meaning of computer threats. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Meaning of computer threats. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Meaning of computer threats. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "THREATS TO COMPUTERS AND USERS: Categories of computer threats.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Categories of computer threats.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Categories of computer threats. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Categories of computer threats. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "THREATS TO COMPUTERS AND USERS: Categories of computer threats.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Categories of computer threats.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Categories of computer threats. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Categories of computer threats. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "THREATS TO COMPUTERS AND USERS: Categories of computer threats.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Categories of computer threats.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Categories of computer threats. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Categories of computer threats. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Natural threats e.g. earthquakes, heat, floods, etc. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Human threats e.g. viruses, worms, intentional damage, etc. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Health hazards to computer users: causes and effects. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards.",
+      "section": "General",
+      "subtopic": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THREATS TO COMPUTERS AND USERS: Remedies to threats and hazards. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "WORD PROCESSING",
+      "section": "General",
+      "subtopic": "WORD PROCESSING",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about WORD PROCESSING in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "WORD PROCESSING is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "WORD PROCESSING",
+      "section": "General",
+      "subtopic": "WORD PROCESSING",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about WORD PROCESSING in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WORD PROCESSING is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "WORD PROCESSING",
+      "section": "General",
+      "subtopic": "WORD PROCESSING",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about WORD PROCESSING in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WORD PROCESSING is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "WORD PROCESSING: Word Processing packages, their uses and importance.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Word Processing packages, their uses and importance.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about WORD PROCESSING: Word Processing packages, their uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WORD PROCESSING: Word Processing packages, their uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "WORD PROCESSING: Word Processing packages, their uses and importance.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Word Processing packages, their uses and importance.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about WORD PROCESSING: Word Processing packages, their uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WORD PROCESSING: Word Processing packages, their uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "WORD PROCESSING: Word Processing packages, their uses and importance.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Word Processing packages, their uses and importance.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about WORD PROCESSING: Word Processing packages, their uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "WORD PROCESSING: Word Processing packages, their uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "WORD PROCESSING: Creating and saving documents.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Creating and saving documents.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about WORD PROCESSING: Creating and saving documents. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WORD PROCESSING: Creating and saving documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "WORD PROCESSING: Creating and saving documents.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Creating and saving documents.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about WORD PROCESSING: Creating and saving documents. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "WORD PROCESSING: Creating and saving documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "WORD PROCESSING: Creating and saving documents.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Creating and saving documents.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about WORD PROCESSING: Creating and saving documents. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "WORD PROCESSING: Creating and saving documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "WORD PROCESSING: Editing, formatting, and insertion of objects e.g. tables, graphics, etc.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Editing, formatting, and insertion of objects e.g. tables, graphics, etc.",
+      "difficulty": "hard",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Field",
+        "B": "Query",
+        "C": "Table",
+        "D": "Record"
+      },
+      "answer": "D",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 71,
+      "topic": "WORD PROCESSING: Editing, formatting, and insertion of objects e.g. tables, graphics, etc.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Editing, formatting, and insertion of objects e.g. tables, graphics, etc.",
+      "difficulty": "easy",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Table",
+        "B": "Field",
+        "C": "Query",
+        "D": "Record"
+      },
+      "answer": "D",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 72,
+      "topic": "WORD PROCESSING: Editing, formatting, and insertion of objects e.g. tables, graphics, etc.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Editing, formatting, and insertion of objects e.g. tables, graphics, etc.",
+      "difficulty": "medium",
+      "question": "In a relational database, a row is called a:",
+      "options": {
+        "A": "Table",
+        "B": "Query",
+        "C": "Record",
+        "D": "Field"
+      },
+      "answer": "C",
+      "explanation": "In database terminology, a row represents a record (one complete set of data), while a column represents a field."
+    },
+    {
+      "id": 73,
+      "topic": "WORD PROCESSING: Printing of documents.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Printing of documents.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about WORD PROCESSING: Printing of documents. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WORD PROCESSING: Printing of documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "WORD PROCESSING: Printing of documents.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Printing of documents.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about WORD PROCESSING: Printing of documents. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "WORD PROCESSING: Printing of documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "WORD PROCESSING: Printing of documents.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Printing of documents.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about WORD PROCESSING: Printing of documents. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "WORD PROCESSING: Printing of documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute.",
+      "section": "General",
+      "subtopic": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "WORD PROCESSING: Speed and Accuracy in typing at 30-35 words per minute. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "SPREADSHEET",
+      "section": "General",
+      "subtopic": "SPREADSHEET",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about SPREADSHEET in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SPREADSHEET is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "SPREADSHEET",
+      "section": "General",
+      "subtopic": "SPREADSHEET",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about SPREADSHEET in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "SPREADSHEET",
+      "section": "General",
+      "subtopic": "SPREADSHEET",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about SPREADSHEET in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SPREADSHEET is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "SPREADSHEET: Spreadsheet packages, their uses and importance.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Spreadsheet packages, their uses and importance.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about SPREADSHEET: Spreadsheet packages, their uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET: Spreadsheet packages, their uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "SPREADSHEET: Spreadsheet packages, their uses and importance.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Spreadsheet packages, their uses and importance.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about SPREADSHEET: Spreadsheet packages, their uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET: Spreadsheet packages, their uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "SPREADSHEET: Spreadsheet packages, their uses and importance.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Spreadsheet packages, their uses and importance.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about SPREADSHEET: Spreadsheet packages, their uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET: Spreadsheet packages, their uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "SPREADSHEET: Types of data and their uses.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Types of data and their uses.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about SPREADSHEET: Types of data and their uses. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET: Types of data and their uses. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "SPREADSHEET: Types of data and their uses.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Types of data and their uses.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about SPREADSHEET: Types of data and their uses. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET: Types of data and their uses. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "SPREADSHEET: Types of data and their uses.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Types of data and their uses.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about SPREADSHEET: Types of data and their uses. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "SPREADSHEET: Types of data and their uses. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "SPREADSHEET: Creating and saving workbook.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Creating and saving workbook.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about SPREADSHEET: Creating and saving workbook. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SPREADSHEET: Creating and saving workbook. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "SPREADSHEET: Creating and saving workbook.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Creating and saving workbook.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about SPREADSHEET: Creating and saving workbook. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET: Creating and saving workbook. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "SPREADSHEET: Creating and saving workbook.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Creating and saving workbook.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about SPREADSHEET: Creating and saving workbook. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "SPREADSHEET: Creating and saving workbook. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 91,
+      "topic": "SPREADSHEET: Constructing and inserting formulae and functions.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Constructing and inserting formulae and functions.",
+      "difficulty": "easy",
+      "question": "In programming, a named storage location that holds a value is called a:",
+      "options": {
+        "A": "Constant",
+        "B": "Array",
+        "C": "Function",
+        "D": "Variable"
+      },
+      "answer": "D",
+      "explanation": "A variable is a named memory location whose value can change during program execution."
+    },
+    {
+      "id": 92,
+      "topic": "SPREADSHEET: Constructing and inserting formulae and functions.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Constructing and inserting formulae and functions.",
+      "difficulty": "medium",
+      "question": "In programming, a named storage location that holds a value is called a:",
+      "options": {
+        "A": "Variable",
+        "B": "Function",
+        "C": "Array",
+        "D": "Constant"
+      },
+      "answer": "A",
+      "explanation": "A variable is a named memory location whose value can change during program execution."
+    },
+    {
+      "id": 93,
+      "topic": "SPREADSHEET: Constructing and inserting formulae and functions.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Constructing and inserting formulae and functions.",
+      "difficulty": "hard",
+      "question": "In programming, a named storage location that holds a value is called a:",
+      "options": {
+        "A": "Array",
+        "B": "Constant",
+        "C": "Variable",
+        "D": "Function"
+      },
+      "answer": "C",
+      "explanation": "A variable is a named memory location whose value can change during program execution."
+    },
+    {
+      "id": 94,
+      "topic": "SPREADSHEET: Editing and formatting worksheets.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Editing and formatting worksheets.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about SPREADSHEET: Editing and formatting worksheets. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "SPREADSHEET: Editing and formatting worksheets. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 95,
+      "topic": "SPREADSHEET: Editing and formatting worksheets.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Editing and formatting worksheets.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about SPREADSHEET: Editing and formatting worksheets. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "SPREADSHEET: Editing and formatting worksheets. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 96,
+      "topic": "SPREADSHEET: Editing and formatting worksheets.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Editing and formatting worksheets.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about SPREADSHEET: Editing and formatting worksheets. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "SPREADSHEET: Editing and formatting worksheets. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 97,
+      "topic": "SPREADSHEET: Printing worksheets.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Printing worksheets.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about SPREADSHEET: Printing worksheets. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "SPREADSHEET: Printing worksheets. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 98,
+      "topic": "SPREADSHEET: Printing worksheets.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Printing worksheets.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about SPREADSHEET: Printing worksheets. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "SPREADSHEET: Printing worksheets. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 99,
+      "topic": "SPREADSHEET: Printing worksheets.",
+      "section": "General",
+      "subtopic": "SPREADSHEET: Printing worksheets.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about SPREADSHEET: Printing worksheets. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SPREADSHEET: Printing worksheets. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 100,
+      "topic": "PRESENTATION",
+      "section": "General",
+      "subtopic": "PRESENTATION",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 101,
+      "topic": "PRESENTATION",
+      "section": "General",
+      "subtopic": "PRESENTATION",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PRESENTATION is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 102,
+      "topic": "PRESENTATION",
+      "section": "General",
+      "subtopic": "PRESENTATION",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 103,
+      "topic": "PRESENTATION: Presentation Packages, uses and importance.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Presentation Packages, uses and importance.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION: Presentation Packages, uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION: Presentation Packages, uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 104,
+      "topic": "PRESENTATION: Presentation Packages, uses and importance.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Presentation Packages, uses and importance.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION: Presentation Packages, uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Presentation Packages, uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 105,
+      "topic": "PRESENTATION: Presentation Packages, uses and importance.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Presentation Packages, uses and importance.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION: Presentation Packages, uses and importance. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Presentation Packages, uses and importance. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 106,
+      "topic": "PRESENTATION: Creating and saving presentations.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Creating and saving presentations.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION: Creating and saving presentations. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PRESENTATION: Creating and saving presentations. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 107,
+      "topic": "PRESENTATION: Creating and saving presentations.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Creating and saving presentations.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION: Creating and saving presentations. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Creating and saving presentations. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 108,
+      "topic": "PRESENTATION: Creating and saving presentations.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Creating and saving presentations.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION: Creating and saving presentations. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PRESENTATION: Creating and saving presentations. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 109,
+      "topic": "PRESENTATION: Editing, formatting, and insertion of objects.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Editing, formatting, and insertion of objects.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION: Editing, formatting, and insertion of objects. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PRESENTATION: Editing, formatting, and insertion of objects. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 110,
+      "topic": "PRESENTATION: Editing, formatting, and insertion of objects.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Editing, formatting, and insertion of objects.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION: Editing, formatting, and insertion of objects. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION: Editing, formatting, and insertion of objects. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 111,
+      "topic": "PRESENTATION: Editing, formatting, and insertion of objects.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Editing, formatting, and insertion of objects.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION: Editing, formatting, and insertion of objects. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION: Editing, formatting, and insertion of objects. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 112,
+      "topic": "PRESENTATION: Slide shows.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Slide shows.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION: Slide shows. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Slide shows. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 113,
+      "topic": "PRESENTATION: Slide shows.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Slide shows.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION: Slide shows. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Slide shows. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 114,
+      "topic": "PRESENTATION: Slide shows.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Slide shows.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION: Slide shows. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION: Slide shows. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 115,
+      "topic": "PRESENTATION: Master slides.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Master slides.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION: Master slides. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Master slides. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 116,
+      "topic": "PRESENTATION: Master slides.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Master slides.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION: Master slides. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION: Master slides. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 117,
+      "topic": "PRESENTATION: Master slides.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Master slides.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION: Master slides. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Master slides. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 118,
+      "topic": "PRESENTATION: Factors to consider before delivering a presentation.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Factors to consider before delivering a presentation.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION: Factors to consider before delivering a presentation. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PRESENTATION: Factors to consider before delivering a presentation. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 119,
+      "topic": "PRESENTATION: Factors to consider before delivering a presentation.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Factors to consider before delivering a presentation.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION: Factors to consider before delivering a presentation. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "PRESENTATION: Factors to consider before delivering a presentation. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 120,
+      "topic": "PRESENTATION: Factors to consider before delivering a presentation.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Factors to consider before delivering a presentation.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION: Factors to consider before delivering a presentation. in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PRESENTATION: Factors to consider before delivering a presentation. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 121,
+      "topic": "PRESENTATION: Printing Presentation documents.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Printing Presentation documents.",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about PRESENTATION: Printing Presentation documents. in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "PRESENTATION: Printing Presentation documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 122,
+      "topic": "PRESENTATION: Printing Presentation documents.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Printing Presentation documents.",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about PRESENTATION: Printing Presentation documents. in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "PRESENTATION: Printing Presentation documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 123,
+      "topic": "PRESENTATION: Printing Presentation documents.",
+      "section": "General",
+      "subtopic": "PRESENTATION: Printing Presentation documents.",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about PRESENTATION: Printing Presentation documents. in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "PRESENTATION: Printing Presentation documents. is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 124,
+      "topic": "THE INTERNET",
+      "section": "General",
+      "subtopic": "THE INTERNET",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "SMTP",
+        "B": "TCP",
+        "C": "HTTP",
+        "D": "FTP"
+      },
+      "answer": "A",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 125,
+      "topic": "THE INTERNET",
+      "section": "General",
+      "subtopic": "THE INTERNET",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "HTTP",
+        "B": "SMTP",
+        "C": "FTP",
+        "D": "TCP"
+      },
+      "answer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 126,
+      "topic": "THE INTERNET",
+      "section": "General",
+      "subtopic": "THE INTERNET",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "TCP",
+        "C": "HTTP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 127,
+      "topic": "THE INTERNET: Meaning, concepts, terminologies, and requirements.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Meaning, concepts, terminologies, and requirements.",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "TCP",
+        "B": "SMTP",
+        "C": "HTTP",
+        "D": "FTP"
+      },
+      "answer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 128,
+      "topic": "THE INTERNET: Meaning, concepts, terminologies, and requirements.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Meaning, concepts, terminologies, and requirements.",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "TCP",
+        "B": "HTTP",
+        "C": "FTP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 129,
+      "topic": "THE INTERNET: Meaning, concepts, terminologies, and requirements.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Meaning, concepts, terminologies, and requirements.",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "TCP",
+        "C": "SMTP",
+        "D": "HTTP"
+      },
+      "answer": "C",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 130,
+      "topic": "THE INTERNET: Features and uses of browser windows.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Features and uses of browser windows.",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "HTTP",
+        "B": "TCP",
+        "C": "SMTP",
+        "D": "FTP"
+      },
+      "answer": "C",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 131,
+      "topic": "THE INTERNET: Features and uses of browser windows.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Features and uses of browser windows.",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "TCP",
+        "C": "HTTP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 132,
+      "topic": "THE INTERNET: Features and uses of browser windows.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Features and uses of browser windows.",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "TCP",
+        "C": "HTTP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 133,
+      "topic": "THE INTERNET: Rules and regulations in the use of the Internet (Netiquette).",
+      "section": "General",
+      "subtopic": "THE INTERNET: Rules and regulations in the use of the Internet (Netiquette).",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "SMTP",
+        "B": "HTTP",
+        "C": "TCP",
+        "D": "FTP"
+      },
+      "answer": "A",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 134,
+      "topic": "THE INTERNET: Rules and regulations in the use of the Internet (Netiquette).",
+      "section": "General",
+      "subtopic": "THE INTERNET: Rules and regulations in the use of the Internet (Netiquette).",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "HTTP",
+        "C": "SMTP",
+        "D": "TCP"
+      },
+      "answer": "C",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 135,
+      "topic": "THE INTERNET: Rules and regulations in the use of the Internet (Netiquette).",
+      "section": "General",
+      "subtopic": "THE INTERNET: Rules and regulations in the use of the Internet (Netiquette).",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "SMTP",
+        "D": "TCP"
+      },
+      "answer": "C",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 136,
+      "topic": "THE INTERNET: Sending and accessing e-mail.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Sending and accessing e-mail.",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "SMTP",
+        "C": "TCP",
+        "D": "HTTP"
+      },
+      "answer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 137,
+      "topic": "THE INTERNET: Sending and accessing e-mail.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Sending and accessing e-mail.",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "FTP",
+        "B": "HTTP",
+        "C": "SMTP",
+        "D": "TCP"
+      },
+      "answer": "C",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 138,
+      "topic": "THE INTERNET: Sending and accessing e-mail.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Sending and accessing e-mail.",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "HTTP",
+        "B": "SMTP",
+        "C": "TCP",
+        "D": "FTP"
+      },
+      "answer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 139,
+      "topic": "THE INTERNET: Internet-related tools for communication, e.g. chatting, downloading, uploading, search engines, Facebook, etc.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Internet-related tools for communication, e.g. chatting, downloading, uploading, search engines, Facebook, etc.",
+      "difficulty": "medium",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "TCP",
+        "B": "SMTP",
+        "C": "HTTP",
+        "D": "FTP"
+      },
+      "answer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 140,
+      "topic": "THE INTERNET: Internet-related tools for communication, e.g. chatting, downloading, uploading, search engines, Facebook, etc.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Internet-related tools for communication, e.g. chatting, downloading, uploading, search engines, Facebook, etc.",
+      "difficulty": "hard",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "SMTP",
+        "B": "FTP",
+        "C": "HTTP",
+        "D": "TCP"
+      },
+      "answer": "A",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    },
+    {
+      "id": 141,
+      "topic": "THE INTERNET: Internet-related tools for communication, e.g. chatting, downloading, uploading, search engines, Facebook, etc.",
+      "section": "General",
+      "subtopic": "THE INTERNET: Internet-related tools for communication, e.g. chatting, downloading, uploading, search engines, Facebook, etc.",
+      "difficulty": "easy",
+      "question": "The protocol used for sending emails is:",
+      "options": {
+        "A": "TCP",
+        "B": "HTTP",
+        "C": "FTP",
+        "D": "SMTP"
+      },
+      "answer": "D",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails, while POP3/IMAP are used for receiving."
+    }
+  ]
+}

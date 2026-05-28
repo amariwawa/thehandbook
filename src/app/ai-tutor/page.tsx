@@ -130,7 +130,7 @@ export default function AITutorPage() {
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
                   key={i} 
-                  className={`flex gap-6 ${msg.role === 'user' ? 'flex-row-reverse' : 'flex-row'}`}
+                  className={`flex gap-6 ${msg.role === 'user' ? 'flex-row justify-end' : 'flex-row'}`}
                 >
                   <div className={`w-12 h-12 rounded-2xl flex items-center justify-center shrink-0 ${
                     msg.role === 'user' ? 'bg-slate-200 overflow-hidden' : 'bg-[#1d3e8e] text-white shadow-lg'
@@ -141,7 +141,7 @@ export default function AITutorPage() {
                       <Bot className="w-6 h-6" />
                     )}
                   </div>
-                  <div className="space-y-3 flex-1 pt-1">
+                  <div className={`space-y-3 pt-1 ${msg.role === 'user' ? 'max-w-[70%]' : 'flex-1'}`}>
                     <div className={`text-sm font-medium leading-relaxed p-8 rounded-[2.5rem] shadow-soft ${
                       msg.role === 'user' 
                         ? 'bg-[#f8fafc] dark:bg-white/5 text-slate-700 dark:text-slate-300' 

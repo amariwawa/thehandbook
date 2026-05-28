@@ -1,0 +1,210 @@
+{
+  "syllabus_title": "JAMB UTME Commerce Syllabus",
+  "exam_type": "UTME",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Commerce",
+      "topics": [
+        "Meaning and scope",
+        "Characteristics",
+        "Functions"
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "Occupation",
+      "topics": [
+        "Meaning and importance",
+        "Types (industrial, commercial and services)",
+        "Factors that determine choice of occupation"
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "Production",
+      "topics": [
+        "Factors, characteristics and rewards (land, labour, capital and entrepreneur)",
+        "Division of Labour and specialization",
+        "Types (primary, secondary and tertiary)"
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "Trade",
+      "subsections": [
+        {
+          "title": "Home Trade",
+          "topics": [
+            "Retail trade: Types of retailers, Functions of retailers, Factors to be considered in setting up retail trade, Trends in retailing (branding, self service, vending machines, etc.), Advantages and disadvantages of retailers",
+            "Wholesale trade: Types of wholesalers (merchant, agent, general etc.), Functions of wholesalers, Advantages and disadvantages of wholesalers"
+          ]
+        },
+        {
+          "title": "Foreign trade",
+          "topics": [
+            "Basic issues in foreign trade (balance of trade, balance of payments and counter trade)",
+            "Procedures and documents used in export, import and entrepôt trade",
+            "Barriers to international trade",
+            "Role of Customs and Excise Authority, Ports Authority, etc. in foreign trade"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "Purchase and Sale of Goods",
+      "topics": [
+        "Procedure and documentation (enquiry, quotation, order, invoice, proforma invoice, statement of accounts, indent, consular invoice, bill of lading, certificate of origin, consignment note, etc.)",
+        "Terms of trade (trade discount, quantity discount, cash discount, warranties, C.O.D., C.I.F., F.O.B., E.O.E. etc.)",
+        "Terms of payments: Cash (Legal tender), Credit (Types and functions)",
+        "Merits and demerits of credit transactions"
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "Aids to Trade",
+      "subsections": [
+        {
+          "title": "Advertising",
+          "topics": ["Types and media", "Advantages and disadvantages"]
+        },
+        {
+          "title": "Banking",
+          "topics": ["Types of bank", "Services", "Challenges"]
+        },
+        {
+          "title": "Communication",
+          "topics": ["Process and procedure", "Types", "Trends", "Merits and demerits", "Barriers"]
+        },
+        {
+          "title": "Insurance",
+          "topics": ["Types", "Principles", "Terms", "Importance"]
+        },
+        {
+          "title": "Tourism",
+          "topics": ["Importance", "Agencies that promote tourism in Nigeria", "Challenges"]
+        },
+        {
+          "title": "Transportation",
+          "topics": ["Modes", "Importance", "Advantages and disadvantages"]
+        },
+        {
+          "title": "Warehousing",
+          "topics": ["Importance", "Types and functions", "Factors to be considered in siting a warehouse"]
+        }
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "Business Units",
+      "topics": [
+        "Forms and features (Sole Proprietorship, Partnership, Limited Liability Companies, Public Corporations, Cooperative Societies, etc.)",
+        "Registration of businesses",
+        "Business Mergers",
+        "Determination of choice of business units",
+        "Dissolution and liquidation",
+        "Merits and demerits"
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "Financing Business",
+      "topics": [
+        "Sources of finance (personal savings, sale of shares and bonds, loans, debentures, mortgage, bank overdraft, ploughing back of profit, credit purchase, leasing, etc.)",
+        "Types of capital (share capital, capital owned, authorized capital, issued capital, called-up capital, paid-up capital, liquid capital, working capital and owners’ equity)",
+        "Calculation of forms of capital, profits (gross and net) and turnover",
+        "Problems of sourcing finance",
+        "The role of Bureau de change in an economy"
+      ]
+    },
+    {
+      "section_number": 9,
+      "title": "Trade Associations",
+      "topics": [
+        "Objectives and functions of trade and manufacturer’s associations (Cocoa Farmers’ Association, Garri Sellers’ Association, Poultry Farmers’ Association, etc.)",
+        "Objectives and functions of Chambers of Commerce"
+      ]
+    },
+    {
+      "section_number": 10,
+      "title": "Money",
+      "topics": [
+        "Evolution",
+        "Forms and qualities",
+        "Functions"
+      ]
+    },
+    {
+      "section_number": 11,
+      "title": "Stock Exchange",
+      "topics": [
+        "Importance and functions",
+        "Types of securities (stocks, shares, bonds, debentures, etc.)",
+        "Procedure of transactions and speculations",
+        "Second Tier Securities Market, listing requirements, types of companies for the market, advantages and operating regulations of the market"
+      ]
+    },
+    {
+      "section_number": 12,
+      "title": "Elements of Business Management",
+      "topics": [
+        "Functions (planning, organizing, staffing, coordinating, motivating, communicating, controlling etc.)",
+        "Principles (span of control, unity of command, delegation of authority, etc.)",
+        "Organizational structure (line, line and staff, functional, matrix and committee)",
+        "Functional areas of business (production, marketing, finance and personnel)",
+        "Business resources (man, money, materials, machines and opportunities/goodwill)"
+      ]
+    },
+    {
+      "section_number": 13,
+      "title": "Elements of Marketing",
+      "topics": [
+        "Importance and Functions",
+        "The marketing concept (consumer orientation, customer satisfaction, integrated marketing, etc.)",
+        "Marketing mix (product, price, place and promotion)",
+        "Market Segmentation",
+        "Public relations and Customer Service"
+      ]
+    },
+    {
+      "section_number": 14,
+      "title": "Legal Aspects of Business",
+      "topics": [
+        "Meaning and validity of a simple contract",
+        "Agency, Sale of Goods Act and Hire Purchase Act",
+        "Contract of employment",
+        "Government regulations of business (registration of business, patents, trademarks, copyrights, etc.)",
+        "Consumer protection (Government legislation, Standards Organization, Trade Descriptions Act, Consumer Protection Council, NAFDAC, NDLEA, Customs and Excise, etc.)",
+        "Regulatory agencies"
+      ]
+    },
+    {
+      "section_number": 15,
+      "title": "Information and Communication Technology (ICT)",
+      "subsections": [
+        {
+          "title": "Computer",
+          "topics": ["Appreciation and application", "Types and functions", "Merits and demerits", "Challenges"]
+        },
+        {
+          "title": "Terms",
+          "topics": ["Internet, Intranet, browsing, password, mail, google, yahoo, search, Local Area Network, etc."]
+        },
+        {
+          "title": "Activities",
+          "topics": ["e-commerce", "e-banking", "e-business"]
+        }
+      ]
+    },
+    {
+      "section_number": 16,
+      "title": "Business Environment and Social Responsibility",
+      "topics": [
+        "Legal, political, economic, social, cultural, technological environments etc.",
+        "Safe products, philanthropic and societal consideration",
+        "Types and implication of pollution (water, air, land, etc.)"
+      ]
+    }
+  ]
+}

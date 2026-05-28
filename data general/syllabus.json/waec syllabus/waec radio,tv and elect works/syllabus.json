@@ -1,0 +1,235 @@
+{
+  "syllabus_title": "WAEC SSCE Radio, Television and Electronics Works Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Workshop Safety Rules and Regulations",
+      "topics": [
+        {
+          "topic": "Concept of safety"
+        },
+        {
+          "topic": "Sources and Prevention of Hazards",
+          "subtopics": ["Electric shock", "Damp or wet floor", "Wrong handling of tools", "Improper workshop dressing", "Horse play in the workshop"]
+        },
+        {
+          "topic": "Safety Checks in Servicing Radio Receiver"
+        },
+        {
+          "topic": "Safety Precautions in Television Workshop",
+          "subtopics": ["Preparation of work areas", "Capacitor discharges", "Working on power lines and live circuits", "Handling of tools", "Power supplies in T.V.", "Picture tube", "High voltage section", "Component rating"]
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "Basic Electricity",
+      "topics": [
+        {
+          "topic": "Structure of matter",
+          "subtopics": ["Definition and structure of matter", "Atomic structure"]
+        },
+        {
+          "topic": "Conductors, insulators and semiconductors"
+        },
+        {
+          "topic": "Current, voltage and resistance",
+          "subtopics": ["Definition, units and symbols", "Laws of attraction and repulsion of charges"]
+        },
+        {
+          "topic": "Electronic components",
+          "subtopics": ["Identification by name, type, graphical symbol, value and rating", "Resistors, capacitors, inductors, diodes, transformers, transistors, integrated circuits etc."]
+        },
+        {
+          "topic": "Resistors and Capacitors",
+          "subtopics": ["Graphical symbols, types, values and ratings", "Colour code", "Comparison between meter measured and colour code values", "Testing of capacitors"]
+        },
+        {
+          "topic": "Kirchhoff’s Current and Voltage Laws"
+        },
+        {
+          "topic": "Diodes and Transistors",
+          "subtopics": ["Types, graphical symbols and structure", "Testing for diodes and transistor configurations (CC, CE, CB)"]
+        },
+        {
+          "topic": "Battery",
+          "subtopics": ["Graphical symbol (primary and secondary cell)", "Types", "Testing", "Difference between wet and dry cells"]
+        },
+        {
+          "topic": "Ohm’s law",
+          "subtopics": ["Definition", "Symbols and relationship between V, I and R", "Resistors in series and parallel"]
+        },
+        {
+          "topic": "Electric power",
+          "subtopics": ["Definition, measurement and calculation"]
+        },
+        {
+          "topic": "Direct and Alternating Current",
+          "subtopics": ["Definitions, differences, uses and measurement"]
+        },
+        {
+          "topic": "Alternating waveform",
+          "subtopics": ["Definition and calculation", "r.m.s., peak, average values, frequency and period"]
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "Electronic Tools and Instruments",
+      "topics": [
+        {
+          "topic": "Electronic hand tools",
+          "subtopics": ["Screw drivers, diagonal cutters, soldering gun, soldering iron, lead sucker or desoldering tools, pocket knife, stripper, soldering wick"]
+        },
+        {
+          "topic": "Electronic measuring instruments",
+          "subtopics": ["Voltmeter, ammeter, ohmmeter, multimeter", "Basic a.c. and d.c. circuit measurements", "Ohmmeter for testing semiconductor devices", "Identification of faulty meter"]
+        },
+        {
+          "topic": "Fault Finding Equipment",
+          "subtopics": ["Oscilloscope, signal tracer, digital frequency counter, logic probe, TV analyzer"]
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "Electronic Devices and Circuits",
+      "topics": [
+        {
+          "topic": "Meaning of Electronics and Electronic circuit"
+        },
+        {
+          "topic": "Concept of emission and photoelectric devices",
+          "subtopics": ["Types of emission: Thermionic, photoelectric, field and secondary"]
+        },
+        {
+          "topic": "Semiconductor devices",
+          "subtopics": ["Semiconductor theory and types", "Semiconductor diodes (rectification, principles, characteristics and application)"]
+        },
+        {
+          "topic": "Power Supply Unit",
+          "subtopics": ["Principle and operation, schematic diagram", "Rectification and types", "Filters", "Construction of stabilized low d.c. power supply unit"]
+        },
+        {
+          "topic": "Amplifiers",
+          "subtopics": ["Operation, construction and uses of Class A, B, C and AB amplifiers"]
+        },
+        {
+          "topic": "Resistive, Inductive, Capacitive (RLC) circuits"
+        },
+        {
+          "topic": "Feedback",
+          "subtopics": ["Concept of feedback", "Differences between types and advantages", "Effect of positive feedback on amplifiers, bandwidth, noise, gain and distortion"]
+        },
+        {
+          "topic": "Oscillators and Multivibrators",
+          "subtopics": ["Principle and types of oscillator", "Construction of a typical oscillator circuit", "Types of multivibrator (astable, bistable, monostable)"]
+        }
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "Electronic Communication Systems",
+      "topics": [
+        {
+          "topic": "Electronic Communication Systems",
+          "subtopics": ["Definition and types", "Block diagram, operation and function of each stage"]
+        },
+        {
+          "topic": "Electromagnetic spectrum",
+          "subtopics": ["Noise", "Definition and classification", "Propagation of radio waves", "Radio frequency bands (VLF, LF, MF, HF, VHF, UHF, SHF, EHF)", "Applications"]
+        },
+        {
+          "topic": "Transducer",
+          "subtopics": ["Definition, types and functions", "Loudspeaker, microphone, video camera, CRT, LCD"]
+        },
+        {
+          "topic": "Modulation and demodulation",
+          "subtopics": ["Definition, principle and types", "AM and FM waveforms", "Modulation index and factor", "Carrier wave", "Types of demodulation"]
+        },
+        {
+          "topic": "Radio transmitter and receiver",
+          "subtopics": ["Function(s) and operation", "Block diagram", "Types of radio receivers (TRF, Super heterodyne FM and AM)", "Advantages and disadvantages"]
+        },
+        {
+          "topic": "Selectivity and sensitivity"
+        },
+        {
+          "topic": "Resonant circuit",
+          "subtopics": ["Definition, types (series and parallel)", "Bandwidth", "Resonant frequency calculation"]
+        },
+        {
+          "topic": "Satellite Communication Systems",
+          "subtopics": ["Elements and types", "Transmission and reception", "Antenna"]
+        },
+        {
+          "topic": "Television Transmitter",
+          "subtopics": ["Working principle", "Block diagram", "Stages"]
+        },
+        {
+          "topic": "Image and Sound Reproduction in TV receiver",
+          "subtopics": ["Principle of scanning", "Video signals", "Principle of FM detection"]
+        },
+        {
+          "topic": "Monochrome Television Receiver"
+        },
+        {
+          "topic": "Principles of operation of Colour Television Receiver",
+          "subtopics": ["Block diagram and function of each stage", "Processing of picture and sound signal"]
+        },
+        {
+          "topic": "Principle of Colour Signal, Transmission and Reception",
+          "subtopics": ["Primary colours in television", "Colour systems: PAL, SECAM, NTSC", "Colour signal components"]
+        }
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "Workshop Practice and Maintenance",
+      "topics": [
+        {
+          "topic": "Soldering and Desoldering in Electronic Circuits",
+          "subtopics": ["Techniques and precautions", "Types of solder", "Types of flux"]
+        },
+        {
+          "topic": "Electronic Repairs",
+          "subtopics": ["Dismantling and reassembling of power supply unit, RF, IF detector stages, AF amplifier circuit in radio set", "Installation and maintenance of car radio set"]
+        },
+        {
+          "topic": "Fault finding and repairs in radio receiver",
+          "subtopics": ["Diagnosis using equipment and logical troubleshooting", "Components responsible for faults", "Remedies", "Alignment of RF and IF stages"]
+        },
+        {
+          "topic": "Electronic Measuring Instruments",
+          "subtopics": ["Use of multimeter for measurement of current, voltage and resistance in components and circuits"]
+        },
+        {
+          "topic": "Diagnosis and Repair of Black and White TV Receiver",
+          "subtopics": ["Procedure for TV repairs", "Use of service manual and circuit diagram", "Identification of symptoms and repair of faults"]
+        },
+        {
+          "topic": "Diagnose and Repair of a Colour Television Receiver",
+          "subtopics": ["Symptoms of faults", "Fault clearing at each stage", "Static and dynamic colour convergence", "Colour bar generator and signal testing"]
+        }
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "Entrepreneurship in Radio, Television and Electronic Works",
+      "topics": [
+        {
+          "topic": "Business Management and Finance",
+          "subtopics": ["Accounting practices", "Cost benefit analysis", "Purchasing method", "Business records (Accounting ledger, Repair order form, Inventory sheet)", "Sources of capital"]
+        },
+        {
+          "topic": "Customer Relations",
+          "subtopics": ["Daily appearance at work", "Customer psychology", "Working relations", "Telephone courtesy"]
+        },
+        {
+          "topic": "Business Opportunities in Radio, TV and Electronics works",
+          "subtopics": ["Satellite installation", "Electronic specialist", "Radio and TV consultant", "Radio and TV technician", "Sales and Service Craftsman", "Antenna and TV installation work"]
+        }
+      ]
+    }
+  ]
+}

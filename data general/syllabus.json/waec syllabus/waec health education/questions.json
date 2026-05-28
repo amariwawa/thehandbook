@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+        "B": "It is not examined",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 2,
+      "topic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in HISTORY AND DEVELOPMENT OF HEALTH EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 3,
+      "topic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 4,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY"
+      },
+      "answer": "D",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 5,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 6,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY"
+      },
+      "answer": "D",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 7,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in PERSONAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 8,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in PERSONAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 9,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It is a tested concept in PERSONAL HEALTH",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 10,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "easy",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in COMMUNITY HEALTH",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 11,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in COMMUNITY HEALTH",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 12,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in COMMUNITY HEALTH",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 13,
+      "topic": "ENVIRONMENTAL HEALTH",
+      "section": "General",
+      "subtopic": "ENVIRONMENTAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about ENVIRONMENTAL HEALTH is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in ENVIRONMENTAL HEALTH",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "ENVIRONMENTAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 14,
+      "topic": "ENVIRONMENTAL HEALTH",
+      "section": "General",
+      "subtopic": "ENVIRONMENTAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about ENVIRONMENTAL HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in ENVIRONMENTAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "ENVIRONMENTAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 15,
+      "topic": "ENVIRONMENTAL HEALTH",
+      "section": "General",
+      "subtopic": "ENVIRONMENTAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which of the following statements about ENVIRONMENTAL HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in ENVIRONMENTAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "ENVIRONMENTAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 16,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "hard",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 17,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 18,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 19,
+      "topic": "SAFETY EDUCATION AND FIRST AID",
+      "section": "General",
+      "subtopic": "SAFETY EDUCATION AND FIRST AID",
+      "difficulty": "easy",
+      "question": "Which of the following statements about SAFETY EDUCATION AND FIRST AID is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is a tested concept in SAFETY EDUCATION AND FIRST AID",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "SAFETY EDUCATION AND FIRST AID is included in the syllabus for this subject."
+    },
+    {
+      "id": 20,
+      "topic": "SAFETY EDUCATION AND FIRST AID",
+      "section": "General",
+      "subtopic": "SAFETY EDUCATION AND FIRST AID",
+      "difficulty": "medium",
+      "question": "Which of the following statements about SAFETY EDUCATION AND FIRST AID is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is a tested concept in SAFETY EDUCATION AND FIRST AID"
+      },
+      "answer": "D",
+      "explanation": "SAFETY EDUCATION AND FIRST AID is included in the syllabus for this subject."
+    },
+    {
+      "id": 21,
+      "topic": "SAFETY EDUCATION AND FIRST AID",
+      "section": "General",
+      "subtopic": "SAFETY EDUCATION AND FIRST AID",
+      "difficulty": "hard",
+      "question": "Which of the following statements about SAFETY EDUCATION AND FIRST AID is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in SAFETY EDUCATION AND FIRST AID",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "SAFETY EDUCATION AND FIRST AID is included in the syllabus for this subject."
+    },
+    {
+      "id": 22,
+      "topic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "section": "General",
+      "subtopic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about DRUG, ALCOHOL AND TOBACCO EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in DRUG, ALCOHOL AND TOBACCO EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "DRUG, ALCOHOL AND TOBACCO EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 23,
+      "topic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "section": "General",
+      "subtopic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about DRUG, ALCOHOL AND TOBACCO EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in DRUG, ALCOHOL AND TOBACCO EDUCATION",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "DRUG, ALCOHOL AND TOBACCO EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 24,
+      "topic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "section": "General",
+      "subtopic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about DRUG, ALCOHOL AND TOBACCO EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in DRUG, ALCOHOL AND TOBACCO EDUCATION",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "DRUG, ALCOHOL AND TOBACCO EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 25,
+      "topic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "section": "General",
+      "subtopic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about COMMUNICABLE AND NON-COMMUNICABLE DISEASES is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES is included in the syllabus for this subject."
+    },
+    {
+      "id": 26,
+      "topic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "section": "General",
+      "subtopic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about COMMUNICABLE AND NON-COMMUNICABLE DISEASES is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is a tested concept in COMMUNICABLE AND NON-COMMUNICABLE DISEASES"
+      },
+      "answer": "D",
+      "explanation": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES is included in the syllabus for this subject."
+    },
+    {
+      "id": 27,
+      "topic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "section": "General",
+      "subtopic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about COMMUNICABLE AND NON-COMMUNICABLE DISEASES is correct?",
+      "options": {
+        "A": "It is a tested concept in COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES is included in the syllabus for this subject."
+    },
+    {
+      "id": 28,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 29,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 30,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 31,
+      "topic": "EMOTIONAL AND SOCIAL HEALTH",
+      "section": "General",
+      "subtopic": "EMOTIONAL AND SOCIAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about EMOTIONAL AND SOCIAL HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in EMOTIONAL AND SOCIAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "EMOTIONAL AND SOCIAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 32,
+      "topic": "EMOTIONAL AND SOCIAL HEALTH",
+      "section": "General",
+      "subtopic": "EMOTIONAL AND SOCIAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about EMOTIONAL AND SOCIAL HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in EMOTIONAL AND SOCIAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "EMOTIONAL AND SOCIAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 33,
+      "topic": "EMOTIONAL AND SOCIAL HEALTH",
+      "section": "General",
+      "subtopic": "EMOTIONAL AND SOCIAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which of the following statements about EMOTIONAL AND SOCIAL HEALTH is correct?",
+      "options": {
+        "A": "It is a tested concept in EMOTIONAL AND SOCIAL HEALTH",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "EMOTIONAL AND SOCIAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 34,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in CONSUMER HEALTH EDUCATION",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 35,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in CONSUMER HEALTH EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 36,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in CONSUMER HEALTH EDUCATION",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 37,
+      "topic": "SAFETY EDUCATION AND FIRST AID",
+      "section": "General",
+      "subtopic": "SAFETY EDUCATION AND FIRST AID",
+      "difficulty": "hard",
+      "question": "Which of the following statements about SAFETY EDUCATION AND FIRST AID is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in SAFETY EDUCATION AND FIRST AID",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SAFETY EDUCATION AND FIRST AID is included in the syllabus for this subject."
+    },
+    {
+      "id": 38,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS"
+      },
+      "answer": "D",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 39,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in CONSUMER HEALTH EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 40,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 41,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 42,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "easy",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "C": "It belongs to mathematics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 43,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in PERSONAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 44,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 45,
+      "topic": "ENVIRONMENTAL HEALTH",
+      "section": "General",
+      "subtopic": "ENVIRONMENTAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which of the following statements about ENVIRONMENTAL HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in ENVIRONMENTAL HEALTH",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "B",
+      "explanation": "ENVIRONMENTAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 46,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It is a tested concept in PERSONAL HEALTH",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 47,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in CONSUMER HEALTH EDUCATION",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 48,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "hard",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 49,
+      "topic": "EMOTIONAL AND SOCIAL HEALTH",
+      "section": "General",
+      "subtopic": "EMOTIONAL AND SOCIAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about EMOTIONAL AND SOCIAL HEALTH is correct?",
+      "options": {
+        "A": "It is a tested concept in EMOTIONAL AND SOCIAL HEALTH",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "EMOTIONAL AND SOCIAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 50,
+      "topic": "SAFETY EDUCATION AND FIRST AID",
+      "section": "General",
+      "subtopic": "SAFETY EDUCATION AND FIRST AID",
+      "difficulty": "easy",
+      "question": "Which of the following statements about SAFETY EDUCATION AND FIRST AID is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in SAFETY EDUCATION AND FIRST AID"
+      },
+      "answer": "D",
+      "explanation": "SAFETY EDUCATION AND FIRST AID is included in the syllabus for this subject."
+    },
+    {
+      "id": 51,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is a tested concept in COMMUNITY HEALTH",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 52,
+      "topic": "EMOTIONAL AND SOCIAL HEALTH",
+      "section": "General",
+      "subtopic": "EMOTIONAL AND SOCIAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about EMOTIONAL AND SOCIAL HEALTH is correct?",
+      "options": {
+        "A": "It is a tested concept in EMOTIONAL AND SOCIAL HEALTH",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "EMOTIONAL AND SOCIAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 53,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 54,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 55,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY"
+      },
+      "answer": "D",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 56,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 57,
+      "topic": "EMOTIONAL AND SOCIAL HEALTH",
+      "section": "General",
+      "subtopic": "EMOTIONAL AND SOCIAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about EMOTIONAL AND SOCIAL HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in EMOTIONAL AND SOCIAL HEALTH",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "EMOTIONAL AND SOCIAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 58,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in CONSUMER HEALTH EDUCATION",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 59,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 60,
+      "topic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "section": "General",
+      "subtopic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about DRUG, ALCOHOL AND TOBACCO EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in DRUG, ALCOHOL AND TOBACCO EDUCATION",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "DRUG, ALCOHOL AND TOBACCO EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 61,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 62,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in PERSONAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 63,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in PERSONAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 64,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in COMMUNITY HEALTH"
+      },
+      "answer": "D",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 65,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in CONSUMER HEALTH EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 66,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 67,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 68,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It is a tested concept in COMMUNITY HEALTH",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 69,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 70,
+      "topic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "section": "General",
+      "subtopic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "difficulty": "medium",
+      "question": "Which of the following statements about COMMUNICABLE AND NON-COMMUNICABLE DISEASES is correct?",
+      "options": {
+        "A": "It is a tested concept in COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES is included in the syllabus for this subject."
+    },
+    {
+      "id": 71,
+      "topic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "section": "General",
+      "subtopic": "HUMAN ANATOMY AND PHYSIOLOGY",
+      "difficulty": "hard",
+      "question": "Which of the following statements about HUMAN ANATOMY AND PHYSIOLOGY is correct?",
+      "options": {
+        "A": "It is a tested concept in HUMAN ANATOMY AND PHYSIOLOGY",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "HUMAN ANATOMY AND PHYSIOLOGY is included in the syllabus for this subject."
+    },
+    {
+      "id": 72,
+      "topic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+        "C": "It is unrelated to this subject",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 73,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "B",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 74,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It is a tested concept in PERSONAL HEALTH",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 75,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 76,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 77,
+      "topic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "section": "General",
+      "subtopic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about DRUG, ALCOHOL AND TOBACCO EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in DRUG, ALCOHOL AND TOBACCO EDUCATION",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "DRUG, ALCOHOL AND TOBACCO EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 78,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in CONSUMER HEALTH EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 79,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "hard",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is unrelated to this subject",
+        "C": "It is a tested concept in COMMUNITY HEALTH",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "C",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 80,
+      "topic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "section": "General",
+      "subtopic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "difficulty": "easy",
+      "question": "Which of the following statements about COMMUNICABLE AND NON-COMMUNICABLE DISEASES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in COMMUNICABLE AND NON-COMMUNICABLE DISEASES"
+      },
+      "answer": "D",
+      "explanation": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES is included in the syllabus for this subject."
+    },
+    {
+      "id": 81,
+      "topic": "COMMUNITY HEALTH",
+      "section": "General",
+      "subtopic": "COMMUNITY HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about COMMUNITY HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in COMMUNITY HEALTH"
+      },
+      "answer": "D",
+      "explanation": "COMMUNITY HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 82,
+      "topic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "section": "General",
+      "subtopic": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+      "difficulty": "hard",
+      "question": "Which of the following statements about COMMUNICABLE AND NON-COMMUNICABLE DISEASES is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is not examined",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in COMMUNICABLE AND NON-COMMUNICABLE DISEASES"
+      },
+      "answer": "D",
+      "explanation": "COMMUNICABLE AND NON-COMMUNICABLE DISEASES is included in the syllabus for this subject."
+    },
+    {
+      "id": 83,
+      "topic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "section": "General",
+      "subtopic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about DRUG, ALCOHOL AND TOBACCO EDUCATION is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is unrelated to this subject",
+        "D": "It is a tested concept in DRUG, ALCOHOL AND TOBACCO EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "DRUG, ALCOHOL AND TOBACCO EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 84,
+      "topic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "section": "General",
+      "subtopic": "DRUG, ALCOHOL AND TOBACCO EDUCATION",
+      "difficulty": "hard",
+      "question": "Which of the following statements about DRUG, ALCOHOL AND TOBACCO EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It is not examined",
+        "C": "It belongs to mathematics",
+        "D": "It is a tested concept in DRUG, ALCOHOL AND TOBACCO EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "DRUG, ALCOHOL AND TOBACCO EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 85,
+      "topic": "NUTRITION AND FOOD NUTRIENTS",
+      "section": "General",
+      "subtopic": "NUTRITION AND FOOD NUTRIENTS",
+      "difficulty": "medium",
+      "question": "Which of the following statements about NUTRITION AND FOOD NUTRIENTS is correct?",
+      "options": {
+        "A": "It is a tested concept in NUTRITION AND FOOD NUTRIENTS",
+        "B": "It is not examined",
+        "C": "It belongs to mathematics",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "A",
+      "explanation": "NUTRITION AND FOOD NUTRIENTS is included in the syllabus for this subject."
+    },
+    {
+      "id": 86,
+      "topic": "EMOTIONAL AND SOCIAL HEALTH",
+      "section": "General",
+      "subtopic": "EMOTIONAL AND SOCIAL HEALTH",
+      "difficulty": "medium",
+      "question": "Which of the following statements about EMOTIONAL AND SOCIAL HEALTH is correct?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to mathematics",
+        "C": "It is a tested concept in EMOTIONAL AND SOCIAL HEALTH",
+        "D": "It is unrelated to this subject"
+      },
+      "answer": "C",
+      "explanation": "EMOTIONAL AND SOCIAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 87,
+      "topic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "section": "General",
+      "subtopic": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in FAMILY LIFE AND HUMAN SEXUALITY EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "FAMILY LIFE AND HUMAN SEXUALITY EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 88,
+      "topic": "PERSONAL HEALTH",
+      "section": "General",
+      "subtopic": "PERSONAL HEALTH",
+      "difficulty": "easy",
+      "question": "Which of the following statements about PERSONAL HEALTH is correct?",
+      "options": {
+        "A": "It belongs to mathematics",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It is a tested concept in PERSONAL HEALTH"
+      },
+      "answer": "D",
+      "explanation": "PERSONAL HEALTH is included in the syllabus for this subject."
+    },
+    {
+      "id": 89,
+      "topic": "CONSUMER HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER HEALTH EDUCATION",
+      "difficulty": "medium",
+      "question": "Which of the following statements about CONSUMER HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is a tested concept in CONSUMER HEALTH EDUCATION",
+        "B": "It is unrelated to this subject",
+        "C": "It is not examined",
+        "D": "It belongs to mathematics"
+      },
+      "answer": "A",
+      "explanation": "CONSUMER HEALTH EDUCATION is included in the syllabus for this subject."
+    },
+    {
+      "id": 90,
+      "topic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "section": "General",
+      "subtopic": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION",
+      "difficulty": "easy",
+      "question": "Which of the following statements about HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is correct?",
+      "options": {
+        "A": "It is unrelated to this subject",
+        "B": "It belongs to mathematics",
+        "C": "It is not examined",
+        "D": "It is a tested concept in HISTORY AND DEVELOPMENT OF HEALTH EDUCATION"
+      },
+      "answer": "D",
+      "explanation": "HISTORY AND DEVELOPMENT OF HEALTH EDUCATION is included in the syllabus for this subject."
+    }
+  ]
+}

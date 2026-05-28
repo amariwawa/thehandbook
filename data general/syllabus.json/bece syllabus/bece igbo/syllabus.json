@@ -1,0 +1,393 @@
+{
+  "exam": "BECE Igbo Syllabus",
+  "type": "Detailed Syllabus (L1 and L2)",
+  "sections": [
+    {
+      "language_level": "IGBO L1",
+      "themes": [
+        {
+          "theme": "ASUSU",
+          "sn": 1,
+          "topics": [
+            {
+              "topic": "Aghotaazaa",
+              "objectives": [
+                "Igutali Igbo were were",
+                "Igutali Igbo na ighola ihe a na-agu",
+                "Ikowali isi ihe a guru",
+                "Ikowa okwu ndi siri ike",
+                "Iza ajuju ndi so ya",
+                "Isiokwu di iche iche dika iji mmadu atu mgbere, ito mmadu. dgz"
+              ]
+            },
+            {
+              "topic": "Njirimara na oru asusu",
+              "objectives": [
+                "Ndiiche di n’etiti asusu na-uzo e si eziputa ihe e bunuchc",
+                "Uru asusu baara ndi na-asu ya",
+                "Ikowa ndi bu ndi Igbo na asusv",
+                "Iziputa ebe a na-asu Igbo",
+                "Igosa uzo di iche iche e si ama ndi"
+              ]
+            },
+            {
+              "topic": "Udaasusu Igbo na usoro odide Igbo",
+              "objectives": [
+                "Udaume",
+                "Mgbochiume",
+                "Myinudaume",
+                "Akaraedemede",
+                "Mgbakwunye",
+                "Akara udaolu na"
+              ]
+            },
+            {
+              "topic": "Onuogugu",
+              "objectives": [
+                "Igu site n’otu ruo na nari ise",
+                "Igu site n’otu ruo na otu puku",
+                "Igu site n’otu ruo na nde ise",
+                "Igu elekere",
+                "Ikwuputa ihe na-aku n’elekerc"
+              ]
+            },
+            {
+              "topic": "Nkebiokwu",
+              "objectives": [
+                "Ihe bu",
+                "Nkebiokwu di iche iche daka i. keaha, ii. kenkowaaha, iii. kembuvzo, iv. kenruaka",
+                "Mmebe ahiriokwu nwere nkebiokwu",
+                "Ngosi nkebiokwu n’ahiriokwu"
+              ]
+            },
+            {
+              "topic": "Nkebiahiri",
+              "objectives": [
+                "Ihe bu nkebiahiri",
+                "Nkebiahiri di iche iche",
+                "N osi nkebiahiri n’ah’riokwu"
+              ]
+            },
+            {
+              "topic": "Akaraedemede",
+              "objectives": [
+                "akaraedemede",
+                "Udi akaraedemede di iche iche",
+                "Itinye akaraedemede n’ahiriokwu",
+                "Uru akaraedemede bara"
+              ]
+            },
+            {
+              "topic": "Nkcjiasusu",
+              "objectives": [
+                "Mkpoaha na mkpqaha di iche iche (Aha, Nnochiaha, Onuogugu, Njuajuju)",
+                "Ngwaa",
+                "Nkowaaha",
+                "Njiko",
+                "Mbuuzo",
+                "Nkuuwa"
+              ]
+            },
+            {
+              "topic": "Mkpuruedemede na usoro odide Abidii lgbo",
+              "objectives": [
+                "Imata mkpurłl edemede di iche iche",
+                "Iguputa ha n’otu n’otu",
+                "Iji ha mebe mkpuru okwu Igbo"
+              ]
+            },
+            {
+              "topic": "Oru ‘Na’ na aru",
+              "objectives": [
+                "Idi iche iche ‘Na’ na-aru n’ahirokwu",
+                "Ebe ‘Na’ na-aru oru di iche iche",
+                "Ahiriokwu di iche iche na-egosiputa oru Na (mbuuzo, njiko, nnyemakangwaa)"
+              ]
+            },
+            {
+              "topic": "Ntughari",
+              "objectives": [
+                "Itughari mkpuruok’wu Igbo n’asusu Bekee",
+                "Itughari mkpuruokwu Bekee n’asusu Igbo",
+                "Itughari ahiriokwu Igbo n’asusu Bekee vice"
+              ]
+            },
+            {
+              "topic": "Edemede",
+              "objectives": [
+                "Nkowa edemede",
+                "Edemede di iche iche",
+                "Nkebi edemede",
+                "Okpurukpuokwu",
+                "Nhazi edemede",
+                "Asusu nka"
+              ]
+            },
+            {
+              "topic": "Edemede Leta",
+              "objectives": [
+                "Udi leta di iche iche",
+                "Ikwu mpaghara di iche iche e nwere na leta",
+                "Ikwu etu e si ahazi leta",
+                "Ide udi leta di iche iche"
+              ]
+            },
+            {
+              "topic": "Ekuumekwu",
+              "objectives": [
+                "Ihe di iche iche umuaka na-eme n’ezinaolu",
+                "Nrubeisi na ndebe",
+                "Nkowa nrubeisi na ndebeiwu",
+                "Agwa nmbeisi na ndebe iwu",
+                "Uru nrubeisi na ndebe iwu bara"
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "AGUMAGU",
+          "sn": 2,
+          "topics": [
+            {
+              "topic": "Agumagu",
+              "objectives": [
+                "Akuko di iche iche",
+                "Ejije – Fguu onwa",
+                "Abu di iche iche",
+                "Njirimara agumagu Odinaala",
+                "Urua egumegu bara"
+              ]
+            },
+            {
+              "topic": "Atumatuokwu",
+              "objectives": [
+                "Ilu",
+                "Akpaalaokuu",
+                "Agwugwa",
+                "Okssuntabiire",
+                "Mburo",
+                "Myri",
+                "Mmemmadu",
+                "Vkabuilu"
+              ]
+            },
+            {
+              "topic": "Akwukwo ogugu ndi a hoputara",
+              "objectives": [
+                "Ogugu akwukwo a hoputara",
+                "Nkowa isi ihe akwukwo na-ekwu maka ya",
+                "Nkowa okwu ufedu di dika atumatuokwo agoro",
+                "Agwa ufodo di’n akwukwo a guru",
+                "Uche umuaka banyere isi"
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "OMENAALA",
+          "sn": 3,
+          "topics": [
+            {
+              "topic": "Ikowa ndi bu ndi Igbo na-asusu ha",
+              "objectives": [
+                "ndi bu ndi Igbo",
+                "Njirimara ndi Igbo",
+                "Ebe di iche iche bu ala Igbo na Nigeria",
+                "Igosi uzo di iche iche e si ama ndi Igbo",
+                "Ndi Igbo na agbataobi ha",
+                "Akuk0 d’ iche iche gbasara ebehasiri malite"
+              ]
+            },
+            {
+              "topic": "Nrukorita na uru o bara",
+              "objectives": [
+                "Nkowa ihe nrukorita oru bu",
+                "Ikowa usoro na iwu nrukorita",
+                "Uru na ogbom di na nrukorita oru"
+              ]
+            },
+            {
+              "topic": "Ikowa ufodo Omenaala Igbo",
+              "objectives": [
+                "Ekele ndi Igbo na mgbe eji ekele ha",
+                "Iga ozi",
+                "Irubeisi",
+                "Iwa oji, udi oji di iche iche na uru oji bara",
+                "Ilu nwaanyi",
+                "Iri ji",
+                "Ile omugwo",
+                "Mfiri na ndiiche ha",
+                "Uru na ogboon ha",
+                "Mgbanssena-abata n’omenaala",
+                "Ezinaulo na udi ya, oru diiri nne, nna na umuaka n’ezinaulo",
+                "Ile Obja"
+              ]
+            },
+            {
+              "topic": "Otu nzuzo n’uloakwukwo",
+              "objectives": [
+                "Ide edemede nduzi banyere otu nzuzo",
+                "Ide edemede di mfe gara n’usoro banyere otu uzuzo",
+                "Inputa nsogbu na-esite n’otu nzuzo iloakwukwu"
+              ]
+            },
+            {
+              "topic": "Udi Oru nwoke na nwaanyi na.aru ugbua",
+              "objectives": [
+                "Ikowaputa udi oru di iche iche",
+                "Ikowaputa oru naani nwokc maobu nwaanyi na-aru",
+                "Ide uta udi oru nwoke na nwaan na-aru"
+              ]
+            },
+            {
+              "topic": "Ubiam na aguu",
+              "objectives": [
+                "Ikpochapu ubiam na aguu n’ala anyi",
+                "Ikowa ihe bu ubiam na aguu",
+                "Ikçwaputa ihe na-ebute ubiarn na aguu",
+                "Ikowaputa uzo di iche iche e si ekpochapu ma na-ebochikwa ubiam na a"
+              ]
+            },
+            {
+              "topic": "Ahuike",
+              "objectives": [
+                "Ikwu ihe bu ahuike",
+                "Ikwu ona di iche iche",
+                "ihe na-ebute oria di iche iche",
+                "Ikwu mgbochi oria di iche iche",
+                "Izu na inuu ogu aghara aghara",
+                "Ikowa ihe bu ogwu",
+                "Mgbe e ji afiu ogwu",
+                "Onye kwesiri ide ogwu",
+                "Ebe e kwesiri izuta ogwu",
+                "Nso bu di n’izu na n’inu anwuru ike"
+              ]
+            },
+            {
+              "topic": "Ahuike ndi ntorobia",
+              "objectives": [
+                "Nkowa ndi ntorobia",
+                "Mgbanwe na-ahu ndi ntorobia",
+                "Oria ufodu na-emetuta ndi ntorobia",
+                "Uzo mbochi ona ndi a"
+              ]
+            },
+            {
+              "topic": "Nzisaozi",
+              "objectives": [
+                "Uzo nzisaozi nke odinaala dika okwu onu, ekwe, egbe. ogele dgz",
+                "Uzo nzisaozi nke ugbu a daka ekwenti, redio, Tiivii. nuzpepa(akwukwo akuko), komputa dgz",
+                "Uru izisa ozi bara"
+              ]
+            },
+            {
+              "topic": "Igu oge",
+              "objectives": [
+                "Oge elekere",
+                "Oge ubechi",
+                "Oge izu",
+                "Oge afe"
+              ]
+            },
+            {
+              "topic": "Mmeputa mbawanye akunauba n’ala an",
+              "objectives": [
+                "Ihe ndi e ji enueta ego",
+                "Uzo e si enweta ego",
+                "Uzo e si eme ka akunayba na abawanye",
+                "Ikpata ego n’uzo zin ezi"
+              ]
+            },
+            {
+              "topic": "Akaoru",
+              "objectives": [
+                "Ihe bu akaoru",
+                "Udi akaoru di iche iche",
+                "Ozuzu maka akaoru",
+                "Uro akaoru bara"
+              ]
+            },
+            {
+              "topic": "Oniru oya na-azu ahia",
+              "objectives": [
+                "Ihe bp azumahia",
+                "Nsogbu di n’iąl ahia",
+                "Uzo e si arugbu onye gaara izu ahia",
+                "Oruuru onve gaara izu ahia"
+              ]
+            },
+            {
+              "topic": "Ikwado na Inye nwaanyi ikikere na ohere dika ndi nwoke",
+              "objectives": [
+                "Uzo di iche iche a ga-esi na-enye nwaanyi Ohere",
+                "Otu a ga-csi kwado nwaanyi",
+                "Ebe di iche iche nwaanyi nwerc ike iputa n’ęchichi",
+                "Umunwaanyi ndi nwetarala ezigbo onodu n’ęchichi govmenti"
+              ]
+            },
+            {
+              "topic": "Ibi n’udo",
+              "objectives": [
+                "Nkęwa ihe bu ibi n’udo",
+                "Etu e si ebi n’udo",
+                "Uru di na ibi n’udo",
+                "N osi uta ibi n ‘udo site na- arama a"
+              ]
+            },
+            {
+              "topic": "Agwa oma na agua",
+              "objectives": [
+                "Ihe be agwa oma na agwa ojoo",
+                "Uru agwa oma bara",
+                "Ohom ikpa agwaa"
+              ]
+            },
+            {
+              "topic": "Orubere na oru umuaka",
+              "objectives": [
+                "Ihe bu orubere",
+                "Oke na oru umuaka",
+                "Uru inye umuaka orubere ha bara",
+                "Uru baara umuaka ima oke na oru ha"
+              ]
+            },
+            {
+              "topic": "Nrugosi",
+              "objectives": [
+                "Irugosi ihe ndi di n’ime na gburugburu uluakwukwo na n Obibi ha",
+                "Irugosi ndi mmadu site n’aha urnunna na-etu ha si metuta",
+                "Irugosi ufodi,’ akuku ahu mmadu",
+                "Irugosi anumanu di iche iche"
+              ]
+            },
+            {
+              "topic": "Uloakwukwo, Ezinaulo na uloogwu",
+              "objectives": [
+                "Ozi di mfe gbasara uluakwukwo na gburugburu ya daka n’ ime klasi na ama eguuregwu dgz",
+                "Ozi di mfe gbasara gburugburu ezinaulo",
+                "Ozi di mfe gbasara uloogwu daka n’ime uloogwu, Ofisi dokita dgz"
+              ]
+            },
+            {
+              "topic": "Nri na etu e si en ya",
+              "objectives": [
+                "Aha nri Igbo tinyere mkpuruosisi",
+                "Nri a na-eri n’oge di iche iche n’bubochi",
+                "Uzo di iche iche a si akpo mmadu oku nri na etu e si aju maçbu kwe",
+                "Ikowa ihe ndi a na-eme mgbe a naesi nri",
+                "Aka oru ii iche iche daka oru ubi, iv. ire nri. igbu azu nakwa ichu nta",
+                "Itulekorita ufodu omenaala lgbo na nke umuakwukwo gbasara etu e si esi nri"
+              ]
+            },
+            {
+              "topic": "Uwe na etu e si eyi uwe",
+              "objectives": [
+                "Ikçwa ihe di iche"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

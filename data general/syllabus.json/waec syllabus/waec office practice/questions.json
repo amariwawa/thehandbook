@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "THE OFFICE",
+      "section": "General",
+      "subtopic": "THE OFFICE",
+      "difficulty": "easy",
+      "question": "Which statement about THE OFFICE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "THE OFFICE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 2,
+      "topic": "THE OFFICE",
+      "section": "General",
+      "subtopic": "THE OFFICE",
+      "difficulty": "medium",
+      "question": "Which statement about THE OFFICE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THE OFFICE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 3,
+      "topic": "THE OFFICE",
+      "section": "General",
+      "subtopic": "THE OFFICE",
+      "difficulty": "hard",
+      "question": "Which statement about THE OFFICE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "THE OFFICE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 4,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "medium",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 5,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 6,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "easy",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 7,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "hard",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 8,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 9,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 10,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "easy",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 11,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "medium",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 12,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "hard",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 13,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 14,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "hard",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 15,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 16,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "hard",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 17,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 18,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 19,
+      "topic": "FILING",
+      "section": "General",
+      "subtopic": "FILING",
+      "difficulty": "easy",
+      "question": "Which statement about FILING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FILING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 20,
+      "topic": "FILING",
+      "section": "General",
+      "subtopic": "FILING",
+      "difficulty": "medium",
+      "question": "Which statement about FILING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "FILING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 21,
+      "topic": "FILING",
+      "section": "General",
+      "subtopic": "FILING",
+      "difficulty": "hard",
+      "question": "Which statement about FILING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "FILING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 22,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Road transport",
+        "C": "Pipeline",
+        "D": "Air transport"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 23,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Pipeline",
+        "C": "Air transport",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 24,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Road transport",
+        "C": "Pipeline",
+        "D": "Sea transport"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 25,
+      "topic": "MEETINGS",
+      "section": "General",
+      "subtopic": "MEETINGS",
+      "difficulty": "hard",
+      "question": "Which statement about MEETINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "MEETINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 26,
+      "topic": "MEETINGS",
+      "section": "General",
+      "subtopic": "MEETINGS",
+      "difficulty": "easy",
+      "question": "Which statement about MEETINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MEETINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 27,
+      "topic": "MEETINGS",
+      "section": "General",
+      "subtopic": "MEETINGS",
+      "difficulty": "medium",
+      "question": "Which statement about MEETINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MEETINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 28,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "easy",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 29,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "medium",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 30,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "hard",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 31,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "medium",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 32,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "hard",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 33,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "easy",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 34,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "easy",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 35,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "hard",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 36,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "medium",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 37,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "easy",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 38,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 39,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "hard",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 40,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "medium",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 41,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "easy",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 42,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Pipeline",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 43,
+      "topic": "MEETINGS",
+      "section": "General",
+      "subtopic": "MEETINGS",
+      "difficulty": "easy",
+      "question": "Which statement about MEETINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "MEETINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 44,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "hard",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 45,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 46,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "easy",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 47,
+      "topic": "MEETINGS",
+      "section": "General",
+      "subtopic": "MEETINGS",
+      "difficulty": "easy",
+      "question": "Which statement about MEETINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "MEETINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 48,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Road transport",
+        "C": "Air transport",
+        "D": "Pipeline"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 49,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 50,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "medium",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 51,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "hard",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 52,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Pipeline",
+        "C": "Air transport",
+        "D": "Sea transport"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 53,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "medium",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 54,
+      "topic": "MEETINGS",
+      "section": "General",
+      "subtopic": "MEETINGS",
+      "difficulty": "medium",
+      "question": "Which statement about MEETINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "MEETINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 55,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "easy",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 56,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "hard",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 57,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 58,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Pipeline",
+        "B": "Air transport",
+        "C": "Sea transport",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 59,
+      "topic": "THE OFFICE",
+      "section": "General",
+      "subtopic": "THE OFFICE",
+      "difficulty": "hard",
+      "question": "Which statement about THE OFFICE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "THE OFFICE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 60,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Pipeline",
+        "B": "Road transport",
+        "C": "Air transport",
+        "D": "Sea transport"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 61,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 62,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Road transport",
+        "C": "Pipeline",
+        "D": "Sea transport"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 63,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Air transport",
+        "C": "Sea transport",
+        "D": "Pipeline"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 64,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Pipeline",
+        "C": "Air transport",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 65,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Road transport",
+        "D": "Pipeline"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 66,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 67,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "medium",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 68,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 69,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 70,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 71,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 72,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 73,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "medium",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 74,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Pipeline",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 75,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "hard",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 76,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "medium",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 77,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 78,
+      "topic": "REPORT WRITING",
+      "section": "General",
+      "subtopic": "REPORT WRITING",
+      "difficulty": "easy",
+      "question": "Which statement about REPORT WRITING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "REPORT WRITING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 79,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "easy",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 80,
+      "topic": "FILING",
+      "section": "General",
+      "subtopic": "FILING",
+      "difficulty": "hard",
+      "question": "Which statement about FILING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "FILING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 81,
+      "topic": "OFFICE EQUIPMENT",
+      "section": "General",
+      "subtopic": "OFFICE EQUIPMENT",
+      "difficulty": "hard",
+      "question": "Which statement about OFFICE EQUIPMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "OFFICE EQUIPMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 82,
+      "topic": "OFFICE CORRESPONDENCE",
+      "section": "General",
+      "subtopic": "OFFICE CORRESPONDENCE",
+      "difficulty": "medium",
+      "question": "Which statement about OFFICE CORRESPONDENCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "OFFICE CORRESPONDENCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 83,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "medium",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 84,
+      "topic": "OFFICE DOCUMENTS",
+      "section": "General",
+      "subtopic": "OFFICE DOCUMENTS",
+      "difficulty": "hard",
+      "question": "Which statement about OFFICE DOCUMENTS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "OFFICE DOCUMENTS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 85,
+      "topic": "FILING",
+      "section": "General",
+      "subtopic": "FILING",
+      "difficulty": "easy",
+      "question": "Which statement about FILING is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "FILING is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 86,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "medium",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 87,
+      "topic": "DEPARTMENTS IN AN ORGANIZATION",
+      "section": "General",
+      "subtopic": "DEPARTMENTS IN AN ORGANIZATION",
+      "difficulty": "medium",
+      "question": "Which statement about DEPARTMENTS IN AN ORGANIZATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "DEPARTMENTS IN AN ORGANIZATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 88,
+      "topic": "INFORMATION",
+      "section": "General",
+      "subtopic": "INFORMATION",
+      "difficulty": "medium",
+      "question": "Which statement about INFORMATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INFORMATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 89,
+      "topic": "COMMUNICATION",
+      "section": "General",
+      "subtopic": "COMMUNICATION",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Pipeline",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 90,
+      "topic": "THE RECEPTION",
+      "section": "General",
+      "subtopic": "THE RECEPTION",
+      "difficulty": "hard",
+      "question": "Which statement about THE RECEPTION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "THE RECEPTION is part of the Commerce syllabus and is regularly tested."
+    }
+  ]
+}

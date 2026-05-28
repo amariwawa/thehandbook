@@ -1,0 +1,243 @@
+{
+  "syllabus_title": "FISHERIES (ALTERNATIVE A) - Detailed Syllabus",
+  "sections": [
+    {
+      "section": "A",
+      "title": "INTRODUCTION TO FISHERIES",
+      "topics": [
+        {
+          "topic": "1. Fisheries and national development",
+          "subtopics": [
+            {
+              "sub": "(a) Meaning of fisheries",
+              "details": "Explanation of the term fisheries"
+            },
+            {
+              "sub": "(b) Types of fisheries",
+              "details": "Culture fisheries (aquaculture), Capture fisheries (fishing) - subsistence, artisanal, commercial, industrial fisheries"
+            },
+            {
+              "sub": "(c) Importance of fisheries to national development",
+              "details": "Role in food, employment, income generation, social and cultural life"
+            }
+          ]
+        },
+        {
+          "topic": "2. Fishery organisms and their habitats",
+          "subtopics": [
+            {
+              "sub": "(a) Identification and description of common fishery organisms",
+              "details": "Fin fishes (e.g. herring, tuna, tilapia, Clarias, Heterobranchus), Crustaceans (shrimp/prawns/lobster, crabs), Molluscs (clam, scallops, oyster, cuttle fish/squid)"
+            },
+            {
+              "sub": "(b) Fishery habitats",
+              "details": "Characteristics of freshwater (river, lake), brackish water (estuary, lagoon), marine (pelagic, demersal)"
+            },
+            {
+              "sub": "(c) Identification and description of the characteristics of invasive alien species in fishery habitats",
+              "details": "Species such as Eichhornia crassipes (water hyacinth), Cyperus papyrus, Salvinia molesta, Limnocharis flava, Pistia stratiotes, Azolla filiculoides, Enteromorpha flexura, Ceratophyllum sp. (morphology, propagation, growth)"
+            },
+            {
+              "sub": "(d) Effects of invasive alien species in fisheries",
+              "details": "Effects on fishery habitats, organisms, and fishers"
+            },
+            {
+              "sub": "(e) Prevention and control of invasive alien species in fishery habitats",
+              "details": "Awareness, screening, enforcement of laws, physical and biological control"
+            }
+          ]
+        },
+        {
+          "topic": "3. Grouping of fishery organisms",
+          "details": "Grouping under freshwater, brackish water, and marine habitats (e.g. Tilapia, Clarias, Sardinella, Tuna, etc.)"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "FISHING ACTIVITIES",
+      "topics": [
+        {
+          "topic": "1. Fish landing sites and facilities",
+          "subtopics": [
+            {"sub": "(a) Types of fish landing sites", "details": "Beaches, harbours, lagoons, river banks, lake shores"},
+            {"sub": "(b) Facilities and activities at fish landing sites", "details": "Winch, cold store, ice plant, etc.; unloading, fuelling, processing, marketing"},
+            {"sub": "(c) Sanitation practices at fish landing sites", "details": "Proper disposal of wastes, oil spills, vessel parts"}
+          ]
+        },
+        {
+          "topic": "2. Fishing gear and craft",
+          "subtopics": [
+            {"sub": "(a) Classification and description of fishing gear", "details": "Active (cast net, seine net, trawl, etc.), Passive (hooks, stationary nets, traps); merits/demerits, materials, maintenance"},
+            {"sub": "(b) Description and maintenance of fishing craft", "details": "Canoes, trawlers, purse seiners; accessories (oars, engines, sonar, etc.)"}
+          ]
+        },
+        {
+          "topic": "3. Fishing methods",
+          "details": "Active and passive methods in inland, coastal, and deep sea fishing"
+        },
+        {
+          "topic": "4. Harmful fishing practices",
+          "details": "Description, effects, prevention, and minimization"
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "FISH BIOLOGY",
+      "topics": [
+        {
+          "topic": "1. Identification and classification of fishery organisms",
+          "subtopics": [
+            {"sub": "(a) Identification by species", "details": "Common and scientific names"},
+            {"sub": "(b) Classification", "details": "Phylum/class for Mollusca, Arthropoda, Echinodermata; Chordata to subclass"}
+          ]
+        },
+        {
+          "topic": "2. Structure and function of fishery organisms",
+          "subtopics": [
+            {"sub": "(a) Fish body measurements", "details": "Total, standard, fork lengths, weights"},
+            {"sub": "(b) External structures and features", "details": "For mollusc, crustaceans, cartilaginous and bony fishes"},
+            {"sub": "(c) Internal organs of bony fishes and functions", "details": "Gills, alimentary canal, heart, kidneys, gonads"}
+          ]
+        },
+        {
+          "topic": "3. Life processes in fishes",
+          "subtopics": [
+            {"sub": "(a) Locomotion", "details": "Muscles, fins, balance"},
+            {"sub": "(b) Feeding and digestion"},
+            {"sub": "(c) Blood circulation"},
+            {"sub": "(d) Gaseous exchange"},
+            {"sub": "(e) Excretion"},
+            {"sub": "(f) Reproduction", "details": "Stages, sex identification in tilapia"},
+            {"sub": "(g) Growth", "details": "Life cycle and influencing factors"}
+          ]
+        },
+        {
+          "topic": "4. Fish ecology",
+          "subtopics": [
+            {"sub": "(a) Environmental conditions in fish habitats", "details": "Temperature, DO, salinity, pH, etc.; measurement"},
+            {"sub": "(b) Ecological processes", "details": "Feeding, predation, food chain/web/pyramid, adaptation"},
+            {"sub": "(c) Pollution in water bodies", "details": "Causes, effects, prevention"}
+          ]
+        },
+        {
+          "topic": "5. Fish genetics and evolution",
+          "subtopics": [
+            {"sub": "(a) Principles of Genetics", "details": "Chromosomes, genes, genotype/phenotype, applications (e.g. GIFT)"},
+            {"sub": "(b) Inheritance of genetic characteristics", "details": "e.g. skin colour"}
+          ]
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "AQUACULTURE",
+      "topics": [
+        {
+          "topic": "1. Introduction to aquaculture",
+          "subtopics": [
+            {"sub": "(a) Meaning and importance"},
+            {"sub": "(b) Types of aquaculture"},
+            {"sub": "(c) The state of aquaculture in your country", "details": "Farms, species, challenges, prospects"}
+          ]
+        },
+        {
+          "topic": "2. Aquarium activities",
+          "subtopics": [
+            {"sub": "(a) Construction of an aquarium"},
+            {"sub": "(b) Management of an aquarium"}
+          ]
+        },
+        {
+          "topic": "3. Fish farming",
+          "subtopics": [
+            {"sub": "(a) Introduction", "details": "Levels (extensive, semi-intensive, intensive), types (mono/polyculture, integrated)"},
+            {"sub": "(b) Construction of fish culture facilities", "details": "Site selection, earthen ponds, cages, etc."},
+            {"sub": "(c) Management of fish ponds", "details": [
+              "Stocking", "Pond maintenance", "Water quality control", "Fish feeds and feeding", "Harvesting"
+            ]},
+            {"sub": "(d) Fish diseases", "details": "Types/causes (Gill rot - fungus, Furunculosis - bacteria, Ich - protozoa), symptoms, prevention/treatment"}
+          ]
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "title": "FISH UTILIZATION",
+      "topics": [
+        {
+          "topic": "1. Nutritive value of fish",
+          "details": "Composition (proteins, lipids, etc.) for fin fish, crustaceans, molluscs"
+        },
+        {
+          "topic": "2. Fish processing and preservation",
+          "subtopics": [
+            {"sub": "(a) Meaning"},
+            {"sub": "(b) Importance"},
+            {"sub": "(c) General principles"},
+            {"sub": "(d) Methods of fish processing", "details": "Washing, scaling, gutting, filleting; traditional/modern"},
+            {"sub": "(e) Methods of fish preservation", "details": "Smoking (Chorkor), drying, salting, freezing, etc."},
+            {"sub": "(f) Packaging"},
+            {"sub": "(g) Fish products and by-products"},
+            {"sub": "(h) Fish spoilage", "details": "Signs, causes, effects"}
+          ]
+        }
+      ]
+    },
+    {
+      "section": "F",
+      "title": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "topics": [
+        {
+          "topic": "1. Fisheries management",
+          "subtopics": [
+            {"sub": "(a) Meaning"},
+            {"sub": "(b) Objectives and strategies", "details": "MSY, quotas, mesh size, etc."},
+            {"sub": "(c) Traditional fish stock management practices"},
+            {"sub": "(d) Data collection and analysis"},
+            {"sub": "(e) Fishery policies and regulations (government and international)"}
+          ]
+        },
+        {
+          "topic": "2. Business of fisheries",
+          "subtopics": [
+            {"sub": "Budget preparation and financial projections"},
+            {"sub": "Fish marketing", "details": "State, centres, companies, supply/value chains, quality/safety"}
+          ]
+        }
+      ]
+    },
+    {
+      "section": "G",
+      "title": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "topics": [
+        {
+          "topic": "1. Fishing communities and cultural practices",
+          "subtopics": [
+            {"sub": "(a) Important fishing communities"},
+            {"sub": "(b) Cultural festivals and taboos"}
+          ]
+        },
+        {
+          "topic": "2. Fisheries institutional framework and job opportunities",
+          "subtopics": [
+            {"sub": "(a) Fisheries training and research institutions"},
+            {"sub": "(b) Job opportunities"},
+            {"sub": "(c) Business opportunities", "details": "Procedure for establishing enterprises, extension services"}
+          ]
+        }
+      ]
+    }
+  ],
+  "practical_skills": [
+    "Identification and maintenance of fishing gear",
+    "Identification and classification of common fishes and invasive species",
+    "Fish structure (external/internal - dissection and labelling)",
+    "Measurement of environmental conditions",
+    "Ecological processes (food chain/web)",
+    "Characteristics of fresh vs spoiled fish",
+    "Fish processing/preservation and by-products",
+    "Pond construction, feed formulation, pond fertilization, fish diseases"
+  ]
+}

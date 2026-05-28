@@ -1,0 +1,4132 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Elements of Government",
+      "section": "Section a",
+      "subtopic": "Elements of Government",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Elements of Government in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Elements of Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 2,
+      "topic": "Elements of Government",
+      "section": "Section a",
+      "subtopic": "Elements of Government",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Elements of Government in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "Elements of Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 3,
+      "topic": "Elements of Government",
+      "section": "Section a",
+      "subtopic": "Elements of Government",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Elements of Government in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Elements of Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 4,
+      "topic": "Political and Constitutional Developments in West Africa and International Relations",
+      "section": "Section b",
+      "subtopic": "Political and Constitutional Developments in West Africa and International Relations",
+      "difficulty": "medium",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The President",
+        "B": "The people of Nigeria",
+        "C": "The Judiciary",
+        "D": "The National Assembly"
+      },
+      "answer": "B",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 5,
+      "topic": "Political and Constitutional Developments in West Africa and International Relations",
+      "section": "Section b",
+      "subtopic": "Political and Constitutional Developments in West Africa and International Relations",
+      "difficulty": "hard",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The President",
+        "B": "The National Assembly",
+        "C": "The Judiciary",
+        "D": "The people of Nigeria"
+      },
+      "answer": "D",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 6,
+      "topic": "Political and Constitutional Developments in West Africa and International Relations",
+      "section": "Section b",
+      "subtopic": "Political and Constitutional Developments in West Africa and International Relations",
+      "difficulty": "easy",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The people of Nigeria",
+        "B": "The National Assembly",
+        "C": "The Judiciary",
+        "D": "The President"
+      },
+      "answer": "A",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 7,
+      "topic": "Elements of Government",
+      "section": "section a",
+      "subtopic": "Elements of Government",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Elements of Government in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "Elements of Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 8,
+      "topic": "Elements of Government",
+      "section": "section a",
+      "subtopic": "Elements of Government",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Elements of Government in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Elements of Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 9,
+      "topic": "Elements of Government",
+      "section": "section a",
+      "subtopic": "Elements of Government",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Elements of Government in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "Elements of Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 10,
+      "topic": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT",
+      "section": "section a",
+      "subtopic": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT",
+      "difficulty": "easy",
+      "question": "Which statement is correct about MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 11,
+      "topic": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT",
+      "section": "section a",
+      "subtopic": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT",
+      "difficulty": "medium",
+      "question": "Which statement is correct about MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 12,
+      "topic": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT",
+      "section": "section a",
+      "subtopic": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT",
+      "difficulty": "hard",
+      "question": "Which statement is correct about MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "MEANING AND SCOPE OF THE SUBJECT MATTER – GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 13,
+      "topic": "Government as an institution of the state",
+      "section": "section a",
+      "subtopic": "Government as an institution of the state",
+      "difficulty": "medium",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Four",
+        "B": "Three",
+        "C": "Two",
+        "D": "Five"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 14,
+      "topic": "Government as an institution of the state",
+      "section": "section a",
+      "subtopic": "Government as an institution of the state",
+      "difficulty": "hard",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Two",
+        "B": "Four",
+        "C": "Five",
+        "D": "Three"
+      },
+      "answer": "D",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 15,
+      "topic": "Government as an institution of the state",
+      "section": "section a",
+      "subtopic": "Government as an institution of the state",
+      "difficulty": "easy",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Two",
+        "B": "Four",
+        "C": "Three",
+        "D": "Five"
+      },
+      "answer": "C",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 16,
+      "topic": "Government as a process or art of governing",
+      "section": "section a",
+      "subtopic": "Government as a process or art of governing",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Government as a process or art of governing in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Government as a process or art of governing is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 17,
+      "topic": "Government as a process or art of governing",
+      "section": "section a",
+      "subtopic": "Government as a process or art of governing",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Government as a process or art of governing in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Government as a process or art of governing is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 18,
+      "topic": "Government as a process or art of governing",
+      "section": "section a",
+      "subtopic": "Government as a process or art of governing",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Government as a process or art of governing in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Government as a process or art of governing is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 19,
+      "topic": "Government as an academic field of study – reasons for studying government",
+      "section": "section a",
+      "subtopic": "Government as an academic field of study – reasons for studying government",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Government as an academic field of study – reasons for studying government in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "Government as an academic field of study – reasons for studying government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 20,
+      "topic": "Government as an academic field of study – reasons for studying government",
+      "section": "section a",
+      "subtopic": "Government as an academic field of study – reasons for studying government",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Government as an academic field of study – reasons for studying government in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "Government as an academic field of study – reasons for studying government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 21,
+      "topic": "Government as an academic field of study – reasons for studying government",
+      "section": "section a",
+      "subtopic": "Government as an academic field of study – reasons for studying government",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Government as an academic field of study – reasons for studying government in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Government as an academic field of study – reasons for studying government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 22,
+      "topic": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT",
+      "difficulty": "medium",
+      "question": "Which statement is correct about BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 23,
+      "topic": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT",
+      "difficulty": "hard",
+      "question": "Which statement is correct about BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 24,
+      "topic": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT",
+      "difficulty": "easy",
+      "question": "Which statement is correct about BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "BASIC CONCEPTS AND PRINCIPLES OF GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 25,
+      "topic": "Basic concepts",
+      "section": "category",
+      "subtopic": "Basic concepts",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Basic concepts in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "Basic concepts is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 26,
+      "topic": "Basic concepts",
+      "section": "category",
+      "subtopic": "Basic concepts",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Basic concepts in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "Basic concepts is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 27,
+      "topic": "Basic concepts",
+      "section": "category",
+      "subtopic": "Basic concepts",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Basic concepts in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Basic concepts is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 28,
+      "topic": "Sovereignty",
+      "section": "items",
+      "subtopic": "Sovereignty",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Sovereignty in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "Sovereignty is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 29,
+      "topic": "Sovereignty",
+      "section": "items",
+      "subtopic": "Sovereignty",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Sovereignty in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "Sovereignty is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 30,
+      "topic": "Sovereignty",
+      "section": "items",
+      "subtopic": "Sovereignty",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Sovereignty in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "Sovereignty is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 31,
+      "topic": "Political Culture and Socialization",
+      "section": "items",
+      "subtopic": "Political Culture and Socialization",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Freedom of expression",
+        "C": "Right to drive",
+        "D": "Right to bear arms"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 32,
+      "topic": "Political Culture and Socialization",
+      "section": "items",
+      "subtopic": "Political Culture and Socialization",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 33,
+      "topic": "Political Culture and Socialization",
+      "section": "items",
+      "subtopic": "Political Culture and Socialization",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 34,
+      "topic": "Communalism",
+      "section": "items",
+      "subtopic": "Communalism",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "Commonwealth",
+        "C": "United Nations",
+        "D": "African Union"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 35,
+      "topic": "Communalism",
+      "section": "items",
+      "subtopic": "Communalism",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "NATO",
+        "C": "Commonwealth",
+        "D": "United Nations"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 36,
+      "topic": "Communalism",
+      "section": "items",
+      "subtopic": "Communalism",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "United Nations",
+        "B": "African Union",
+        "C": "NATO",
+        "D": "Commonwealth"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 37,
+      "topic": "Aristocracy",
+      "section": "items",
+      "subtopic": "Aristocracy",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Aristocracy in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Aristocracy is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 38,
+      "topic": "Aristocracy",
+      "section": "items",
+      "subtopic": "Aristocracy",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Aristocracy in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Aristocracy is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 39,
+      "topic": "Aristocracy",
+      "section": "items",
+      "subtopic": "Aristocracy",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Aristocracy in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Aristocracy is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 40,
+      "topic": "Totalitarianism",
+      "section": "items",
+      "subtopic": "Totalitarianism",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Totalitarianism in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "Totalitarianism is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 41,
+      "topic": "Totalitarianism",
+      "section": "items",
+      "subtopic": "Totalitarianism",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Totalitarianism in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "Totalitarianism is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 42,
+      "topic": "Totalitarianism",
+      "section": "items",
+      "subtopic": "Totalitarianism",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Totalitarianism in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "Totalitarianism is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 43,
+      "topic": "Basic principles",
+      "section": "category",
+      "subtopic": "Basic principles",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Basic principles in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "Basic principles is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 44,
+      "topic": "Basic principles",
+      "section": "category",
+      "subtopic": "Basic principles",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Basic principles in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Basic principles is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 45,
+      "topic": "Basic principles",
+      "section": "category",
+      "subtopic": "Basic principles",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Basic principles in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Basic principles is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 46,
+      "topic": "Rule of Law",
+      "section": "items",
+      "subtopic": "Rule of Law",
+      "difficulty": "easy",
+      "question": "Which principle ensures that no branch of government becomes too powerful?",
+      "options": {
+        "A": "Confederation",
+        "B": "Totalitarianism",
+        "C": "Separation of powers",
+        "D": "Unitary system"
+      },
+      "answer": "C",
+      "explanation": "Separation of powers divides government into legislative, executive, and judicial branches to prevent abuse of power."
+    },
+    {
+      "id": 47,
+      "topic": "Rule of Law",
+      "section": "items",
+      "subtopic": "Rule of Law",
+      "difficulty": "medium",
+      "question": "Which principle ensures that no branch of government becomes too powerful?",
+      "options": {
+        "A": "Totalitarianism",
+        "B": "Unitary system",
+        "C": "Confederation",
+        "D": "Separation of powers"
+      },
+      "answer": "D",
+      "explanation": "Separation of powers divides government into legislative, executive, and judicial branches to prevent abuse of power."
+    },
+    {
+      "id": 48,
+      "topic": "Rule of Law",
+      "section": "items",
+      "subtopic": "Rule of Law",
+      "difficulty": "hard",
+      "question": "Which principle ensures that no branch of government becomes too powerful?",
+      "options": {
+        "A": "Unitary system",
+        "B": "Totalitarianism",
+        "C": "Separation of powers",
+        "D": "Confederation"
+      },
+      "answer": "C",
+      "explanation": "Separation of powers divides government into legislative, executive, and judicial branches to prevent abuse of power."
+    },
+    {
+      "id": 49,
+      "topic": "Fundamental Human Rights",
+      "section": "items",
+      "subtopic": "Fundamental Human Rights",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Freedom of expression",
+        "C": "Right to drive",
+        "D": "Right to bear arms"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 50,
+      "topic": "Fundamental Human Rights",
+      "section": "items",
+      "subtopic": "Fundamental Human Rights",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Freedom of expression",
+        "C": "Right to own property exclusively",
+        "D": "Right to bear arms"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 51,
+      "topic": "Fundamental Human Rights",
+      "section": "items",
+      "subtopic": "Fundamental Human Rights",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Freedom of expression",
+        "C": "Right to bear arms",
+        "D": "Right to drive"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 52,
+      "topic": "Separation of Powers/Checks and Balances",
+      "section": "items",
+      "subtopic": "Separation of Powers/Checks and Balances",
+      "difficulty": "hard",
+      "question": "Which principle ensures that no branch of government becomes too powerful?",
+      "options": {
+        "A": "Separation of powers",
+        "B": "Confederation",
+        "C": "Unitary system",
+        "D": "Totalitarianism"
+      },
+      "answer": "A",
+      "explanation": "Separation of powers divides government into legislative, executive, and judicial branches to prevent abuse of power."
+    },
+    {
+      "id": 53,
+      "topic": "Separation of Powers/Checks and Balances",
+      "section": "items",
+      "subtopic": "Separation of Powers/Checks and Balances",
+      "difficulty": "easy",
+      "question": "Which principle ensures that no branch of government becomes too powerful?",
+      "options": {
+        "A": "Totalitarianism",
+        "B": "Unitary system",
+        "C": "Confederation",
+        "D": "Separation of powers"
+      },
+      "answer": "D",
+      "explanation": "Separation of powers divides government into legislative, executive, and judicial branches to prevent abuse of power."
+    },
+    {
+      "id": 54,
+      "topic": "Separation of Powers/Checks and Balances",
+      "section": "items",
+      "subtopic": "Separation of Powers/Checks and Balances",
+      "difficulty": "medium",
+      "question": "Which principle ensures that no branch of government becomes too powerful?",
+      "options": {
+        "A": "Confederation",
+        "B": "Unitary system",
+        "C": "Separation of powers",
+        "D": "Totalitarianism"
+      },
+      "answer": "C",
+      "explanation": "Separation of powers divides government into legislative, executive, and judicial branches to prevent abuse of power."
+    },
+    {
+      "id": 55,
+      "topic": "Constitutionalism",
+      "section": "items",
+      "subtopic": "Constitutionalism",
+      "difficulty": "easy",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The Judiciary",
+        "B": "The National Assembly",
+        "C": "The President",
+        "D": "The people of Nigeria"
+      },
+      "answer": "D",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 56,
+      "topic": "Constitutionalism",
+      "section": "items",
+      "subtopic": "Constitutionalism",
+      "difficulty": "medium",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The Judiciary",
+        "B": "The President",
+        "C": "The people of Nigeria",
+        "D": "The National Assembly"
+      },
+      "answer": "C",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 57,
+      "topic": "Constitutionalism",
+      "section": "items",
+      "subtopic": "Constitutionalism",
+      "difficulty": "hard",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The National Assembly",
+        "B": "The Judiciary",
+        "C": "The President",
+        "D": "The people of Nigeria"
+      },
+      "answer": "D",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 58,
+      "topic": "Political participation",
+      "section": "items",
+      "subtopic": "Political participation",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to drive",
+        "C": "Right to bear arms",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 59,
+      "topic": "Political participation",
+      "section": "items",
+      "subtopic": "Political participation",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Freedom of expression",
+        "C": "Right to bear arms",
+        "D": "Right to drive"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 60,
+      "topic": "Political participation",
+      "section": "items",
+      "subtopic": "Political participation",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to bear arms",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 61,
+      "topic": "Representative Government",
+      "section": "items",
+      "subtopic": "Representative Government",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Representative Government in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "Representative Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 62,
+      "topic": "Representative Government",
+      "section": "items",
+      "subtopic": "Representative Government",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Representative Government in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Representative Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 63,
+      "topic": "Representative Government",
+      "section": "items",
+      "subtopic": "Representative Government",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Representative Government in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "Representative Government is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 64,
+      "topic": "Centralization and Decentralization (Delegation, Devolution and Decentralization)",
+      "section": "items",
+      "subtopic": "Centralization and Decentralization (Delegation, Devolution and Decentralization)",
+      "difficulty": "easy",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Two",
+        "C": "Four",
+        "D": "Three"
+      },
+      "answer": "D",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 65,
+      "topic": "Centralization and Decentralization (Delegation, Devolution and Decentralization)",
+      "section": "items",
+      "subtopic": "Centralization and Decentralization (Delegation, Devolution and Decentralization)",
+      "difficulty": "medium",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Three",
+        "B": "Five",
+        "C": "Four",
+        "D": "Two"
+      },
+      "answer": "A",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 66,
+      "topic": "Centralization and Decentralization (Delegation, Devolution and Decentralization)",
+      "section": "items",
+      "subtopic": "Centralization and Decentralization (Delegation, Devolution and Decentralization)",
+      "difficulty": "hard",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Four",
+        "B": "Three",
+        "C": "Two",
+        "D": "Five"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 67,
+      "topic": "CONSTITUTIONS",
+      "section": "section a",
+      "subtopic": "CONSTITUTIONS",
+      "difficulty": "medium",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The Judiciary",
+        "B": "The National Assembly",
+        "C": "The people of Nigeria",
+        "D": "The President"
+      },
+      "answer": "C",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 68,
+      "topic": "CONSTITUTIONS",
+      "section": "section a",
+      "subtopic": "CONSTITUTIONS",
+      "difficulty": "hard",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The President",
+        "B": "The people of Nigeria",
+        "C": "The National Assembly",
+        "D": "The Judiciary"
+      },
+      "answer": "B",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 69,
+      "topic": "CONSTITUTIONS",
+      "section": "section a",
+      "subtopic": "CONSTITUTIONS",
+      "difficulty": "easy",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The people of Nigeria",
+        "B": "The National Assembly",
+        "C": "The President",
+        "D": "The Judiciary"
+      },
+      "answer": "A",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 70,
+      "topic": "Definition and Sources",
+      "section": "section a",
+      "subtopic": "Definition and Sources",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Definition and Sources in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "Definition and Sources is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 71,
+      "topic": "Definition and Sources",
+      "section": "section a",
+      "subtopic": "Definition and Sources",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Definition and Sources in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "Definition and Sources is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 72,
+      "topic": "Definition and Sources",
+      "section": "section a",
+      "subtopic": "Definition and Sources",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Definition and Sources in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Definition and Sources is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 73,
+      "topic": "Types and Features (Written and Unwritten, Rigid and Flexible)",
+      "section": "section a",
+      "subtopic": "Types and Features (Written and Unwritten, Rigid and Flexible)",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "United Nations",
+        "C": "NATO",
+        "D": "Commonwealth"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 74,
+      "topic": "Types and Features (Written and Unwritten, Rigid and Flexible)",
+      "section": "section a",
+      "subtopic": "Types and Features (Written and Unwritten, Rigid and Flexible)",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "United Nations",
+        "B": "Commonwealth",
+        "C": "NATO",
+        "D": "African Union"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 75,
+      "topic": "Types and Features (Written and Unwritten, Rigid and Flexible)",
+      "section": "section a",
+      "subtopic": "Types and Features (Written and Unwritten, Rigid and Flexible)",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "United Nations",
+        "C": "Commonwealth",
+        "D": "African Union"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 76,
+      "topic": "ORGANS OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "ORGANS OF GOVERNMENT",
+      "difficulty": "medium",
+      "question": "Which statement is correct about ORGANS OF GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "ORGANS OF GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 77,
+      "topic": "ORGANS OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "ORGANS OF GOVERNMENT",
+      "difficulty": "hard",
+      "question": "Which statement is correct about ORGANS OF GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "ORGANS OF GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 78,
+      "topic": "ORGANS OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "ORGANS OF GOVERNMENT",
+      "difficulty": "easy",
+      "question": "Which statement is correct about ORGANS OF GOVERNMENT in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "A",
+      "explanation": "ORGANS OF GOVERNMENT is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 79,
+      "topic": "The Executive, the Legislature and the Judiciary",
+      "section": "section a",
+      "subtopic": "The Executive, the Legislature and the Judiciary",
+      "difficulty": "hard",
+      "question": "Which statement is correct about The Executive, the Legislature and the Judiciary in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "The Executive, the Legislature and the Judiciary is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 80,
+      "topic": "The Executive, the Legislature and the Judiciary",
+      "section": "section a",
+      "subtopic": "The Executive, the Legislature and the Judiciary",
+      "difficulty": "easy",
+      "question": "Which statement is correct about The Executive, the Legislature and the Judiciary in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "The Executive, the Legislature and the Judiciary is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 81,
+      "topic": "The Executive, the Legislature and the Judiciary",
+      "section": "section a",
+      "subtopic": "The Executive, the Legislature and the Judiciary",
+      "difficulty": "medium",
+      "question": "Which statement is correct about The Executive, the Legislature and the Judiciary in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "The Executive, the Legislature and the Judiciary is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 82,
+      "topic": "Judicial Independence",
+      "section": "section a",
+      "subtopic": "Judicial Independence",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Judicial Independence in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Judicial Independence is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 83,
+      "topic": "Judicial Independence",
+      "section": "section a",
+      "subtopic": "Judicial Independence",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Judicial Independence in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "Judicial Independence is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 84,
+      "topic": "Judicial Independence",
+      "section": "section a",
+      "subtopic": "Judicial Independence",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Judicial Independence in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "Judicial Independence is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 85,
+      "topic": "Types, powers and limitations of each organ",
+      "section": "section a",
+      "subtopic": "Types, powers and limitations of each organ",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Types, powers and limitations of each organ in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "Types, powers and limitations of each organ is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 86,
+      "topic": "Types, powers and limitations of each organ",
+      "section": "section a",
+      "subtopic": "Types, powers and limitations of each organ",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Types, powers and limitations of each organ in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Types, powers and limitations of each organ is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 87,
+      "topic": "Types, powers and limitations of each organ",
+      "section": "section a",
+      "subtopic": "Types, powers and limitations of each organ",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Types, powers and limitations of each organ in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Types, powers and limitations of each organ is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 88,
+      "topic": "STATE STRUCTURE AND CHARACTERISTICS OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "STATE STRUCTURE AND CHARACTERISTICS OF GOVERNMENT",
+      "difficulty": "hard",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Three",
+        "C": "Two",
+        "D": "Four"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 89,
+      "topic": "STATE STRUCTURE AND CHARACTERISTICS OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "STATE STRUCTURE AND CHARACTERISTICS OF GOVERNMENT",
+      "difficulty": "easy",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Three",
+        "C": "Two",
+        "D": "Four"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 90,
+      "topic": "STATE STRUCTURE AND CHARACTERISTICS OF GOVERNMENT",
+      "section": "section a",
+      "subtopic": "STATE STRUCTURE AND CHARACTERISTICS OF GOVERNMENT",
+      "difficulty": "medium",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Three",
+        "B": "Five",
+        "C": "Four",
+        "D": "Two"
+      },
+      "answer": "A",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 91,
+      "topic": "Types: Unitary, Federal, Confederal",
+      "section": "section a",
+      "subtopic": "Types: Unitary, Federal, Confederal",
+      "difficulty": "easy",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Three",
+        "C": "Two",
+        "D": "Four"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 92,
+      "topic": "Types: Unitary, Federal, Confederal",
+      "section": "section a",
+      "subtopic": "Types: Unitary, Federal, Confederal",
+      "difficulty": "medium",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Three",
+        "C": "Four",
+        "D": "Two"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 93,
+      "topic": "Types: Unitary, Federal, Confederal",
+      "section": "section a",
+      "subtopic": "Types: Unitary, Federal, Confederal",
+      "difficulty": "hard",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Three",
+        "C": "Four",
+        "D": "Two"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 94,
+      "topic": "Presidential or Non-parliamentary, Parliamentary or Cabinet",
+      "section": "section a",
+      "subtopic": "Presidential or Non-parliamentary, Parliamentary or Cabinet",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Presidential or Non-parliamentary, Parliamentary or Cabinet in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Presidential or Non-parliamentary, Parliamentary or Cabinet is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 95,
+      "topic": "Presidential or Non-parliamentary, Parliamentary or Cabinet",
+      "section": "section a",
+      "subtopic": "Presidential or Non-parliamentary, Parliamentary or Cabinet",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Presidential or Non-parliamentary, Parliamentary or Cabinet in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Presidential or Non-parliamentary, Parliamentary or Cabinet is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 96,
+      "topic": "Presidential or Non-parliamentary, Parliamentary or Cabinet",
+      "section": "section a",
+      "subtopic": "Presidential or Non-parliamentary, Parliamentary or Cabinet",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Presidential or Non-parliamentary, Parliamentary or Cabinet in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "Presidential or Non-parliamentary, Parliamentary or Cabinet is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 97,
+      "topic": "Monarchical and Republican",
+      "section": "section a",
+      "subtopic": "Monarchical and Republican",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Monarchical and Republican in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Monarchical and Republican is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 98,
+      "topic": "Monarchical and Republican",
+      "section": "section a",
+      "subtopic": "Monarchical and Republican",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Monarchical and Republican in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "Monarchical and Republican is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 99,
+      "topic": "Monarchical and Republican",
+      "section": "section a",
+      "subtopic": "Monarchical and Republican",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Monarchical and Republican in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Monarchical and Republican is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 100,
+      "topic": "CITIZENSHIP",
+      "section": "section a",
+      "subtopic": "CITIZENSHIP",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Freedom of expression",
+        "C": "Right to bear arms",
+        "D": "Right to drive"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 101,
+      "topic": "CITIZENSHIP",
+      "section": "section a",
+      "subtopic": "CITIZENSHIP",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to drive",
+        "C": "Freedom of expression",
+        "D": "Right to bear arms"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 102,
+      "topic": "CITIZENSHIP",
+      "section": "section a",
+      "subtopic": "CITIZENSHIP",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Right to bear arms"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 103,
+      "topic": "Meaning, modes of acquisition",
+      "section": "section a",
+      "subtopic": "Meaning, modes of acquisition",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Meaning, modes of acquisition in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Meaning, modes of acquisition is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 104,
+      "topic": "Meaning, modes of acquisition",
+      "section": "section a",
+      "subtopic": "Meaning, modes of acquisition",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Meaning, modes of acquisition in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Meaning, modes of acquisition is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 105,
+      "topic": "Meaning, modes of acquisition",
+      "section": "section a",
+      "subtopic": "Meaning, modes of acquisition",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Meaning, modes of acquisition in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "Meaning, modes of acquisition is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 106,
+      "topic": "Rights, duties and obligations of citizens",
+      "section": "section a",
+      "subtopic": "Rights, duties and obligations of citizens",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Right to bear arms"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 107,
+      "topic": "Rights, duties and obligations of citizens",
+      "section": "section a",
+      "subtopic": "Rights, duties and obligations of citizens",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Right to bear arms",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 108,
+      "topic": "Rights, duties and obligations of citizens",
+      "section": "section a",
+      "subtopic": "Rights, duties and obligations of citizens",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to bear arms",
+        "C": "Right to own property exclusively",
+        "D": "Right to drive"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 109,
+      "topic": "Means of safeguarding rights of citizens",
+      "section": "section a",
+      "subtopic": "Means of safeguarding rights of citizens",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 110,
+      "topic": "Means of safeguarding rights of citizens",
+      "section": "section a",
+      "subtopic": "Means of safeguarding rights of citizens",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Right to own property exclusively",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 111,
+      "topic": "Means of safeguarding rights of citizens",
+      "section": "section a",
+      "subtopic": "Means of safeguarding rights of citizens",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to drive",
+        "C": "Right to bear arms",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 112,
+      "topic": "POLITICAL PARTIES AND PARTY SYSTEMS",
+      "section": "section a",
+      "subtopic": "POLITICAL PARTIES AND PARTY SYSTEMS",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 113,
+      "topic": "POLITICAL PARTIES AND PARTY SYSTEMS",
+      "section": "section a",
+      "subtopic": "POLITICAL PARTIES AND PARTY SYSTEMS",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Right to bear arms",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 114,
+      "topic": "POLITICAL PARTIES AND PARTY SYSTEMS",
+      "section": "section a",
+      "subtopic": "POLITICAL PARTIES AND PARTY SYSTEMS",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 115,
+      "topic": "Political Parties: definition, organization/structure, functions",
+      "section": "section a",
+      "subtopic": "Political Parties: definition, organization/structure, functions",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to bear arms",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 116,
+      "topic": "Political Parties: definition, organization/structure, functions",
+      "section": "section a",
+      "subtopic": "Political Parties: definition, organization/structure, functions",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Freedom of expression",
+        "C": "Right to bear arms",
+        "D": "Right to drive"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 117,
+      "topic": "Political Parties: definition, organization/structure, functions",
+      "section": "section a",
+      "subtopic": "Political Parties: definition, organization/structure, functions",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Right to bear arms",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 118,
+      "topic": "Party Systems: definition, types, merits and demerits",
+      "section": "section a",
+      "subtopic": "Party Systems: definition, types, merits and demerits",
+      "difficulty": "easy",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Political party",
+        "B": "Pressure group",
+        "C": "Government agency",
+        "D": "Constitutional assembly"
+      },
+      "answer": "B",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 119,
+      "topic": "Party Systems: definition, types, merits and demerits",
+      "section": "section a",
+      "subtopic": "Party Systems: definition, types, merits and demerits",
+      "difficulty": "medium",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Government agency",
+        "B": "Constitutional assembly",
+        "C": "Pressure group",
+        "D": "Political party"
+      },
+      "answer": "C",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 120,
+      "topic": "Party Systems: definition, types, merits and demerits",
+      "section": "section a",
+      "subtopic": "Party Systems: definition, types, merits and demerits",
+      "difficulty": "hard",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Pressure group",
+        "B": "Political party",
+        "C": "Government agency",
+        "D": "Constitutional assembly"
+      },
+      "answer": "A",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 121,
+      "topic": "PRESSURE GROUPS, PUBLIC OPINION AND MASS MEDIA",
+      "section": "section a",
+      "subtopic": "PRESSURE GROUPS, PUBLIC OPINION AND MASS MEDIA",
+      "difficulty": "medium",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Political party",
+        "B": "Government agency",
+        "C": "Constitutional assembly",
+        "D": "Pressure group"
+      },
+      "answer": "D",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 122,
+      "topic": "PRESSURE GROUPS, PUBLIC OPINION AND MASS MEDIA",
+      "section": "section a",
+      "subtopic": "PRESSURE GROUPS, PUBLIC OPINION AND MASS MEDIA",
+      "difficulty": "hard",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Pressure group",
+        "B": "Political party",
+        "C": "Government agency",
+        "D": "Constitutional assembly"
+      },
+      "answer": "A",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 123,
+      "topic": "PRESSURE GROUPS, PUBLIC OPINION AND MASS MEDIA",
+      "section": "section a",
+      "subtopic": "PRESSURE GROUPS, PUBLIC OPINION AND MASS MEDIA",
+      "difficulty": "easy",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Government agency",
+        "B": "Constitutional assembly",
+        "C": "Pressure group",
+        "D": "Political party"
+      },
+      "answer": "C",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 124,
+      "topic": "Pressure Groups: definition, types, mode of operation, functions",
+      "section": "section a",
+      "subtopic": "Pressure Groups: definition, types, mode of operation, functions",
+      "difficulty": "hard",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Government agency",
+        "B": "Constitutional assembly",
+        "C": "Pressure group",
+        "D": "Political party"
+      },
+      "answer": "C",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 125,
+      "topic": "Pressure Groups: definition, types, mode of operation, functions",
+      "section": "section a",
+      "subtopic": "Pressure Groups: definition, types, mode of operation, functions",
+      "difficulty": "easy",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Pressure group",
+        "B": "Constitutional assembly",
+        "C": "Government agency",
+        "D": "Political party"
+      },
+      "answer": "A",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 126,
+      "topic": "Pressure Groups: definition, types, mode of operation, functions",
+      "section": "section a",
+      "subtopic": "Pressure Groups: definition, types, mode of operation, functions",
+      "difficulty": "medium",
+      "question": "An organization formed to influence government policy on behalf of its members is called a:",
+      "options": {
+        "A": "Constitutional assembly",
+        "B": "Pressure group",
+        "C": "Government agency",
+        "D": "Political party"
+      },
+      "answer": "B",
+      "explanation": "Pressure groups (interest groups) seek to influence government decisions without contesting elections directly."
+    },
+    {
+      "id": 127,
+      "topic": "Public opinion: definition, formation, measurement, importance",
+      "section": "section a",
+      "subtopic": "Public opinion: definition, formation, measurement, importance",
+      "difficulty": "easy",
+      "question": "Which of the following is the most effective means of shaping public opinion in a democratic society?",
+      "options": {
+        "A": "Mass media",
+        "B": "Religious decree",
+        "C": "Military force",
+        "D": "Traditional rulers"
+      },
+      "answer": "A",
+      "explanation": "Mass media (TV, radio, newspapers, internet) disseminate information and shape public discourse in democracies."
+    },
+    {
+      "id": 128,
+      "topic": "Public opinion: definition, formation, measurement, importance",
+      "section": "section a",
+      "subtopic": "Public opinion: definition, formation, measurement, importance",
+      "difficulty": "medium",
+      "question": "Which of the following is the most effective means of shaping public opinion in a democratic society?",
+      "options": {
+        "A": "Military force",
+        "B": "Traditional rulers",
+        "C": "Religious decree",
+        "D": "Mass media"
+      },
+      "answer": "D",
+      "explanation": "Mass media (TV, radio, newspapers, internet) disseminate information and shape public discourse in democracies."
+    },
+    {
+      "id": 129,
+      "topic": "Public opinion: definition, formation, measurement, importance",
+      "section": "section a",
+      "subtopic": "Public opinion: definition, formation, measurement, importance",
+      "difficulty": "hard",
+      "question": "Which of the following is the most effective means of shaping public opinion in a democratic society?",
+      "options": {
+        "A": "Mass media",
+        "B": "Traditional rulers",
+        "C": "Military force",
+        "D": "Religious decree"
+      },
+      "answer": "A",
+      "explanation": "Mass media (TV, radio, newspapers, internet) disseminate information and shape public discourse in democracies."
+    },
+    {
+      "id": 130,
+      "topic": "Mass Media: definition, roles and impact",
+      "section": "section a",
+      "subtopic": "Mass Media: definition, roles and impact",
+      "difficulty": "medium",
+      "question": "Which of the following is the most effective means of shaping public opinion in a democratic society?",
+      "options": {
+        "A": "Religious decree",
+        "B": "Mass media",
+        "C": "Traditional rulers",
+        "D": "Military force"
+      },
+      "answer": "B",
+      "explanation": "Mass media (TV, radio, newspapers, internet) disseminate information and shape public discourse in democracies."
+    },
+    {
+      "id": 131,
+      "topic": "Mass Media: definition, roles and impact",
+      "section": "section a",
+      "subtopic": "Mass Media: definition, roles and impact",
+      "difficulty": "hard",
+      "question": "Which of the following is the most effective means of shaping public opinion in a democratic society?",
+      "options": {
+        "A": "Mass media",
+        "B": "Military force",
+        "C": "Traditional rulers",
+        "D": "Religious decree"
+      },
+      "answer": "A",
+      "explanation": "Mass media (TV, radio, newspapers, internet) disseminate information and shape public discourse in democracies."
+    },
+    {
+      "id": 132,
+      "topic": "Mass Media: definition, roles and impact",
+      "section": "section a",
+      "subtopic": "Mass Media: definition, roles and impact",
+      "difficulty": "easy",
+      "question": "Which of the following is the most effective means of shaping public opinion in a democratic society?",
+      "options": {
+        "A": "Religious decree",
+        "B": "Military force",
+        "C": "Mass media",
+        "D": "Traditional rulers"
+      },
+      "answer": "C",
+      "explanation": "Mass media (TV, radio, newspapers, internet) disseminate information and shape public discourse in democracies."
+    },
+    {
+      "id": 133,
+      "topic": "THE ELECTORAL SYSTEMS, PROCESSES AND ELECTORAL MANAGEMENT BODY",
+      "section": "section a",
+      "subtopic": "THE ELECTORAL SYSTEMS, PROCESSES AND ELECTORAL MANAGEMENT BODY",
+      "difficulty": "hard",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "NASS",
+        "B": "ICPC",
+        "C": "INEC",
+        "D": "EFCC"
+      },
+      "answer": "C",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 134,
+      "topic": "THE ELECTORAL SYSTEMS, PROCESSES AND ELECTORAL MANAGEMENT BODY",
+      "section": "section a",
+      "subtopic": "THE ELECTORAL SYSTEMS, PROCESSES AND ELECTORAL MANAGEMENT BODY",
+      "difficulty": "easy",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "NASS",
+        "B": "EFCC",
+        "C": "INEC",
+        "D": "ICPC"
+      },
+      "answer": "C",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 135,
+      "topic": "THE ELECTORAL SYSTEMS, PROCESSES AND ELECTORAL MANAGEMENT BODY",
+      "section": "section a",
+      "subtopic": "THE ELECTORAL SYSTEMS, PROCESSES AND ELECTORAL MANAGEMENT BODY",
+      "difficulty": "medium",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "ICPC",
+        "B": "EFCC",
+        "C": "INEC",
+        "D": "NASS"
+      },
+      "answer": "C",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 136,
+      "topic": "Election: Meaning and purpose",
+      "section": "section a",
+      "subtopic": "Election: Meaning and purpose",
+      "difficulty": "easy",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "NASS",
+        "B": "ICPC",
+        "C": "EFCC",
+        "D": "INEC"
+      },
+      "answer": "D",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 137,
+      "topic": "Election: Meaning and purpose",
+      "section": "section a",
+      "subtopic": "Election: Meaning and purpose",
+      "difficulty": "medium",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "EFCC",
+        "B": "INEC",
+        "C": "NASS",
+        "D": "ICPC"
+      },
+      "answer": "B",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 138,
+      "topic": "Election: Meaning and purpose",
+      "section": "section a",
+      "subtopic": "Election: Meaning and purpose",
+      "difficulty": "hard",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "ICPC",
+        "B": "NASS",
+        "C": "EFCC",
+        "D": "INEC"
+      },
+      "answer": "D",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 139,
+      "topic": "Franchise: meaning, types and limitations",
+      "section": "section a",
+      "subtopic": "Franchise: meaning, types and limitations",
+      "difficulty": "medium",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "ICPC",
+        "B": "EFCC",
+        "C": "INEC",
+        "D": "NASS"
+      },
+      "answer": "C",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 140,
+      "topic": "Franchise: meaning, types and limitations",
+      "section": "section a",
+      "subtopic": "Franchise: meaning, types and limitations",
+      "difficulty": "hard",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "INEC",
+        "B": "EFCC",
+        "C": "NASS",
+        "D": "ICPC"
+      },
+      "answer": "A",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 141,
+      "topic": "Franchise: meaning, types and limitations",
+      "section": "section a",
+      "subtopic": "Franchise: meaning, types and limitations",
+      "difficulty": "easy",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "ICPC",
+        "B": "INEC",
+        "C": "EFCC",
+        "D": "NASS"
+      },
+      "answer": "B",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 142,
+      "topic": "Types of Electoral Systems, advantages and disadvantages",
+      "section": "section a",
+      "subtopic": "Types of Electoral Systems, advantages and disadvantages",
+      "difficulty": "hard",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "EFCC",
+        "B": "INEC",
+        "C": "NASS",
+        "D": "ICPC"
+      },
+      "answer": "B",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 143,
+      "topic": "Types of Electoral Systems, advantages and disadvantages",
+      "section": "section a",
+      "subtopic": "Types of Electoral Systems, advantages and disadvantages",
+      "difficulty": "easy",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "NASS",
+        "B": "ICPC",
+        "C": "EFCC",
+        "D": "INEC"
+      },
+      "answer": "D",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 144,
+      "topic": "Types of Electoral Systems, advantages and disadvantages",
+      "section": "section a",
+      "subtopic": "Types of Electoral Systems, advantages and disadvantages",
+      "difficulty": "medium",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "NASS",
+        "B": "INEC",
+        "C": "EFCC",
+        "D": "ICPC"
+      },
+      "answer": "B",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 145,
+      "topic": "Electoral Management Body: definition, functions, problems/constraints",
+      "section": "section a",
+      "subtopic": "Electoral Management Body: definition, functions, problems/constraints",
+      "difficulty": "easy",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "EFCC",
+        "B": "NASS",
+        "C": "INEC",
+        "D": "ICPC"
+      },
+      "answer": "C",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 146,
+      "topic": "Electoral Management Body: definition, functions, problems/constraints",
+      "section": "section a",
+      "subtopic": "Electoral Management Body: definition, functions, problems/constraints",
+      "difficulty": "medium",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "INEC",
+        "B": "EFCC",
+        "C": "NASS",
+        "D": "ICPC"
+      },
+      "answer": "A",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 147,
+      "topic": "Electoral Management Body: definition, functions, problems/constraints",
+      "section": "section a",
+      "subtopic": "Electoral Management Body: definition, functions, problems/constraints",
+      "difficulty": "hard",
+      "question": "Which body is constitutionally responsible for conducting elections in Nigeria?",
+      "options": {
+        "A": "EFCC",
+        "B": "ICPC",
+        "C": "INEC",
+        "D": "NASS"
+      },
+      "answer": "C",
+      "explanation": "The Independent National Electoral Commission (INEC) is established by Section 153 of the 1999 Constitution to organize elections."
+    },
+    {
+      "id": 148,
+      "topic": "PUBLIC/CIVIL SERVICE ADMINISTRATION",
+      "section": "section a",
+      "subtopic": "PUBLIC/CIVIL SERVICE ADMINISTRATION",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to bear arms",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 149,
+      "topic": "PUBLIC/CIVIL SERVICE ADMINISTRATION",
+      "section": "section a",
+      "subtopic": "PUBLIC/CIVIL SERVICE ADMINISTRATION",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Freedom of expression",
+        "C": "Right to drive",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 150,
+      "topic": "PUBLIC/CIVIL SERVICE ADMINISTRATION",
+      "section": "section a",
+      "subtopic": "PUBLIC/CIVIL SERVICE ADMINISTRATION",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 151,
+      "topic": "Public/Civil Service: Meaning, Structure, Characteristics and Functions",
+      "section": "section a",
+      "subtopic": "Public/Civil Service: Meaning, Structure, Characteristics and Functions",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 152,
+      "topic": "Public/Civil Service: Meaning, Structure, Characteristics and Functions",
+      "section": "section a",
+      "subtopic": "Public/Civil Service: Meaning, Structure, Characteristics and Functions",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 153,
+      "topic": "Public/Civil Service: Meaning, Structure, Characteristics and Functions",
+      "section": "section a",
+      "subtopic": "Public/Civil Service: Meaning, Structure, Characteristics and Functions",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 154,
+      "topic": "Public/Civil Service Commission: meaning and Functions",
+      "section": "section a",
+      "subtopic": "Public/Civil Service Commission: meaning and Functions",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Freedom of expression"
+      },
+      "answer": "D",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 155,
+      "topic": "Public/Civil Service Commission: meaning and Functions",
+      "section": "section a",
+      "subtopic": "Public/Civil Service Commission: meaning and Functions",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to own property exclusively",
+        "C": "Freedom of expression",
+        "D": "Right to drive"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 156,
+      "topic": "Public/Civil Service Commission: meaning and Functions",
+      "section": "section a",
+      "subtopic": "Public/Civil Service Commission: meaning and Functions",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to drive",
+        "C": "Freedom of expression",
+        "D": "Right to bear arms"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 157,
+      "topic": "Public Corporations: definition, purposes, functions, control, challenges, commercialization and privatization",
+      "section": "section a",
+      "subtopic": "Public Corporations: definition, purposes, functions, control, challenges, commercialization and privatization",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "NATO",
+        "C": "United Nations",
+        "D": "African Union"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 158,
+      "topic": "Public Corporations: definition, purposes, functions, control, challenges, commercialization and privatization",
+      "section": "section a",
+      "subtopic": "Public Corporations: definition, purposes, functions, control, challenges, commercialization and privatization",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "NATO",
+        "C": "African Union",
+        "D": "United Nations"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 159,
+      "topic": "Public Corporations: definition, purposes, functions, control, challenges, commercialization and privatization",
+      "section": "section a",
+      "subtopic": "Public Corporations: definition, purposes, functions, control, challenges, commercialization and privatization",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "United Nations",
+        "C": "NATO",
+        "D": "African Union"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 160,
+      "topic": "Local Governments: Meaning, structure, Purposes, Functions, Sources of revenue, control and problems",
+      "section": "section a",
+      "subtopic": "Local Governments: Meaning, structure, Purposes, Functions, Sources of revenue, control and problems",
+      "difficulty": "hard",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "answer": "C",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 161,
+      "topic": "Local Governments: Meaning, structure, Purposes, Functions, Sources of revenue, control and problems",
+      "section": "section a",
+      "subtopic": "Local Governments: Meaning, structure, Purposes, Functions, Sources of revenue, control and problems",
+      "difficulty": "easy",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Three",
+        "B": "Four",
+        "C": "Five",
+        "D": "Two"
+      },
+      "answer": "A",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 162,
+      "topic": "Local Governments: Meaning, structure, Purposes, Functions, Sources of revenue, control and problems",
+      "section": "section a",
+      "subtopic": "Local Governments: Meaning, structure, Purposes, Functions, Sources of revenue, control and problems",
+      "difficulty": "medium",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Four",
+        "C": "Two",
+        "D": "Three"
+      },
+      "answer": "D",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 163,
+      "topic": "Political and Constitutional Developments in West Africa and International Relations",
+      "section": "section b",
+      "subtopic": "Political and Constitutional Developments in West Africa and International Relations",
+      "difficulty": "easy",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The Judiciary",
+        "B": "The National Assembly",
+        "C": "The President",
+        "D": "The people of Nigeria"
+      },
+      "answer": "D",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 164,
+      "topic": "Political and Constitutional Developments in West Africa and International Relations",
+      "section": "section b",
+      "subtopic": "Political and Constitutional Developments in West Africa and International Relations",
+      "difficulty": "medium",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The Judiciary",
+        "B": "The people of Nigeria",
+        "C": "The President",
+        "D": "The National Assembly"
+      },
+      "answer": "B",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 165,
+      "topic": "Political and Constitutional Developments in West Africa and International Relations",
+      "section": "section b",
+      "subtopic": "Political and Constitutional Developments in West Africa and International Relations",
+      "difficulty": "hard",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The people of Nigeria",
+        "B": "The President",
+        "C": "The Judiciary",
+        "D": "The National Assembly"
+      },
+      "answer": "A",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 166,
+      "topic": "PRE-COLONIAL POLITICAL SYSTEM OF CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "PRE-COLONIAL POLITICAL SYSTEM OF CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to bear arms",
+        "B": "Right to drive",
+        "C": "Freedom of expression",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 167,
+      "topic": "PRE-COLONIAL POLITICAL SYSTEM OF CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "PRE-COLONIAL POLITICAL SYSTEM OF CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to own property exclusively",
+        "C": "Right to drive",
+        "D": "Right to bear arms"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 168,
+      "topic": "PRE-COLONIAL POLITICAL SYSTEM OF CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "PRE-COLONIAL POLITICAL SYSTEM OF CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to own property exclusively",
+        "B": "Right to bear arms",
+        "C": "Freedom of expression",
+        "D": "Right to drive"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 169,
+      "topic": "Structural Organization of:",
+      "section": "section b",
+      "subtopic": "Structural Organization of:",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Structural Organization of: in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Structural Organization of: is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 170,
+      "topic": "Structural Organization of:",
+      "section": "section b",
+      "subtopic": "Structural Organization of:",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Structural Organization of: in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "Structural Organization of: is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 171,
+      "topic": "Structural Organization of:",
+      "section": "section b",
+      "subtopic": "Structural Organization of:",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Structural Organization of: in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Structural Organization of: is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 172,
+      "topic": "Nigeria - Hausa/Fulani, Yoruba and Igbo",
+      "section": "section b",
+      "subtopic": "Nigeria - Hausa/Fulani, Yoruba and Igbo",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "African Union",
+        "C": "NATO",
+        "D": "United Nations"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 173,
+      "topic": "Nigeria - Hausa/Fulani, Yoruba and Igbo",
+      "section": "section b",
+      "subtopic": "Nigeria - Hausa/Fulani, Yoruba and Igbo",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "United Nations",
+        "C": "Commonwealth",
+        "D": "NATO"
+      },
+      "answer": "D",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 174,
+      "topic": "Nigeria - Hausa/Fulani, Yoruba and Igbo",
+      "section": "section b",
+      "subtopic": "Nigeria - Hausa/Fulani, Yoruba and Igbo",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "African Union",
+        "C": "United Nations",
+        "D": "Commonwealth"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 175,
+      "topic": "Ghana - The Akan and Talensi",
+      "section": "section b",
+      "subtopic": "Ghana - The Akan and Talensi",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Ghana - The Akan and Talensi in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "Ghana - The Akan and Talensi is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 176,
+      "topic": "Ghana - The Akan and Talensi",
+      "section": "section b",
+      "subtopic": "Ghana - The Akan and Talensi",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Ghana - The Akan and Talensi in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Ghana - The Akan and Talensi is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 177,
+      "topic": "Ghana - The Akan and Talensi",
+      "section": "section b",
+      "subtopic": "Ghana - The Akan and Talensi",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Ghana - The Akan and Talensi in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "Ghana - The Akan and Talensi is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 178,
+      "topic": "Sierra Leone - The Mende and Temne",
+      "section": "section b",
+      "subtopic": "Sierra Leone - The Mende and Temne",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Sierra Leone - The Mende and Temne in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Sierra Leone - The Mende and Temne is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 179,
+      "topic": "Sierra Leone - The Mende and Temne",
+      "section": "section b",
+      "subtopic": "Sierra Leone - The Mende and Temne",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Sierra Leone - The Mende and Temne in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "A",
+      "explanation": "Sierra Leone - The Mende and Temne is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 180,
+      "topic": "Sierra Leone - The Mende and Temne",
+      "section": "section b",
+      "subtopic": "Sierra Leone - The Mende and Temne",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Sierra Leone - The Mende and Temne in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "Sierra Leone - The Mende and Temne is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 181,
+      "topic": "The Gambia - The Wolof, Mandingo and Jola",
+      "section": "section b",
+      "subtopic": "The Gambia - The Wolof, Mandingo and Jola",
+      "difficulty": "easy",
+      "question": "Which statement is correct about The Gambia - The Wolof, Mandingo and Jola in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is exclusive to economics",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "The Gambia - The Wolof, Mandingo and Jola is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 182,
+      "topic": "The Gambia - The Wolof, Mandingo and Jola",
+      "section": "section b",
+      "subtopic": "The Gambia - The Wolof, Mandingo and Jola",
+      "difficulty": "medium",
+      "question": "Which statement is correct about The Gambia - The Wolof, Mandingo and Jola in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "The Gambia - The Wolof, Mandingo and Jola is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 183,
+      "topic": "The Gambia - The Wolof, Mandingo and Jola",
+      "section": "section b",
+      "subtopic": "The Gambia - The Wolof, Mandingo and Jola",
+      "difficulty": "hard",
+      "question": "Which statement is correct about The Gambia - The Wolof, Mandingo and Jola in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "The Gambia - The Wolof, Mandingo and Jola is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 184,
+      "topic": "Liberia - The Vai and Kru",
+      "section": "section b",
+      "subtopic": "Liberia - The Vai and Kru",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Liberia - The Vai and Kru in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Liberia - The Vai and Kru is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 185,
+      "topic": "Liberia - The Vai and Kru",
+      "section": "section b",
+      "subtopic": "Liberia - The Vai and Kru",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Liberia - The Vai and Kru in the study of Government?",
+      "options": {
+        "A": "It is a key concept tested in Nigerian Government examinations",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "A",
+      "explanation": "Liberia - The Vai and Kru is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 186,
+      "topic": "Liberia - The Vai and Kru",
+      "section": "section b",
+      "subtopic": "Liberia - The Vai and Kru",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Liberia - The Vai and Kru in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Liberia - The Vai and Kru is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 187,
+      "topic": "COLONIAL ADMINISTRATION",
+      "section": "section b",
+      "subtopic": "COLONIAL ADMINISTRATION",
+      "difficulty": "hard",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Absolute monarchy",
+        "B": "Theocratic",
+        "C": "Republican/acephalous",
+        "D": "Feudal system"
+      },
+      "answer": "C",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 188,
+      "topic": "COLONIAL ADMINISTRATION",
+      "section": "section b",
+      "subtopic": "COLONIAL ADMINISTRATION",
+      "difficulty": "easy",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Theocratic",
+        "B": "Republican/acephalous",
+        "C": "Feudal system",
+        "D": "Absolute monarchy"
+      },
+      "answer": "B",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 189,
+      "topic": "COLONIAL ADMINISTRATION",
+      "section": "section b",
+      "subtopic": "COLONIAL ADMINISTRATION",
+      "difficulty": "medium",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Republican/acephalous",
+        "B": "Feudal system",
+        "C": "Absolute monarchy",
+        "D": "Theocratic"
+      },
+      "answer": "A",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 190,
+      "topic": "British Colonial Administration: Crown Colony, Protectorate and Indirect Rule",
+      "section": "section b",
+      "subtopic": "British Colonial Administration: Crown Colony, Protectorate and Indirect Rule",
+      "difficulty": "easy",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Absolute monarchy",
+        "B": "Feudal system",
+        "C": "Republican/acephalous",
+        "D": "Theocratic"
+      },
+      "answer": "C",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 191,
+      "topic": "British Colonial Administration: Crown Colony, Protectorate and Indirect Rule",
+      "section": "section b",
+      "subtopic": "British Colonial Administration: Crown Colony, Protectorate and Indirect Rule",
+      "difficulty": "medium",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Republican/acephalous",
+        "B": "Theocratic",
+        "C": "Feudal system",
+        "D": "Absolute monarchy"
+      },
+      "answer": "A",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 192,
+      "topic": "British Colonial Administration: Crown Colony, Protectorate and Indirect Rule",
+      "section": "section b",
+      "subtopic": "British Colonial Administration: Crown Colony, Protectorate and Indirect Rule",
+      "difficulty": "hard",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Absolute monarchy",
+        "B": "Theocratic",
+        "C": "Republican/acephalous",
+        "D": "Feudal system"
+      },
+      "answer": "C",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 193,
+      "topic": "French Colonial Administration: Assimilation and Association (Loi Cadre)",
+      "section": "section b",
+      "subtopic": "French Colonial Administration: Assimilation and Association (Loi Cadre)",
+      "difficulty": "medium",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Theocratic",
+        "B": "Feudal system",
+        "C": "Absolute monarchy",
+        "D": "Republican/acephalous"
+      },
+      "answer": "D",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 194,
+      "topic": "French Colonial Administration: Assimilation and Association (Loi Cadre)",
+      "section": "section b",
+      "subtopic": "French Colonial Administration: Assimilation and Association (Loi Cadre)",
+      "difficulty": "hard",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Republican/acephalous",
+        "B": "Feudal system",
+        "C": "Absolute monarchy",
+        "D": "Theocratic"
+      },
+      "answer": "A",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 195,
+      "topic": "French Colonial Administration: Assimilation and Association (Loi Cadre)",
+      "section": "section b",
+      "subtopic": "French Colonial Administration: Assimilation and Association (Loi Cadre)",
+      "difficulty": "easy",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Theocratic",
+        "B": "Feudal system",
+        "C": "Absolute monarchy",
+        "D": "Republican/acephalous"
+      },
+      "answer": "D",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 196,
+      "topic": "Impact, Advantages and disadvantages of Colonial Rule",
+      "section": "section b",
+      "subtopic": "Impact, Advantages and disadvantages of Colonial Rule",
+      "difficulty": "hard",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Theocratic",
+        "B": "Republican/acephalous",
+        "C": "Absolute monarchy",
+        "D": "Feudal system"
+      },
+      "answer": "B",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 197,
+      "topic": "Impact, Advantages and disadvantages of Colonial Rule",
+      "section": "section b",
+      "subtopic": "Impact, Advantages and disadvantages of Colonial Rule",
+      "difficulty": "easy",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Republican/acephalous",
+        "B": "Feudal system",
+        "C": "Absolute monarchy",
+        "D": "Theocratic"
+      },
+      "answer": "A",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 198,
+      "topic": "Impact, Advantages and disadvantages of Colonial Rule",
+      "section": "section b",
+      "subtopic": "Impact, Advantages and disadvantages of Colonial Rule",
+      "difficulty": "medium",
+      "question": "In pre-colonial Nigeria, the Igbo political system was best described as:",
+      "options": {
+        "A": "Republican/acephalous",
+        "B": "Feudal system",
+        "C": "Absolute monarchy",
+        "D": "Theocratic"
+      },
+      "answer": "A",
+      "explanation": "The Igbo had a decentralized, republican system without a central king, with decisions made by village assemblies and titled elders."
+    },
+    {
+      "id": 199,
+      "topic": "NATIONALISM IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "NATIONALISM IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "NATO",
+        "C": "African Union",
+        "D": "United Nations"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 200,
+      "topic": "NATIONALISM IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "NATIONALISM IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "United Nations",
+        "C": "NATO",
+        "D": "African Union"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 201,
+      "topic": "NATIONALISM IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "NATIONALISM IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "NATO",
+        "C": "African Union",
+        "D": "United Nations"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 202,
+      "topic": "Nationalism: Meaning, factors and effects",
+      "section": "section b",
+      "subtopic": "Nationalism: Meaning, factors and effects",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Nationalism: Meaning, factors and effects in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Nationalism: Meaning, factors and effects is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 203,
+      "topic": "Nationalism: Meaning, factors and effects",
+      "section": "section b",
+      "subtopic": "Nationalism: Meaning, factors and effects",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Nationalism: Meaning, factors and effects in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Nationalism: Meaning, factors and effects is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 204,
+      "topic": "Nationalism: Meaning, factors and effects",
+      "section": "section b",
+      "subtopic": "Nationalism: Meaning, factors and effects",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Nationalism: Meaning, factors and effects in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "C",
+      "explanation": "Nationalism: Meaning, factors and effects is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 205,
+      "topic": "Key Nationalist leaders/movements and their contributions",
+      "section": "section b",
+      "subtopic": "Key Nationalist leaders/movements and their contributions",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Key Nationalist leaders/movements and their contributions in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Key Nationalist leaders/movements and their contributions is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 206,
+      "topic": "Key Nationalist leaders/movements and their contributions",
+      "section": "section b",
+      "subtopic": "Key Nationalist leaders/movements and their contributions",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Key Nationalist leaders/movements and their contributions in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Key Nationalist leaders/movements and their contributions is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 207,
+      "topic": "Key Nationalist leaders/movements and their contributions",
+      "section": "section b",
+      "subtopic": "Key Nationalist leaders/movements and their contributions",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Key Nationalist leaders/movements and their contributions in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Key Nationalist leaders/movements and their contributions is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 208,
+      "topic": "CONSTITUTIONAL DEVELOPMENTS IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "CONSTITUTIONAL DEVELOPMENTS IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "easy",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The President",
+        "B": "The Judiciary",
+        "C": "The people of Nigeria",
+        "D": "The National Assembly"
+      },
+      "answer": "C",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 209,
+      "topic": "CONSTITUTIONAL DEVELOPMENTS IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "CONSTITUTIONAL DEVELOPMENTS IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "medium",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The people of Nigeria",
+        "B": "The Judiciary",
+        "C": "The President",
+        "D": "The National Assembly"
+      },
+      "answer": "A",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 210,
+      "topic": "CONSTITUTIONAL DEVELOPMENTS IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "CONSTITUTIONAL DEVELOPMENTS IN CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "hard",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The National Assembly",
+        "B": "The Judiciary",
+        "C": "The President",
+        "D": "The people of Nigeria"
+      },
+      "answer": "D",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 211,
+      "topic": "Pre-Independence Constitutions (features, merits and demerits) for each country",
+      "section": "section b",
+      "subtopic": "Pre-Independence Constitutions (features, merits and demerits) for each country",
+      "difficulty": "medium",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The National Assembly",
+        "B": "The President",
+        "C": "The Judiciary",
+        "D": "The people of Nigeria"
+      },
+      "answer": "D",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 212,
+      "topic": "Pre-Independence Constitutions (features, merits and demerits) for each country",
+      "section": "section b",
+      "subtopic": "Pre-Independence Constitutions (features, merits and demerits) for each country",
+      "difficulty": "hard",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The National Assembly",
+        "B": "The people of Nigeria",
+        "C": "The President",
+        "D": "The Judiciary"
+      },
+      "answer": "B",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 213,
+      "topic": "Pre-Independence Constitutions (features, merits and demerits) for each country",
+      "section": "section b",
+      "subtopic": "Pre-Independence Constitutions (features, merits and demerits) for each country",
+      "difficulty": "easy",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The National Assembly",
+        "B": "The Judiciary",
+        "C": "The people of Nigeria",
+        "D": "The President"
+      },
+      "answer": "C",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 214,
+      "topic": "Post-Independence Constitutions (features, strengths, weaknesses) for each country",
+      "section": "section b",
+      "subtopic": "Post-Independence Constitutions (features, strengths, weaknesses) for each country",
+      "difficulty": "hard",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The people of Nigeria",
+        "B": "The Judiciary",
+        "C": "The National Assembly",
+        "D": "The President"
+      },
+      "answer": "A",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 215,
+      "topic": "Post-Independence Constitutions (features, strengths, weaknesses) for each country",
+      "section": "section b",
+      "subtopic": "Post-Independence Constitutions (features, strengths, weaknesses) for each country",
+      "difficulty": "easy",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The National Assembly",
+        "B": "The people of Nigeria",
+        "C": "The President",
+        "D": "The Judiciary"
+      },
+      "answer": "B",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 216,
+      "topic": "Post-Independence Constitutions (features, strengths, weaknesses) for each country",
+      "section": "section b",
+      "subtopic": "Post-Independence Constitutions (features, strengths, weaknesses) for each country",
+      "difficulty": "medium",
+      "question": "The Nigerian Constitution of 1999 (as amended) derives its legitimacy from:",
+      "options": {
+        "A": "The Judiciary",
+        "B": "The people of Nigeria",
+        "C": "The President",
+        "D": "The National Assembly"
+      },
+      "answer": "B",
+      "explanation": "Section 14(2)(a) of the 1999 Constitution states that sovereignty belongs to the people from whom government derives all powers."
+    },
+    {
+      "id": 217,
+      "topic": "DEVELOPMENT OF MAJOR POLITICAL PARTIES IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "DEVELOPMENT OF MAJOR POLITICAL PARTIES IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "easy",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Right to bear arms",
+        "C": "Right to drive",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "A",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 218,
+      "topic": "DEVELOPMENT OF MAJOR POLITICAL PARTIES IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "DEVELOPMENT OF MAJOR POLITICAL PARTIES IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "medium",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Freedom of expression",
+        "C": "Right to bear arms",
+        "D": "Right to own property exclusively"
+      },
+      "answer": "B",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 219,
+      "topic": "DEVELOPMENT OF MAJOR POLITICAL PARTIES IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "DEVELOPMENT OF MAJOR POLITICAL PARTIES IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": {
+        "A": "Right to drive",
+        "B": "Right to own property exclusively",
+        "C": "Freedom of expression",
+        "D": "Right to bear arms"
+      },
+      "answer": "C",
+      "explanation": "Chapter IV of the 1999 Constitution guarantees fundamental rights including freedom of expression, thought, conscience, and religion."
+    },
+    {
+      "id": 220,
+      "topic": "Formation, Objectives, Sources of Finance, Achievements and Failures",
+      "section": "section b",
+      "subtopic": "Formation, Objectives, Sources of Finance, Achievements and Failures",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Formation, Objectives, Sources of Finance, Achievements and Failures in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "Formation, Objectives, Sources of Finance, Achievements and Failures is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 221,
+      "topic": "Formation, Objectives, Sources of Finance, Achievements and Failures",
+      "section": "section b",
+      "subtopic": "Formation, Objectives, Sources of Finance, Achievements and Failures",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Formation, Objectives, Sources of Finance, Achievements and Failures in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Formation, Objectives, Sources of Finance, Achievements and Failures is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 222,
+      "topic": "Formation, Objectives, Sources of Finance, Achievements and Failures",
+      "section": "section b",
+      "subtopic": "Formation, Objectives, Sources of Finance, Achievements and Failures",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Formation, Objectives, Sources of Finance, Achievements and Failures in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "Formation, Objectives, Sources of Finance, Achievements and Failures is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 223,
+      "topic": "MILITARY RULE IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "MILITARY RULE IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "United Nations",
+        "C": "Commonwealth",
+        "D": "NATO"
+      },
+      "answer": "D",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 224,
+      "topic": "MILITARY RULE IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "MILITARY RULE IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "United Nations",
+        "B": "Commonwealth",
+        "C": "NATO",
+        "D": "African Union"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 225,
+      "topic": "MILITARY RULE IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "MILITARY RULE IN THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "United Nations",
+        "C": "African Union",
+        "D": "Commonwealth"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 226,
+      "topic": "Causes, effects and various military regimes (Nigeria, Ghana, Sierra Leone, The Gambia, Liberia)",
+      "section": "section b",
+      "subtopic": "Causes, effects and various military regimes (Nigeria, Ghana, Sierra Leone, The Gambia, Liberia)",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "United Nations",
+        "C": "African Union",
+        "D": "Commonwealth"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 227,
+      "topic": "Causes, effects and various military regimes (Nigeria, Ghana, Sierra Leone, The Gambia, Liberia)",
+      "section": "section b",
+      "subtopic": "Causes, effects and various military regimes (Nigeria, Ghana, Sierra Leone, The Gambia, Liberia)",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "African Union",
+        "C": "NATO",
+        "D": "United Nations"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 228,
+      "topic": "Causes, effects and various military regimes (Nigeria, Ghana, Sierra Leone, The Gambia, Liberia)",
+      "section": "section b",
+      "subtopic": "Causes, effects and various military regimes (Nigeria, Ghana, Sierra Leone, The Gambia, Liberia)",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "NATO",
+        "C": "Commonwealth",
+        "D": "United Nations"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 229,
+      "topic": "FEDERAL/UNITARY SYSTEMS OF GOVERNMENT IN WEST AFRICA",
+      "section": "section b",
+      "subtopic": "FEDERAL/UNITARY SYSTEMS OF GOVERNMENT IN WEST AFRICA",
+      "difficulty": "medium",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Three",
+        "C": "Four",
+        "D": "Two"
+      },
+      "answer": "B",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 230,
+      "topic": "FEDERAL/UNITARY SYSTEMS OF GOVERNMENT IN WEST AFRICA",
+      "section": "section b",
+      "subtopic": "FEDERAL/UNITARY SYSTEMS OF GOVERNMENT IN WEST AFRICA",
+      "difficulty": "hard",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "answer": "C",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 231,
+      "topic": "FEDERAL/UNITARY SYSTEMS OF GOVERNMENT IN WEST AFRICA",
+      "section": "section b",
+      "subtopic": "FEDERAL/UNITARY SYSTEMS OF GOVERNMENT IN WEST AFRICA",
+      "difficulty": "easy",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Two",
+        "B": "Four",
+        "C": "Three",
+        "D": "Five"
+      },
+      "answer": "C",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 232,
+      "topic": "Definitions, Factors, objectives, advantages and disadvantages",
+      "section": "section b",
+      "subtopic": "Definitions, Factors, objectives, advantages and disadvantages",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Definitions, Factors, objectives, advantages and disadvantages in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is exclusive to economics",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Definitions, Factors, objectives, advantages and disadvantages is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 233,
+      "topic": "Definitions, Factors, objectives, advantages and disadvantages",
+      "section": "section b",
+      "subtopic": "Definitions, Factors, objectives, advantages and disadvantages",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Definitions, Factors, objectives, advantages and disadvantages in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is exclusive to economics",
+        "C": "It applies only to foreign political systems",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Definitions, Factors, objectives, advantages and disadvantages is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 234,
+      "topic": "Definitions, Factors, objectives, advantages and disadvantages",
+      "section": "section b",
+      "subtopic": "Definitions, Factors, objectives, advantages and disadvantages",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Definitions, Factors, objectives, advantages and disadvantages in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Definitions, Factors, objectives, advantages and disadvantages is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 235,
+      "topic": "FOREIGN POLICIES OF THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "FOREIGN POLICIES OF THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "United Nations",
+        "C": "African Union",
+        "D": "NATO"
+      },
+      "answer": "D",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 236,
+      "topic": "FOREIGN POLICIES OF THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "FOREIGN POLICIES OF THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "United Nations",
+        "B": "Commonwealth",
+        "C": "NATO",
+        "D": "African Union"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 237,
+      "topic": "FOREIGN POLICIES OF THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "section": "section b",
+      "subtopic": "FOREIGN POLICIES OF THE CANDIDATES’ RESPECTIVE COUNTRIES",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "African Union",
+        "C": "United Nations",
+        "D": "Commonwealth"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 238,
+      "topic": "Sierra Leone",
+      "section": "countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Sierra Leone in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Sierra Leone is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 239,
+      "topic": "Sierra Leone",
+      "section": "countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Sierra Leone in the study of Government?",
+      "options": {
+        "A": "It is not part of the Nigerian curriculum",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Sierra Leone is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 240,
+      "topic": "Sierra Leone",
+      "section": "countries",
+      "subtopic": "Sierra Leone",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Sierra Leone in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "Sierra Leone is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 241,
+      "topic": "INTERNATIONAL ORGANIZATIONS",
+      "section": "section b",
+      "subtopic": "INTERNATIONAL ORGANIZATIONS",
+      "difficulty": "hard",
+      "question": "Which statement is correct about INTERNATIONAL ORGANIZATIONS in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "C",
+      "explanation": "INTERNATIONAL ORGANIZATIONS is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 242,
+      "topic": "INTERNATIONAL ORGANIZATIONS",
+      "section": "section b",
+      "subtopic": "INTERNATIONAL ORGANIZATIONS",
+      "difficulty": "easy",
+      "question": "Which statement is correct about INTERNATIONAL ORGANIZATIONS in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is not part of the Nigerian curriculum",
+        "C": "It is exclusive to economics",
+        "D": "It is a key concept tested in Nigerian Government examinations"
+      },
+      "answer": "D",
+      "explanation": "INTERNATIONAL ORGANIZATIONS is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 243,
+      "topic": "INTERNATIONAL ORGANIZATIONS",
+      "section": "section b",
+      "subtopic": "INTERNATIONAL ORGANIZATIONS",
+      "difficulty": "medium",
+      "question": "Which statement is correct about INTERNATIONAL ORGANIZATIONS in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It applies only to foreign political systems",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "B",
+      "explanation": "INTERNATIONAL ORGANIZATIONS is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 244,
+      "topic": "United Nations Organizations (UNO)",
+      "section": "name",
+      "subtopic": "United Nations Organizations (UNO)",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "United Nations",
+        "B": "NATO",
+        "C": "African Union",
+        "D": "Commonwealth"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 245,
+      "topic": "United Nations Organizations (UNO)",
+      "section": "name",
+      "subtopic": "United Nations Organizations (UNO)",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "United Nations",
+        "C": "NATO",
+        "D": "Commonwealth"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 246,
+      "topic": "United Nations Organizations (UNO)",
+      "section": "name",
+      "subtopic": "United Nations Organizations (UNO)",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "United Nations",
+        "B": "Commonwealth",
+        "C": "African Union",
+        "D": "NATO"
+      },
+      "answer": "D",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 247,
+      "topic": "Origin, aims/objectives, achievements and problems",
+      "section": "aspects",
+      "subtopic": "Origin, aims/objectives, achievements and problems",
+      "difficulty": "medium",
+      "question": "Which statement is correct about Origin, aims/objectives, achievements and problems in the study of Government?",
+      "options": {
+        "A": "It applies only to foreign political systems",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It is exclusive to economics"
+      },
+      "answer": "B",
+      "explanation": "Origin, aims/objectives, achievements and problems is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 248,
+      "topic": "Origin, aims/objectives, achievements and problems",
+      "section": "aspects",
+      "subtopic": "Origin, aims/objectives, achievements and problems",
+      "difficulty": "hard",
+      "question": "Which statement is correct about Origin, aims/objectives, achievements and problems in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It is a key concept tested in Nigerian Government examinations",
+        "C": "It is not part of the Nigerian curriculum",
+        "D": "It applies only to foreign political systems"
+      },
+      "answer": "B",
+      "explanation": "Origin, aims/objectives, achievements and problems is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 249,
+      "topic": "Origin, aims/objectives, achievements and problems",
+      "section": "aspects",
+      "subtopic": "Origin, aims/objectives, achievements and problems",
+      "difficulty": "easy",
+      "question": "Which statement is correct about Origin, aims/objectives, achievements and problems in the study of Government?",
+      "options": {
+        "A": "It is exclusive to economics",
+        "B": "It applies only to foreign political systems",
+        "C": "It is a key concept tested in Nigerian Government examinations",
+        "D": "It is not part of the Nigerian curriculum"
+      },
+      "answer": "C",
+      "explanation": "Origin, aims/objectives, achievements and problems is included in the Government syllabus and regularly appears in JAMB and WAEC examinations."
+    },
+    {
+      "id": 250,
+      "topic": "The Commonwealth of Nations",
+      "section": "name",
+      "subtopic": "The Commonwealth of Nations",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "United Nations",
+        "C": "Commonwealth",
+        "D": "NATO"
+      },
+      "answer": "D",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 251,
+      "topic": "The Commonwealth of Nations",
+      "section": "name",
+      "subtopic": "The Commonwealth of Nations",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "African Union",
+        "B": "NATO",
+        "C": "United Nations",
+        "D": "Commonwealth"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 252,
+      "topic": "The Commonwealth of Nations",
+      "section": "name",
+      "subtopic": "The Commonwealth of Nations",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "Commonwealth",
+        "C": "United Nations",
+        "D": "African Union"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 253,
+      "topic": "African Union (AU) - NEPAD",
+      "section": "name",
+      "subtopic": "African Union (AU) - NEPAD",
+      "difficulty": "easy",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "United Nations",
+        "B": "African Union",
+        "C": "NATO",
+        "D": "Commonwealth"
+      },
+      "answer": "C",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 254,
+      "topic": "African Union (AU) - NEPAD",
+      "section": "name",
+      "subtopic": "African Union (AU) - NEPAD",
+      "difficulty": "medium",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "NATO",
+        "B": "African Union",
+        "C": "Commonwealth",
+        "D": "United Nations"
+      },
+      "answer": "A",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 255,
+      "topic": "African Union (AU) - NEPAD",
+      "section": "name",
+      "subtopic": "African Union (AU) - NEPAD",
+      "difficulty": "hard",
+      "question": "Nigeria is a member of all the following international organizations EXCEPT:",
+      "options": {
+        "A": "Commonwealth",
+        "B": "NATO",
+        "C": "African Union",
+        "D": "United Nations"
+      },
+      "answer": "B",
+      "explanation": "NATO is a North Atlantic military alliance. Nigeria belongs to the UN, AU, and Commonwealth but not NATO."
+    },
+    {
+      "id": 256,
+      "topic": "The Economic Community of West African States (ECOWAS)",
+      "section": "name",
+      "subtopic": "The Economic Community of West African States (ECOWAS)",
+      "difficulty": "medium",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Four",
+        "B": "Five",
+        "C": "Two",
+        "D": "Three"
+      },
+      "answer": "D",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 257,
+      "topic": "The Economic Community of West African States (ECOWAS)",
+      "section": "name",
+      "subtopic": "The Economic Community of West African States (ECOWAS)",
+      "difficulty": "hard",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "answer": "C",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    },
+    {
+      "id": 258,
+      "topic": "The Economic Community of West African States (ECOWAS)",
+      "section": "name",
+      "subtopic": "The Economic Community of West African States (ECOWAS)",
+      "difficulty": "easy",
+      "question": "How many tiers of government are recognized in the Nigerian federal system?",
+      "options": {
+        "A": "Five",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "answer": "C",
+      "explanation": "Nigeria operates a three-tier federal system: Federal, State, and Local Governments."
+    }
+  ]
+}

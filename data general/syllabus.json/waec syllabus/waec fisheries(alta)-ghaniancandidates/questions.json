@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO FISHERIES",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FISHERIES",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO FISHERIES",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FISHERIES",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO FISHERIES",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FISHERIES",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "FISHING ACTIVITIES",
+      "section": "General",
+      "subtopic": "FISHING ACTIVITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FISHING ACTIVITIES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "FISHING ACTIVITIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "FISHING ACTIVITIES",
+      "section": "General",
+      "subtopic": "FISHING ACTIVITIES",
+      "difficulty": "hard",
+      "question": "Which statement about FISHING ACTIVITIES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FISHING ACTIVITIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "FISHING ACTIVITIES",
+      "section": "General",
+      "subtopic": "FISHING ACTIVITIES",
+      "difficulty": "easy",
+      "question": "Which statement about FISHING ACTIVITIES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FISHING ACTIVITIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "FISH BIOLOGY",
+      "section": "General",
+      "subtopic": "FISH BIOLOGY",
+      "difficulty": "hard",
+      "question": "Which statement about FISH BIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "FISH BIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "FISH BIOLOGY",
+      "section": "General",
+      "subtopic": "FISH BIOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about FISH BIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FISH BIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "FISH BIOLOGY",
+      "section": "General",
+      "subtopic": "FISH BIOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about FISH BIOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FISH BIOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "AQUACULTURE",
+      "section": "General",
+      "subtopic": "AQUACULTURE",
+      "difficulty": "easy",
+      "question": "Which statement about AQUACULTURE is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "AQUACULTURE is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "AQUACULTURE",
+      "section": "General",
+      "subtopic": "AQUACULTURE",
+      "difficulty": "medium",
+      "question": "Which statement about AQUACULTURE is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AQUACULTURE is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "AQUACULTURE",
+      "section": "General",
+      "subtopic": "AQUACULTURE",
+      "difficulty": "hard",
+      "question": "Which statement about AQUACULTURE is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AQUACULTURE is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "medium",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "easy",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "section": "General",
+      "subtopic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "difficulty": "hard",
+      "question": "Which statement about FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "section": "General",
+      "subtopic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "difficulty": "easy",
+      "question": "Which statement about FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "section": "General",
+      "subtopic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "difficulty": "medium",
+      "question": "Which statement about FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "section": "General",
+      "subtopic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "difficulty": "easy",
+      "question": "Which statement about PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "section": "General",
+      "subtopic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "difficulty": "medium",
+      "question": "Which statement about PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "section": "General",
+      "subtopic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "difficulty": "hard",
+      "question": "Which statement about PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "medium",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "hard",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "easy",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "hard",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "easy",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "medium",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Fish structure (external/internal - dissection and labelling)",
+      "section": "Practical skills",
+      "subtopic": "Fish structure (external/internal - dissection and labelling)",
+      "difficulty": "easy",
+      "question": "Which statement about Fish structure (external/internal - dissection and labelling) is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fish structure (external/internal - dissection and labelling) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Fish structure (external/internal - dissection and labelling)",
+      "section": "Practical skills",
+      "subtopic": "Fish structure (external/internal - dissection and labelling)",
+      "difficulty": "medium",
+      "question": "Which statement about Fish structure (external/internal - dissection and labelling) is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fish structure (external/internal - dissection and labelling) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Fish structure (external/internal - dissection and labelling)",
+      "section": "Practical skills",
+      "subtopic": "Fish structure (external/internal - dissection and labelling)",
+      "difficulty": "hard",
+      "question": "Which statement about Fish structure (external/internal - dissection and labelling) is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fish structure (external/internal - dissection and labelling) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Measurement of environmental conditions",
+      "section": "Practical skills",
+      "subtopic": "Measurement of environmental conditions",
+      "difficulty": "medium",
+      "question": "Which statement about Measurement of environmental conditions is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Measurement of environmental conditions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Measurement of environmental conditions",
+      "section": "Practical skills",
+      "subtopic": "Measurement of environmental conditions",
+      "difficulty": "hard",
+      "question": "Which statement about Measurement of environmental conditions is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Measurement of environmental conditions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Measurement of environmental conditions",
+      "section": "Practical skills",
+      "subtopic": "Measurement of environmental conditions",
+      "difficulty": "easy",
+      "question": "Which statement about Measurement of environmental conditions is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Measurement of environmental conditions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "hard",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "easy",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "medium",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Characteristics of fresh vs spoiled fish",
+      "section": "Practical skills",
+      "subtopic": "Characteristics of fresh vs spoiled fish",
+      "difficulty": "easy",
+      "question": "Which statement about Characteristics of fresh vs spoiled fish is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Characteristics of fresh vs spoiled fish is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Characteristics of fresh vs spoiled fish",
+      "section": "Practical skills",
+      "subtopic": "Characteristics of fresh vs spoiled fish",
+      "difficulty": "medium",
+      "question": "Which statement about Characteristics of fresh vs spoiled fish is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Characteristics of fresh vs spoiled fish is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Characteristics of fresh vs spoiled fish",
+      "section": "Practical skills",
+      "subtopic": "Characteristics of fresh vs spoiled fish",
+      "difficulty": "hard",
+      "question": "Which statement about Characteristics of fresh vs spoiled fish is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Characteristics of fresh vs spoiled fish is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Fish processing/preservation and by-products",
+      "section": "Practical skills",
+      "subtopic": "Fish processing/preservation and by-products",
+      "difficulty": "medium",
+      "question": "Which statement about Fish processing/preservation and by-products is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fish processing/preservation and by-products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Fish processing/preservation and by-products",
+      "section": "Practical skills",
+      "subtopic": "Fish processing/preservation and by-products",
+      "difficulty": "hard",
+      "question": "Which statement about Fish processing/preservation and by-products is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fish processing/preservation and by-products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Fish processing/preservation and by-products",
+      "section": "Practical skills",
+      "subtopic": "Fish processing/preservation and by-products",
+      "difficulty": "easy",
+      "question": "Which statement about Fish processing/preservation and by-products is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Fish processing/preservation and by-products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "section": "Practical skills",
+      "subtopic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "difficulty": "hard",
+      "question": "Which statement about Pond construction, feed formulation, pond fertilization, fish diseases is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Pond construction, feed formulation, pond fertilization, fish diseases is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "section": "Practical skills",
+      "subtopic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "difficulty": "easy",
+      "question": "Which statement about Pond construction, feed formulation, pond fertilization, fish diseases is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Pond construction, feed formulation, pond fertilization, fish diseases is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "section": "Practical skills",
+      "subtopic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "difficulty": "medium",
+      "question": "Which statement about Pond construction, feed formulation, pond fertilization, fish diseases is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Pond construction, feed formulation, pond fertilization, fish diseases is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Characteristics of fresh vs spoiled fish",
+      "section": "Practical skills",
+      "subtopic": "Characteristics of fresh vs spoiled fish",
+      "difficulty": "easy",
+      "question": "Which statement about Characteristics of fresh vs spoiled fish is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Characteristics of fresh vs spoiled fish is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "easy",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "INTRODUCTION TO FISHERIES",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO FISHERIES",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "FISHING ACTIVITIES",
+      "section": "General",
+      "subtopic": "FISHING ACTIVITIES",
+      "difficulty": "easy",
+      "question": "Which statement about FISHING ACTIVITIES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FISHING ACTIVITIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "section": "Practical skills",
+      "subtopic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "difficulty": "hard",
+      "question": "Which statement about Pond construction, feed formulation, pond fertilization, fish diseases is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Pond construction, feed formulation, pond fertilization, fish diseases is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Characteristics of fresh vs spoiled fish",
+      "section": "Practical skills",
+      "subtopic": "Characteristics of fresh vs spoiled fish",
+      "difficulty": "easy",
+      "question": "Which statement about Characteristics of fresh vs spoiled fish is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Characteristics of fresh vs spoiled fish is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "medium",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "easy",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "easy",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "easy",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "hard",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "section": "General",
+      "subtopic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "difficulty": "easy",
+      "question": "Which statement about FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "medium",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "section": "General",
+      "subtopic": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES",
+      "difficulty": "hard",
+      "question": "Which statement about FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FISHERIES MANAGEMENT AND BUSINESS OF FISHERIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "easy",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "section": "General",
+      "subtopic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "difficulty": "medium",
+      "question": "Which statement about PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "section": "General",
+      "subtopic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "difficulty": "hard",
+      "question": "Which statement about PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Characteristics of fresh vs spoiled fish",
+      "section": "Practical skills",
+      "subtopic": "Characteristics of fresh vs spoiled fish",
+      "difficulty": "hard",
+      "question": "Which statement about Characteristics of fresh vs spoiled fish is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Characteristics of fresh vs spoiled fish is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "medium",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "easy",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "FISHING ACTIVITIES",
+      "section": "General",
+      "subtopic": "FISHING ACTIVITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FISHING ACTIVITIES is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "FISHING ACTIVITIES is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "hard",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Fish structure (external/internal - dissection and labelling)",
+      "section": "Practical skills",
+      "subtopic": "Fish structure (external/internal - dissection and labelling)",
+      "difficulty": "easy",
+      "question": "Which statement about Fish structure (external/internal - dissection and labelling) is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Fish structure (external/internal - dissection and labelling) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "hard",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Fish structure (external/internal - dissection and labelling)",
+      "section": "Practical skills",
+      "subtopic": "Fish structure (external/internal - dissection and labelling)",
+      "difficulty": "medium",
+      "question": "Which statement about Fish structure (external/internal - dissection and labelling) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Fish structure (external/internal - dissection and labelling) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Fish processing/preservation and by-products",
+      "section": "Practical skills",
+      "subtopic": "Fish processing/preservation and by-products",
+      "difficulty": "hard",
+      "question": "Which statement about Fish processing/preservation and by-products is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Fish processing/preservation and by-products is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Fish structure (external/internal - dissection and labelling)",
+      "section": "Practical skills",
+      "subtopic": "Fish structure (external/internal - dissection and labelling)",
+      "difficulty": "hard",
+      "question": "Which statement about Fish structure (external/internal - dissection and labelling) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fish structure (external/internal - dissection and labelling) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "medium",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Measurement of environmental conditions",
+      "section": "Practical skills",
+      "subtopic": "Measurement of environmental conditions",
+      "difficulty": "medium",
+      "question": "Which statement about Measurement of environmental conditions is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Measurement of environmental conditions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "hard",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "medium",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Ecological processes (food chain/web)",
+      "section": "Practical skills",
+      "subtopic": "Ecological processes (food chain/web)",
+      "difficulty": "medium",
+      "question": "Which statement about Ecological processes (food chain/web) is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Ecological processes (food chain/web) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "easy",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "hard",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Measurement of environmental conditions",
+      "section": "Practical skills",
+      "subtopic": "Measurement of environmental conditions",
+      "difficulty": "medium",
+      "question": "Which statement about Measurement of environmental conditions is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Measurement of environmental conditions is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "AQUACULTURE",
+      "section": "General",
+      "subtopic": "AQUACULTURE",
+      "difficulty": "easy",
+      "question": "Which statement about AQUACULTURE is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "AQUACULTURE is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "section": "Practical skills",
+      "subtopic": "Pond construction, feed formulation, pond fertilization, fish diseases",
+      "difficulty": "hard",
+      "question": "Which statement about Pond construction, feed formulation, pond fertilization, fish diseases is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Pond construction, feed formulation, pond fertilization, fish diseases is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Identification and classification of common fishes and invasive species",
+      "section": "Practical skills",
+      "subtopic": "Identification and classification of common fishes and invasive species",
+      "difficulty": "medium",
+      "question": "Which statement about Identification and classification of common fishes and invasive species is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Identification and classification of common fishes and invasive species is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "FISH UTILIZATION",
+      "section": "General",
+      "subtopic": "FISH UTILIZATION",
+      "difficulty": "hard",
+      "question": "Which statement about FISH UTILIZATION is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FISH UTILIZATION is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Fish structure (external/internal - dissection and labelling)",
+      "section": "Practical skills",
+      "subtopic": "Fish structure (external/internal - dissection and labelling)",
+      "difficulty": "hard",
+      "question": "Which statement about Fish structure (external/internal - dissection and labelling) is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fish structure (external/internal - dissection and labelling) is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "section": "General",
+      "subtopic": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS",
+      "difficulty": "easy",
+      "question": "Which statement about PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PRACTICES IN FISHING COMMUNITIES AND FISHERIES INSTITUTIONS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "Identification and maintenance of fishing gear",
+      "section": "Practical skills",
+      "subtopic": "Identification and maintenance of fishing gear",
+      "difficulty": "easy",
+      "question": "Which statement about Identification and maintenance of fishing gear is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Identification and maintenance of fishing gear is part of the technical/vocational syllabus."
+    }
+  ]
+}

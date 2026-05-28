@@ -1,0 +1,3460 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO COMMERCE",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO COMMERCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO COMMERCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO COMMERCE",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO COMMERCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO COMMERCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO COMMERCE",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO COMMERCE is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO COMMERCE is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 4,
+      "topic": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 5,
+      "topic": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 6,
+      "topic": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO COMMERCE: Definition of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 7,
+      "topic": "INTRODUCTION TO COMMERCE: History/Background of Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: History/Background of Commerce",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: History/Background of Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO COMMERCE: History/Background of Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 8,
+      "topic": "INTRODUCTION TO COMMERCE: History/Background of Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: History/Background of Commerce",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: History/Background of Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO COMMERCE: History/Background of Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 9,
+      "topic": "INTRODUCTION TO COMMERCE: History/Background of Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: History/Background of Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: History/Background of Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO COMMERCE: History/Background of Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 10,
+      "topic": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 11,
+      "topic": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 12,
+      "topic": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO COMMERCE: Scope of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 13,
+      "topic": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 14,
+      "topic": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 15,
+      "topic": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO COMMERCE: Functions of Commerce and E-Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 16,
+      "topic": "OCCUPATION",
+      "section": "General",
+      "subtopic": "OCCUPATION",
+      "difficulty": "hard",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Tertiary sector",
+        "B": "Primary sector",
+        "C": "Secondary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "B",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 17,
+      "topic": "OCCUPATION",
+      "section": "General",
+      "subtopic": "OCCUPATION",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Tertiary sector",
+        "C": "Secondary sector",
+        "D": "Primary sector"
+      },
+      "answer": "D",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 18,
+      "topic": "OCCUPATION",
+      "section": "General",
+      "subtopic": "OCCUPATION",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Secondary sector",
+        "C": "Tertiary sector",
+        "D": "Primary sector"
+      },
+      "answer": "D",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 19,
+      "topic": "OCCUPATION: Meaning of Occupation",
+      "section": "General",
+      "subtopic": "OCCUPATION: Meaning of Occupation",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Tertiary sector",
+        "C": "Secondary sector",
+        "D": "Primary sector"
+      },
+      "answer": "D",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 20,
+      "topic": "OCCUPATION: Meaning of Occupation",
+      "section": "General",
+      "subtopic": "OCCUPATION: Meaning of Occupation",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Tertiary sector",
+        "C": "Primary sector",
+        "D": "Secondary sector"
+      },
+      "answer": "C",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 21,
+      "topic": "OCCUPATION: Meaning of Occupation",
+      "section": "General",
+      "subtopic": "OCCUPATION: Meaning of Occupation",
+      "difficulty": "hard",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Secondary sector",
+        "C": "Primary sector",
+        "D": "Tertiary sector"
+      },
+      "answer": "C",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 22,
+      "topic": "OCCUPATION: Types: Industrial, Commercial, Service Occupation",
+      "section": "General",
+      "subtopic": "OCCUPATION: Types: Industrial, Commercial, Service Occupation",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Secondary sector",
+        "C": "Tertiary sector",
+        "D": "Primary sector"
+      },
+      "answer": "D",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 23,
+      "topic": "OCCUPATION: Types: Industrial, Commercial, Service Occupation",
+      "section": "General",
+      "subtopic": "OCCUPATION: Types: Industrial, Commercial, Service Occupation",
+      "difficulty": "hard",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Primary sector",
+        "B": "Tertiary sector",
+        "C": "Quaternary sector",
+        "D": "Secondary sector"
+      },
+      "answer": "A",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 24,
+      "topic": "OCCUPATION: Types: Industrial, Commercial, Service Occupation",
+      "section": "General",
+      "subtopic": "OCCUPATION: Types: Industrial, Commercial, Service Occupation",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Secondary sector",
+        "C": "Tertiary sector",
+        "D": "Primary sector"
+      },
+      "answer": "D",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 25,
+      "topic": "OCCUPATION: Factors that determine types of occupation/employment",
+      "section": "General",
+      "subtopic": "OCCUPATION: Factors that determine types of occupation/employment",
+      "difficulty": "hard",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Secondary sector",
+        "B": "Primary sector",
+        "C": "Tertiary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "B",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 26,
+      "topic": "OCCUPATION: Factors that determine types of occupation/employment",
+      "section": "General",
+      "subtopic": "OCCUPATION: Factors that determine types of occupation/employment",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Primary sector",
+        "B": "Quaternary sector",
+        "C": "Tertiary sector",
+        "D": "Secondary sector"
+      },
+      "answer": "A",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 27,
+      "topic": "OCCUPATION: Factors that determine types of occupation/employment",
+      "section": "General",
+      "subtopic": "OCCUPATION: Factors that determine types of occupation/employment",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Tertiary sector",
+        "B": "Quaternary sector",
+        "C": "Primary sector",
+        "D": "Secondary sector"
+      },
+      "answer": "C",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 28,
+      "topic": "OCCUPATION: Career Opportunities",
+      "section": "General",
+      "subtopic": "OCCUPATION: Career Opportunities",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Tertiary sector",
+        "C": "Primary sector",
+        "D": "Secondary sector"
+      },
+      "answer": "C",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 29,
+      "topic": "OCCUPATION: Career Opportunities",
+      "section": "General",
+      "subtopic": "OCCUPATION: Career Opportunities",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Secondary sector",
+        "B": "Tertiary sector",
+        "C": "Primary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "C",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 30,
+      "topic": "OCCUPATION: Career Opportunities",
+      "section": "General",
+      "subtopic": "OCCUPATION: Career Opportunities",
+      "difficulty": "hard",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Primary sector",
+        "B": "Tertiary sector",
+        "C": "Secondary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "A",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 31,
+      "topic": "PRODUCTION",
+      "section": "General",
+      "subtopic": "PRODUCTION",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Persuading customers",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 32,
+      "topic": "PRODUCTION",
+      "section": "General",
+      "subtopic": "PRODUCTION",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 33,
+      "topic": "PRODUCTION",
+      "section": "General",
+      "subtopic": "PRODUCTION",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Creating awareness",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 34,
+      "topic": "PRODUCTION: Meaning",
+      "section": "General",
+      "subtopic": "PRODUCTION: Meaning",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Persuading customers",
+        "C": "Setting the factory price",
+        "D": "Informing the public"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 35,
+      "topic": "PRODUCTION: Meaning",
+      "section": "General",
+      "subtopic": "PRODUCTION: Meaning",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Persuading customers",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 36,
+      "topic": "PRODUCTION: Meaning",
+      "section": "General",
+      "subtopic": "PRODUCTION: Meaning",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Persuading customers",
+        "C": "Informing the public",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 37,
+      "topic": "PRODUCTION: Factors: land, labour, capital and entrepreneurship",
+      "section": "General",
+      "subtopic": "PRODUCTION: Factors: land, labour, capital and entrepreneurship",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 38,
+      "topic": "PRODUCTION: Factors: land, labour, capital and entrepreneurship",
+      "section": "General",
+      "subtopic": "PRODUCTION: Factors: land, labour, capital and entrepreneurship",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Creating awareness"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 39,
+      "topic": "PRODUCTION: Factors: land, labour, capital and entrepreneurship",
+      "section": "General",
+      "subtopic": "PRODUCTION: Factors: land, labour, capital and entrepreneurship",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Setting the factory price",
+        "C": "Informing the public",
+        "D": "Persuading customers"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 40,
+      "topic": "PRODUCTION: Types: Primary, Secondary and Tertiary production",
+      "section": "General",
+      "subtopic": "PRODUCTION: Types: Primary, Secondary and Tertiary production",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 41,
+      "topic": "PRODUCTION: Types: Primary, Secondary and Tertiary production",
+      "section": "General",
+      "subtopic": "PRODUCTION: Types: Primary, Secondary and Tertiary production",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 42,
+      "topic": "PRODUCTION: Types: Primary, Secondary and Tertiary production",
+      "section": "General",
+      "subtopic": "PRODUCTION: Types: Primary, Secondary and Tertiary production",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Creating awareness",
+        "C": "Informing the public",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 43,
+      "topic": "PRODUCTION: Division of labour/specialization - meaning, types, advantages and disadvantages, limitations",
+      "section": "General",
+      "subtopic": "PRODUCTION: Division of labour/specialization - meaning, types, advantages and disadvantages, limitations",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Creating awareness",
+        "C": "Persuading customers",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 44,
+      "topic": "PRODUCTION: Division of labour/specialization - meaning, types, advantages and disadvantages, limitations",
+      "section": "General",
+      "subtopic": "PRODUCTION: Division of labour/specialization - meaning, types, advantages and disadvantages, limitations",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Informing the public",
+        "D": "Creating awareness"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 45,
+      "topic": "PRODUCTION: Division of labour/specialization - meaning, types, advantages and disadvantages, limitations",
+      "section": "General",
+      "subtopic": "PRODUCTION: Division of labour/specialization - meaning, types, advantages and disadvantages, limitations",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Persuading customers",
+        "C": "Setting the factory price",
+        "D": "Informing the public"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 46,
+      "topic": "PRODUCTION: Inter-relationship between production and exchange",
+      "section": "General",
+      "subtopic": "PRODUCTION: Inter-relationship between production and exchange",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 47,
+      "topic": "PRODUCTION: Inter-relationship between production and exchange",
+      "section": "General",
+      "subtopic": "PRODUCTION: Inter-relationship between production and exchange",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 48,
+      "topic": "PRODUCTION: Inter-relationship between production and exchange",
+      "section": "General",
+      "subtopic": "PRODUCTION: Inter-relationship between production and exchange",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Creating awareness",
+        "C": "Informing the public",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 49,
+      "topic": "BUSINESS UNITS",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS UNITS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 50,
+      "topic": "BUSINESS UNITS",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS UNITS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 51,
+      "topic": "BUSINESS UNITS",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS UNITS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS UNITS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 52,
+      "topic": "BUSINESS UNITS: Meaning and objectives of business",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Meaning and objectives of business",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS UNITS: Meaning and objectives of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS UNITS: Meaning and objectives of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 53,
+      "topic": "BUSINESS UNITS: Meaning and objectives of business",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Meaning and objectives of business",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS UNITS: Meaning and objectives of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Meaning and objectives of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 54,
+      "topic": "BUSINESS UNITS: Meaning and objectives of business",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Meaning and objectives of business",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS UNITS: Meaning and objectives of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUSINESS UNITS: Meaning and objectives of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 55,
+      "topic": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 56,
+      "topic": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 57,
+      "topic": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS UNITS: Forms of business units: Sole proprietorship, Partnership, Co-operative Societies, Credit Union and Thrift Societies, Public enterprises, Companies is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 58,
+      "topic": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 59,
+      "topic": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 60,
+      "topic": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Types, Formation, characteristics, comparison, advantages and disadvantages is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 61,
+      "topic": "BUSINESS UNITS: Sources of capital of each form of business",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Sources of capital of each form of business",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS UNITS: Sources of capital of each form of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Sources of capital of each form of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 62,
+      "topic": "BUSINESS UNITS: Sources of capital of each form of business",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Sources of capital of each form of business",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS UNITS: Sources of capital of each form of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Sources of capital of each form of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 63,
+      "topic": "BUSINESS UNITS: Sources of capital of each form of business",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Sources of capital of each form of business",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS UNITS: Sources of capital of each form of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS UNITS: Sources of capital of each form of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 64,
+      "topic": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 65,
+      "topic": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 66,
+      "topic": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS UNITS: Meaning and purpose of: Amalgamations, Mergers and acquisitions, Trust, Holding companies and Subsidiaries, Consortium and Cartel is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 67,
+      "topic": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 68,
+      "topic": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 69,
+      "topic": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership",
+      "section": "General",
+      "subtopic": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS UNITS: Dissolution/Liquidation of Companies/Partnership is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 70,
+      "topic": "TRADE ASSOCIATIONS",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Retailer",
+        "C": "Manufacturer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 71,
+      "topic": "TRADE ASSOCIATIONS",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Retailer",
+        "D": "Manufacturer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 72,
+      "topic": "TRADE ASSOCIATIONS",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 73,
+      "topic": "TRADE ASSOCIATIONS: Aims and functions of Trade Association",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Aims and functions of Trade Association",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Wholesaler",
+        "C": "Retailer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 74,
+      "topic": "TRADE ASSOCIATIONS: Aims and functions of Trade Association",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Aims and functions of Trade Association",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Manufacturer",
+        "C": "Wholesaler",
+        "D": "Retailer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 75,
+      "topic": "TRADE ASSOCIATIONS: Aims and functions of Trade Association",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Aims and functions of Trade Association",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Retailer",
+        "D": "Consumer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 76,
+      "topic": "TRADE ASSOCIATIONS: Chamber of Commerce, Employers Association",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Chamber of Commerce, Employers Association",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Consumer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 77,
+      "topic": "TRADE ASSOCIATIONS: Chamber of Commerce, Employers Association",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Chamber of Commerce, Employers Association",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Consumer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 78,
+      "topic": "TRADE ASSOCIATIONS: Chamber of Commerce, Employers Association",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Chamber of Commerce, Employers Association",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Retailer",
+        "C": "Consumer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 79,
+      "topic": "TRADE ASSOCIATIONS: Consumer Association/Consumerism",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Consumer Association/Consumerism",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Retailer",
+        "D": "Consumer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 80,
+      "topic": "TRADE ASSOCIATIONS: Consumer Association/Consumerism",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Consumer Association/Consumerism",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Consumer",
+        "C": "Retailer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 81,
+      "topic": "TRADE ASSOCIATIONS: Consumer Association/Consumerism",
+      "section": "General",
+      "subtopic": "TRADE ASSOCIATIONS: Consumer Association/Consumerism",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Wholesaler",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 82,
+      "topic": "BUSINESS CAPITAL AND PROFITS",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS",
+      "difficulty": "easy",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Journal",
+        "B": "Ledger",
+        "C": "Trial balance",
+        "D": "Cash book"
+      },
+      "answer": "A",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 83,
+      "topic": "BUSINESS CAPITAL AND PROFITS",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS",
+      "difficulty": "medium",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Ledger",
+        "B": "Journal",
+        "C": "Cash book",
+        "D": "Trial balance"
+      },
+      "answer": "B",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 84,
+      "topic": "BUSINESS CAPITAL AND PROFITS",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS",
+      "difficulty": "hard",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Cash book",
+        "B": "Journal",
+        "C": "Trial balance",
+        "D": "Ledger"
+      },
+      "answer": "B",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 85,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Meaning and types of capital: Authorized/Registered/Normal capital, called-up, paid-up capital, capital owned, liquid/circulating capital",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Meaning and types of capital: Authorized/Registered/Normal capital, called-up, paid-up capital, capital owned, liquid/circulating capital",
+      "difficulty": "medium",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Ledger",
+        "B": "Cash book",
+        "C": "Trial balance",
+        "D": "Journal"
+      },
+      "answer": "D",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 86,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Meaning and types of capital: Authorized/Registered/Normal capital, called-up, paid-up capital, capital owned, liquid/circulating capital",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Meaning and types of capital: Authorized/Registered/Normal capital, called-up, paid-up capital, capital owned, liquid/circulating capital",
+      "difficulty": "hard",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Trial balance",
+        "B": "Journal",
+        "C": "Ledger",
+        "D": "Cash book"
+      },
+      "answer": "B",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 87,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Meaning and types of capital: Authorized/Registered/Normal capital, called-up, paid-up capital, capital owned, liquid/circulating capital",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Meaning and types of capital: Authorized/Registered/Normal capital, called-up, paid-up capital, capital owned, liquid/circulating capital",
+      "difficulty": "easy",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Trial balance",
+        "B": "Ledger",
+        "C": "Journal",
+        "D": "Cash book"
+      },
+      "answer": "C",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 88,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Credit - Meaning, Sources, Instrument and Functions",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Credit - Meaning, Sources, Instrument and Functions",
+      "difficulty": "hard",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Ledger",
+        "B": "Trial balance",
+        "C": "Journal",
+        "D": "Cash book"
+      },
+      "answer": "C",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 89,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Credit - Meaning, Sources, Instrument and Functions",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Credit - Meaning, Sources, Instrument and Functions",
+      "difficulty": "easy",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Journal",
+        "B": "Cash book",
+        "C": "Trial balance",
+        "D": "Ledger"
+      },
+      "answer": "A",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 90,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Credit - Meaning, Sources, Instrument and Functions",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Credit - Meaning, Sources, Instrument and Functions",
+      "difficulty": "medium",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Trial balance",
+        "B": "Cash book",
+        "C": "Journal",
+        "D": "Ledger"
+      },
+      "answer": "C",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 91,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Calculation of working capital, the Importance of working capital",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Calculation of working capital, the Importance of working capital",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Wholesaler",
+        "C": "Consumer",
+        "D": "Retailer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 92,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Calculation of working capital, the Importance of working capital",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Calculation of working capital, the Importance of working capital",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Wholesaler",
+        "C": "Retailer",
+        "D": "Manufacturer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 93,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Calculation of working capital, the Importance of working capital",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Calculation of working capital, the Importance of working capital",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Retailer",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 94,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Profits - Meaning, types and calculation of profit",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Profits - Meaning, types and calculation of profit",
+      "difficulty": "medium",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Journal",
+        "B": "Ledger",
+        "C": "Trial balance",
+        "D": "Cash book"
+      },
+      "answer": "A",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 95,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Profits - Meaning, types and calculation of profit",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Profits - Meaning, types and calculation of profit",
+      "difficulty": "hard",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Ledger",
+        "B": "Cash book",
+        "C": "Trial balance",
+        "D": "Journal"
+      },
+      "answer": "D",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 96,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Profits - Meaning, types and calculation of profit",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Profits - Meaning, types and calculation of profit",
+      "difficulty": "easy",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Ledger",
+        "B": "Trial balance",
+        "C": "Cash book",
+        "D": "Journal"
+      },
+      "answer": "D",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 97,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Turnover - Meaning, calculations and factors affecting turnover",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Turnover - Meaning, calculations and factors affecting turnover",
+      "difficulty": "hard",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Trial balance",
+        "B": "Journal",
+        "C": "Cash book",
+        "D": "Ledger"
+      },
+      "answer": "B",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 98,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Turnover - Meaning, calculations and factors affecting turnover",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Turnover - Meaning, calculations and factors affecting turnover",
+      "difficulty": "easy",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Cash book",
+        "B": "Journal",
+        "C": "Ledger",
+        "D": "Trial balance"
+      },
+      "answer": "B",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 99,
+      "topic": "BUSINESS CAPITAL AND PROFITS: Turnover - Meaning, calculations and factors affecting turnover",
+      "section": "General",
+      "subtopic": "BUSINESS CAPITAL AND PROFITS: Turnover - Meaning, calculations and factors affecting turnover",
+      "difficulty": "medium",
+      "question": "The book of original entry where transactions are first recorded is called the:",
+      "options": {
+        "A": "Trial balance",
+        "B": "Journal",
+        "C": "Ledger",
+        "D": "Cash book"
+      },
+      "answer": "B",
+      "explanation": "The journal (or book of original entry) is where transactions are first recorded chronologically before posting to the ledger."
+    },
+    {
+      "id": 100,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Retailer",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 101,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Wholesaler",
+        "C": "Manufacturer",
+        "D": "Retailer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 102,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Wholesaler",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 103,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Procedure and documents used in business: Order, Indent, Consular Invoice, Ordinary Invoice, Credit/Debit notes, Proforma Invoice, Letter of hypothecation, documentary credit, certificate of origin, certificate of inspection, insurance certificate",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Procedure and documents used in business: Order, Indent, Consular Invoice, Ordinary Invoice, Credit/Debit notes, Proforma Invoice, Letter of hypothecation, documentary credit, certificate of origin, certificate of inspection, insurance certificate",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Manufacturer",
+        "C": "Consumer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 104,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Procedure and documents used in business: Order, Indent, Consular Invoice, Ordinary Invoice, Credit/Debit notes, Proforma Invoice, Letter of hypothecation, documentary credit, certificate of origin, certificate of inspection, insurance certificate",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Procedure and documents used in business: Order, Indent, Consular Invoice, Ordinary Invoice, Credit/Debit notes, Proforma Invoice, Letter of hypothecation, documentary credit, certificate of origin, certificate of inspection, insurance certificate",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Retailer",
+        "D": "Manufacturer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 105,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Procedure and documents used in business: Order, Indent, Consular Invoice, Ordinary Invoice, Credit/Debit notes, Proforma Invoice, Letter of hypothecation, documentary credit, certificate of origin, certificate of inspection, insurance certificate",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Procedure and documents used in business: Order, Indent, Consular Invoice, Ordinary Invoice, Credit/Debit notes, Proforma Invoice, Letter of hypothecation, documentary credit, certificate of origin, certificate of inspection, insurance certificate",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Manufacturer",
+        "C": "Consumer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 106,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Price Quotation: Trade discount, Cash discount, Quantity discount, COD, CWO, CIF, FOB, E & OE, Ex-works, LOCO, FAS, FOR and Franco",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Price Quotation: Trade discount, Cash discount, Quantity discount, COD, CWO, CIF, FOB, E & OE, Ex-works, LOCO, FAS, FOR and Franco",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Manufacturer",
+        "C": "Wholesaler",
+        "D": "Retailer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 107,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Price Quotation: Trade discount, Cash discount, Quantity discount, COD, CWO, CIF, FOB, E & OE, Ex-works, LOCO, FAS, FOR and Franco",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Price Quotation: Trade discount, Cash discount, Quantity discount, COD, CWO, CIF, FOB, E & OE, Ex-works, LOCO, FAS, FOR and Franco",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Retailer",
+        "C": "Consumer",
+        "D": "Manufacturer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 108,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Price Quotation: Trade discount, Cash discount, Quantity discount, COD, CWO, CIF, FOB, E & OE, Ex-works, LOCO, FAS, FOR and Franco",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Price Quotation: Trade discount, Cash discount, Quantity discount, COD, CWO, CIF, FOB, E & OE, Ex-works, LOCO, FAS, FOR and Franco",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Retailer",
+        "C": "Wholesaler",
+        "D": "Consumer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 109,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Terms of Payment: Cash/Spot Payment, Purchase and deferred payment",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Terms of Payment: Cash/Spot Payment, Purchase and deferred payment",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 110,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Terms of Payment: Cash/Spot Payment, Purchase and deferred payment",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Terms of Payment: Cash/Spot Payment, Purchase and deferred payment",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 111,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Terms of Payment: Cash/Spot Payment, Purchase and deferred payment",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Terms of Payment: Cash/Spot Payment, Purchase and deferred payment",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Retailer",
+        "C": "Consumer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 112,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Means of payment: Legal tender (bank notes and coins), cheques, standing order, bank draft, stamps, postal-orders, money orders, bills of exchange and promissory Note, mail transfer, traveller’s cheques, telegraphic transfer, E-payment",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Means of payment: Legal tender (bank notes and coins), cheques, standing order, bank draft, stamps, postal-orders, money orders, bills of exchange and promissory Note, mail transfer, traveller’s cheques, telegraphic transfer, E-payment",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Retailer",
+        "C": "Consumer",
+        "D": "Manufacturer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 113,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Means of payment: Legal tender (bank notes and coins), cheques, standing order, bank draft, stamps, postal-orders, money orders, bills of exchange and promissory Note, mail transfer, traveller’s cheques, telegraphic transfer, E-payment",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Means of payment: Legal tender (bank notes and coins), cheques, standing order, bank draft, stamps, postal-orders, money orders, bills of exchange and promissory Note, mail transfer, traveller’s cheques, telegraphic transfer, E-payment",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Wholesaler",
+        "C": "Retailer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 114,
+      "topic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Means of payment: Legal tender (bank notes and coins), cheques, standing order, bank draft, stamps, postal-orders, money orders, bills of exchange and promissory Note, mail transfer, traveller’s cheques, telegraphic transfer, E-payment",
+      "section": "General",
+      "subtopic": "PURCHASE AND SALE OF GOODS IN HOME AND FOREIGN TRADE: Means of payment: Legal tender (bank notes and coins), cheques, standing order, bank draft, stamps, postal-orders, money orders, bills of exchange and promissory Note, mail transfer, traveller’s cheques, telegraphic transfer, E-payment",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Retailer",
+        "D": "Manufacturer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 115,
+      "topic": "FINANCE AND FINANCIAL INSTITUTIONS",
+      "section": "General",
+      "subtopic": "FINANCE AND FINANCIAL INSTITUTIONS",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Pipeline",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 116,
+      "topic": "FINANCE AND FINANCIAL INSTITUTIONS",
+      "section": "General",
+      "subtopic": "FINANCE AND FINANCIAL INSTITUTIONS",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Pipeline",
+        "C": "Air transport",
+        "D": "Sea transport"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 117,
+      "topic": "FINANCE AND FINANCIAL INSTITUTIONS",
+      "section": "General",
+      "subtopic": "FINANCE AND FINANCIAL INSTITUTIONS",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Road transport",
+        "B": "Pipeline",
+        "C": "Sea transport",
+        "D": "Air transport"
+      },
+      "answer": "A",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 118,
+      "topic": "TRANSPORT, TOURISM, COMMUNICATION AND WAREHOUSING",
+      "section": "General",
+      "subtopic": "TRANSPORT, TOURISM, COMMUNICATION AND WAREHOUSING",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Pipeline",
+        "C": "Air transport",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 119,
+      "topic": "TRANSPORT, TOURISM, COMMUNICATION AND WAREHOUSING",
+      "section": "General",
+      "subtopic": "TRANSPORT, TOURISM, COMMUNICATION AND WAREHOUSING",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Pipeline",
+        "D": "Road transport"
+      },
+      "answer": "D",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 120,
+      "topic": "TRANSPORT, TOURISM, COMMUNICATION AND WAREHOUSING",
+      "section": "General",
+      "subtopic": "TRANSPORT, TOURISM, COMMUNICATION AND WAREHOUSING",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Pipeline",
+        "C": "Road transport",
+        "D": "Sea transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 121,
+      "topic": "ADVERTISING",
+      "section": "General",
+      "subtopic": "ADVERTISING",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 122,
+      "topic": "ADVERTISING",
+      "section": "General",
+      "subtopic": "ADVERTISING",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 123,
+      "topic": "ADVERTISING",
+      "section": "General",
+      "subtopic": "ADVERTISING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 124,
+      "topic": "ADVERTISING: Meaning",
+      "section": "General",
+      "subtopic": "ADVERTISING: Meaning",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 125,
+      "topic": "ADVERTISING: Meaning",
+      "section": "General",
+      "subtopic": "ADVERTISING: Meaning",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Persuading customers",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 126,
+      "topic": "ADVERTISING: Meaning",
+      "section": "General",
+      "subtopic": "ADVERTISING: Meaning",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Creating awareness"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 127,
+      "topic": "ADVERTISING: Roles, advantages and disadvantages",
+      "section": "General",
+      "subtopic": "ADVERTISING: Roles, advantages and disadvantages",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 128,
+      "topic": "ADVERTISING: Roles, advantages and disadvantages",
+      "section": "General",
+      "subtopic": "ADVERTISING: Roles, advantages and disadvantages",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 129,
+      "topic": "ADVERTISING: Roles, advantages and disadvantages",
+      "section": "General",
+      "subtopic": "ADVERTISING: Roles, advantages and disadvantages",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Setting the factory price",
+        "C": "Informing the public",
+        "D": "Persuading customers"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 130,
+      "topic": "ADVERTISING: Types: informative, persuasive, Competitive, mass/specific",
+      "section": "General",
+      "subtopic": "ADVERTISING: Types: informative, persuasive, Competitive, mass/specific",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 131,
+      "topic": "ADVERTISING: Types: informative, persuasive, Competitive, mass/specific",
+      "section": "General",
+      "subtopic": "ADVERTISING: Types: informative, persuasive, Competitive, mass/specific",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Persuading customers",
+        "D": "Creating awareness"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 132,
+      "topic": "ADVERTISING: Types: informative, persuasive, Competitive, mass/specific",
+      "section": "General",
+      "subtopic": "ADVERTISING: Types: informative, persuasive, Competitive, mass/specific",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 133,
+      "topic": "ADVERTISING: Methods: direct and indirect",
+      "section": "General",
+      "subtopic": "ADVERTISING: Methods: direct and indirect",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Creating awareness",
+        "C": "Informing the public",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 134,
+      "topic": "ADVERTISING: Methods: direct and indirect",
+      "section": "General",
+      "subtopic": "ADVERTISING: Methods: direct and indirect",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 135,
+      "topic": "ADVERTISING: Methods: direct and indirect",
+      "section": "General",
+      "subtopic": "ADVERTISING: Methods: direct and indirect",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Persuading customers",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 136,
+      "topic": "ADVERTISING: Media: meaning, choice and types",
+      "section": "General",
+      "subtopic": "ADVERTISING: Media: meaning, choice and types",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 137,
+      "topic": "ADVERTISING: Media: meaning, choice and types",
+      "section": "General",
+      "subtopic": "ADVERTISING: Media: meaning, choice and types",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Persuading customers",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 138,
+      "topic": "ADVERTISING: Media: meaning, choice and types",
+      "section": "General",
+      "subtopic": "ADVERTISING: Media: meaning, choice and types",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Creating awareness",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 139,
+      "topic": "INTRODUCTION TO MARKETING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MARKETING",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Informing the public",
+        "D": "Creating awareness"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 140,
+      "topic": "INTRODUCTION TO MARKETING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MARKETING",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Persuading customers",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 141,
+      "topic": "INTRODUCTION TO MARKETING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Creating awareness",
+        "C": "Setting the factory price",
+        "D": "Informing the public"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 142,
+      "topic": "LEGAL ASPECT OF BUSINESS",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS",
+      "difficulty": "hard",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 143,
+      "topic": "LEGAL ASPECT OF BUSINESS",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS",
+      "difficulty": "easy",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 144,
+      "topic": "LEGAL ASPECT OF BUSINESS",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS",
+      "difficulty": "medium",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "LEGAL ASPECT OF BUSINESS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 145,
+      "topic": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business",
+      "difficulty": "easy",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 146,
+      "topic": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business",
+      "difficulty": "medium",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 147,
+      "topic": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business",
+      "difficulty": "hard",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Areas of law that relate to Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 148,
+      "topic": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract",
+      "difficulty": "medium",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 149,
+      "topic": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract",
+      "difficulty": "hard",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 150,
+      "topic": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract",
+      "difficulty": "easy",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Contract: Meaning, Elements of a valid contract, Discharge of a contract is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 151,
+      "topic": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination",
+      "difficulty": "hard",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 152,
+      "topic": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination",
+      "difficulty": "easy",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 153,
+      "topic": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination",
+      "difficulty": "medium",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Agency: Meaning, Creation, Duties and responsibilities of principals and agents, Termination is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 154,
+      "topic": "LEGAL ASPECT OF BUSINESS: Sales of Goods Act",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Sales of Goods Act",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Creating awareness",
+        "C": "Informing the public",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 155,
+      "topic": "LEGAL ASPECT OF BUSINESS: Sales of Goods Act",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Sales of Goods Act",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 156,
+      "topic": "LEGAL ASPECT OF BUSINESS: Sales of Goods Act",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Sales of Goods Act",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Creating awareness",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 157,
+      "topic": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act",
+      "difficulty": "medium",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Hire Purchase Act is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 158,
+      "topic": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act",
+      "difficulty": "hard",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Hire Purchase Act is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 159,
+      "topic": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act",
+      "difficulty": "easy",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Hire Purchase Act is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Hire Purchase Act is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 160,
+      "topic": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee",
+      "difficulty": "hard",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 161,
+      "topic": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee",
+      "difficulty": "easy",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 162,
+      "topic": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee",
+      "difficulty": "medium",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Rights and Obligations of employer and Employee is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 163,
+      "topic": "LEGAL ASPECT OF BUSINESS: Government regulation of Business: patents, copyright, Trade mark",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Government regulation of Business: patents, copyright, Trade mark",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Consumer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 164,
+      "topic": "LEGAL ASPECT OF BUSINESS: Government regulation of Business: patents, copyright, Trade mark",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Government regulation of Business: patents, copyright, Trade mark",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Retailer",
+        "C": "Consumer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 165,
+      "topic": "LEGAL ASPECT OF BUSINESS: Government regulation of Business: patents, copyright, Trade mark",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Government regulation of Business: patents, copyright, Trade mark",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Wholesaler",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 166,
+      "topic": "LEGAL ASPECT OF BUSINESS: Registration of Business",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Registration of Business",
+      "difficulty": "medium",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Registration of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Registration of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 167,
+      "topic": "LEGAL ASPECT OF BUSINESS: Registration of Business",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Registration of Business",
+      "difficulty": "hard",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Registration of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Registration of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 168,
+      "topic": "LEGAL ASPECT OF BUSINESS: Registration of Business",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Registration of Business",
+      "difficulty": "easy",
+      "question": "Which statement about LEGAL ASPECT OF BUSINESS: Registration of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "LEGAL ASPECT OF BUSINESS: Registration of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 169,
+      "topic": "LEGAL ASPECT OF BUSINESS: Consumer Protection: Meaning and uses, Need for protection, Means of protection, Consumerism, Government Legislation (food and drugs Act, standard organization Act, Price Control Act, Factory, Shops and Offices Act, Product quality)",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Consumer Protection: Meaning and uses, Need for protection, Means of protection, Consumerism, Government Legislation (food and drugs Act, standard organization Act, Price Control Act, Factory, Shops and Offices Act, Product quality)",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 170,
+      "topic": "LEGAL ASPECT OF BUSINESS: Consumer Protection: Meaning and uses, Need for protection, Means of protection, Consumerism, Government Legislation (food and drugs Act, standard organization Act, Price Control Act, Factory, Shops and Offices Act, Product quality)",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Consumer Protection: Meaning and uses, Need for protection, Means of protection, Consumerism, Government Legislation (food and drugs Act, standard organization Act, Price Control Act, Factory, Shops and Offices Act, Product quality)",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Creating awareness",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 171,
+      "topic": "LEGAL ASPECT OF BUSINESS: Consumer Protection: Meaning and uses, Need for protection, Means of protection, Consumerism, Government Legislation (food and drugs Act, standard organization Act, Price Control Act, Factory, Shops and Offices Act, Product quality)",
+      "section": "General",
+      "subtopic": "LEGAL ASPECT OF BUSINESS: Consumer Protection: Meaning and uses, Need for protection, Means of protection, Consumerism, Government Legislation (food and drugs Act, standard organization Act, Price Control Act, Factory, Shops and Offices Act, Product quality)",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Creating awareness"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 172,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS",
+      "difficulty": "easy",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 173,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS",
+      "difficulty": "medium",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 174,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS",
+      "difficulty": "hard",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 175,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons",
+      "difficulty": "medium",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 176,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons",
+      "difficulty": "hard",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 177,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons",
+      "difficulty": "easy",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Meaning and Reasons is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 178,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages",
+      "difficulty": "hard",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 179,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages",
+      "difficulty": "easy",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 180,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages",
+      "difficulty": "medium",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Advantages and disadvantages is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 181,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences",
+      "difficulty": "easy",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 182,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences",
+      "difficulty": "medium",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 183,
+      "topic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences",
+      "section": "General",
+      "subtopic": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences",
+      "difficulty": "hard",
+      "question": "Which statement about GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "GOVERNMENT POLICIES RELATING TO BUSINESS: Comparison/differences is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 184,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 185,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 186,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 187,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Meaning is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 188,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Meaning is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 189,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Meaning is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 190,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 191,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 192,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Objectives of business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 193,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 194,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 195,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Meaning of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 196,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Functions is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 197,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Functions is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 198,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Functions is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Functions is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 199,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 200,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 201,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Business Resources: Man, Money, Materials, Opportunities/Goodwill is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 202,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 203,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 204,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Structure of Business organizational setup: Organisational chart, Departments, Functions of each, Authority, Delegation of Authority, Responsibility, Span of Control is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 205,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc.",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc. is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc. is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 206,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc.",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc. is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc. is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 207,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc.",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc.",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc. is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Business and its environment: Economical, Political, Competition, Technological etc. is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 208,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 209,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 210,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO BUSINESS MANAGEMENT: Social responsibility of Business to the Society is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 211,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Importance of Inter and Intra departmental communications",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Importance of Inter and Intra departmental communications",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 212,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Importance of Inter and Intra departmental communications",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Importance of Inter and Intra departmental communications",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Wholesaler",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 213,
+      "topic": "INTRODUCTION TO BUSINESS MANAGEMENT: Importance of Inter and Intra departmental communications",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO BUSINESS MANAGEMENT: Importance of Inter and Intra departmental communications",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Consumer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 214,
+      "topic": "ECONOMIC GROUPINGS",
+      "section": "General",
+      "subtopic": "ECONOMIC GROUPINGS",
+      "difficulty": "hard",
+      "question": "Which statement about ECONOMIC GROUPINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "ECONOMIC GROUPINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 215,
+      "topic": "ECONOMIC GROUPINGS",
+      "section": "General",
+      "subtopic": "ECONOMIC GROUPINGS",
+      "difficulty": "easy",
+      "question": "Which statement about ECONOMIC GROUPINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "ECONOMIC GROUPINGS is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 216,
+      "topic": "ECONOMIC GROUPINGS",
+      "section": "General",
+      "subtopic": "ECONOMIC GROUPINGS",
+      "difficulty": "medium",
+      "question": "Which statement about ECONOMIC GROUPINGS is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "ECONOMIC GROUPINGS is part of the Commerce syllabus and is regularly tested."
+    }
+  ]
+}

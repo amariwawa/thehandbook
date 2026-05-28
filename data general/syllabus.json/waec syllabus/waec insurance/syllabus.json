@@ -1,0 +1,222 @@
+{
+  "syllabus_title": "WAEC SSCE Insurance Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "INTRODUCTION",
+      "topics": [
+        {
+          "topic": "Meaning of Insurance"
+        },
+        {
+          "topic": "Historical development",
+          "subtopics": ["Pre and Post independence era", "Legislations"]
+        },
+        {
+          "topic": "Insurance contracts",
+          "subtopics": ["Parties to Insurance contract", "Essential features of Insurance contract"]
+        },
+        {
+          "topic": "Risks",
+          "subtopics": ["Meaning", "Effect of risks on the society", "Classification of risks", "Insurable and un-insurable risk"]
+        },
+        {
+          "topic": "Hazards",
+          "subtopics": ["Meaning", "Types"]
+        },
+        {
+          "topic": "Functions of Insurance",
+          "subtopics": ["Primary functions", "Secondary functions"]
+        },
+        {
+          "topic": "Benefits of Insurance"
+        },
+        {
+          "topic": "Perils",
+          "subtopics": ["Meaning", "Differences among perils, risks and hazards"]
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "PRINCIPLES OF INSURANCE",
+      "topics": [
+        {
+          "topic": "Insurable Interest",
+          "subtopics": ["Meaning", "Essential features of insurable interest", "Application of insurable interest in life assurance and property insurance"]
+        },
+        {
+          "topic": "Utmost Good Faith",
+          "subtopics": ["Meaning", "Insured and insurer’s duty of disclosure", "Breaches and effects"]
+        },
+        {
+          "topic": "Proximate Cause",
+          "subtopics": ["Meaning", "Application of proximate cause on claims"]
+        },
+        {
+          "topic": "Indemnity",
+          "subtopics": ["Meaning", "Methods of providing indemnity by insurer", "Application of indemnity in property and liability insurance"]
+        },
+        {
+          "topic": "Subrogation",
+          "subtopics": ["Meaning", "Insurer’s right under Subrogation", "Insured’s duty under Subrogation"]
+        },
+        {
+          "topic": "Contribution",
+          "subtopics": ["Meaning", "Application", "Conditions necessary for contribution"]
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "DOCUMENTS USED IN EFFECTING CONTRACT",
+      "topics": [
+        {
+          "topic": "Proposal Forms",
+          "subtopics": ["Meaning", "Functions and uses", "Contracts where proposal forms are used"]
+        },
+        {
+          "topic": "Cover Notes",
+          "subtopics": ["Meaning", "Contents of Cover notes", "Functions and uses of Cover notes", "Contracts where Cover notes are issued"]
+        },
+        {
+          "topic": "Certificate of Insurance",
+          "subtopics": ["Meaning", "Certificate of Insurance in Motor, Marine, Employer’s liability"]
+        },
+        {
+          "topic": "Policy",
+          "subtopics": ["Meaning", "Component parts of a policy", "Parties to a policy"]
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "INSURANCE PRACTICE",
+      "topics": [
+        {
+          "topic": "Re-insurance",
+          "subtopics": ["Meaning", "Forms (Facultative and Treaty)", "Functions", "Uses"]
+        },
+        {
+          "topic": "Insurance Renewals",
+          "subtopics": ["Meaning of renewal notice", "Renewal procedure", "Legal status of renewal notice", "No claim Discount (NCD) - meaning and uses", "Long term Agreement (LTA) – meaning and uses"]
+        },
+        {
+          "topic": "Insurance Claims",
+          "subtopics": ["Meaning of claims", "Claim procedure (Notification, Documentation (Claim forms), Investigation, Discharge voucher, Payment)", "Duties of the Insured and the underwriter in claims", "Functions of Loss Assessors and Loss Adjusters"]
+        },
+        {
+          "topic": "Insurance Premium",
+          "subtopics": ["Meaning", "Factors to be considered when determining a premium", "Factors responsible for loading premium", "Return premium (Partial and full return, Reasons for returning premium)"]
+        }
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "NON-LIFE INSURANCE PRODUCTS",
+      "topics": [
+        {
+          "topic": "Motor Insurance",
+          "subtopics": ["Meaning", "Types of policies in Motor Insurance (Private car, Commercial vehicle, Motorcycle, Agricultural and Forestry vehicle, Special types (fork lifts, Tractors, caterpillars))", "The scope of cover (Act only, Third party only, Third party, fire and theft, Comprehensive)", "ECOWAS Brown Card (meaning and uses)"]
+        },
+        {
+          "topic": "Fire Insurance",
+          "subtopics": ["Meaning", "Standard fire policy cover", "Special perils (earthquake, flood, riot and strike)", "Properties covered (Building and its contents, Machinery and plant, Stocks)", "Buyers of fire insurance (Individuals, Corporate bodies, Government agencies)"]
+        },
+        {
+          "topic": "Theft Insurance and Burglary Insurance",
+          "subtopics": ["Meaning", "Properties covered (Household properties, Stocks, Machinery and Plants)", "Theft insurance and Burglary Insurance in business and private premises", "Differences between Theft Insurance and Burglary Insurance"]
+        },
+        {
+          "topic": "Money Insurance",
+          "subtopics": ["Meaning", "What constitutes money (cash, cheque, postal order)", "Types of cover available (In transit only, In safe or strong room after business hours, In custody of a staff e.g. cashier)"]
+        },
+        {
+          "topic": "Fidelity Guarantee Insurance",
+          "subtopics": ["Meaning", "Types of policies (Named policy, Position policy, Blanket policy)", "Bond (meaning)", "Differences between commercial guarantee and bonds"]
+        },
+        {
+          "topic": "Engineering Insurance",
+          "subtopics": ["Meaning", "Types (Boiler, Explosion, Computer all risks)", "Scope of Engineering Insurance (Material damage, Liability cover)"]
+        },
+        {
+          "topic": "Marine Insurance",
+          "subtopics": ["Meaning", "Marine perils", "Type of cover (Hull policy, Cargo policy, Freight policy)"]
+        },
+        {
+          "topic": "Aviation Insurance",
+          "subtopics": ["Meaning", "Types of Aviation policy (Aviation hull policy, Cargo policy, Freight policy, Liability arising from aircraft operation, Liability to passengers and non-passengers)", "Aviation risks", "Factors affecting", "International regulations (Montreal Convention, Hague Rule, Warsaw convention)"]
+        },
+        {
+          "topic": "Employer’s Liability",
+          "subtopics": ["Meaning", "Policy covered (employees compensation policy)", "Level of benefits payable", "Perils covered"]
+        },
+        {
+          "topic": "Public Liability Insurance",
+          "subtopics": ["Meaning", "Types (Personal liability policy, Product liability policy)"]
+        },
+        {
+          "topic": "Professional Indemnity",
+          "subtopics": ["Meaning", "Professionals that require professional indemnity (Doctors, Lawyers, Insurance brokers, Accountants, Architects)"]
+        },
+        {
+          "topic": "Business Interruption Insurance (Consequential loss)",
+          "subtopics": ["Meaning", "Causes of business interruption (Machinery breakdown, Fire Incident)"]
+        },
+        {
+          "topic": "Personal Accident Insurance",
+          "subtopics": ["Meaning", "Risks covered (Death, Bodily injury, Permanent disability, Total temporary disability, Medical expenses)", "Forms (personal and group)", "Benefits (Death, Bodily Injury and medical expenses)", "Buyers of personal and group accident policy"]
+        }
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "INSURANCE MARKET",
+      "topics": [
+        {
+          "topic": "Meaning of Insurance Market"
+        },
+        {
+          "topic": "Market Operators",
+          "subtopics": [
+            "Insurance Companies",
+            "Reinsurance Companies",
+            "Insurance Intermediaries (Brokers and Agents)",
+            "Insurance Buyers (Individual and private, Corporate and public institutions)",
+            "Insurance Sellers (Insurance Companies, Re-insurance Companies)",
+            "Supporting Services (Assessor and Loss Adjusters)"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "INSURANCE REGULATORS",
+      "topics": [
+        {
+          "topic": "Nigerian Insurance Association (NIA)",
+          "subtopics": ["Meaning", "Role/Functions", "Purpose", "Membership"]
+        },
+        {
+          "topic": "Nigerian Council of Registered Insurance Brokers (NCRIB)"
+        },
+        {
+          "topic": "Institute of Loss Adjusters of Nigeria (ILAN)"
+        },
+        {
+          "topic": "National Insurance Commission (NAICOM)"
+        },
+        {
+          "topic": "Chartered Insurance Institute of Nigeria (CIIN)"
+        }
+      ]
+    },
+    {
+      "section_number": 9,
+      "title": "COMMON INSURANCE TERMINOLOGIES",
+      "terms": [
+        "Hazards", "Perils", "Concealment", "Disclosure", "Days of grace", "Ex-gratia payment", "Extra-premium", "Endorsement", "Excepted perils", "Subject matter of Insurance", "Under Insurance", "Return Premium", "Surrender Value", "Cover note"
+      ]
+    }
+  ]
+}

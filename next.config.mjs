@@ -7,6 +7,11 @@ const nextConfig = {
         destination: '/practice/custom',
         permanent: true,
       },
+      {
+        source: '/about',
+        destination: '/company',
+        permanent: true,
+      },
     ];
   },
 };

@@ -1,0 +1,134 @@
+{
+  "subject": "Business Management",
+  "exam_board": "WAEC",
+  "cycle": "SSCE",
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "The Nature of Management",
+      "subtopics": [
+        "Concept of management",
+        "Functions of management (planning, organizing, directing, controlling)",
+        "Importance of management",
+        "Levels of management (top, middle, lower)",
+        "Qualities of a good manager"
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "Business Organizations",
+      "subtopics": [
+        "Concept of business organization",
+        "Types of business organizations (sole proprietorship, partnership, company, cooperative, public enterprise)",
+        "Formation, ownership, capital, management and control",
+        "Advantages and disadvantages of each type",
+        "Choice of business organization"
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "Management Functions",
+      "subtopics": [
+        "Planning: meaning, types and importance",
+        "Organizing: meaning, steps and importance",
+        "Directing: meaning, elements (leadership, motivation, communication)",
+        "Controlling: meaning, steps and importance"
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "Personnel Management",
+      "subtopics": [
+        "Concept of personnel management",
+        "Functions of personnel management",
+        "Staffing: recruitment, selection, placement, training and development",
+        "Motivation and employee welfare",
+        "Industrial relations and trade unions"
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "Production and Operations Management",
+      "subtopics": [
+        "Concept of production",
+        "Types of production (job, batch, mass, continuous)",
+        "Factors of production (land, labour, capital, entrepreneurship)",
+        "Production planning and control",
+        "Quality control and productivity"
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "Marketing Management",
+      "subtopics": [
+        "Concept of marketing",
+        "Marketing functions",
+        "Marketing mix (product, price, place, promotion)",
+        "Channels of distribution",
+        "Consumer behaviour and market segmentation"
+      ]
+    },
+    {
+      "topic_number": 7,
+      "topic": "Finance and Financial Management",
+      "subtopics": [
+        "Concept of finance",
+        "Sources of finance (internal and external)",
+        "Short‑term and long‑term finance",
+        "Financial institutions (banks, insurance companies, stock exchange)",
+        "Basic financial statements (income statement and balance sheet concepts)"
+      ]
+    },
+    {
+      "topic_number": 8,
+      "topic": "Information Technology in Business",
+      "subtopics": [
+        "Concept of information technology",
+        "Uses of ICT in business (accounting, marketing, communication, record keeping)",
+        "Benefits and challenges of ICT in business",
+        "E‑business and e‑commerce"
+      ]
+    },
+    {
+      "topic_number": 9,
+      "topic": "Legal Environment of Business",
+      "subtopics": [
+        "Concept of law and its role in business",
+        "Contract: meaning, essential elements and types",
+        "Agency: meaning, types and duties",
+        "Negotiable instruments (cheque, bill of exchange, promissory note)"
+      ]
+    },
+    {
+      "topic_number": 10,
+      "topic": "The Role of Government in the Economy",
+      "subtopics": [
+        "Government involvement in business (public enterprises, regulation)",
+        "Taxation: types and effects",
+        "Government expenditure and economic planning",
+        "Consumer protection laws"
+      ]
+    },
+    {
+      "topic_number": 11,
+      "topic": "International Trade",
+      "subtopics": [
+        "Concept of international trade",
+        "Reasons for international trade",
+        "Import and export procedures",
+        "Problems of international trade in developing countries"
+      ]
+    },
+    {
+      "topic_number": 12,
+      "topic": "Entrepreneurship",
+      "subtopics": [
+        "Concept of entrepreneurship",
+        "Characteristics of an entrepreneur",
+        "Role of entrepreneurship in economic development",
+        "Sources of business ideas",
+        "Business plan and feasibility study"
+      ]
+    }
+  ]
+}

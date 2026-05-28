@@ -1,0 +1,1429 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "hard",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "hard",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "easy",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "medium",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "medium",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "hard",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "hard",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Mortise and tenon,Lap joint",
+        "C": "Dovetail joint"
+      },
+      "answer": "C",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 17,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "easy",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Mortise and tenon,Lap joint",
+        "C": "Dovetail joint"
+      },
+      "answer": "C",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 18,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "medium",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Dovetail joint",
+        "B": "Mortise and tenon,Lap joint",
+        "C": "Butt joint"
+      },
+      "answer": "A",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 19,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 20,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 21,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 22,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "easy",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Mortise and tenon,Lap joint",
+        "B": "Butt joint",
+        "C": "Dovetail joint"
+      },
+      "answer": "C",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 24,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "hard",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Mortise and tenon,Lap joint",
+        "B": "Dovetail joint",
+        "C": "Butt joint"
+      },
+      "answer": "B",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 28,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "hard",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Mortise and tenon,Lap joint",
+        "B": "Butt joint",
+        "C": "Dovetail joint"
+      },
+      "answer": "C",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 30,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "easy",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Dovetail joint",
+        "C": "Mortise and tenon,Lap joint"
+      },
+      "answer": "B",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 31,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 33,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "hard",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "medium",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "medium",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Mortise and tenon,Lap joint",
+        "B": "Dovetail joint",
+        "C": "Butt joint"
+      },
+      "answer": "B",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 43,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "hard",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "hard",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "medium",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Dovetail joint",
+        "C": "Mortise and tenon,Lap joint"
+      },
+      "answer": "B",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 50,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "hard",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "easy",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "easy",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "hard",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "medium",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "medium",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "hard",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Dovetail joint",
+        "B": "Butt joint",
+        "C": "Mortise and tenon,Lap joint"
+      },
+      "answer": "A",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 62,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "hard",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 64,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 65,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "medium",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Mortise and tenon,Lap joint",
+        "C": "Dovetail joint"
+      },
+      "answer": "C",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 66,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "medium",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "medium",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "easy",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Mortise and tenon,Lap joint",
+        "B": "Butt joint",
+        "C": "Dovetail joint"
+      },
+      "answer": "C",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 73,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "section": "General",
+      "subtopic": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "difficulty": "easy",
+      "question": "Which statement about MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 77,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "easy",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "hard",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Mortise and tenon,Lap joint",
+        "C": "Dovetail joint"
+      },
+      "answer": "C",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 80,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "medium",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "easy",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Butt joint",
+        "B": "Dovetail joint",
+        "C": "Mortise and tenon,Lap joint"
+      },
+      "answer": "B",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 84,
+      "topic": "MINING METHODS",
+      "section": "General",
+      "subtopic": "MINING METHODS",
+      "difficulty": "medium",
+      "question": "Which statement about MINING METHODS is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "MINING METHODS is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "BASIC GEOLOGY",
+      "section": "General",
+      "subtopic": "BASIC GEOLOGY",
+      "difficulty": "medium",
+      "question": "Which statement about BASIC GEOLOGY is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BASIC GEOLOGY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 87,
+      "topic": "INTRODUCTION TO MINING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINING",
+      "difficulty": "easy",
+      "question": "Which statement about INTRODUCTION TO MINING is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "INTRODUCTION TO MINING is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "section": "General",
+      "subtopic": "HEALTH, SAFETY AND ENVIRONMENT",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 89,
+      "topic": "GEMOLOGY AND LAPIDARY",
+      "section": "General",
+      "subtopic": "GEMOLOGY AND LAPIDARY",
+      "difficulty": "medium",
+      "question": "Which wood joint is commonly used for joining the corners of a drawer?",
+      "options": {
+        "A": "Dovetail joint",
+        "B": "Butt joint",
+        "C": "Mortise and tenon,Lap joint"
+      },
+      "answer": "A",
+      "explanation": "Dovetail joints interlock like a puzzle, providing strong resistance to pulling forces, ideal for drawers."
+    },
+    {
+      "id": 90,
+      "topic": "INTRODUCTION TO MINERAL PROCESSING",
+      "section": "General",
+      "subtopic": "INTRODUCTION TO MINERAL PROCESSING",
+      "difficulty": "medium",
+      "question": "Which statement about INTRODUCTION TO MINERAL PROCESSING is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "INTRODUCTION TO MINERAL PROCESSING is part of the technical/vocational syllabus."
+    }
+  ]
+}

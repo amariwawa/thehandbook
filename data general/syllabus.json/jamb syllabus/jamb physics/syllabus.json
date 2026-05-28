@@ -1,0 +1,519 @@
+{
+  "exam": "UTME Physics Detailed Syllabus",
+  "topics": [
+    {
+      "topic_number": 1,
+      "title": "Measurements and Units",
+      "subtopics": [
+        {
+          "sub": "Length, area and volume",
+          "details": "Metre rule, Vernier calipers, Micrometer Screw gauge, measuring cylinder"
+        },
+        {
+          "sub": "Mass",
+          "details": "Unit of mass, use of simple beam balance, concept of beam balance"
+        },
+        {
+          "sub": "Time",
+          "details": "Unit of time, time measuring devices"
+        },
+        {
+          "sub": "Fundamental physical quantities",
+          "details": ""
+        },
+        {
+          "sub": "Derived physical quantities and their units",
+          "details": "Combinations of fundamental quantities and determination of their units"
+        },
+        {
+          "sub": "Dimensions",
+          "details": "Definition of dimensions, simple examples"
+        },
+        {
+          "sub": "Limitations of experimental measurements",
+          "details": "Accuracy of measuring instruments, simple estimation of errors, significant figures, standard form"
+        },
+        {
+          "sub": "Measurement, position, distance and displacement",
+          "details": "Concept of displacement, distinction between distance and displacement, concept of position and coordinates, frame of reference"
+        },
+        {
+          "sub": "Scalars and Vectors",
+          "details": "Definition of scalar and vector quantities, examples, relative velocity, resolution of vectors, graphical methods"
+        }
+      ]
+    },
+    {
+      "topic_number": 2,
+      "title": "Motion",
+      "subtopics": [
+        {
+          "sub": "Types of motion",
+          "details": "Translational, oscillatory, rotational, spin and random"
+        },
+        {
+          "sub": "Relative motion",
+          "details": ""
+        },
+        {
+          "sub": "Causes of motion",
+          "details": ""
+        },
+        {
+          "sub": "Types of force",
+          "details": "Contact and force field"
+        },
+        {
+          "sub": "Linear motion",
+          "details": "Speed, velocity and acceleration, equations of uniformly accelerated motion, motion under gravity, distance-time graph, velocity-time graph, instantaneous velocity and acceleration"
+        },
+        {
+          "sub": "Projectiles",
+          "details": "Calculation of range, maximum height and time of flight, applications"
+        },
+        {
+          "sub": "Newton’s laws of motion",
+          "details": "Inertia, mass and force, relationship between mass and acceleration, impulse and momentum, conservation of linear momentum, force-time graph"
+        },
+        {
+          "sub": "Motion in a circle",
+          "details": "Angular velocity and angular acceleration, centripetal and centrifugal forces, applications"
+        },
+        {
+          "sub": "Simple Harmonic Motion (S.H.M)",
+          "details": "Definition, examples, period, frequency and amplitude, velocity and acceleration, energy change, forced vibration and resonance"
+        }
+      ]
+    },
+    {
+      "topic_number": 3,
+      "title": "Gravitational Field",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Newton’s law of universal gravitation, gravitational potential, conservative and non-conservative fields, acceleration due to gravity, variation of g, mass and weight, escape velocity, parking orbit and weightlessness"
+        }
+      ]
+    },
+    {
+      "topic_number": 4,
+      "title": "Equilibrium of Forces",
+      "subtopics": [
+        {
+          "sub": "Equilibrium of particles",
+          "details": "Equilibrium of coplanar forces, triangles and polygon of forces, Lami’s theorem"
+        },
+        {
+          "sub": "Principles of moments",
+          "details": "Moment of a force, moment of a couple (torque), applications"
+        },
+        {
+          "sub": "Conditions for equilibrium of rigid bodies",
+          "details": "Under parallel and non-parallel forces, resolution and composition of forces, resultant and equilibrant"
+        },
+        {
+          "sub": "Centre of gravity and stability",
+          "details": "Stable, unstable and neutral equilibrium"
+        }
+      ]
+    },
+    {
+      "topic_number": 5,
+      "title": "Work, Energy and Power",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Definition of work, energy and power, forms of energy, conservation of energy, interpretation of force-distance curve"
+        },
+        {
+          "sub": "Energy and society",
+          "details": "Sources of energy, renewable and non-renewable, uses, energy and development, environmental impact, energy crises, conversion, devices"
+        },
+        {
+          "sub": "Dams and energy production",
+          "details": "Location of dams, energy production"
+        },
+        {
+          "sub": "Nuclear energy",
+          "details": ""
+        },
+        {
+          "sub": "Solar energy",
+          "details": "Solar collector, solar panel"
+        }
+      ]
+    },
+    {
+      "topic_number": 6,
+      "title": "Friction",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Static and dynamic friction, coefficient of limiting friction, advantages and disadvantages, reduction of friction, viscosity and terminal velocity, Stoke’s law"
+        }
+      ]
+    },
+    {
+      "topic_number": 7,
+      "title": "Simple Machines",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Definition, types, mechanical advantage, velocity ratio and efficiency"
+        }
+      ]
+    },
+    {
+      "topic_number": 8,
+      "title": "Elasticity",
+      "subtopics": [
+        {
+          "sub": "Hooke’s Law and Young’s Modulus",
+          "details": "Elastic limit, yield point, breaking point, spring balance, work done per unit volume"
+        }
+      ]
+    },
+    {
+      "topic_number": 9,
+      "title": "Pressure",
+      "subtopics": [
+        {
+          "sub": "Atmospheric Pressure",
+          "details": "Definition, units, measurement (barometer, manometer), variation with height, use as altimeter"
+        },
+        {
+          "sub": "Pressure in liquids",
+          "details": "Pressure, depth and density (P = ρgh), Pascal’s Principle, applications"
+        }
+      ]
+    },
+    {
+      "topic_number": 10,
+      "title": "Liquids At Rest",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Density of solids and liquids, relative density, upthrust, Archimedes’ principle, law of floatation"
+        }
+      ]
+    },
+    {
+      "topic_number": 11,
+      "title": "Temperature and Its Measurement",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Concept of temperature, thermometric properties, calibration, scales (Celsius and Kelvin), types of thermometers, conversion"
+        }
+      ]
+    },
+    {
+      "topic_number": 12,
+      "title": "Thermal Expansion",
+      "subtopics": [
+        {
+          "sub": "Solids",
+          "details": "Linear, area and volume expansivities, effects and applications, relationships"
+        },
+        {
+          "sub": "Liquids",
+          "details": "Volume expansivity, real and apparent, anomalous expansion of water"
+        }
+      ]
+    },
+    {
+      "topic_number": 13,
+      "title": "Gas Laws",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Boyle’s law, Charles’ law, Pressure law, absolute zero, general gas equation, ideal gas equation, Van der Waals gas"
+        }
+      ]
+    },
+    {
+      "topic_number": 14,
+      "title": "Quantity of Heat",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Heat capacity and specific heat capacity, determination by mixtures and electrical method, Newton’s law of cooling"
+        }
+      ]
+    },
+    {
+      "topic_number": 15,
+      "title": "Change of State",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Latent heat, specific latent heats of fusion and vaporization, melting, evaporation and boiling, effect of pressure and dissolved substances"
+        }
+      ]
+    },
+    {
+      "topic_number": 16,
+      "title": "Vapours",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Saturated and unsaturated vapours, S.V.P and boiling point, dew point, humidity, hygrometry"
+        }
+      ]
+    },
+    {
+      "topic_number": 17,
+      "title": "Structure of Matter and Kinetic Theory",
+      "subtopics": [
+        {
+          "sub": "Molecular nature of matter",
+          "details": "Atoms and molecules, molecular theory, Brownian motion, diffusion, surface tension etc."
+        },
+        {
+          "sub": "Kinetic Theory",
+          "details": "Assumptions, explanation of gas laws and phenomena"
+        }
+      ]
+    },
+    {
+      "topic_number": 18,
+      "title": "Heat Transfer",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Conduction, convection and radiation, temperature gradient, thermal conductivity, thermos flask, land and sea breeze"
+        }
+      ]
+    },
+    {
+      "topic_number": 19,
+      "title": "Waves",
+      "subtopics": [
+        {
+          "sub": "Production and Propagation",
+          "details": "Wave motion, sources, energy transfer, frequency, wavelength, velocity, progressive wave equation"
+        },
+        {
+          "sub": "Classification",
+          "details": "Mechanical and electromagnetic, longitudinal and transverse, stationary and progressive"
+        },
+        {
+          "sub": "Characteristics/Properties",
+          "details": "Reflection, refraction, diffraction, polarization, superposition, interference, beats, Doppler effect"
+        }
+      ]
+    },
+    {
+      "topic_number": 20,
+      "title": "Propagation of Sound Waves",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Material medium, speed in different media, reflection, echoes, reverberation"
+        }
+      ]
+    },
+    {
+      "topic_number": 21,
+      "title": "Characteristics of Sound Waves",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Noise and musical notes, quality, pitch, intensity, loudness, harmonics, resonance, frequency in pipes"
+        }
+      ]
+    },
+    {
+      "topic_number": 22,
+      "title": "Light Energy",
+      "subtopics": [
+        {
+          "sub": "Sources of Light",
+          "details": "Natural and artificial, luminous and non-luminous"
+        },
+        {
+          "sub": "Propagation of light",
+          "details": "Speed, frequency, wavelength, shadows, eclipses, pinhole camera"
+        }
+      ]
+    },
+    {
+      "topic_number": 23,
+      "title": "Reflection of Light",
+      "subtopics": [
+        {
+          "sub": "At Plane and Curved Surfaces",
+          "details": "Laws of reflection, images in mirrors, mirror formula, magnification"
+        }
+      ]
+    },
+    {
+      "topic_number": 24,
+      "title": "Refraction of Light",
+      "subtopics": [
+        {
+          "sub": "At Plane and Curved Surfaces",
+          "details": "Laws of refraction, refractive index, Snell’s law, real and apparent depth, critical angle, total internal reflection, lens formula"
+        }
+      ]
+    },
+    {
+      "topic_number": 25,
+      "title": "Optical Instruments",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Microscopes, telescopes, cameras, human eye, power of lens, magnification, sight defects"
+        }
+      ]
+    },
+    {
+      "topic_number": 26,
+      "title": "Dispersion of Light and Colours",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Dispersion by prism, spectrum, colour mixing, colour of objects, rainbow"
+        }
+      ]
+    },
+    {
+      "topic_number": 27,
+      "title": "Electromagnetic Spectrum",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Sources and uses of various types of radiation"
+        }
+      ]
+    },
+    {
+      "topic_number": 28,
+      "title": "Electrostatics",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Charges, charging by friction/induction, electroscope, Coulomb’s law, electric field, potential, lightning"
+        }
+      ]
+    },
+    {
+      "topic_number": 29,
+      "title": "Capacitors",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Types, capacitance, parallel plate, series/parallel, energy stored"
+        }
+      ]
+    },
+    {
+      "topic_number": 30,
+      "title": "Electric Cells",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Voltaic cell, Daniel cell, Leclanche, lead-acid accumulator, maintenance, arrangement"
+        }
+      ]
+    },
+    {
+      "topic_number": 31,
+      "title": "Current Electricity",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "EMF, p.d., current, resistance, Ohm’s law, metre bridge, series/parallel, potentiometer, Kirchhoff’s laws"
+        }
+      ]
+    },
+    {
+      "topic_number": 32,
+      "title": "Electrical Energy and Power",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Energy and power, transmission, heating effects, wiring, fuses"
+        }
+      ]
+    },
+    {
+      "topic_number": 33,
+      "title": "Magnets and Magnetic Fields",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Magnets, properties, making magnets, magnetic field, Earth’s magnetic field"
+        }
+      ]
+    },
+    {
+      "topic_number": 34,
+      "title": "Force on a Current-Carrying Conductor",
+      "subtopics": [
+        {
+          "sub": "In a Magnetic Field",
+          "details": "Force on conductor and charge, d.c. motor, electromagnets, instruments, galvanometer conversion"
+        }
+      ]
+    },
+    {
+      "topic_number": 35,
+      "title": "Electromagnetic Induction",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Faraday’s laws, Lenz’s law, generators, transformers, induction coil"
+        },
+        {
+          "sub": "Inductance",
+          "details": "Inductance, energy stored, applications"
+        },
+        {
+          "sub": "Eddy Current",
+          "details": "Reduction and applications"
+        }
+      ]
+    },
+    {
+      "topic_number": 36,
+      "title": "Simple A.C. Circuits",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "A.C. current/voltage, peak and r.m.s., reactance, RLC circuits, resonance, power factor"
+        }
+      ]
+    },
+    {
+      "topic_number": 37,
+      "title": "Conduction of Electricity Through Liquids",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Electrolysis, Faraday’s laws"
+        }
+      ]
+    },
+    {
+      "topic_number": 38,
+      "title": "Elementary Modern Physics",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Models of the atom, photoelectric effect, X-rays, radioactivity, nuclear reactions"
+        }
+      ]
+    },
+    {
+      "topic_number": 39,
+      "title": "Introductory Electronics",
+      "subtopics": [
+        {
+          "sub": "",
+          "details": "Conductors, semiconductors, insulators, diodes, transistors, rectification, amplification"
+        }
+      ]
+    }
+  ]
+}

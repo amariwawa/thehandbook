@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "easy",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 2,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 3,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "hard",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 4,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Primary sector",
+        "B": "Secondary sector",
+        "C": "Tertiary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "A",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 5,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "hard",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Tertiary sector",
+        "B": "Primary sector",
+        "C": "Quaternary sector",
+        "D": "Secondary sector"
+      },
+      "answer": "B",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 6,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Tertiary sector",
+        "B": "Primary sector",
+        "C": "Secondary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "B",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 7,
+      "topic": "Production",
+      "section": "General",
+      "subtopic": "Production",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Creating awareness"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 8,
+      "topic": "Production",
+      "section": "General",
+      "subtopic": "Production",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 9,
+      "topic": "Production",
+      "section": "General",
+      "subtopic": "Production",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Persuading customers",
+        "C": "Setting the factory price",
+        "D": "Creating awareness"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 10,
+      "topic": "Purchase and Sale of Goods",
+      "section": "General",
+      "subtopic": "Purchase and Sale of Goods",
+      "difficulty": "easy",
+      "question": "Which statement about Purchase and Sale of Goods is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Purchase and Sale of Goods is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 11,
+      "topic": "Purchase and Sale of Goods",
+      "section": "General",
+      "subtopic": "Purchase and Sale of Goods",
+      "difficulty": "medium",
+      "question": "Which statement about Purchase and Sale of Goods is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Purchase and Sale of Goods is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 12,
+      "topic": "Purchase and Sale of Goods",
+      "section": "General",
+      "subtopic": "Purchase and Sale of Goods",
+      "difficulty": "hard",
+      "question": "Which statement about Purchase and Sale of Goods is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Purchase and Sale of Goods is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 13,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Retailer",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 14,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 15,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Consumer",
+        "D": "Retailer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 16,
+      "topic": "Business Units",
+      "section": "General",
+      "subtopic": "Business Units",
+      "difficulty": "hard",
+      "question": "Which statement about Business Units is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Business Units is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 17,
+      "topic": "Business Units",
+      "section": "General",
+      "subtopic": "Business Units",
+      "difficulty": "easy",
+      "question": "Which statement about Business Units is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "Business Units is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 18,
+      "topic": "Business Units",
+      "section": "General",
+      "subtopic": "Business Units",
+      "difficulty": "medium",
+      "question": "Which statement about Business Units is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Business Units is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 19,
+      "topic": "Financing Business",
+      "section": "General",
+      "subtopic": "Financing Business",
+      "difficulty": "easy",
+      "question": "Which statement about Financing Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Financing Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 20,
+      "topic": "Financing Business",
+      "section": "General",
+      "subtopic": "Financing Business",
+      "difficulty": "medium",
+      "question": "Which statement about Financing Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Financing Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 21,
+      "topic": "Financing Business",
+      "section": "General",
+      "subtopic": "Financing Business",
+      "difficulty": "hard",
+      "question": "Which statement about Financing Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Financing Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 22,
+      "topic": "Trade Associations",
+      "section": "General",
+      "subtopic": "Trade Associations",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Manufacturer",
+        "C": "Wholesaler",
+        "D": "Consumer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 23,
+      "topic": "Trade Associations",
+      "section": "General",
+      "subtopic": "Trade Associations",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Consumer",
+        "C": "Manufacturer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 24,
+      "topic": "Trade Associations",
+      "section": "General",
+      "subtopic": "Trade Associations",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Retailer",
+        "C": "Wholesaler",
+        "D": "Manufacturer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 25,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "hard",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 26,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 27,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "medium",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 28,
+      "topic": "Elements of Business Management",
+      "section": "General",
+      "subtopic": "Elements of Business Management",
+      "difficulty": "easy",
+      "question": "Which statement about Elements of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Elements of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 29,
+      "topic": "Elements of Business Management",
+      "section": "General",
+      "subtopic": "Elements of Business Management",
+      "difficulty": "medium",
+      "question": "Which statement about Elements of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Elements of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 30,
+      "topic": "Elements of Business Management",
+      "section": "General",
+      "subtopic": "Elements of Business Management",
+      "difficulty": "hard",
+      "question": "Which statement about Elements of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Elements of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 31,
+      "topic": "Elements of Marketing",
+      "section": "General",
+      "subtopic": "Elements of Marketing",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 32,
+      "topic": "Elements of Marketing",
+      "section": "General",
+      "subtopic": "Elements of Marketing",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 33,
+      "topic": "Elements of Marketing",
+      "section": "General",
+      "subtopic": "Elements of Marketing",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 34,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "hard",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 35,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "easy",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 36,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "medium",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 37,
+      "topic": "Information and Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information and Communication Technology (ICT)",
+      "difficulty": "easy",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Air transport",
+        "C": "Road transport",
+        "D": "Pipeline"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 38,
+      "topic": "Information and Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information and Communication Technology (ICT)",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Air transport",
+        "B": "Pipeline",
+        "C": "Road transport",
+        "D": "Sea transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 39,
+      "topic": "Information and Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information and Communication Technology (ICT)",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Pipeline",
+        "B": "Road transport",
+        "C": "Sea transport",
+        "D": "Air transport"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 40,
+      "topic": "Business Environment and Social Responsibility",
+      "section": "General",
+      "subtopic": "Business Environment and Social Responsibility",
+      "difficulty": "medium",
+      "question": "Which statement about Business Environment and Social Responsibility is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Business Environment and Social Responsibility is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 41,
+      "topic": "Business Environment and Social Responsibility",
+      "section": "General",
+      "subtopic": "Business Environment and Social Responsibility",
+      "difficulty": "hard",
+      "question": "Which statement about Business Environment and Social Responsibility is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Business Environment and Social Responsibility is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 42,
+      "topic": "Business Environment and Social Responsibility",
+      "section": "General",
+      "subtopic": "Business Environment and Social Responsibility",
+      "difficulty": "easy",
+      "question": "Which statement about Business Environment and Social Responsibility is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Business Environment and Social Responsibility is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 43,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 44,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "easy",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 45,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Wholesaler",
+        "C": "Retailer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 46,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 47,
+      "topic": "Business Units",
+      "section": "General",
+      "subtopic": "Business Units",
+      "difficulty": "easy",
+      "question": "Which statement about Business Units is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "Business Units is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 48,
+      "topic": "Trade Associations",
+      "section": "General",
+      "subtopic": "Trade Associations",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Wholesaler",
+        "C": "Consumer",
+        "D": "Manufacturer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 49,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "hard",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Tertiary sector",
+        "B": "Primary sector",
+        "C": "Secondary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "B",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 50,
+      "topic": "Purchase and Sale of Goods",
+      "section": "General",
+      "subtopic": "Purchase and Sale of Goods",
+      "difficulty": "medium",
+      "question": "Which statement about Purchase and Sale of Goods is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Purchase and Sale of Goods is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 51,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "hard",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 52,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "hard",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 53,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "medium",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 54,
+      "topic": "Elements of Marketing",
+      "section": "General",
+      "subtopic": "Elements of Marketing",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 55,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Consumer",
+        "B": "Retailer",
+        "C": "Manufacturer",
+        "D": "Wholesaler"
+      },
+      "answer": "D",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 56,
+      "topic": "Business Environment and Social Responsibility",
+      "section": "General",
+      "subtopic": "Business Environment and Social Responsibility",
+      "difficulty": "easy",
+      "question": "Which statement about Business Environment and Social Responsibility is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Business Environment and Social Responsibility is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 57,
+      "topic": "Business Units",
+      "section": "General",
+      "subtopic": "Business Units",
+      "difficulty": "easy",
+      "question": "Which statement about Business Units is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Business Units is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 58,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "hard",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 59,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Quaternary sector",
+        "B": "Primary sector",
+        "C": "Secondary sector",
+        "D": "Tertiary sector"
+      },
+      "answer": "B",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 60,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Consumer",
+        "C": "Wholesaler",
+        "D": "Retailer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 61,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Secondary sector",
+        "B": "Tertiary sector",
+        "C": "Quaternary sector",
+        "D": "Primary sector"
+      },
+      "answer": "D",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 62,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Tertiary sector",
+        "B": "Primary sector",
+        "C": "Secondary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "B",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 63,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "easy",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Tertiary sector",
+        "B": "Secondary sector",
+        "C": "Primary sector",
+        "D": "Quaternary sector"
+      },
+      "answer": "C",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 64,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 65,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "easy",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 66,
+      "topic": "Business Units",
+      "section": "General",
+      "subtopic": "Business Units",
+      "difficulty": "hard",
+      "question": "Which statement about Business Units is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Business Units is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 67,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Wholesaler",
+        "C": "Retailer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 68,
+      "topic": "Elements of Marketing",
+      "section": "General",
+      "subtopic": "Elements of Marketing",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Persuading customers",
+        "D": "Creating awareness"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 69,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "easy",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Retailer",
+        "B": "Wholesaler",
+        "C": "Manufacturer",
+        "D": "Consumer"
+      },
+      "answer": "B",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 70,
+      "topic": "Purchase and Sale of Goods",
+      "section": "General",
+      "subtopic": "Purchase and Sale of Goods",
+      "difficulty": "medium",
+      "question": "Which statement about Purchase and Sale of Goods is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Purchase and Sale of Goods is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 71,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 72,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 73,
+      "topic": "Production",
+      "section": "General",
+      "subtopic": "Production",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 74,
+      "topic": "Information and Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information and Communication Technology (ICT)",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Sea transport",
+        "B": "Road transport",
+        "C": "Air transport",
+        "D": "Pipeline"
+      },
+      "answer": "B",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 75,
+      "topic": "Information and Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information and Communication Technology (ICT)",
+      "difficulty": "hard",
+      "question": "Which mode of transport is most suitable for perishable goods over short distances?",
+      "options": {
+        "A": "Pipeline",
+        "B": "Sea transport",
+        "C": "Road transport",
+        "D": "Air transport"
+      },
+      "answer": "C",
+      "explanation": "Road transport offers door-to-door delivery, flexibility, and speed over short distances, making it ideal for perishables."
+    },
+    {
+      "id": 76,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "hard",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 77,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "medium",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 78,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "easy",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 79,
+      "topic": "Commerce",
+      "section": "General",
+      "subtopic": "Commerce",
+      "difficulty": "medium",
+      "question": "Which statement about Commerce is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "Commerce is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 80,
+      "topic": "Elements of Business Management",
+      "section": "General",
+      "subtopic": "Elements of Business Management",
+      "difficulty": "medium",
+      "question": "Which statement about Elements of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "Elements of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 81,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 82,
+      "topic": "Trade Associations",
+      "section": "General",
+      "subtopic": "Trade Associations",
+      "difficulty": "hard",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Retailer",
+        "C": "Wholesaler",
+        "D": "Consumer"
+      },
+      "answer": "C",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 83,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "easy",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 84,
+      "topic": "Elements of Business Management",
+      "section": "General",
+      "subtopic": "Elements of Business Management",
+      "difficulty": "medium",
+      "question": "Which statement about Elements of Business Management is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Elements of Business Management is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 85,
+      "topic": "Aids to Trade",
+      "section": "General",
+      "subtopic": "Aids to Trade",
+      "difficulty": "medium",
+      "question": "Buying goods in large quantities and selling them in smaller quantities is a function of:",
+      "options": {
+        "A": "Wholesaler",
+        "B": "Manufacturer",
+        "C": "Retailer",
+        "D": "Consumer"
+      },
+      "answer": "A",
+      "explanation": "Wholesalers purchase goods in bulk from manufacturers and break bulk for retailers."
+    },
+    {
+      "id": 86,
+      "topic": "Occupation",
+      "section": "General",
+      "subtopic": "Occupation",
+      "difficulty": "medium",
+      "question": "Which sector of industry is concerned with the extraction of raw materials?",
+      "options": {
+        "A": "Secondary sector",
+        "B": "Quaternary sector",
+        "C": "Primary sector",
+        "D": "Tertiary sector"
+      },
+      "answer": "C",
+      "explanation": "The primary sector extracts raw materials (agriculture, mining, fishing). The secondary sector manufactures goods, and the tertiary sector provides services."
+    },
+    {
+      "id": 87,
+      "topic": "Legal Aspects of Business",
+      "section": "General",
+      "subtopic": "Legal Aspects of Business",
+      "difficulty": "easy",
+      "question": "Which statement about Legal Aspects of Business is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "Legal Aspects of Business is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 88,
+      "topic": "Elements of Marketing",
+      "section": "General",
+      "subtopic": "Elements of Marketing",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Persuading customers",
+        "C": "Informing the public",
+        "D": "Creating awareness"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 89,
+      "topic": "Stock Exchange",
+      "section": "General",
+      "subtopic": "Stock Exchange",
+      "difficulty": "hard",
+      "question": "Which statement about Stock Exchange is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Stock Exchange is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 90,
+      "topic": "Business Environment and Social Responsibility",
+      "section": "General",
+      "subtopic": "Business Environment and Social Responsibility",
+      "difficulty": "easy",
+      "question": "Which statement about Business Environment and Social Responsibility is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "Business Environment and Social Responsibility is part of the Commerce syllabus and is regularly tested."
+    }
+  ]
+}

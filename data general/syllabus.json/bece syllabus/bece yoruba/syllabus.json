@@ -1,0 +1,571 @@
+{
+  "syllabus": "BECE Yoruba",
+  "levels": {
+    "L1": {
+      "LANGUAGE": [
+        {
+          "sn": "I",
+          "topic": "IRO EDE (KÓŃSÓNĂŃTI ÂTI FĂWEELI)",
+          "objectives": [
+            "Kóńsóńańti: b, d, f, g, gb, h, j, etc.",
+            "Făweeli",
+            "i. Faweeli ăiranmupë",
+            "ii. Faweeli ârânmópë: an, en, in, on, un"
+          ]
+        },
+        {
+          "sn": "II",
+          "topic": "AKAYE",
+          "objectives": ["Ayokâ ti ko leju ogbon"]
+        },
+        {
+          "sn": "III",
+          "topic": "AKOTO",
+          "objectives": [
+            "a. Yo ohun ti akoto je",
+            "b. Âfiwé âkęto âtijo âti ti ôde ôni",
+            "i. Făweeli: e.g., aiyë — Aye, Enia — Ëniyân",
+            "ii. Kóńsónăńti: e.g., Oshogbo — Oșogbo, Offa — Ôfa",
+            "c. Ami ohun: e.g., Ogun – Ôôgin, Alanu – Alăâănó",
+            "d. Pinpin oro: Wipe — wi pć, Nigbati — Nigba ti"
+          ]
+        },
+        {
+          "sn": "IV",
+          "topic": "AROKO (ONIROYIN)",
+          "objectives": [
+            "a. Akole",
+            "b. Ilapa ërô",
+            "c. Âtóntô ilapa erô",
+            "d. ifâară",
+            "e. ipin afo",
+            "f. Kókó inu ârôko",
+            "g. Igunle/Asokagba"
+          ]
+        },
+        {
+          "sn": "V",
+          "topic": "LETA KIKO",
+          "objectives": [
+            "a. letâ gbefe ati ăigbefe",
+            "b. iyâtô âărin wan",
+            "c. ilanâ kiki letâ gbefe",
+            "d. ilână kiko letă ăigbefe fun ipęereț, adiresi ăti deti abbi"
+          ]
+        },
+        {
+          "sn": "VI",
+          "topic": "ISEDA ORO ORUKO",
+          "objectives": [
+            "a. Oro oruko alalaye",
+            "b. Orisi oro oruko",
+            "i. aiseda",
+            "ii. aseda"
+          ]
+        },
+        {
+          "sn": "VII",
+          "topic": "ITESIWAJU IRO:AMI OHUN",
+          "objectives": [
+            "a. Alaye lori orisirisi ohun Yoruba meteeta: i. Ohün åårin, ii. Ohün öké, iii. Ohün ilé",
+            "b. Åmi ohün löri könsönåriti årånmü onisilébü kan"
+          ]
+        },
+        {
+          "sn": "VIII",
+          "topic": "ISORI ORO",
+          "objectives": [
+            "a. orüko",
+            "b. Oro arépö orüko",
+            "c. Oro ise",
+            "d. Oro åpéjüwe",
+            "e. Oro atokün",
+            "f. Oro asopo"
+          ]
+        },
+        {
+          "sn": "IX",
+          "topic": "IHUN ORO",
+          "objectives": [
+            "a. Bätååni ihun oro Yorüba",
+            "i. F",
+            "ii. KF",
+            "iii. F K F abbi"
+          ]
+        },
+        {
+          "sn": "X",
+          "topic": "ORISIRISI GBÖLÖHÜN",
+          "objectives": [
+            "a. Alabode",
+            "b. Alakanpo",
+            "c. Onibo"
+          ]
+        },
+        {
+          "sn": "XI",
+          "topic": "AGBEYEWO ÅKOTÖ SIWÅJÜ SII",
+          "objectives": ["Agbéyewö ipinnu 1974 ti ijoba åpapo löri åkoto Yorübå (Joint Consultative Committee)"]
+        },
+        {
+          "sn": "XII",
+          "topic": "ISE ORO AROPO ORÜKO GBÖLÖHÜN",
+          "objectives": [
+            "a. Olüwå",
+            "b. Åbö fün oro ise",
+            "c. Åbo fün atékün",
+            "d. Eyan fün oro miirån"
+          ]
+        }
+      ],
+      "LITERATURE": [
+        {
+          "sn": "I",
+          "topic": "AGBEYEWO LITIRÉSO ÅPILÉKO",
+          "objectives": [
+            "a. Kökö oro",
+            "b. Åhunpö itån",
+            "c. Ibüdö itån",
+            "d. Édi itån åti ifiwåwedå",
+            "e. Ilo édé"
+          ]
+        },
+        {
+          "sn": "II",
+          "topic": "SISE AGBEYEWO LITERASO ALOHUN",
+          "objectives": [
+            "a. Alåyé löri litirésé alohun",
+            "i. Awon aköpa / osere",
+            "ii. Åkökö iseré",
+            "iii. Ibi ti wén ti ri",
+            "iv. iwülö",
+            "v. Ohun élö orin abbi",
+            "b. Orisirisi litirésö alohün",
+            "i. Ewi",
+            "ii. Orin",
+            "iii. Isaré",
+            "iv. Årån abbi"
+          ]
+        },
+        {
+          "sn": "III",
+          "topic": "ASAYAN IWE ÀYOKÀ",
+          "objectives": [
+            "a. Eda itàn",
+            "b. ifiwàwèdà",
+            "c. lbùdò itàn",
+            "d. Âhunpè itin",
+            "e. Kôkô oro to je yo"
+          ]
+        },
+        {
+          "sn": "IV",
+          "topic": "EWI ALOHUN ÀRÂNGBÔ",
+          "objectives": [
+            "Alàyè àwon ewi àrângbé",
+            "i. Oriki",
+            "ii. Ese ifà",
+            "iii. Ofo",
+            "iv. Owe abbi"
+          ]
+        },
+        {
+          "sn": "V",
+          "topic": "ASAYAN IWE: ERÉ ONITÀN",
+          "objectives": [
+            "a. Ibùdò itàn",
+            "b. Àhunpo itàn",
+            "c. Asà tô süyo",
+            "d. Kôkò oro",
+            "e. ifiwàwèdà",
+            "f. ilo edè"
+          ]
+        },
+        {
+          "sn": "VI",
+          "topic": "ASAYAN IWE: EWI",
+          "objectives": [
+            "a. Ewi kiki",
+            "b. Kôkô oro inu ewi, oro tô n lo làwüjo/lagbàayé",
+            "c. Oma èdè àti isowulo èdè"
+          ]
+        },
+        {
+          "sn": "VII",
+          "topic": "ASAYAN IWE: ITÀN ÀRÔSO OLORO GEERE",
+          "objectives": [
+            "a. Ibùdò àti âhunpo itàn",
+            "b. Asà tô süyo",
+            "c. Âwon Kôkô Oro tô je mo isèlè bàgbàmu",
+            "d. Eda itan ati ifiwàwèdà",
+            "e. Ona èdè àti isowulo ede"
+          ]
+        }
+      ],
+      "CULTURE_AND_TRADITION": [
+        {
+          "sn": "I",
+          "topic": "ONKA",
+          "objectives": ["Onkà lati oòkan dé egbàawi (1-2000)"]
+        },
+        {
+          "sn": "II",
+          "topic": "ISEDALE ATI ITÀNKÂLÈ YORÙBÂ",
+          "objectives": [
+            "a. Itan isèdalè Yorübà ati Odùduwà",
+            "b. Itànkalè Yorüba Òwu, Sibèé, Kètu, Pôpô Oyo, Ìjesà, ijèbü, Egba abbl"
+          ]
+        },
+        {
+          "sn": "III",
+          "topic": "AWON EYA YORÜBÂ",
+          "objectives": [
+            "a. Igba lbòlò Yewa, Oridô, Ijèsà, Ife, Onkò, Oyo, Ékiti, Ìbàràpa, igbòminà, ikâlè, Àwòri Owo abbi",
+            "b. Àfihàn ekùn ti èyà kookan wà ninü maapù"
+          ]
+        },
+        {
+          "sn": "IV",
+          "topic": "IGBEYAWO",
+          "objectives": [
+            "a. Ilànà àsà igbéyàwé ibilè: ètò, ifojüsôde, alârinnà abbi",
+            "b. Igbéyàwô ode òni: Kôòtù, Soosi àti Mosalasi",
+            "c. Àfiwé ti ibile àti ti òde òni"
+          ]
+        },
+        {
+          "sn": "V",
+          "topic": "ISARE/AJEMESIN ATI AJEMAYEYE/ALAIJEMESIN",
+          "objectives": [
+            "a. Alàyé isarè ajémésin àti ajèmiyeye",
+            "b. Orisii isarè ajemesin Yorùbâ Ìjâli, Èsà, Iyere Ifa, Sàngo Pipe, Esù Pipè abbi",
+            "c. Isarè alaijemésin Yorùba Rârà, Ekün iyàwé, Ègé dida Alimo abbi"
+          ]
+        },
+        {
+          "sn": "VI",
+          "topic": "ESIN IBILE",
+          "objectives": [
+            "a. Pàtàki èsin lawujo Yorùbâ",
+            "b. Ipò olodùmarè",
+            "c. Àwon orisà ilè Yorùbâ",
+            "d. Èsin òde òni: i. Müsülùmi, ii. Omoleyin Jésù"
+          ]
+        },
+        {
+          "sn": "VII",
+          "topic": "OGUN ATI ALAFIYA",
+          "objectives": [
+            "a. Alàyé lôrii ogun",
+            "b. Ogun Yorùba layé àtijo: àpeere ogun jâlumi, kiriji abbi",
+            "c. Àwon jagunjagun bi àpeere: Ibikünlé, Ògünmola, Ôgèdèngbé",
+            "d. Ohun èlò ogun: Ofà, èkè, idà, ibon, òògùn abbi",
+            "e. Ànfaàni àti àlèébù"
+          ]
+        },
+        {
+          "sn": "VIII",
+          "topic": "AYEYE (ISOMOLÔRÜKO)",
+          "objectives": [
+            "a. Igbàgbo Yorùbâ nipa bi orüko se pàtàki",
+            "b. Ètò isom0lorüko",
+            "c. Ohun èilò isomolorüko bi i oyin, irèké abbi",
+            "d. Orisirisii orüko: i. àbiso, ii. àmütòrunwa, iii. oriki, iv. inajije abbi"
+          ]
+        },
+        {
+          "sn": "IX",
+          "topic": "ASA IRANRA-ENILOWO",
+          "objectives": [
+            "a. Esusu",
+            "b. Àjo",
+            "c. Òwe",
+            "d. Àrokodoko",
+            "e. Alafowosowopo òde òni abbi"
+          ]
+        },
+        {
+          "sn": "X",
+          "topic": "DIDEKUN IWA ÌKÀ SI OMOLÀKEJÌ",
+          "objectives": [
+            "a. Iwà ikà si omolàkeji litijo: i. Ìkônilerü, ii. ifinisofa, iii. Fifi èniyàn rübo abbi",
+            "b. Ìwà ikà si omolàkeji lode òni: i. Jijinigbé, ii. ipàniyàn, iii. ifomosowô, iv. Lilu aya /iyàwo ilé abbi",
+            "c. Ona lati dèkun rè: i. Gbigba àlàifià liàyè, ii. Fifi ara eni si ipò omolàkeji, iii. Agbofinrô abbi"
+          ]
+        },
+        {
+          "sn": "XI",
+          "topic": "ATUNYEWO ESIN ÌBILEYORÜBÂ SIWAJÜ SI OHUN MIMÔ",
+          "objectives": [
+            "a. Ohun mimo ninü esin ibilè àpeere: asofunfun, efun, igbi funfun, igbin, omi àjipon abbi",
+            "b. Èèwè òrisà ti ô je mo iwà mimo b.a ôtito, òdodo abbi"
+          ]
+        },
+        {
+          "sn": "XII",
+          "topic": "OWO SISE",
+          "objectives": [
+            "a. Alàyé lôri òwò sise (karà kâtà)",
+            "b. Pàtàki òwò sise ni ilè Yorübâ",
+            "c. Orisirisi òwò ti Yorübâ fi se",
+            "d. Ipolôwô ojà ni ilè Yorùba",
+            "e. Àirisise lode òni àtii tiòwò le ko"
+          ]
+        },
+        {
+          "sn": "XIII",
+          "topic": "ITOJU ALÂBOYÛN",
+          "objectives": [
+            "a. Igbàgbo Yorùbâ nipa àgàn, omo bibi ati abiku",
+            "b. Àwon ti oyün nini wà fün",
+            "c. Onà ti a lè gbà din bibi àbikü kù Iawüjo",
+            "d. Orisiirisii jénôtiipù èjè ti ô wà àti àwon tô le féra won",
+            "e. Bi a se n tojü aboyün litijo àti lode òni (details on traditional and modern practices)"
+          ]
+        },
+        {
+          "sn": "XIV",
+          "topic": "AROKO",
+          "objectives": [
+            "a. Salàyé lôri ohun ti àrokò je",
+            "b. Orisiirisii àrokò: i. ààlè, ii. kàinkàin, iii. itùfu, iv. àrokò gan-an",
+            "c. Bi a se pàrokò ni ayé àtijo",
+            "d. Àwon àmi ipàrokò ni àtijo àti itumo won",
+            "e. Àrokò òde òni"
+          ]
+        }
+      ]
+    },
+    "L2": {
+      "LANGUAGE": [
+        {
+          "sn": "I",
+          "topic": "ALIFABETI YORUBA",
+          "objectives": [
+            "a. Iro édé Yorübå",
+            "b. Könsonanti: b, d, f, g, gb, h, j, etc.",
+            "c. Fåweli Yorübå: i. Fåweli åirånmåpé, ii. Fåweli arånmüpé: an, en, in, on, un"
+          ]
+        },
+        {
+          "sn": "II",
+          "topic": "ABEJUWE BI NNKAN SE RI",
+          "objectives": [
+            "a. Irisi bii giga, kükürü, titöbi isisanra",
+            "b. Åwö bii funfun, pupa, düdü, kålåkinni, åwo ewé"
+          ]
+        },
+        {
+          "sn": "III",
+          "topic": "ORUKO WON ÉNIYÅN ATI BI WON JE SI ARA WON",
+          "objectives": [
+            "a. Båbå, iyå, omo, egbon, åbürö",
+            "b. Oko, iyåwö, ebi, abbi"
+          ]
+        },
+        {
+          "sn": "IV",
+          "topic": "ORUKO AWON ERANKO",
+          "objectives": [
+            "a. Eranko ilé bii Ajå, Ehoro, Olögbö, Ewuré, Adiye abbi",
+            "b. Eranko igbö bii Kinihün, Ékün, Ojola, Erin, Etu, Oya, Ökété abbi"
+          ]
+        },
+        {
+          "sn": "V",
+          "topic": "ORUKO IGI ATI ESO",
+          "objectives": [
+            "a. Igi bii irökö, ayünre",
+            "b. Igi Eléso bii lgi Koko, Ope, Mångörö, Osån, ibépe, Ågbålümö, Kasü abbi"
+          ]
+        },
+        {
+          "sn": "VI",
+          "topic": "ORUKO AWON NKAN TI Ö WÅ NI ÅYIKÅ WA",
+          "objectives": ["Awon nnkan ti owå låyiikå wa bil igi, Eye, eranko, eja abbl"]
+        },
+        {
+          "sn": "VII",
+          "topic": "AWON EYA ARA (IFIHÅN ARA ENI)",
+          "objectives": ["Awon eyå ara bii: Ojü, Eti, Ori, Imu, Enu, Ese, Owo, Atelese, Abbi"]
+        },
+        {
+          "sn": "VIII",
+          "topic": "AWON IPEDE TI A MÅA N SO TI A BÅ NGBA ÅLEJÖ",
+          "objectives": [
+            "a. Ikini kååbé",
+            "b. iwådii bi irin /irinåjö ti ri",
+            "c. iwådii nipa åwon eniyån tåbi ibi ti ålejö tin bo"
+          ]
+        },
+        {
+          "sn": "IX",
+          "topic": "SISE AMULO ORISIRISI GBÖLÖHÜN FÜN IBÉÉRÉ ATI IDÅHÜN",
+          "objectives": [
+            "a. Lilo åwon ibééré wonyii lati se ibéére bii Ta ni, Kin ni, Nibo ni, Nje, Éwo, Meloo/Élo abbi",
+            "c. Didähün si åwon gbölöhün ibééré"
+          ]
+        },
+        {
+          "sn": "X",
+          "topic": "SISO IMOLARA ENIYAN",
+          "objectives": ["Imolara bi ebi, Oungbe, Irora, Aisan, Rire abbl"]
+        }
+      ],
+      "LITERATURE": [
+        {
+          "sn": "I",
+          "topic": "ALO ATI ORIN KEEKEEKE",
+          "objectives": [
+            "a. Alo àpamo",
+            "b. Àlo apagbe"
+          ]
+        },
+        {
+          "sn": "II",
+          "topic": "ORIN KEEKEEKE",
+          "objectives": [
+            "a. Orin omodé bii iremolékün",
+            "b. Orin eré idaraya bii Bojübojü, Ekùn mééran, Ta loo wà ninü o bà nàà"
+          ]
+        },
+        {
+          "sn": "III",
+          "topic": "ALO ATI ORIN KÉEKÈÈKÉ",
+          "objectives": [
+            "a. Al0 àpamo àti àpagbè",
+            "b. Orein omode"
+          ]
+        },
+        {
+          "sn": "IV",
+          "topic": "EWI OMODE",
+          "objectives": ["Awon ewi omodé kéékèèké (short rhymes and poems)"]
+        }
+      ],
+      "CULTURE_AND_TRADITION": [
+        {
+          "sn": "I",
+          "topic": "ONKA YORUBA",
+          "objectives": [
+            "a. Okan titi dé ogün",
+            "b. Onkànlélogun titi di ogoji"
+          ]
+        },
+        {
+          "sn": "II",
+          "topic": "IKINI NI ONIRUURU ÀKÔKÒ ATI ÀKÔKÒ",
+          "objectives": [
+            "a. Owüro, Osan, alè àti òru",
+            "b. Igbà ojo eerun àti oye"
+          ]
+        },
+        {
+          "sn": "III",
+          "topic": "AKOKO ATI AKOKO",
+          "objectives": [
+            "a. Ojo/Osè bii ikü, Ajé, iségun, Ojérü, Ojobo, eti Ojo àbameta",
+            "b. Orüko àwon osù inü odün bii Seere, Èrèlé, erenà, igbe, Èbibi, òkudù, Agemo Ògün, Owewè, Owàrà, Belu /Ope"
+          ]
+        },
+        {
+          "sn": "IV",
+          "topic": "OUNJE ATI IJEUN",
+          "objectives": [
+            "a. Orisii oünje àti èso",
+            "b. Bi a se n se oünje",
+            "c. Bi a se n jeun"
+          ]
+        },
+        {
+          "sn": "V",
+          "topic": "ERE ATI IDARAYA OMODE",
+          "objectives": ["Awon eré òsùpa bii Bojübojü, Ekùn mééran, Müdè-müdè, Ta lo wà ninü ogba nâà abbi"]
+        },
+        {
+          "sn": "VI",
+          "topic": "ENIYAN/ NNKAN KIKA",
+          "objectives": [
+            "a. Onkà èniyàn (Obinrin, Okùnrin, Osisé àti Akékoo)",
+            "b. Ònkà nnkan bii Igi, Ilé, Ìwé, Motò, Àga, Tâbili abbi"
+          ]
+        },
+        {
+          "sn": "VII",
+          "topic": "OJA RIRA ATI TITA NILE YORUBA",
+          "objectives": [
+            "a. Alàyé lôri ojà",
+            "b. Ipolôwô ojà ni ilè Yorùbâ (examples for food and other items)"
+          ]
+        },
+        {
+          "sn": "VIII",
+          "topic": "ASA IGBEYAWO",
+          "objectives": [
+            "a. Awon igbésè ètò igbeyàwô: i. ifojüsòde, ii. Alarinà, iii. idana, iv. igbéyàwô"
+          ]
+        },
+        {
+          "sn": "IX",
+          "topic": "ETO OMO BIBI",
+          "objectives": [
+            "a. Oyün nini",
+            "b. ItoJü oyün",
+            "c. Ibimo",
+            "d. ikòmojade"
+          ]
+        },
+        {
+          "sn": "X",
+          "topic": "AKOKO IGBA ATI OJU OJO",
+          "objectives": [
+            "a. Igbà òjò, igbà eèrùn, òginitin, oyé àti ooru",
+            "b. ikini ni isikò wonyi"
+          ]
+        },
+        {
+          "sn": "XI",
+          "topic": "ODUN IBILE YORUBA",
+          "objectives": ["Orisiirisii odun ibilè bii Esin (odùn Sangô, Oya, Ogün, Esu, Egüngün, odün Ifà) abbi"]
+        },
+        {
+          "sn": "XII",
+          "topic": "ASO WIWO NILE YORUBA",
+          "objectives": [
+            "a. Orisiirisii aso àti iwoso",
+            "b. Awon isesi ti o ro mo aso wiwo"
+          ]
+        },
+        {
+          "sn": "XIII",
+          "topic": "IMOTOTO ARA",
+          "objectives": [
+            "a. Imotôtô ara eni bii eyin, èékànnâ, ojü, irun ori, ara, àtèlesè abbi",
+            "b. Im0tòto ile bii ile gbigbà, àwo fifo, ile ninù, jankariwo gbigbon",
+            "c. Imotòtô bii asofifo, asolilo, aso kiki àti kikopaamo"
+          ]
+        },
+        {
+          "sn": "XIV",
+          "topic": "IRINAJO",
+          "objectives": [
+            "a. Awon ohun irinnà bii ile, ojü omi, ôfurufü, esin, rélùwé abbl",
+            "b. Awon ibi ti a le lo bii Oko, Ilè, Ojà, Ilé eko, Ilü miiràn ibi abbl",
+            "c. Ijüwe onà àti ibi ti nnkan wa"
+          ]
+        },
+        {
+          "sn": "XV",
+          "topic": "OKU SINSIN NI ILE YORÙBA",
+          "objectives": [
+            "a. Itüfo",
+            "b. Ilè gbigbé",
+            "c. Wiwe òkü",
+            "d. Isinkü"
+          ]
+        }
+      ]
+    }
+  },
+  "note": "This JSON captures the detailed syllabus structure for Yoruba L1 and L2 (Language, Literature, Culture & Tradition) as presented on the page. Objectives are listed as sub-points where applicable."
+}

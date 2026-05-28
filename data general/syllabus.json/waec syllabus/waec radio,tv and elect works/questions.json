@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Workshop Safety Rules and Regulations",
+      "section": "General",
+      "subtopic": "Workshop Safety Rules and Regulations",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 2,
+      "topic": "Workshop Safety Rules and Regulations",
+      "section": "General",
+      "subtopic": "Workshop Safety Rules and Regulations",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 3,
+      "topic": "Workshop Safety Rules and Regulations",
+      "section": "General",
+      "subtopic": "Workshop Safety Rules and Regulations",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 4,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "medium",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "hard",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Micrometer",
+        "C": "Steel rule",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 8,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Try square",
+        "C": "Steel rule",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 9,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Vernier caliper",
+        "C": "Steel rule",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 10,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Micrometer",
+        "D": "Try square"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 11,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Try square",
+        "C": "Vernier caliper",
+        "D": "Micrometer"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 12,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Try square",
+        "C": "Vernier caliper",
+        "D": "Steel rule"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 13,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "hard",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "easy",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 17,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 18,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 19,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "easy",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "medium",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "hard",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "easy",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "hard",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "medium",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 27,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "easy",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 29,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "hard",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 32,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "medium",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "hard",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "medium",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 36,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 37,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "hard",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 40,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 41,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "medium",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "hard",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 44,
+      "topic": "Workshop Safety Rules and Regulations",
+      "section": "General",
+      "subtopic": "Workshop Safety Rules and Regulations",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 45,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 46,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "hard",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "medium",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Micrometer",
+        "D": "Try square"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 49,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Micrometer",
+        "C": "Steel rule",
+        "D": "Try square"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 50,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Try square",
+        "C": "Vernier caliper",
+        "D": "Steel rule"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 51,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 52,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "medium",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Try square",
+        "C": "Micrometer",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 54,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "medium",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "hard",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "hard",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Vernier caliper",
+        "C": "Micrometer",
+        "D": "Steel rule"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 58,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Micrometer",
+        "B": "Steel rule",
+        "C": "Vernier caliper",
+        "D": "Try square"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 59,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "easy",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "medium",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Steel rule",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 62,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 64,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "hard",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Micrometer",
+        "C": "Vernier caliper",
+        "D": "Steel rule"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 68,
+      "topic": "Workshop Safety Rules and Regulations",
+      "section": "General",
+      "subtopic": "Workshop Safety Rules and Regulations",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 69,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Plant Processing Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 70,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Try square",
+        "D": "Micrometer"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 72,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "medium",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Micrometer",
+        "C": "Vernier caliper",
+        "D": "Try square"
+      },
+      "answer": "C",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 73,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "medium",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Production Equipment",
+        "C": "Personal Protective Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "C",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 74,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "easy",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Try square",
+        "B": "Steel rule",
+        "C": "Micrometer",
+        "D": "Vernier caliper"
+      },
+      "answer": "D",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 76,
+      "topic": "Workshop Safety Rules and Regulations",
+      "section": "General",
+      "subtopic": "Workshop Safety Rules and Regulations",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Public Protection Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 77,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "easy",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "hard",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "section": "General",
+      "subtopic": "Entrepreneurship in Radio, Television and Electronic Works",
+      "difficulty": "hard",
+      "question": "Which statement about Entrepreneurship in Radio, Television and Electronic Works is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Entrepreneurship in Radio, Television and Electronic Works is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "easy",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Try square",
+        "C": "Steel rule",
+        "D": "Micrometer"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 81,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Production Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Public Protection Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 82,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Basic Electricity",
+      "section": "General",
+      "subtopic": "Basic Electricity",
+      "difficulty": "easy",
+      "question": "Which statement about Basic Electricity is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Basic Electricity is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Electronic Devices and Circuits",
+      "section": "General",
+      "subtopic": "Electronic Devices and Circuits",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Steel rule",
+        "B": "Vernier caliper",
+        "C": "Micrometer",
+        "D": "Try square"
+      },
+      "answer": "B",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 85,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Personal Protective Equipment",
+        "B": "Public Protection Equipment",
+        "C": "Plant Processing Equipment",
+        "D": "Personal Production Equipment"
+      },
+      "answer": "A",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 86,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "hard",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "Workshop Practice and Maintenance",
+      "section": "General",
+      "subtopic": "Workshop Practice and Maintenance",
+      "difficulty": "easy",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Personal Protective Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Plant Processing Equipment"
+      },
+      "answer": "B",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 88,
+      "topic": "Electronic Tools and Instruments",
+      "section": "General",
+      "subtopic": "Electronic Tools and Instruments",
+      "difficulty": "hard",
+      "question": "Which tool is used for measuring internal dimensions?",
+      "options": {
+        "A": "Vernier caliper",
+        "B": "Micrometer",
+        "C": "Steel rule",
+        "D": "Try square"
+      },
+      "answer": "A",
+      "explanation": "A vernier caliper can measure internal dimensions (using the upper jaws), external dimensions, and depth."
+    },
+    {
+      "id": 89,
+      "topic": "Workshop Safety Rules and Regulations",
+      "section": "General",
+      "subtopic": "Workshop Safety Rules and Regulations",
+      "difficulty": "hard",
+      "question": "In a workshop, PPE stands for:",
+      "options": {
+        "A": "Public Protection Equipment",
+        "B": "Plant Processing Equipment",
+        "C": "Personal Production Equipment",
+        "D": "Personal Protective Equipment"
+      },
+      "answer": "D",
+      "explanation": "PPE refers to protective clothing, helmets, goggles, gloves, and other garments designed to protect the wearer from injury."
+    },
+    {
+      "id": 90,
+      "topic": "Electronic Communication Systems",
+      "section": "General",
+      "subtopic": "Electronic Communication Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Electronic Communication Systems is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "Electronic Communication Systems is part of the technical/vocational syllabus."
+    }
+  ]
+}

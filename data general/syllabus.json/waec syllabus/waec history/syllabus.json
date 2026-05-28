@@ -1,0 +1,135 @@
+{
+  "paper1": {
+    "title": "WEST AFRICA AND THE WIDER WORLD FROM EARLIEST TIMES TO 2000",
+    "topics": [
+      {
+        "number": 1,
+        "title": "Historiography and Historical Skills",
+        "content": "What is History and why do we study History? Sources of History; Historical skills (ancient and modern approaches); Prospect of ICT in historical studies."
+      },
+      {
+        "number": 2,
+        "title": "Trans-Saharan Trade",
+        "content": "Origin, organization and the effects on the development of West African states."
+      },
+      {
+        "number": 3,
+        "title": "Islam in West Africa",
+        "content": "Introduction, spread and effects."
+      },
+      {
+        "number": 4,
+        "title": "European Contact with West Africa",
+        "content": "Reasons for their coming, immediate effects and West African reaction."
+      },
+      {
+        "number": 5,
+        "title": "Trans-Atlantic Slave Trade",
+        "content": "Origin, organization, effects and suppression."
+      },
+      {
+        "number": 6,
+        "title": "Christian Missionary Activities in West Africa",
+        "content": "The suppression of slave trade. Christian Missionary activities and their impact on West Africa."
+      },
+      {
+        "number": 7,
+        "title": "The Scramble for and Partition of West Africa",
+        "content": "The Industrial Revolution, Scramble for colonies, Colonial subjugation, Occupation and West African reaction."
+      },
+      {
+        "number": 8,
+        "title": "Colonial Rule in West Africa",
+        "content": "Patterns of colonial rule, consolidation of European culture in Africa, colonial economy and the underdevelopment of Africa: colonial Africa and the two World Wars."
+      },
+      {
+        "number": 9,
+        "title": "Problems of Independent West African States",
+        "content": "Nature of politics: neo-colonialism and economic underdevelopment, unequal development within states and instability, the Military in West African politics, boundary disputes and threat to West African Unity."
+      },
+      {
+        "number": 10,
+        "title": "West Africa and International Organizations",
+        "content": "Membership, aims and objectives, achievements and failures of: (i) United Nations Organization (U.N.O.)/United Nations (U.N.); (ii) Organization of African Unity (O.A.U)/African Union (A.U.); (iii) Economic Community of West African States (ECOWAS); etc."
+      }
+    ]
+  },
+  "paper2": {
+    "title": "NATIONAL HISTORIES OF THE GAMBIA, GHANA, LIBERIA, NIGERIA AND SIERRA LEONE UP TO 2000",
+    "note": "Candidates answer questions on their home country only. Structured in Sections A, B, C with country-specific content.",
+    "countries": {
+      "the_gambia": {
+        "sections": [
+          {
+            "section": "A",
+            "period": "From Earliest Times to 1800",
+            "topics": [
+              "Historiography and Historical Skills",
+              "Origin, political, social and economic organization of major groups (Wollof, Mandinka, Fula, Jola, Krio(Aku), Serahuli)",
+              "Indigenous crafts and industries (Pottery, salt making, iron working, etc.)",
+              "Early European contact (Trade, Christianity and impact)",
+              "Introduction, spread and effects of Islam",
+              "The Gambia and the trans-Atlantic slave trade (Origin, organization and effects)"
+            ]
+          },
+          {
+            "section": "B",
+            "period": "19th Century",
+            "topics": [
+              "Suppression of the slave trade and its effects",
+              "The founding of Bathurst (Banjul)",
+              "Christian Missionary activities and their impact",
+              "The Soninke-Marabout wars, jihadist leaders",
+              "Resistance to European Colonialism (key figures)"
+            ]
+          },
+          {
+            "section": "C",
+            "period": "1900 to 2000",
+            "topics": [
+              "British Colonial administration (Indirect Rule)",
+              "Economic and social developments in the colonial period (agriculture, transportation, education, health)",
+              "Development of local Government",
+              "The struggle for and regaining of independence (political parties, negotiations, Senegambia relations)",
+              "Development after independence (constitutions, coups, multiparty politics, Senegambia relations)",
+              "The Gambia and international organizations (UN, Commonwealth, AU, ECOWAS)"
+            ]
+          }
+        ]
+      },
+      "ghana": {
+        "sections": [
+          {
+            "section": "A",
+            "period": "Landmarks of African History: From the Earliest Times to AD 1800",
+            "topics": [
+              "Introduction to African History (as a subject, sources, methods)",
+              "African pre-history up to 500 B.C.",
+              "Civilizations of North Africa (Pharaonic Egypt, Berber, etc.)",
+              "Civilizations of the Horn, East and Central Africa (Axum, Ancient Ethiopia, Bantu, Swahili)",
+              "West Africa – Civilizations and Cultures (Sudanese states like Ghana, Mali, Songhai; Forest and Coastal States)"
+            ]
+          },
+          {
+            "section": "B",
+            "period": "Ghana and the Wider World: From Earliest Times to AD 1900",
+            "topics": [
+              "Introduction to the History of Ghana (sources and methods)",
+              "Pre-history of Ghana",
+              "The peopling of Ghana and rise of states/kingdoms (Northern, Forest, Coastal zones)",
+              "Social, Cultural, Political and Economic Developments in the 16th–19th centuries (political systems, social organizations, medicine, technology, etc.)"
+            ]
+          },
+          {
+            "section": "C",
+            "period": "Ghana: AD 1900–2000 (approx. to 1991 in some refs)",
+            "topics": [
+              // Detailed topics on colonial rule, independence, post-independence developments, international relations (partial extraction; follows similar structure to other countries)
+            ]
+          }
+        ]
+      }
+      // Note: Full details for Nigeria, Sierra Leone, and Liberia follow analogous structures (Section A: Earliest to 1800; B: 19th Century; C: 1900-2000) with country-specific topics on historiography, societies, trade, colonialism, independence, etc. The PDF extraction was fragmented for these.
+    }
+  }
+}

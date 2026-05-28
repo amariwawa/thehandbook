@@ -1,0 +1,402 @@
+{
+  "title": "BECE Hausa Syllabus",
+  "levels": [
+    {
+      "level": "Hausa L1",
+      "themes": [
+        {
+          "sn": 1,
+          "theme": "HARSHE",
+          "topics": [
+            {
+              "topic": "Jimla tsarin sassaukar jimla",
+              "objectives": [
+                "a. Ma’anar jimla a takaice",
+                "b. Bayanin sassan sassaukar jimla",
+                "c. Ambato kalmomi cikin kowane sashe na sassaukar jimla."
+              ]
+            },
+            {
+              "topic": "Tsarin tsattsaurar jimla",
+              "objectives": [
+                "a. Ma’anar tsattsaurar jimla a takaice",
+                "b. Bayanin fasalin tsattsaurar jimla",
+                "c. Ire-iren tsattsaurar jimla; jimlar umurni da ta tamba"
+              ]
+            },
+            {
+              "topic": "Rukunin",
+              "objectives": [
+                "a. Ma’anar rukunonin kalmomi",
+                "b. Rukunin Kalmomi: i. Suna, ii. Wakilin suna, iii. Aikatau, iv. Sifa, v. Bayanau",
+                "c. Misalan rukunonin kalmomi"
+              ]
+            },
+            {
+              "topic": "Ginin kalmomi",
+              "objectives": [
+                "a. Ma ‘anar ginin kalma",
+                "b. Jinsi: i. Tamata (mace), ii. Namiji",
+                "c. Adadi: i. Tilo, ii. Jam’i"
+              ]
+            },
+            {
+              "topic": "Nau’o’in jimloli",
+              "objectives": [
+                "a. Ma’anar jimla",
+                "b. Ire-iren jimla: i. Jimlar Bayani, ii. Jimlar Tambaya, iii. Jimlar Umumi, iv. Jimlar Korewa",
+                "c. Bambanci tsakanin nau’o’in Jimloli"
+              ]
+            },
+            {
+              "topic": "Furuci",
+              "objectives": [
+                "a. Ma’anar Furuci",
+                "b. Gabobin furuci: i. Lebba, ii. Hakora, iii. Harshe, iv. Hanka, v. Ganda, vi. Hancfa, vii. Makogwaro"
+              ]
+            },
+            {
+              "topic": "Bayyana yadda ake samar da sautin furuci",
+              "objectives": [
+                "Samar da sautin furuci: i. Gabobin masu motsi (Harshe, lebe, etc.), ii. Gabobin marasa motsi (banka, ganda, dasashi, hanth, etc.)"
+              ]
+            },
+            {
+              "topic": "Auna fahimta",
+              "objectives": [
+                "a. Karanta labari a bayyane",
+                "b. Ma’anar auna fahimta",
+                "c. Bayanin muhimman kalmomi",
+                "d. Karanta labari a zuci",
+                "e. Amsa tambayoyin labari",
+                "f. Nau-‘o’in jawaban auna fahimta",
+                "g. Na wayar da kai (HIV, muhalli, shan miyagun kwayoyi, tsaro, etc.)",
+                "h. Na fasaha da kirkire-kirkire (Fasahar komfuta da sadarwa)",
+                "i. Zaman lafiya a kasa, kare mutunci da hakkin masu sa"
+              ]
+            },
+            {
+              "topic": "Fassara",
+              "objectives": [
+                "a. Ma’anar Fassara",
+                "b. Ire-iren Fassara: i. Ta baka (tafinta), ii. Ta rubutu, iii. Mai ‘yanci, iv. Maraş ‘yanci",
+                "c. Fassarar Jimloli da gajen jawabai"
+              ]
+            },
+            {
+              "topic": "Insha’i",
+              "objectives": [
+                "a. Ma’anar insha’i",
+                "b. Ire-iren insha’i: i. Na Siffantawa, ii. Na Labari, iii. Na Muhawara, iv. Na Bayyanawa, v. Na Tadillira, vi. Na Karin-magana, vii. Na Rubutun wasika",
+                "c. Bayanin Nau’o’in Insha’i"
+              ]
+            },
+            {
+              "topic": "Sigar insha’i",
+              "objectives": [
+                "a. Sigar Insha’i",
+                "b. Tantance sigar insha ‘i: i. Gabatarwa, ii. Ganga/Ginshiki/Gundari, iii. Kammalawa"
+              ]
+            },
+            {
+              "topic": "Rubutun wasika",
+              "objectives": [
+                "a. Ire-iren wasika",
+                "b. Fasalin rubutun wasika",
+                "c. Bayanin wasikar ma’aikata ta neman aiki"
+              ]
+            },
+            {
+              "topic": "Ka’idojin",
+              "objectives": [
+                "a. Ma’anar ka’idojin rubutu",
+                "b. Tantance alamomin rubutu",
+                "c. Amfani da alamomin rubutu",
+                "d. Wuraren hada kalmomi (examples)",
+                "e. Wuraren raba kalmomi (examples)"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "theme": "ADABI",
+          "topics": [
+            {
+              "topic": "Wasannin kwaikwayo",
+              "objectives": [
+                "a. Gajerun wasannin kwaikwayo: i. Ma’anar wasan kwaikwayo, ii. Bayani game da wasan kwaikwayo, iii. Shiryawa da aiwatarwa, iv. Darussan wasan kwaikwayo"
+              ]
+            },
+            {
+              "topic": "Rubutattun wakoki",
+              "objectives": [
+                "b. Gajerun Rubutattun Wakoki: i. Ma’anar Rubutacciyar waka, ii. Karatun gajerun rubutattun wakoki, iii. Fito da zubi da tsarin wakoki, iv. Ma’anar muhimman kalmomi, v. Darussan wakoki"
+              ]
+            },
+            {
+              "topic": "Labarai",
+              "objectives": [
+                "c. Labarai masu tushen Karin magana (zube): i. Karatun labarai..., ii. Bayanin abubuwan da labarai suka kunsa, iii. Ma ‘anar muhimman kalmomi, iv. Darussa daga labarai"
+              ]
+            },
+            {
+              "topic": "Rubutaccen Adabi",
+              "objectives": [
+                "a. Ma-anar Rubutaccen Adabi a saukake",
+                "b. Rukunonin Rubutaccen Adabi: i. Zube, ii. Waka, iii. Wasan kwaikwayo",
+                "c. Bayanin Rukunonin Rubutaccen adabi",
+                "d. Nazarin zaɓaɓɓun littattafai dangane da: i. Jigo, ii. Salo da tsari, iii. Taurari"
+              ]
+            },
+            {
+              "topic": "Zababbun rubutattun kwaikwayo",
+              "objectives": [
+                "a. Nazarin zababbun Rubutattun wasan kwaikwayo dangane da: i. Jigo, ii. Salo, iii. Zubi da tsari, iv. Bambanci, v. Taurari"
+              ]
+            },
+            {
+              "topic": "Zababbun rubutattun wakoki",
+              "objectives": [
+                "a. Nazarin zababbun Rubutattun Wakoki dangane da: i. Jigo, ii. Salo, iii. Zubi da tsari, iv. Ma’anar muhimman kalmomi, v. Bayanin wakar"
+              ]
+            },
+            {
+              "topic": "Zababbun rubutattun zube",
+              "objectives": [
+                "b. Nazarin zababbun rubutattun zube dangane da: i. Jigo, ii. Salo, iii. Zubi da tsari, iv. Taurari, v. Bayanin labarin"
+              ]
+            },
+            {
+              "topic": "Adabin Baka",
+              "objectives": [
+                "a. Ma’anar Adabin baka",
+                "b. Rukunonin Adabin baka: i. Wakokin baka..., ii. Tatsuniyoyi..., iii. Labarin gargajiya..., iv. Zaurance..., v. Barkwanci..., vi. Wakokin makacfa..., vii. Karin magana..."
+              ]
+            }
+          ]
+        },
+        {
+          "sn": 3,
+          "theme": "AL’ADU",
+          "topics": [
+            {
+              "topic": "Ginshikin ginin al’umma (dabarun tafiyar da rayuwa)",
+              "objectives": [
+                "a. Rikon Sana’a (dabarun rikon sana’a)",
+                "b. Rike Iyali (dabarun rikon iyali)",
+                "c. Tattalin Kudi (dabarun tattalin kudi)",
+                "d. Cudanya Da Zamantakewa (dabarun cudanya da zamantakewa)"
+              ]
+            },
+            {
+              "topic": "Ginshikin ginin al’umma (Sana’o’in hannu)",
+              "objectives": [
+                "a. Sana’o’in hannu",
+                "b. Ma’anar sana’a",
+                "c. Muhimmancin sana’a",
+                "d. Ire-iren sana’o’i (Noma da kiwo, Aski da kitso, Rini, etc.)"
+              ]
+            },
+            {
+              "topic": "Dabi’u da al’adu (Miyagun Kwayoyi)",
+              "objectives": [
+                "a. Ma’anar Miyagun Kwayoyi",
+                "b. Illar shan miyagun kwayoyi",
+                "c. Bayanin miyagun kwayoyi & Magunguna",
+                "d. Bayanin illolin shan miyagun kwayoyi"
+              ]
+            },
+            {
+              "topic": "Sauye-sauyen da suka shafi al’adu",
+              "objectives": [
+                "a. Ma’anar Sauyin al’adu",
+                "b. Bayanin sauye-sauyen al’adu a fannoni daban-daban (ilmi, cinikayya, sana’o’i, bukukuwa, tufafi, etc.)"
+              ]
+            },
+            {
+              "topic": "Bukukuwan gargajiya",
+              "objectives": [
+                "a. Ma’anar bukukuwan gargajiya",
+                "b. Bayanin bukukuwan gargajiya",
+                "c. Ire-iren Bukukuwan gargajiya (Aure, Suna, Sallah, etc.)",
+                "d. Muhimmancin bukukuwa"
+              ]
+            },
+            {
+              "topic": "Kayayyakin al’adu (Zane Da Kwalliya Da Tufafin Hausawa)",
+              "objectives": [
+                "a. Zane (Na kwarya, Na tukunya, Na gida, Na tufafi)",
+                "b. Bayanin Zane",
+                "c. Ire-iren tufafin Hausawa",
+                "d. Rukunan mutane dangane da amfani da tufafi"
+              ]
+            },
+            {
+              "topic": "Dabi’u da al’adu (Ibada)",
+              "objectives": [
+                "a. Ma’anar ibada",
+                "b. Ire-iren ayyukan ibada (Sallah, Azumi, Zakka, etc.)",
+                "c. Muhimmancin ibada"
+              ]
+            },
+            {
+              "topic": "Ginshikin ginin al’umma (Shugabanci)",
+              "objectives": [
+                "a. Ma’anar Shugabanci",
+                "b. Ire-iren shugabanci",
+                "c. Muhimmancin shugabanci",
+                "d. Hawa uku na mulki (Zartarwa, Dokoki, Shari’a)"
+              ]
+            },
+            {
+              "topic": "Hanyoyin samar da arziki",
+              "objectives": [
+                "a. Ma’anar hanyoyin samar da arziki",
+                "b. Hanyoyin samar da arziki (Kiwon zamani, Noman lambu, Sarrafa kayan abinci, Sana’o’in hannu, etc.)",
+                "c. Cinikayyar zamani"
+              ]
+            },
+            {
+              "topic": "Dabi’u da al’adu (Tsaro)",
+              "objectives": [
+                "a. Ma ‘anar tsaro",
+                "b. Nau’o’in tsaro",
+                "c. Bayanin Nau’o’in tsaro",
+                "d. Hukumomin tsaro",
+                "e. Shawarwari game da tsaro"
+              ]
+            },
+            {
+              "topic": "Kare-Saye",
+              "objectives": [
+                "a. Ma’anar kare-saye",
+                "b. Hakkokin mai saye",
+                "c. Nauyin da suke kan mai saya"
+              ]
+            },
+            {
+              "topic": "Keta Haddi",
+              "objectives": [
+                "a. Ma’anar Keta Haddi",
+                "b. Misalan Keta Haddi",
+                "c. Bayanin misalan keta haddin Mutane"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Hausa L2",
+      "themes": [
+        {
+          "sn": 1,
+          "theme": "HARSHE",
+          "topics": [
+            {
+              "topic": "Makaranta da gida da asibiti",
+              "objectives": ["Kalmomi da suka danganci makaranta da gida da asibiti, Saukakan jimloli game da su"]
+            },
+            {
+              "topic": "Nema alfarma da tuyar da",
+              "objectives": ["Bayani dangane da mutane da wurare, Kalmomin neman taimako ko alfarma"]
+            },
+            {
+              "topic": "Umami",
+              "objectives": ["Kalmomin umumi kamar tafi, zo, zauna, etc."]
+            },
+            {
+              "topic": "Gajerun labarai",
+              "objectives": ["Gajerun labarai da suka kunshi kalmomi, Karanta da rubuta gajerun labarai"]
+            },
+            {
+              "topic": "Saukakkan kalmorin awo",
+              "objectives": ["Kalmomin da suke nuna adadin abu"]
+            },
+            {
+              "topic": "Tafiye-Tafiye",
+              "objectives": ["Kalmomi da suka danganci tafiye-tafiye, Tantance tafiye-tafiye, Abubuwan da suka danganci jirgi, mota, etc."]
+            },
+            {
+              "topic": "Launi",
+              "objectives": ["Sunayen launuka: kore, ja, fari, baki, etc."]
+            },
+            {
+              "topic": "Sifofi",
+              "objectives": ["Kalmomi masu nuna siffa"]
+            },
+            {
+              "topic": "Rubutun wasika da insha’i",
+              "objectives": ["Rubutun wasika zuwa ga abokai da iyaye, Rubutun insha’i a kan wasu sanannun"]
+            }
+          ]
+        },
+        {
+          "sn": 2,
+          "theme": "ADABI",
+          "topics": [
+            {
+              "topic": "Saukakan wakoki da wasanni",
+              "objectives": ["Wakokin yara da wasanni, Wakokin baka"]
+            },
+            {
+              "topic": "Saukakan zaurance da karin magana",
+              "objectives": ["Ma’anar zaurance da Karin Magana, Misalan su"]
+            }
+          ]
+        },
+        {
+          "sn": 3,
+          "theme": "AL’ADU",
+          "topics": [
+            {
+              "topic": "Gaisuwa",
+              "objectives": ["Gaisuwar Hausa, Ire-iren gaisuwa, Yadda ake amsa gaisuwa"]
+            },
+            {
+              "topic": "Sunayen abubuwa",
+              "objectives": ["Sunayen abubuwa da suka danganci muhalli da mutane da dabbobi"]
+            },
+            {
+              "topic": "Halin da jiki yake ciki",
+              "objectives": ["Kalmomin da suka danganci halin jiki da tunani"]
+            },
+            {
+              "topic": "Alkaluma da kidaya",
+              "objectives": ["Alkaluman kidaya, Tarawa, Jerantawa, Kasaru"]
+            },
+            {
+              "topic": "Abinci da farcin abinci",
+              "objectives": ["Ire-iren abincin Hausawa, Ya’yan itatuwa, Dabi’un cin abinci, Kayan girke-girke, Da’ar cin abinci, Kayan girki, Sana’o’i da suka danganci abinci"]
+            },
+            {
+              "topic": "Sutura da da’ar sa",
+              "objectives": ["Ire-iren sutura, Yadda ake sanya su"]
+            },
+            {
+              "topic": "Lokuta",
+              "objectives": ["Lokutan shekara, agogo, ranaku, yanayi, Kalmomin lokaci, Lokuta na gargajiya"]
+            },
+            {
+              "topic": "Saye da sayarwa",
+              "objectives": ["Yadda ake ciniki, Sunayen kayan masarufi, Wuraren saye da sayarwa"]
+            },
+            {
+              "topic": "Al’adun Aure",
+              "objectives": ["Matakai na aure, Yin aure, Ire-iren aure, Al’adun aure"]
+            },
+            {
+              "topic": "Al’adun Haihuwa",
+              "objectives": ["Shirye-shirye kafin haihuwa, Yadda ake kula da mai jego"]
+            },
+            {
+              "topic": "Bukukuwa da al’adun gargajiya",
+              "objectives": ["Takaitaccen bayani a kan bukukuwa da al’adun gargajiya, Kalmomin da suka dangance su"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Separation of Mixtures and Purification of Chemical Substances",
+      "section": "General",
+      "subtopic": "Separation of Mixtures and Purification of Chemical Substances",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Separation of Mixtures and Purification of Chemical Substances is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Separation of Mixtures and Purification of Chemical Substances",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Separation of Mixtures and Purification of Chemical Substances is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 2,
+      "topic": "Separation of Mixtures and Purification of Chemical Substances",
+      "section": "General",
+      "subtopic": "Separation of Mixtures and Purification of Chemical Substances",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Separation of Mixtures and Purification of Chemical Substances is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is a core chemistry concept in Separation of Mixtures and Purification of Chemical Substances"
+      },
+      "answer": "D",
+      "explanation": "Separation of Mixtures and Purification of Chemical Substances is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 3,
+      "topic": "Separation of Mixtures and Purification of Chemical Substances",
+      "section": "General",
+      "subtopic": "Separation of Mixtures and Purification of Chemical Substances",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Separation of Mixtures and Purification of Chemical Substances is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in Separation of Mixtures and Purification of Chemical Substances",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "Separation of Mixtures and Purification of Chemical Substances is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 4,
+      "topic": "Chemical Combination",
+      "section": "General",
+      "subtopic": "Chemical Combination",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemical Combination is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in Chemical Combination"
+      },
+      "answer": "D",
+      "explanation": "Chemical Combination is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 5,
+      "topic": "Chemical Combination",
+      "section": "General",
+      "subtopic": "Chemical Combination",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemical Combination is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Chemical Combination",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "Chemical Combination is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 6,
+      "topic": "Chemical Combination",
+      "section": "General",
+      "subtopic": "Chemical Combination",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Chemical Combination is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in Chemical Combination",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "Chemical Combination is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 7,
+      "topic": "Kinetic Theory of Matter and Gas Laws",
+      "section": "General",
+      "subtopic": "Kinetic Theory of Matter and Gas Laws",
+      "difficulty": "hard",
+      "question": "Boyle's law states that the pressure of a fixed mass of gas is inversely proportional to its volume at constant:",
+      "options": {
+        "A": "Temperature",
+        "B": "Density",
+        "C": "Mass",
+        "D": "Pressure"
+      },
+      "answer": "A",
+      "explanation": "Boyle's Law: P ∝ 1/V (at constant temperature). PV = constant."
+    },
+    {
+      "id": 8,
+      "topic": "Kinetic Theory of Matter and Gas Laws",
+      "section": "General",
+      "subtopic": "Kinetic Theory of Matter and Gas Laws",
+      "difficulty": "easy",
+      "question": "Boyle's law states that the pressure of a fixed mass of gas is inversely proportional to its volume at constant:",
+      "options": {
+        "A": "Mass",
+        "B": "Temperature",
+        "C": "Density",
+        "D": "Pressure"
+      },
+      "answer": "B",
+      "explanation": "Boyle's Law: P ∝ 1/V (at constant temperature). PV = constant."
+    },
+    {
+      "id": 9,
+      "topic": "Kinetic Theory of Matter and Gas Laws",
+      "section": "General",
+      "subtopic": "Kinetic Theory of Matter and Gas Laws",
+      "difficulty": "medium",
+      "question": "Boyle's law states that the pressure of a fixed mass of gas is inversely proportional to its volume at constant:",
+      "options": {
+        "A": "Density",
+        "B": "Temperature",
+        "C": "Mass",
+        "D": "Pressure"
+      },
+      "answer": "B",
+      "explanation": "Boyle's Law: P ∝ 1/V (at constant temperature). PV = constant."
+    },
+    {
+      "id": 10,
+      "topic": "Atomic Structure and Bonding",
+      "section": "General",
+      "subtopic": "Atomic Structure and Bonding",
+      "difficulty": "easy",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "11",
+        "B": "24",
+        "C": "22",
+        "D": "23"
+      },
+      "answer": "D",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 11,
+      "topic": "Atomic Structure and Bonding",
+      "section": "General",
+      "subtopic": "Atomic Structure and Bonding",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "11"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 12,
+      "topic": "Atomic Structure and Bonding",
+      "section": "General",
+      "subtopic": "Atomic Structure and Bonding",
+      "difficulty": "hard",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "11",
+        "D": "24"
+      },
+      "answer": "B",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 13,
+      "topic": "Solubility",
+      "section": "General",
+      "subtopic": "Solubility",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Solubility is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Solubility",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Solubility is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 14,
+      "topic": "Solubility",
+      "section": "General",
+      "subtopic": "Solubility",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Solubility is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Solubility",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "Solubility is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 15,
+      "topic": "Solubility",
+      "section": "General",
+      "subtopic": "Solubility",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Solubility is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is a core chemistry concept in Solubility",
+        "C": "It applies only to physical changes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "B",
+      "explanation": "Solubility is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 16,
+      "topic": "Environmental Pollution",
+      "section": "General",
+      "subtopic": "Environmental Pollution",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Environmental Pollution is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is a core chemistry concept in Environmental Pollution",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Environmental Pollution is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 17,
+      "topic": "Environmental Pollution",
+      "section": "General",
+      "subtopic": "Environmental Pollution",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Environmental Pollution is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Environmental Pollution",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Environmental Pollution is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 18,
+      "topic": "Environmental Pollution",
+      "section": "General",
+      "subtopic": "Environmental Pollution",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Environmental Pollution is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in Environmental Pollution",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "Environmental Pollution is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 19,
+      "topic": "Acids, Bases and Salts",
+      "section": "General",
+      "subtopic": "Acids, Bases and Salts",
+      "difficulty": "easy",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "7",
+        "B": "1",
+        "C": "14",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 20,
+      "topic": "Acids, Bases and Salts",
+      "section": "General",
+      "subtopic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "1",
+        "B": "7",
+        "C": "14",
+        "D": "0"
+      },
+      "answer": "B",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 21,
+      "topic": "Acids, Bases and Salts",
+      "section": "General",
+      "subtopic": "Acids, Bases and Salts",
+      "difficulty": "hard",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "1",
+        "B": "14",
+        "C": "0",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 22,
+      "topic": "Oxidation and Reduction (Redox)",
+      "section": "General",
+      "subtopic": "Oxidation and Reduction (Redox)",
+      "difficulty": "medium",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Neutralized",
+        "B": "Dissociated",
+        "C": "Oxidized",
+        "D": "Reduced"
+      },
+      "answer": "D",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 23,
+      "topic": "Oxidation and Reduction (Redox)",
+      "section": "General",
+      "subtopic": "Oxidation and Reduction (Redox)",
+      "difficulty": "hard",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Neutralized",
+        "B": "Dissociated",
+        "C": "Reduced",
+        "D": "Oxidized"
+      },
+      "answer": "C",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 24,
+      "topic": "Oxidation and Reduction (Redox)",
+      "section": "General",
+      "subtopic": "Oxidation and Reduction (Redox)",
+      "difficulty": "easy",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Reduced",
+        "B": "Neutralized",
+        "C": "Oxidized",
+        "D": "Dissociated"
+      },
+      "answer": "A",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 25,
+      "topic": "Electrolysis",
+      "section": "General",
+      "subtopic": "Electrolysis",
+      "difficulty": "hard",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Reduced",
+        "B": "Dissociated",
+        "C": "Oxidized",
+        "D": "Neutralized"
+      },
+      "answer": "A",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 26,
+      "topic": "Electrolysis",
+      "section": "General",
+      "subtopic": "Electrolysis",
+      "difficulty": "easy",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Neutralized",
+        "B": "Reduced",
+        "C": "Dissociated",
+        "D": "Oxidized"
+      },
+      "answer": "B",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 27,
+      "topic": "Electrolysis",
+      "section": "General",
+      "subtopic": "Electrolysis",
+      "difficulty": "medium",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Oxidized",
+        "B": "Neutralized",
+        "C": "Dissociated",
+        "D": "Reduced"
+      },
+      "answer": "D",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 28,
+      "topic": "Energy Changes",
+      "section": "General",
+      "subtopic": "Energy Changes",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Energy Changes is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Energy Changes",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "Energy Changes is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 29,
+      "topic": "Energy Changes",
+      "section": "General",
+      "subtopic": "Energy Changes",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Energy Changes is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Energy Changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Energy Changes is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 30,
+      "topic": "Energy Changes",
+      "section": "General",
+      "subtopic": "Energy Changes",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Energy Changes is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in Energy Changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "B",
+      "explanation": "Energy Changes is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 31,
+      "topic": "Rates of Chemical Reaction",
+      "section": "General",
+      "subtopic": "Rates of Chemical Reaction",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Rates of Chemical Reaction is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in Rates of Chemical Reaction"
+      },
+      "answer": "D",
+      "explanation": "Rates of Chemical Reaction is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 32,
+      "topic": "Rates of Chemical Reaction",
+      "section": "General",
+      "subtopic": "Rates of Chemical Reaction",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Rates of Chemical Reaction is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in Rates of Chemical Reaction",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "Rates of Chemical Reaction is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 33,
+      "topic": "Rates of Chemical Reaction",
+      "section": "General",
+      "subtopic": "Rates of Chemical Reaction",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Rates of Chemical Reaction is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Rates of Chemical Reaction",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "A",
+      "explanation": "Rates of Chemical Reaction is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 34,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Chemical Equilibrium",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 35,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in Chemical Equilibrium"
+      },
+      "answer": "D",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 36,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in Chemical Equilibrium",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 37,
+      "topic": "Non-metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Non-metals and Their Compounds",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 1",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "B",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 38,
+      "topic": "Non-metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Non-metals and Their Compounds",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 2",
+        "C": "Group 7",
+        "D": "Group 0"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 39,
+      "topic": "Non-metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Non-metals and Their Compounds",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 2",
+        "C": "Group 1",
+        "D": "Group 0"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 40,
+      "topic": "Metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Metals and Their Compounds",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 7",
+        "B": "Group 0",
+        "C": "Group 2",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 41,
+      "topic": "Metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Metals and Their Compounds",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 2",
+        "C": "Group 7",
+        "D": "Group 0"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 42,
+      "topic": "Metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Metals and Their Compounds",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 2",
+        "C": "Group 1",
+        "D": "Group 7"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 43,
+      "topic": "Organic Compounds",
+      "section": "General",
+      "subtopic": "Organic Compounds",
+      "difficulty": "hard",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ",
+        "B": "CₙH₂ₙ₊₂",
+        "C": "CₙH₂ₙ₋₂",
+        "D": "CₙHₙ"
+      },
+      "answer": "B",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 44,
+      "topic": "Organic Compounds",
+      "section": "General",
+      "subtopic": "Organic Compounds",
+      "difficulty": "easy",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ",
+        "B": "CₙHₙ",
+        "C": "CₙH₂ₙ₋₂",
+        "D": "CₙH₂ₙ₊₂"
+      },
+      "answer": "D",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 45,
+      "topic": "Organic Compounds",
+      "section": "General",
+      "subtopic": "Organic Compounds",
+      "difficulty": "medium",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ",
+        "B": "CₙH₂ₙ₊₂",
+        "C": "CₙHₙ",
+        "D": "CₙH₂ₙ₋₂"
+      },
+      "answer": "B",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 46,
+      "topic": "Chemistry and Industry",
+      "section": "General",
+      "subtopic": "Chemistry and Industry",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Chemistry and Industry is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in Chemistry and Industry",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "Chemistry and Industry is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 47,
+      "topic": "Chemistry and Industry",
+      "section": "General",
+      "subtopic": "Chemistry and Industry",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemistry and Industry is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Chemistry and Industry",
+        "B": "It is not tested in standard exams",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "Chemistry and Industry is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 48,
+      "topic": "Chemistry and Industry",
+      "section": "General",
+      "subtopic": "Chemistry and Industry",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemistry and Industry is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in Chemistry and Industry",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "Chemistry and Industry is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 49,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in Chemical Equilibrium",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 50,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Chemical Equilibrium",
+        "B": "It is not tested in standard exams",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 51,
+      "topic": "Energy Changes",
+      "section": "General",
+      "subtopic": "Energy Changes",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Energy Changes is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Energy Changes",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "Energy Changes is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 52,
+      "topic": "Organic Compounds",
+      "section": "General",
+      "subtopic": "Organic Compounds",
+      "difficulty": "hard",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ",
+        "B": "CₙH₂ₙ₋₂",
+        "C": "CₙH₂ₙ₊₂",
+        "D": "CₙHₙ"
+      },
+      "answer": "C",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 53,
+      "topic": "Chemical Combination",
+      "section": "General",
+      "subtopic": "Chemical Combination",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemical Combination is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in Chemical Combination",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "Chemical Combination is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 54,
+      "topic": "Energy Changes",
+      "section": "General",
+      "subtopic": "Energy Changes",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Energy Changes is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Energy Changes",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "A",
+      "explanation": "Energy Changes is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 55,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is unrelated to chemical processes",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in Chemical Equilibrium"
+      },
+      "answer": "D",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 56,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in Chemical Equilibrium",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 57,
+      "topic": "Oxidation and Reduction (Redox)",
+      "section": "General",
+      "subtopic": "Oxidation and Reduction (Redox)",
+      "difficulty": "medium",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Oxidized",
+        "B": "Neutralized",
+        "C": "Reduced",
+        "D": "Dissociated"
+      },
+      "answer": "C",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 58,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Chemical Equilibrium",
+        "B": "It applies only to physical changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "A",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 59,
+      "topic": "Non-metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Non-metals and Their Compounds",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 0",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 60,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in Chemical Equilibrium"
+      },
+      "answer": "D",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 61,
+      "topic": "Chemistry and Industry",
+      "section": "General",
+      "subtopic": "Chemistry and Industry",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemistry and Industry is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Chemistry and Industry",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "Chemistry and Industry is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 62,
+      "topic": "Kinetic Theory of Matter and Gas Laws",
+      "section": "General",
+      "subtopic": "Kinetic Theory of Matter and Gas Laws",
+      "difficulty": "medium",
+      "question": "Boyle's law states that the pressure of a fixed mass of gas is inversely proportional to its volume at constant:",
+      "options": {
+        "A": "Pressure",
+        "B": "Temperature",
+        "C": "Mass",
+        "D": "Density"
+      },
+      "answer": "B",
+      "explanation": "Boyle's Law: P ∝ 1/V (at constant temperature). PV = constant."
+    },
+    {
+      "id": 63,
+      "topic": "Environmental Pollution",
+      "section": "General",
+      "subtopic": "Environmental Pollution",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Environmental Pollution is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Environmental Pollution",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Environmental Pollution is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 64,
+      "topic": "Energy Changes",
+      "section": "General",
+      "subtopic": "Energy Changes",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Energy Changes is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is a core chemistry concept in Energy Changes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "Energy Changes is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 65,
+      "topic": "Solubility",
+      "section": "General",
+      "subtopic": "Solubility",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Solubility is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in Solubility"
+      },
+      "answer": "D",
+      "explanation": "Solubility is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 66,
+      "topic": "Acids, Bases and Salts",
+      "section": "General",
+      "subtopic": "Acids, Bases and Salts",
+      "difficulty": "easy",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "7",
+        "B": "1",
+        "C": "14",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 67,
+      "topic": "Electrolysis",
+      "section": "General",
+      "subtopic": "Electrolysis",
+      "difficulty": "easy",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Dissociated",
+        "B": "Reduced",
+        "C": "Oxidized",
+        "D": "Neutralized"
+      },
+      "answer": "B",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 68,
+      "topic": "Separation of Mixtures and Purification of Chemical Substances",
+      "section": "General",
+      "subtopic": "Separation of Mixtures and Purification of Chemical Substances",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Separation of Mixtures and Purification of Chemical Substances is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in Separation of Mixtures and Purification of Chemical Substances",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "C",
+      "explanation": "Separation of Mixtures and Purification of Chemical Substances is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 69,
+      "topic": "Acids, Bases and Salts",
+      "section": "General",
+      "subtopic": "Acids, Bases and Salts",
+      "difficulty": "hard",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "14",
+        "B": "0",
+        "C": "1",
+        "D": "7"
+      },
+      "answer": "D",
+      "explanation": "At 25°C, pure water has equal concentrations of H⁺ and OH⁻ ions, giving a pH of 7 (neutral)."
+    },
+    {
+      "id": 70,
+      "topic": "Kinetic Theory of Matter and Gas Laws",
+      "section": "General",
+      "subtopic": "Kinetic Theory of Matter and Gas Laws",
+      "difficulty": "medium",
+      "question": "Boyle's law states that the pressure of a fixed mass of gas is inversely proportional to its volume at constant:",
+      "options": {
+        "A": "Density",
+        "B": "Mass",
+        "C": "Temperature",
+        "D": "Pressure"
+      },
+      "answer": "C",
+      "explanation": "Boyle's Law: P ∝ 1/V (at constant temperature). PV = constant."
+    },
+    {
+      "id": 71,
+      "topic": "Organic Compounds",
+      "section": "General",
+      "subtopic": "Organic Compounds",
+      "difficulty": "easy",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ₋₂",
+        "B": "CₙH₂ₙ₊₂",
+        "C": "CₙH₂ₙ",
+        "D": "CₙHₙ"
+      },
+      "answer": "B",
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds only, following the formula CₙH₂ₙ₊₂."
+    },
+    {
+      "id": 72,
+      "topic": "Metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Metals and Their Compounds",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 2",
+        "C": "Group 7",
+        "D": "Group 0"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 73,
+      "topic": "Non-metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Non-metals and Their Compounds",
+      "difficulty": "easy",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 7",
+        "C": "Group 1",
+        "D": "Group 2"
+      },
+      "answer": "C",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 74,
+      "topic": "Chemistry and Industry",
+      "section": "General",
+      "subtopic": "Chemistry and Industry",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemistry and Industry is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Chemistry and Industry",
+        "B": "It applies only to physical changes",
+        "C": "It is unrelated to chemical processes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "A",
+      "explanation": "Chemistry and Industry is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 75,
+      "topic": "Energy Changes",
+      "section": "General",
+      "subtopic": "Energy Changes",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Energy Changes is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is a core chemistry concept in Energy Changes",
+        "C": "It is not tested in standard exams",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "B",
+      "explanation": "Energy Changes is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 76,
+      "topic": "Rates of Chemical Reaction",
+      "section": "General",
+      "subtopic": "Rates of Chemical Reaction",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Rates of Chemical Reaction is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is a core chemistry concept in Rates of Chemical Reaction",
+        "C": "It is not tested in standard exams",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Rates of Chemical Reaction is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 77,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It is a core chemistry concept in Chemical Equilibrium",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "B",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 78,
+      "topic": "Environmental Pollution",
+      "section": "General",
+      "subtopic": "Environmental Pollution",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Environmental Pollution is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in Environmental Pollution",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "C",
+      "explanation": "Environmental Pollution is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 79,
+      "topic": "Environmental Pollution",
+      "section": "General",
+      "subtopic": "Environmental Pollution",
+      "difficulty": "easy",
+      "question": "Which of the following statements about Environmental Pollution is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is not tested in standard exams",
+        "C": "It is a core chemistry concept in Environmental Pollution",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "Environmental Pollution is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 80,
+      "topic": "Non-metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Non-metals and Their Compounds",
+      "difficulty": "hard",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 0",
+        "C": "Group 2",
+        "D": "Group 7"
+      },
+      "answer": "A",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 81,
+      "topic": "Chemistry and Industry",
+      "section": "General",
+      "subtopic": "Chemistry and Industry",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemistry and Industry is correct?",
+      "options": {
+        "A": "It is unrelated to chemical processes",
+        "B": "It is not tested in standard exams",
+        "C": "It applies only to physical changes",
+        "D": "It is a core chemistry concept in Chemistry and Industry"
+      },
+      "answer": "D",
+      "explanation": "Chemistry and Industry is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 82,
+      "topic": "Atomic Structure and Bonding",
+      "section": "General",
+      "subtopic": "Atomic Structure and Bonding",
+      "difficulty": "medium",
+      "question": "An atom with 11 protons, 12 neutrons and 11 electrons has a mass number of:",
+      "options": {
+        "A": "11",
+        "B": "24",
+        "C": "22",
+        "D": "23"
+      },
+      "answer": "D",
+      "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+    },
+    {
+      "id": 83,
+      "topic": "Environmental Pollution",
+      "section": "General",
+      "subtopic": "Environmental Pollution",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Environmental Pollution is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Environmental Pollution",
+        "B": "It is not tested in standard exams",
+        "C": "It is unrelated to chemical processes",
+        "D": "It applies only to physical changes"
+      },
+      "answer": "A",
+      "explanation": "Environmental Pollution is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 84,
+      "topic": "Electrolysis",
+      "section": "General",
+      "subtopic": "Electrolysis",
+      "difficulty": "hard",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Neutralized",
+        "B": "Oxidized",
+        "C": "Reduced",
+        "D": "Dissociated"
+      },
+      "answer": "C",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 85,
+      "topic": "Metals and Their Compounds",
+      "section": "General",
+      "subtopic": "Metals and Their Compounds",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains the alkali metals?",
+      "options": {
+        "A": "Group 0",
+        "B": "Group 2",
+        "C": "Group 7",
+        "D": "Group 1"
+      },
+      "answer": "D",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are called alkali metals due to their alkaline oxides and hydroxides."
+    },
+    {
+      "id": 86,
+      "topic": "Solubility",
+      "section": "General",
+      "subtopic": "Solubility",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Solubility is correct?",
+      "options": {
+        "A": "It is a core chemistry concept in Solubility",
+        "B": "It is unrelated to chemical processes",
+        "C": "It applies only to physical changes",
+        "D": "It is not tested in standard exams"
+      },
+      "answer": "A",
+      "explanation": "Solubility is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 87,
+      "topic": "Chemical Equilibrium",
+      "section": "General",
+      "subtopic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "Which of the following statements about Chemical Equilibrium is correct?",
+      "options": {
+        "A": "It applies only to physical changes",
+        "B": "It is unrelated to chemical processes",
+        "C": "It is not tested in standard exams",
+        "D": "It is a core chemistry concept in Chemical Equilibrium"
+      },
+      "answer": "D",
+      "explanation": "Chemical Equilibrium is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 88,
+      "topic": "Chemistry and Industry",
+      "section": "General",
+      "subtopic": "Chemistry and Industry",
+      "difficulty": "hard",
+      "question": "Which of the following statements about Chemistry and Industry is correct?",
+      "options": {
+        "A": "It is not tested in standard exams",
+        "B": "It applies only to physical changes",
+        "C": "It is a core chemistry concept in Chemistry and Industry",
+        "D": "It is unrelated to chemical processes"
+      },
+      "answer": "C",
+      "explanation": "Chemistry and Industry is a fundamental chemistry topic that students must master for exam success."
+    },
+    {
+      "id": 89,
+      "topic": "Electrolysis",
+      "section": "General",
+      "subtopic": "Electrolysis",
+      "difficulty": "easy",
+      "question": "In the reaction: 2Na + Cl₂ → 2NaCl, chlorine is:",
+      "options": {
+        "A": "Dissociated",
+        "B": "Neutralized",
+        "C": "Reduced",
+        "D": "Oxidized"
+      },
+      "answer": "C",
+      "explanation": "Chlorine gains electrons (reduction) to form Cl⁻ ions, while sodium loses electrons (oxidation) to form Na⁺."
+    },
+    {
+      "id": 90,
+      "topic": "Kinetic Theory of Matter and Gas Laws",
+      "section": "General",
+      "subtopic": "Kinetic Theory of Matter and Gas Laws",
+      "difficulty": "hard",
+      "question": "Boyle's law states that the pressure of a fixed mass of gas is inversely proportional to its volume at constant:",
+      "options": {
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Density",
+        "D": "Mass"
+      },
+      "answer": "A",
+      "explanation": "Boyle's Law: P ∝ 1/V (at constant temperature). PV = constant."
+    }
+  ]
+}

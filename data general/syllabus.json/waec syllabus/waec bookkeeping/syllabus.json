@@ -1,0 +1,96 @@
+{
+  "subject": "Book Keeping",
+  "exam_board": "WAEC",
+  "cycle": "SSCE",
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "Introduction to Book Keeping",
+      "subtopics": [
+        "Meaning of Book Keeping",
+        "Definition",
+        "History",
+        "Nature",
+        "Importance and functions of Book Keeping",
+        "Career opportunities and beneficiaries of book keeping",
+        "Qualities and values of book keepers",
+        "Assets and Liabilities",
+        "Definition",
+        "Differences",
+        "Classification",
+        "Examples of Assets",
+        "Examples of Liabilities",
+        "Business Transactions",
+        "Meaning and types of business transactions",
+        "Parties involved in business transactions",
+        "Classification of Accounts",
+        "Personal accounts (debtors and creditors)",
+        "Impersonal accounts (real and nominal)",
+        "Source Documents",
+        "Definition, identification, types and uses of source documents"
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "Concepts and Conventions",
+      "subtopics": [
+        "Definition, identification, and the differences between concepts and conventions"
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "Books of Original Entry",
+      "subtopics": [
+        "Definition, purpose, types, format, uses and preparation of Books of Original Entry"
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "Ledger and Principles of Double Entry",
+      "subtopics": [
+        "Ledger",
+        "Definition, classification, format, uses and preparation of ledgers",
+        "Principles of Double Entry",
+        "Meaning, history, rules and making double entries"
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "Cash Book",
+      "subtopics": [
+        "Meaning, purpose, description, differences and preparation of",
+        "Single column cash book",
+        "Double column cash book",
+        "Three column cash book",
+        "Petty cash book"
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "Bank Reconciliation Statement",
+      "subtopics": [
+        "Terminologies and banking documents",
+        "Causes of differences between cash book and bank statement balance"
+      ]
+    },
+    {
+      "topic_number": 7,
+      "topic": "Trial Balance and Errors",
+      "subtopics": [
+        "Rules and preparation of trial balance",
+        "Meaning, types, classification of errors",
+        "Correction of errors and preparation of Suspense Account"
+      ]
+    },
+    {
+      "topic_number": 8,
+      "topic": "Financial Statements of Sole Proprietorship",
+      "subtopics": [
+        "Concept and preparation of trading, profit and loss account",
+        "Concept and preparation of balance sheet",
+        "Adjustments (e.g. accruals, prepayments, bad debts, provision for doubtful debts, depreciation, etc.)",
+        "Use of financial statements for decision making"
+      ]
+    }
+  ]
+}

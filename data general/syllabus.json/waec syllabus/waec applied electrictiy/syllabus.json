@@ -1,0 +1,322 @@
+{
+  "syllabus_title": "Basic Electricity / Applied Electricity",
+  "detailed_syllabus": {
+    "section_a": {
+      "title": "Section A (For all candidates)",
+      "topics": [
+        {
+          "topic_number": 1,
+          "title": "DIRECT CURRENT CIRCUIT THEORY",
+          "subtopics": [
+            {
+              "subtopic": "Structure of matter",
+              "notes": "Qualitative treatment of the structure of atoms in relation to electric current."
+            },
+            {
+              "subtopic": "Resistors",
+              "notes": "Types of resistors. Resistor colour code. Resistors in series and parallel. Power rating of resistors."
+            },
+            {
+              "subtopic": "Conductors and insulators",
+              "notes": "Definition, examples and characteristics."
+            },
+            {
+              "subtopic": "Ohm’s law and Kirchhoff’s laws",
+              "notes": "Qualitative treatments only."
+            },
+            {
+              "subtopic": "Power and energy",
+              "notes": "Treatment should include calculations."
+            }
+          ]
+        },
+        {
+          "topic_number": 2,
+          "title": "MAGNETIC FIELD AND ELECTROMAGNETISM",
+          "subtopics": [
+            {
+              "subtopic": "Fundamentals of magnetism",
+              "notes": "Types of magnet. Magnetic properties of materials: magnetic flux, magnetic flux density, permeability, magnetomotive force and reluctance."
+            },
+            {
+              "subtopic": "Concept of Electric field",
+              "notes": "Electric field and properties: electric flux, electric flux density, electric field strength, permittivity and dielectric constant, potential gradient. Comparison between magnetic and electric circuits."
+            },
+            {
+              "subtopic": "Capacitors",
+              "notes": "Types of capacitor. Capacitance and dielectric. Charge on capacitor, relationship between charge and applied voltage of a capacitor. Application of capacitors. Voltage rating. Series and parallel connection. Energy stored in a capacitor (E = ½QV = ½CV²): simple calculations."
+            },
+            {
+              "subtopic": "Electromagnetic field",
+              "notes": "Magnetic field around a current-carrying conductor. Fleming’s Right Hand Rule. Force on a current-carrying conductor in a magnetic field (F = BILsinθ). Lenz’s law and Faraday’s law. Emf induced in a coil (E = BLVsinθ). Simple calculations involving force and e.m.f. only."
+            },
+            {
+              "subtopic": "Self and Mutual Induction",
+              "notes": "Qualitative treatment of self and mutual induction. Energy stored in a coil (E = ½LI²). Application of electromagnetism as found in electric bell, security alarm system, solenoid, loudspeaker, buzzer, moving-coil instruments etc."
+            }
+          ]
+        },
+        {
+          "topic_number": 3,
+          "title": "MEASURING INSTRUMENTS",
+          "subtopics": [
+            {
+              "subtopic": "Moving-coil instrument",
+              "notes": "Construction, advantages and disadvantages. Conversion of moving-coil instrument to ammeter and voltmeter. Calculations of shunts and multipliers."
+            },
+            {
+              "subtopic": "Moving-iron instrument",
+              "notes": "Construction, principles of operation, advantages and disadvantages."
+            },
+            {
+              "subtopic": "Digital instrument",
+              "notes": "Multimeter, voltmeter, ammeter etc. Advantages and disadvantages."
+            }
+          ]
+        },
+        {
+          "topic_number": 4,
+          "title": "DIGITAL ELECTRONICS",
+          "subtopics": [
+            {
+              "subtopic": "Binary number",
+              "notes": "Conversion of decimal numbers to binary numbers and vice versa."
+            },
+            {
+              "subtopic": "Logic gates",
+              "notes": "Series connection of switches - AND gate, parallel connection of switches - OR gate and inverter - NOT gate. Truth table for logic gates. General symbols for AND, OR, NOT, NAND and NOR gates. Boolean expression."
+            }
+          ]
+        },
+        {
+          "topic_number": 5,
+          "title": "ALTERNATING CURRENT CIRCUIT THEORY",
+          "subtopics": [
+            {
+              "subtopic": "Generation of e.m.f. in a single turn coil",
+              "notes": "Plotting of labelled sinusoidal waveform for a complete cycle."
+            },
+            {
+              "subtopic": "A.C. quantities",
+              "notes": "A.C quantities (r.m.s., peak and average values, form factor, cycle, period and frequency)."
+            },
+            {
+              "subtopic": "RLC circuits",
+              "notes": "Solution of problems involving RL, RC and RLC series circuits. Conditions for resonance. Phasor diagram of series resonance."
+            }
+          ]
+        },
+        {
+          "topic_number": 6,
+          "title": "TRANSFORMERS",
+          "subtopics": [
+            {
+              "subtopic": "Types of transformer",
+              "notes": "Transformer construction. Type based on (i) construction (shell and core) and (ii) function (current and voltage)."
+            },
+            {
+              "subtopic": "Principles of operation of a transformer",
+              "notes": "Operation and transformation ratio."
+            },
+            {
+              "subtopic": "Losses and temperature rise in transformers",
+              "notes": "Transformer losses (copper and iron). Effect of losses and temperature rise in a transformer. Qualitative treatment only."
+            },
+            {
+              "subtopic": "Efficiency of transformers",
+              "notes": "Losses and efficiency of transformer."
+            },
+            {
+              "subtopic": "Cooling of transformers",
+              "notes": "Methods of cooling. Need for cooling."
+            }
+          ]
+        },
+        {
+          "topic_number": 7,
+          "title": "POWER SUPPLY",
+          "subtopics": [
+            {
+              "subtopic": "Power supply units",
+              "notes": "Power supply units: dry cell, solar cell, cadmium cell and accumulator. Block diagram of d.c. power supply. Functions of blocks of power supply."
+            },
+            {
+              "subtopic": "Rectification",
+              "notes": "Half-wave and full-wave rectifications. Filtration and stabilization."
+            }
+          ]
+        },
+        {
+          "topic_number": 8,
+          "title": "ELECTRICAL MACHINES",
+          "subtopics": [
+            {
+              "subtopic": "A.C. motors (Single phase)",
+              "notes": "Types of single phase motor: split-phase, capacitor-start, capacitor-run. Application of single-phase motors."
+            },
+            {
+              "subtopic": "Alternators",
+              "notes": "Principles of operation, parts and types. Relationship of speed, number of poles and frequency (Hz) f = ..."
+            },
+            {
+              "subtopic": "A.C. motors (Three phase)",
+              "notes": "Principles of operation, parts, type and application. Methods of starting: direct-on-line, star delta and auto transformer."
+            },
+            {
+              "subtopic": "D.C. generators",
+              "notes": "Principles of operation, parts and methods of connecting field windings."
+            },
+            {
+              "subtopic": "D.C. motors",
+              "notes": "Principles of operation, parts, types (shunt, compound, series) and application."
+            }
+          ]
+        },
+        {
+          "topic_number": 9,
+          "title": "ELECTRICAL ENERGY SUPPLY",
+          "subtopics": [
+            {
+              "subtopic": "Generating station",
+              "notes": "Methods of generating electrical power: diesel engine, steam engine, hydro-electric, nuclear, gas turbine."
+            }
+          ]
+        },
+        {
+          "topic_number": 10,
+          "title": "ELECTRICAL WIRING",
+          "subtopics": [
+            {
+              "subtopic": "Electrical installation",
+              "notes": "Types of wiring: surface, conduit, trunking, ducting. Selection of materials, tools and accessories. Application of IEE wiring regulation regarding domestic installation."
+            },
+            {
+              "subtopic": "Wiring",
+              "notes": "Cables and accessories. Current-carrying capacity of cable. Wiring of lighting and socket outlets and connection of plugs. Conduit, surface, trunking and ducting installations."
+            },
+            {
+              "subtopic": "Protection",
+              "notes": "Protective devices. Fuses and circuit breakers. Discrimination of protective devices."
+            },
+            {
+              "subtopic": "Earthing",
+              "notes": "Reasons for earthing. Methods of earthing. Earth loop impedance."
+            },
+            {
+              "subtopic": "Maintenance, Fault diagnosis and Repairs",
+              "notes": "Types of fault: short circuit, open circuit and earth leakage. Methods of diagnosing and repair of faults in an installation and equipment such as fluorescent fitting, electric iron, electric fan, blender etc."
+            },
+            {
+              "subtopic": "Testing of an installation",
+              "notes": "Continuity test, insulation resistance test, earth leakage test and polarity test."
+            },
+            {
+              "subtopic": "General Workshop Safety",
+              "notes": "Application of electrical safety regulations."
+            }
+          ]
+        }
+      ]
+    },
+    "section_b": {
+      "title": "Section B (For candidates in Ghana only)",
+      "topics": [
+        {
+          "topic_number": 11,
+          "title": "ELECTRON EMISSION",
+          "subtopics": [
+            {
+              "subtopic": "Electron emission",
+              "notes": "Methods of emitting electrons: Thermionic emission, photo emission, secondary emission and field emission."
+            },
+            {
+              "subtopic": "Thermionic emission",
+              "notes": "Functions of electrodes, parameters and application."
+            },
+            {
+              "subtopic": "Cathode Ray Tube (CRT)",
+              "notes": "Functions of electrodes in CRT."
+            }
+          ]
+        },
+        {
+          "topic_number": 12,
+          "title": "SEMICONDUCTOR",
+          "subtopics": [
+            {
+              "subtopic": "Theory",
+              "notes": "Properties of semiconductor materials. Differences between n-type and p-type semiconductor materials."
+            },
+            {
+              "subtopic": "Diode",
+              "notes": "Circuit symbol. PN junction diode. Barrier potential. Forward and reverse bias for a pn junction diode. Characteristics of a pn diode. Application of pn junction diode."
+            },
+            {
+              "subtopic": "Transistor",
+              "notes": "Bipolar transistor: two pn junction devices (npn and pnp). Configuration of bipolar transistor: CC, CB and CE. Principles of operation and mode of connection of the three configurations of a transistor. Characteristics of an npn transistor (common emitter). Unipolar transistor: p-channel and n-channel of field effect transistor (JFET). Principles of operation of JFET. Semiconductor devices and their application: diac, triac, SCR, LED and zener diode. Application of a photo transistor."
+            }
+          ]
+        },
+        {
+          "topic_number": 13,
+          "title": "COMMUNICATION",
+          "subtopics": [
+            {
+              "subtopic": "Electromagnetic waves",
+              "notes": "Characteristics of radio waves."
+            },
+            {
+              "subtopic": "Modulation",
+              "notes": "Amplitude and frequency modulation and their waveforms. Advantages of frequency modulation (F.M.) over amplitude modulation (A.M.)."
+            },
+            {
+              "subtopic": "Amplifiers",
+              "notes": "Classifications: class A, class B, class AB and class C. Application and efficiency of an amplifier."
+            },
+            {
+              "subtopic": "Operational amplifiers",
+              "notes": "Properties and construction of an ideal operational amplifier. Inverting and non-inverting op-amp."
+            },
+            {
+              "subtopic": "Integrated circuits",
+              "notes": "Simple integrated circuits and their uses."
+            }
+          ]
+        }
+      ]
+    },
+    "section_c": {
+      "title": "Section C (For candidates in Nigeria, Sierra Leone and The Gambia only)",
+      "topics": [
+        {
+          "topic_number": 14,
+          "title": "ELECTRICITY TRANSMISSION AND DISTRIBUTION",
+          "subtopics": [
+            {
+              "subtopic": "TRANSMISSION",
+              "notes": "Layout diagram of high voltage overhead transmission system. Treatment of main components (towers, insulators and conductors) and functions. Detailed treatment of components not required. Operating voltage levels for transmission lines (132 kV and 330 kV) and the need for high voltage system should be emphasized."
+            },
+            {
+              "subtopic": "DISTRIBUTION OF ELECTRICITY",
+              "notes": "Layout diagram and main components of electricity distribution. Functions of substation components (transformers, feeders etc.)."
+            }
+          ]
+        },
+        {
+          "topic_number": 15,
+          "title": "MAINTENANCE AND REPAIR OF VARIOUS ELECTRICAL APPLIANCES",
+          "subtopics": [
+            {
+              "subtopic": "Maintenance",
+              "notes": "Types (predictive, preventive and corrective)."
+            },
+            {
+              "subtopic": "Maintenance and repair of electrical appliances",
+              "notes": "Common faults that occur in electrical appliances (blender, electric iron, electric kettle, toaster, fluorescent lamps etc) such as short circuit, open circuit, earth fault etc."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

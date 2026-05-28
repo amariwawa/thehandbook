@@ -1,0 +1,204 @@
+{
+  "syllabus_title": "JAMB UTME Chemistry Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Separation of Mixtures and Purification of Chemical Substances",
+      "topics": [
+        "Pure and impure substances",
+        "Boiling and melting points",
+        "Elements, compounds and mixtures",
+        "Chemical and physical changes",
+        "Separation processes: Evaporation, simple and fractional distillation, sublimation, filtration, crystallization, paper and column chromatography, simple and fractional crystallization, magnetization, decantation"
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "Chemical Combination",
+      "topics": [
+        "Laws of definite, multiple and reciprocal proportions",
+        "Law of conservation of matter",
+        "Gay Lussac’s law of combining volumes",
+        "Avogadro’s law",
+        "Chemical symbols, formulae, equations and their uses",
+        "Relative atomic mass based on C=12",
+        "The mole concept and Avogadro’s number",
+        "Stoichiometry of reactions"
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "Kinetic Theory of Matter and Gas Laws",
+      "topics": [
+        "Phenomena supporting kinetic theory (melting, vapourization, boiling, freezing, condensation)",
+        "Boyle’s, Charles’, Graham’s and Dalton’s laws",
+        "Combined gas law",
+        "Ideal gas equation (PV = nRT)",
+        "Vapour density and relative molecular mass"
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "Atomic Structure and Bonding",
+      "topics": [
+        "Concept of atoms, molecules and ions",
+        "Contributions of Dalton, Millikan, Rutherford, Moseley, Thompson and Bohr",
+        "Atomic structure, electron configuration, atomic number, mass number and isotopes",
+        "Shapes of s and p orbitals",
+        "Periodic table and periodicity (ionization energy, ionic radii, electron affinity, electronegativity)",
+        "Chemical bonding: Electrovalency, covalency, coordinate bond, hydrogen bonding, metallic bonding, van der Waals’ forces",
+        "Shapes of simple molecules",
+        "Nuclear Chemistry: Radioactivity, nuclear reactions, half-life, applications"
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "Air",
+      "topics": [
+        "Natural gaseous constituents and proportions",
+        "Air as a mixture and uses of noble gases"
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "Water",
+      "topics": [
+        "Composition by volume",
+        "Water as solvent and biological significance of dissolved gases",
+        "Hard and soft water (temporary and permanent hardness)",
+        "Treatment of water for town supply",
+        "Water of crystallization, efflorescence, deliquescence and hygroscopy"
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "Solubility",
+      "topics": [
+        "Unsaturated, saturated and supersaturated solutions",
+        "Solubility curves and calculations",
+        "Solvents for fats, oils and paints",
+        "True solutions, suspensions and colloids"
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "Environmental Pollution",
+      "topics": [
+        "Sources and effects of pollutants",
+        "Air pollution (H₂S, CO, SO₂, oxides of nitrogen, CFCs, dust)",
+        "Water pollution (sewage and oil)",
+        "Soil pollution (oil spillage, biodegradable and non-biodegradable pollutants)"
+      ]
+    },
+    {
+      "section_number": 9,
+      "title": "Acids, Bases and Salts",
+      "topics": [
+        "General characteristics and properties",
+        "Acid/base indicators and basicity of acids",
+        "Preparation of salts (neutralization, precipitation, action of acids on metals)",
+        "pH and pOH scale",
+        "Acid/base titrations",
+        "Hydrolysis of salts"
+      ]
+    },
+    {
+      "section_number": 10,
+      "title": "Oxidation and Reduction (Redox)",
+      "topics": [
+        "Oxidation and reduction processes",
+        "Electron transfer",
+        "Oxidation numbers",
+        "IUPAC nomenclature using oxidation numbers",
+        "Tests for oxidizing and reducing agents"
+      ]
+    },
+    {
+      "section_number": 11,
+      "title": "Electrolysis",
+      "topics": [
+        "Electrolytes and non-electrolytes",
+        "Faraday’s laws",
+        "Electrolysis of various solutions",
+        "Uses of electrolysis (purification, production of elements/compounds)",
+        "Electrochemical cells and series",
+        "Corrosion and its prevention"
+      ]
+    },
+    {
+      "section_number": 12,
+      "title": "Energy Changes",
+      "topics": [
+        "Exothermic and endothermic reactions",
+        "Entropy and order-disorder",
+        "Spontaneity (∆G, ∆H, ∆S)"
+      ]
+    },
+    {
+      "section_number": 13,
+      "title": "Rates of Chemical Reaction",
+      "topics": [
+        "Factors affecting rate (temperature, concentration, surface area, catalyst)",
+        "Reaction rate curves",
+        "Activation energy and collision theory"
+      ]
+    },
+    {
+      "section_number": 14,
+      "title": "Chemical Equilibrium",
+      "topics": [
+        "Reversible reactions and dynamic equilibrium",
+        "Le Chatelier’s principle",
+        "Equilibrium constant"
+      ]
+    },
+    {
+      "section_number": 15,
+      "title": "Non-metals and Their Compounds",
+      "topics": [
+        "Hydrogen",
+        "Halogens (Chlorine as representative)",
+        "Oxygen and Sulphur (oxides, acids, allotropes, ozone)",
+        "Nitrogen (Ammonia, Trioxonitrate(V) acid, oxides, nitrogen cycle)",
+        "Carbon (Allotropes, CO₂, CO, Coal, Coke)"
+      ]
+    },
+    {
+      "section_number": 16,
+      "title": "Metals and Their Compounds",
+      "topics": [
+        "General properties of metals",
+        "Alkali metals (Sodium compounds)",
+        "Alkaline earth metals (Calcium compounds)",
+        "Aluminium",
+        "Tin",
+        "First transition series metals (Iron, Copper)",
+        "Alloys"
+      ]
+    },
+    {
+      "section_number": 17,
+      "title": "Organic Compounds",
+      "topics": [
+        "Aliphatic hydrocarbons (Alkanes, Alkenes, Alkynes)",
+        "Aromatic hydrocarbons (Benzene)",
+        "Alkanols",
+        "Alkanals and Alkanones",
+        "Alkanoic acids",
+        "Alkanoates (Esters, Saponification)",
+        "Amines",
+        "Carbohydrates",
+        "Proteins",
+        "Polymers (Natural and synthetic)"
+      ]
+    },
+    {
+      "section_number": 18,
+      "title": "Chemistry and Industry",
+      "topics": [
+        "Chemical industries: types, raw materials and relevance",
+        "Biotechnology"
+      ]
+    }
+  ]
+}

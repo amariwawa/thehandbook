@@ -1,0 +1,1409 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It is a secular philosophy",
+        "D": "It is not part of the Bible"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 2,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a foundational biblical concept examined in CRS",
+        "B": "It is not part of the Bible",
+        "C": "It is a secular philosophy",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "A",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 3,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "hard",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a foundational biblical concept examined in CRS",
+        "B": "It is not part of the Bible",
+        "C": "It is a secular philosophy",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "A",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 4,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Passover",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 5,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "hard",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Pentecost",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 6,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Passover"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 7,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Rome",
+        "C": "Damascus",
+        "D": "Antioch"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 8,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Jerusalem",
+        "C": "Rome",
+        "D": "Antioch"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 9,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Damascus",
+        "C": "Antioch",
+        "D": "Jerusalem"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 10,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Jerusalem",
+        "C": "Antioch",
+        "D": "Damascus"
+      },
+      "answer": "D",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 11,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 12,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Rome",
+        "C": "Antioch",
+        "D": "Jerusalem"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 13,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Antioch",
+        "C": "Jerusalem",
+        "D": "Rome"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 14,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Antioch",
+        "C": "Damascus",
+        "D": "Rome"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 15,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 16,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Jerusalem",
+        "C": "Antioch",
+        "D": "Damascus"
+      },
+      "answer": "D",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 17,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Antioch",
+        "B": "Damascus",
+        "C": "Jerusalem",
+        "D": "Rome"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 18,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "hard",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 19,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Day of Pentecost",
+        "C": "Passover"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 20,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a secular philosophy",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It belongs to Islamic studies",
+        "D": "It is not part of the Bible"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 21,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a secular philosophy",
+        "B": "It belongs to Islamic studies",
+        "C": "It is not part of the Bible",
+        "D": "It is a foundational biblical concept examined in CRS"
+      },
+      "answer": "D",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 22,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 23,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Passover",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 24,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Passover",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 25,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Damascus",
+        "C": "Jerusalem",
+        "D": "Antioch"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 26,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is not part of the Bible",
+        "B": "It belongs to Islamic studies",
+        "C": "It is a foundational biblical concept examined in CRS",
+        "D": "It is a secular philosophy"
+      },
+      "answer": "C",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 27,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "hard",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Day of Pentecost",
+        "C": "Passover"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 28,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is not part of the Bible",
+        "B": "It is a secular philosophy",
+        "C": "It belongs to Islamic studies",
+        "D": "It is a foundational biblical concept examined in CRS"
+      },
+      "answer": "D",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 29,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Jerusalem",
+        "C": "Damascus",
+        "D": "Antioch"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 30,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Damascus",
+        "C": "Jerusalem",
+        "D": "Antioch"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 31,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Damascus",
+        "C": "Jerusalem",
+        "D": "Antioch"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 32,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is not part of the Bible",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It is a secular philosophy",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 33,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "hard",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Day of Pentecost",
+        "C": "Passover"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 34,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Damascus",
+        "C": "Antioch",
+        "D": "Jerusalem"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 35,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Jerusalem",
+        "C": "Antioch",
+        "D": "Damascus"
+      },
+      "answer": "D",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 36,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 37,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a foundational biblical concept examined in CRS",
+        "B": "It is not part of the Bible",
+        "C": "It belongs to Islamic studies",
+        "D": "It is a secular philosophy"
+      },
+      "answer": "A",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 38,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It is a secular philosophy",
+        "D": "It is not part of the Bible"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 39,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Rome",
+        "C": "Jerusalem",
+        "D": "Antioch"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 40,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Passover"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 41,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Passover"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 42,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Rome",
+        "C": "Jerusalem",
+        "D": "Antioch"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 43,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a secular philosophy",
+        "B": "It is not part of the Bible",
+        "C": "It is a foundational biblical concept examined in CRS",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "C",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 44,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 45,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Antioch",
+        "B": "Rome",
+        "C": "Damascus",
+        "D": "Jerusalem"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 46,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 47,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Antioch",
+        "B": "Rome",
+        "C": "Damascus",
+        "D": "Jerusalem"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 48,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "hard",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It is not part of the Bible",
+        "D": "It is a secular philosophy"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 49,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Antioch",
+        "C": "Damascus",
+        "D": "Rome"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 50,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "hard",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is not part of the Bible",
+        "C": "It is a foundational biblical concept examined in CRS",
+        "D": "It is a secular philosophy"
+      },
+      "answer": "C",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 51,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Jerusalem",
+        "C": "Antioch",
+        "D": "Rome"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 52,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Antioch",
+        "B": "Jerusalem",
+        "C": "Rome",
+        "D": "Damascus"
+      },
+      "answer": "D",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 53,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Rome",
+        "C": "Jerusalem",
+        "D": "Antioch"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 54,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 55,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Antioch",
+        "B": "Jerusalem",
+        "C": "Damascus",
+        "D": "Rome"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 56,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Passover"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 57,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 58,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Day of Pentecost",
+        "C": "Passover"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 59,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a foundational biblical concept examined in CRS",
+        "B": "It is a secular philosophy",
+        "C": "It is not part of the Bible",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "A",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 60,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "hard",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is a foundational biblical concept examined in CRS",
+        "B": "It is not part of the Bible",
+        "C": "It is a secular philosophy",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "A",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 61,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Passover",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 62,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "hard",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 63,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Pentecost",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 64,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Pentecost",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 65,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "hard",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 66,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is a secular philosophy",
+        "C": "It is a foundational biblical concept examined in CRS",
+        "D": "It is not part of the Bible"
+      },
+      "answer": "C",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 67,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 68,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 69,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 70,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is not part of the Bible",
+        "B": "It is a secular philosophy",
+        "C": "It is a foundational biblical concept examined in CRS",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "C",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 71,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Jerusalem",
+        "C": "Antioch",
+        "D": "Rome"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 72,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Pentecost",
+        "B": "Passover",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "A",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 73,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Day of Pentecost",
+        "C": "Passover"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 74,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Jerusalem",
+        "C": "Antioch",
+        "D": "Damascus"
+      },
+      "answer": "D",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 75,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is not part of the Bible",
+        "C": "It is a secular philosophy",
+        "D": "It is a foundational biblical concept examined in CRS"
+      },
+      "answer": "D",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 76,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "hard",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is not part of the Bible",
+        "B": "It belongs to Islamic studies",
+        "C": "It is a secular philosophy",
+        "D": "It is a foundational biblical concept examined in CRS"
+      },
+      "answer": "D",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 77,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "medium",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Damascus",
+        "B": "Rome",
+        "C": "Antioch",
+        "D": "Jerusalem"
+      },
+      "answer": "A",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 78,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "hard",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Pentecost",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 79,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Rome",
+        "B": "Damascus",
+        "C": "Antioch",
+        "D": "Jerusalem"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 80,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Pentecost",
+        "C": "Day of Atonement,Sabbath"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 81,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "hard",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It is not part of the Bible",
+        "D": "It is a secular philosophy"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 82,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is not part of the Bible",
+        "B": "It is a secular philosophy",
+        "C": "It is a foundational biblical concept examined in CRS",
+        "D": "It belongs to Islamic studies"
+      },
+      "answer": "C",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 83,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "easy",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is not part of the Bible",
+        "C": "It is a secular philosophy",
+        "D": "It is a foundational biblical concept examined in CRS"
+      },
+      "answer": "D",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 84,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "easy",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Day of Atonement,Sabbath",
+        "B": "Day of Pentecost",
+        "C": "Passover"
+      },
+      "answer": "B",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 85,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Antioch",
+        "B": "Damascus",
+        "C": "Jerusalem",
+        "D": "Rome"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 86,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It belongs to Islamic studies",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It is not part of the Bible",
+        "D": "It is a secular philosophy"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    },
+    {
+      "id": 87,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "hard",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Antioch",
+        "C": "Damascus",
+        "D": "Rome"
+      },
+      "answer": "C",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 88,
+      "topic": "Themes from selected Epistles",
+      "section": "Section C",
+      "subtopic": "Themes from selected Epistles",
+      "difficulty": "easy",
+      "question": "Paul was converted to Christianity on the road to:",
+      "options": {
+        "A": "Antioch",
+        "B": "Damascus",
+        "C": "Rome",
+        "D": "Jerusalem"
+      },
+      "answer": "B",
+      "explanation": "Acts 9 records Paul's dramatic conversion on the road to Damascus, where he encountered the risen Christ."
+    },
+    {
+      "id": 89,
+      "topic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "section": "Section B",
+      "subtopic": "Themes from the Synoptic Gospels and the Acts of the Apostles",
+      "difficulty": "medium",
+      "question": "On which day were the apostles filled with the Holy Spirit?",
+      "options": {
+        "A": "Passover",
+        "B": "Day of Atonement,Sabbath",
+        "C": "Day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "Acts 2 describes the outpouring of the Holy Spirit on the Day of Pentecost, 50 days after Easter."
+    },
+    {
+      "id": 90,
+      "topic": "Themes from the Old Testament",
+      "section": "Section A",
+      "subtopic": "Themes from the Old Testament",
+      "difficulty": "medium",
+      "question": "Which statement about Themes from the Old Testament is correct in Christian Religious Studies?",
+      "options": {
+        "A": "It is not part of the Bible",
+        "B": "It is a foundational biblical concept examined in CRS",
+        "C": "It belongs to Islamic studies",
+        "D": "It is a secular philosophy"
+      },
+      "answer": "B",
+      "explanation": "Themes from the Old Testament is part of the CRS syllabus and is regularly tested."
+    }
+  ]
+}

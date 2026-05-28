@@ -17,10 +17,10 @@ import {
   ChevronRight
 } from "lucide-react";
 import Link from "next/link";
-import { useState, useMemo, useEffect } from "react";
+import { useState, useMemo, useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 
-export default function CustomPracticePage() {
+function CustomPracticePageContent() {
   const { 
     selectedSubjects, 
     toggleSubject, 
@@ -95,11 +95,11 @@ export default function CustomPracticePage() {
         <header className="flex flex-col md:flex-row md:items-end justify-between gap-8">
           <div className="space-y-6 w-full">
             <div className="flex justify-between items-end border-b border-slate-100 pb-8">
-              <div className="space-y-2">
-                <h1 className="text-6xl font-black display-font leading-none tracking-tighter text-slate-900 dark:text-white transition-all">
+              <div className="space-y-4">
+                <h1 className="text-5xl font-bold display-font leading-none tracking-tighter text-slate-900 dark:text-white transition-all whitespace-nowrap">
                   Subject <span className="text-[#1d3e8e] dark:text-indigo-400">Curator.</span>
                 </h1>
-                <p className="text-xl text-slate-500 dark:text-slate-400 font-medium">Build your scholarly stack for {activeExamType.toUpperCase()} excellence.</p>
+                <p className="text-sm text-zinc-400 font-medium">Build your scholarly stack for {activeExamType.toUpperCase()} excellence.</p>
               </div>
               <div className="flex gap-4">
                 <Link href="/dashboard" className="text-[10px] font-black text-slate-400 uppercase tracking-[0.4em] border-b-2 border-transparent hover:border-slate-200 transition-all pb-1">
@@ -160,12 +160,12 @@ export default function CustomPracticePage() {
                 Active {activeExamType !== 'mixed' ? activeExamType.toUpperCase() : "Global"} Stack
               </div>
               <div className="space-y-4">
-                <h2 className="text-5xl font-black display-font tracking-tight">
+                <h2 className="text-5xl font-bold display-font leading-none tracking-tighter">
                   {selectedSubjects.length > 0 
                     ? `${selectedSubjects.length} Subjects Ready` 
                     : "Your Stack is Empty"}
                 </h2>
-                <p className="text-lg text-white/60 font-medium leading-relaxed max-w-md">
+                <p className="text-sm text-white/60 font-medium leading-relaxed max-w-md">
                   {selectedSubjects.length > 0 
                     ? "Your selection is automatically synchronized. You can start a mixed session or review topics individually."
                     : "Start by picking subjects below to create your customized academic priority list."}
@@ -180,7 +180,7 @@ export default function CustomPracticePage() {
                       Start {activeExamType !== 'mixed' ? activeExamType.toUpperCase() : "Mixed"} Session
                     </button>
                     <button 
-                      onClick={clearStack}
+                      onClick={() => clearStack()}
                       className="text-white/50 hover:text-white font-bold text-sm flex items-center gap-2 transition-colors px-6"
                     >
                       <Trash2 className="w-4 h-4" />
@@ -311,7 +311,7 @@ export default function CustomPracticePage() {
         )}
 
         {/* Selection Grid - Senior Secondary */}
-        {(!isBeceMode || activeExamType === 'mixed') && (
+        {!isBeceMode && (
           <section id="senior-subjects" className="space-y-12">
             <div className="flex items-center justify-between border-b border-slate-100 dark:border-white/5 pb-8">
               <div className="flex items-center gap-6">
@@ -408,5 +408,19 @@ export default function CustomPracticePage() {
         )}
       </div>
     </SidebarLayout>
+  );
+}
+
+export default function CustomPracticePage() {
+  return (
+    <Suspense fallback={
+      <SidebarLayout>
+        <div className="flex flex-col items-center justify-center h-[60vh] space-y-4">
+          <div className="w-12 h-12 border-4 border-indigo-100 dark:border-white/10 border-t-[#1d3e8e] rounded-full animate-spin" />
+        </div>
+      </SidebarLayout>
+    }>
+      <CustomPracticePageContent />
+    </Suspense>
   );
 }

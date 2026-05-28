@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "NUTRITION AND HEALTH",
+      "section": "General",
+      "subtopic": "NUTRITION AND HEALTH",
+      "difficulty": "easy",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Protein",
+        "C": "Carbohydrate",
+        "D": "Vitamin C"
+      },
+      "answer": "B",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 2,
+      "topic": "NUTRITION AND HEALTH",
+      "section": "General",
+      "subtopic": "NUTRITION AND HEALTH",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Vitamin C",
+        "C": "Protein",
+        "D": "Carbohydrate"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 3,
+      "topic": "NUTRITION AND HEALTH",
+      "section": "General",
+      "subtopic": "NUTRITION AND HEALTH",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Fat",
+        "D": "Vitamin C"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 4,
+      "topic": "FOOD LABORATORY AND EQUIPMENT",
+      "section": "General",
+      "subtopic": "FOOD LABORATORY AND EQUIPMENT",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD LABORATORY AND EQUIPMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "FOOD LABORATORY AND EQUIPMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "FOOD LABORATORY AND EQUIPMENT",
+      "section": "General",
+      "subtopic": "FOOD LABORATORY AND EQUIPMENT",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD LABORATORY AND EQUIPMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "FOOD LABORATORY AND EQUIPMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "FOOD LABORATORY AND EQUIPMENT",
+      "section": "General",
+      "subtopic": "FOOD LABORATORY AND EQUIPMENT",
+      "difficulty": "easy",
+      "question": "Which statement about FOOD LABORATORY AND EQUIPMENT is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "FOOD LABORATORY AND EQUIPMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "easy",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "easy",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Drying",
+        "B": "Salting",
+        "C": "Smoking",
+        "D": "Refrigeration"
+      },
+      "answer": "D",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 11,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "medium",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Smoking",
+        "B": "Drying",
+        "C": "Refrigeration",
+        "D": "Salting"
+      },
+      "answer": "C",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 12,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "hard",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Smoking",
+        "B": "Salting",
+        "C": "Refrigeration",
+        "D": "Drying"
+      },
+      "answer": "C",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 13,
+      "topic": "FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD PREPARATION",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD PREPARATION",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD PREPARATION",
+      "difficulty": "easy",
+      "question": "Which statement about FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "BEVERAGES",
+      "section": "General",
+      "subtopic": "BEVERAGES",
+      "difficulty": "hard",
+      "question": "Which statement about BEVERAGES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "BEVERAGES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "BEVERAGES",
+      "section": "General",
+      "subtopic": "BEVERAGES",
+      "difficulty": "easy",
+      "question": "Which statement about BEVERAGES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BEVERAGES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "BEVERAGES",
+      "section": "General",
+      "subtopic": "BEVERAGES",
+      "difficulty": "medium",
+      "question": "Which statement about BEVERAGES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "BEVERAGES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "CONVENIENCE FOODS",
+      "section": "General",
+      "subtopic": "CONVENIENCE FOODS",
+      "difficulty": "easy",
+      "question": "Which statement about CONVENIENCE FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "CONVENIENCE FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "CONVENIENCE FOODS",
+      "section": "General",
+      "subtopic": "CONVENIENCE FOODS",
+      "difficulty": "medium",
+      "question": "Which statement about CONVENIENCE FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "CONVENIENCE FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "CONVENIENCE FOODS",
+      "section": "General",
+      "subtopic": "CONVENIENCE FOODS",
+      "difficulty": "hard",
+      "question": "Which statement about CONVENIENCE FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "CONVENIENCE FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "medium",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "hard",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "easy",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "hard",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "medium",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "ART OF ENTERTAINING",
+      "section": "General",
+      "subtopic": "ART OF ENTERTAINING",
+      "difficulty": "easy",
+      "question": "Which statement about ART OF ENTERTAINING is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "ART OF ENTERTAINING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "ART OF ENTERTAINING",
+      "section": "General",
+      "subtopic": "ART OF ENTERTAINING",
+      "difficulty": "medium",
+      "question": "Which statement about ART OF ENTERTAINING is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "ART OF ENTERTAINING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "ART OF ENTERTAINING",
+      "section": "General",
+      "subtopic": "ART OF ENTERTAINING",
+      "difficulty": "hard",
+      "question": "Which statement about ART OF ENTERTAINING is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "ART OF ENTERTAINING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "medium",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "hard",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "easy",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "SELF EMPLOYMENT",
+      "section": "General",
+      "subtopic": "SELF EMPLOYMENT",
+      "difficulty": "easy",
+      "question": "Which statement about SELF EMPLOYMENT is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "SELF EMPLOYMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "SELF EMPLOYMENT",
+      "section": "General",
+      "subtopic": "SELF EMPLOYMENT",
+      "difficulty": "medium",
+      "question": "Which statement about SELF EMPLOYMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "SELF EMPLOYMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "SELF EMPLOYMENT",
+      "section": "General",
+      "subtopic": "SELF EMPLOYMENT",
+      "difficulty": "hard",
+      "question": "Which statement about SELF EMPLOYMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "SELF EMPLOYMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "easy",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Drying",
+        "B": "Refrigeration",
+        "C": "Smoking",
+        "D": "Salting"
+      },
+      "answer": "B",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 41,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 42,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "hard",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD PREPARATION",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "medium",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "hard",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "CONVENIENCE FOODS",
+      "section": "General",
+      "subtopic": "CONVENIENCE FOODS",
+      "difficulty": "easy",
+      "question": "Which statement about CONVENIENCE FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "A",
+      "explanation": "CONVENIENCE FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "NUTRITION AND HEALTH",
+      "section": "General",
+      "subtopic": "NUTRITION AND HEALTH",
+      "difficulty": "hard",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Fat",
+        "B": "Vitamin C",
+        "C": "Protein",
+        "D": "Carbohydrate"
+      },
+      "answer": "C",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 50,
+      "topic": "FOOD LABORATORY AND EQUIPMENT",
+      "section": "General",
+      "subtopic": "FOOD LABORATORY AND EQUIPMENT",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD LABORATORY AND EQUIPMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOOD LABORATORY AND EQUIPMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "SELF EMPLOYMENT",
+      "section": "General",
+      "subtopic": "SELF EMPLOYMENT",
+      "difficulty": "hard",
+      "question": "Which statement about SELF EMPLOYMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "SELF EMPLOYMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "NUTRITION AND HEALTH",
+      "section": "General",
+      "subtopic": "NUTRITION AND HEALTH",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Protein",
+        "B": "Vitamin C",
+        "C": "Fat",
+        "D": "Carbohydrate"
+      },
+      "answer": "A",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 54,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "medium",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is an important home economics concept",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "hard",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It is a physics law"
+      },
+      "answer": "C",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "easy",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Salting",
+        "B": "Drying",
+        "C": "Refrigeration",
+        "D": "Smoking"
+      },
+      "answer": "C",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 60,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "medium",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Smoking",
+        "B": "Salting",
+        "C": "Refrigeration",
+        "D": "Drying"
+      },
+      "answer": "C",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 62,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "hard",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "medium",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "FOOD LABORATORY AND EQUIPMENT",
+      "section": "General",
+      "subtopic": "FOOD LABORATORY AND EQUIPMENT",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD LABORATORY AND EQUIPMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "FOOD LABORATORY AND EQUIPMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "ART OF ENTERTAINING",
+      "section": "General",
+      "subtopic": "ART OF ENTERTAINING",
+      "difficulty": "medium",
+      "question": "Which statement about ART OF ENTERTAINING is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "ART OF ENTERTAINING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "easy",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "hard",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "NUTRITION AND HEALTH",
+      "section": "General",
+      "subtopic": "NUTRITION AND HEALTH",
+      "difficulty": "medium",
+      "question": "Which nutrient is primarily responsible for body building and repair?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Carbohydrate",
+        "C": "Fat",
+        "D": "Protein"
+      },
+      "answer": "D",
+      "explanation": "Proteins are body-building nutrients that repair tissues, produce enzymes, and support growth."
+    },
+    {
+      "id": 71,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "medium",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Smoking",
+        "B": "Salting",
+        "C": "Drying",
+        "D": "Refrigeration"
+      },
+      "answer": "D",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 72,
+      "topic": "FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD PREPARATION",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "ART OF ENTERTAINING",
+      "section": "General",
+      "subtopic": "ART OF ENTERTAINING",
+      "difficulty": "medium",
+      "question": "Which statement about ART OF ENTERTAINING is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "ART OF ENTERTAINING is part of the Home Economics syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "BEVERAGES",
+      "section": "General",
+      "subtopic": "BEVERAGES",
+      "difficulty": "hard",
+      "question": "Which statement about BEVERAGES is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "BEVERAGES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "FOOD PREPARATION",
+      "section": "General",
+      "subtopic": "FOOD PREPARATION",
+      "difficulty": "hard",
+      "question": "Which statement about FOOD PREPARATION is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "FOOD PREPARATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "medium",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Salting",
+        "B": "Refrigeration",
+        "C": "Smoking",
+        "D": "Drying"
+      },
+      "answer": "B",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 77,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "medium",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It belongs to commerce",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "FOOD COMMODITIES",
+      "section": "General",
+      "subtopic": "FOOD COMMODITIES",
+      "difficulty": "medium",
+      "question": "Which statement about FOOD COMMODITIES is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is a physics law",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "FOOD COMMODITIES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "medium",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It belongs to commerce",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "CONSUMER EDUCATION",
+      "section": "General",
+      "subtopic": "CONSUMER EDUCATION",
+      "difficulty": "easy",
+      "question": "Which statement about CONSUMER EDUCATION is correct in Home Economics?",
+      "options": {
+        "A": "It is an important home economics concept",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It belongs to commerce"
+      },
+      "answer": "A",
+      "explanation": "CONSUMER EDUCATION is part of the Home Economics syllabus."
+    },
+    {
+      "id": 81,
+      "topic": "SELF EMPLOYMENT",
+      "section": "General",
+      "subtopic": "SELF EMPLOYMENT",
+      "difficulty": "easy",
+      "question": "Which statement about SELF EMPLOYMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It belongs to commerce"
+      },
+      "answer": "B",
+      "explanation": "SELF EMPLOYMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "easy",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Salting",
+        "B": "Smoking",
+        "C": "Refrigeration",
+        "D": "Drying"
+      },
+      "answer": "C",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    },
+    {
+      "id": 83,
+      "topic": "SELF EMPLOYMENT",
+      "section": "General",
+      "subtopic": "SELF EMPLOYMENT",
+      "difficulty": "medium",
+      "question": "Which statement about SELF EMPLOYMENT is correct in Home Economics?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to commerce",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "SELF EMPLOYMENT is part of the Home Economics syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "section": "General",
+      "subtopic": "FESTIVE DISHES/SPECIAL OCCASION DISHES",
+      "difficulty": "hard",
+      "question": "Which statement about FESTIVE DISHES/SPECIAL OCCASION DISHES is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It is not examined",
+        "C": "It is an important home economics concept",
+        "D": "It belongs to commerce"
+      },
+      "answer": "C",
+      "explanation": "FESTIVE DISHES/SPECIAL OCCASION DISHES is part of the Home Economics syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "EXPERIMENTAL COOKERY",
+      "section": "General",
+      "subtopic": "EXPERIMENTAL COOKERY",
+      "difficulty": "hard",
+      "question": "Which statement about EXPERIMENTAL COOKERY is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is not examined",
+        "C": "It is a physics law",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "EXPERIMENTAL COOKERY is part of the Home Economics syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "CONVENIENCE FOODS",
+      "section": "General",
+      "subtopic": "CONVENIENCE FOODS",
+      "difficulty": "easy",
+      "question": "Which statement about CONVENIENCE FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "CONVENIENCE FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "CONVENIENCE FOODS",
+      "section": "General",
+      "subtopic": "CONVENIENCE FOODS",
+      "difficulty": "medium",
+      "question": "Which statement about CONVENIENCE FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It is a physics law",
+        "B": "It belongs to commerce",
+        "C": "It is not examined",
+        "D": "It is an important home economics concept"
+      },
+      "answer": "D",
+      "explanation": "CONVENIENCE FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "hard",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is a physics law",
+        "C": "It is an important home economics concept",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "section": "General",
+      "subtopic": "RECHAUFFÉ (LEFTOVER) FOODS",
+      "difficulty": "hard",
+      "question": "Which statement about RECHAUFFÉ (LEFTOVER) FOODS is correct in Home Economics?",
+      "options": {
+        "A": "It belongs to commerce",
+        "B": "It is an important home economics concept",
+        "C": "It is not examined",
+        "D": "It is a physics law"
+      },
+      "answer": "B",
+      "explanation": "RECHAUFFÉ (LEFTOVER) FOODS is part of the Home Economics syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "FOOD STORAGE AND PRESERVATION",
+      "section": "General",
+      "subtopic": "FOOD STORAGE AND PRESERVATION",
+      "difficulty": "hard",
+      "question": "Which method of food preservation works by slowing down microbial growth through low temperature?",
+      "options": {
+        "A": "Salting",
+        "B": "Smoking",
+        "C": "Drying",
+        "D": "Refrigeration"
+      },
+      "answer": "D",
+      "explanation": "Refrigeration slows bacterial growth by maintaining low temperatures, extending food shelf life."
+    }
+  ]
+}

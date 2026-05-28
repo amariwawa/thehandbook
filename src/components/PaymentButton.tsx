@@ -65,9 +65,9 @@ export default function PaymentButton({ plan }: { plan: Plan }) {
     return (
       <Link 
         href="/dashboard"
-        className="w-full py-4 rounded-[1.5rem] font-black text-[11px] uppercase tracking-[0.2em] mt-16 transition-all active:scale-95 text-center bg-slate-50 dark:bg-white/10 text-slate-400 dark:text-slate-300 border border-slate-100 dark:border-white/5"
+        className="w-full bg-[#141414] border border-zinc-800 text-white py-3 rounded-lg font-bold text-sm flex justify-center items-center gap-2 hover:bg-zinc-800 transition-all text-center"
       >
-        {plan.cta}
+        {plan.cta} →
       </Link>
     );
   }
@@ -76,7 +76,7 @@ export default function PaymentButton({ plan }: { plan: Plan }) {
     <>
       {isProcessing && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 backdrop-blur-sm">
-          <div className="bg-white dark:bg-zinc-900 p-10 rounded-[3rem] shadow-2xl border border-white/10 text-center space-y-6 animate-in fade-in zoom-in duration-500">
+          <div className="bg-white dark:bg-zinc-900 p-10 rounded-[3rem] shadow-2xl border border-white/10 text-center space-y-6">
             <div className="w-20 h-20 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-2 shadow-[0_0_30px_rgba(34,197,94,0.3)]">
               <Check className="text-white w-10 h-10 stroke-[3px]" />
             </div>
@@ -90,13 +90,9 @@ export default function PaymentButton({ plan }: { plan: Plan }) {
 
       <button 
         onClick={handlePayment}
-        className={`w-full py-4 rounded-[1.5rem] font-black text-[11px] uppercase tracking-[0.2em] mt-16 transition-all active:scale-95 text-center ${
-          plan.recommended 
-            ? 'bg-white text-[#1d3e8e] shadow-xl hover:bg-slate-50' 
-            : 'bg-slate-200 dark:bg-white/5 text-slate-600 dark:text-slate-200'
-        }`}
+        className="w-full bg-[#141414] border border-zinc-800 text-white py-3 rounded-lg font-bold text-sm flex justify-center items-center gap-2 hover:bg-zinc-800 transition-all"
       >
-        [MANUAL] {plan.cta}
+        {plan.cta} →
       </button>
     </>
   );

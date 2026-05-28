@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 2,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 3,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 4,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "medium",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 5,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "hard",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 6,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 7,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 8,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 9,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 10,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 11,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 12,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 13,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Creating awareness",
+        "C": "Informing the public",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 14,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Persuading customers",
+        "C": "Informing the public",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 15,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Persuading customers",
+        "C": "Creating awareness",
+        "D": "Setting the factory price"
+      },
+      "answer": "D",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 16,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 17,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 18,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 19,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 20,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 21,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 22,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 23,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 24,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 25,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 26,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 27,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 28,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 29,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 30,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 31,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 32,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 33,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 34,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 35,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 36,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 37,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 38,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 39,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 40,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 41,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "medium",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 42,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 43,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 44,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 45,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 46,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 47,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 48,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 49,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 50,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 51,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 52,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 53,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 54,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 55,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "medium",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 56,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 57,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 58,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 59,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 60,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 61,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Informing the public",
+        "C": "Creating awareness",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 62,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Informing the public",
+        "B": "Creating awareness",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 63,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "medium",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is a scientific law",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 64,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Setting the factory price",
+        "B": "Creating awareness",
+        "C": "Informing the public",
+        "D": "Persuading customers"
+      },
+      "answer": "A",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 65,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 66,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 67,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 68,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 69,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "hard",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 70,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 71,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Informing the public",
+        "C": "Setting the factory price",
+        "D": "Persuading customers"
+      },
+      "answer": "C",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 72,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 73,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Creating awareness",
+        "B": "Setting the factory price",
+        "C": "Persuading customers",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    },
+    {
+      "id": 74,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "A",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 75,
+      "topic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "section": "General",
+      "subtopic": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a scientific law",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "ENTREPRENEURSHIP, SERVICE DELIVERY AND SKILL ACQUISITION IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 76,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 77,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 78,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to government studies",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 79,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "hard",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It is a scientific law"
+      },
+      "answer": "C",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 80,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 81,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "medium",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is not examined",
+        "C": "It is a commercial concept in the syllabus",
+        "D": "It belongs to government studies"
+      },
+      "answer": "C",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 82,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is not examined",
+        "C": "It is a scientific law",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 83,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It belongs to government studies",
+        "C": "It is not examined",
+        "D": "It is a commercial concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 84,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "hard",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It belongs to government studies",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 85,
+      "topic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "section": "General",
+      "subtopic": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM",
+      "difficulty": "medium",
+      "question": "Which statement about BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a commercial concept in the syllabus",
+        "B": "It is a scientific law",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BUSINESS AND ENTREPRENEURIAL SKILLS IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 86,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "easy",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 87,
+      "topic": "CONCEPTS AND TOURISM RESOURCES",
+      "section": "General",
+      "subtopic": "CONCEPTS AND TOURISM RESOURCES",
+      "difficulty": "easy",
+      "question": "Which statement about CONCEPTS AND TOURISM RESOURCES is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is a scientific law",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "CONCEPTS AND TOURISM RESOURCES is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 88,
+      "topic": "FESTIVALS AND HERITAGES IN A NATION",
+      "section": "General",
+      "subtopic": "FESTIVALS AND HERITAGES IN A NATION",
+      "difficulty": "hard",
+      "question": "Which statement about FESTIVALS AND HERITAGES IN A NATION is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It is a scientific law",
+        "D": "It belongs to government studies"
+      },
+      "answer": "B",
+      "explanation": "FESTIVALS AND HERITAGES IN A NATION is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 89,
+      "topic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "section": "General",
+      "subtopic": "PUBLIC AND PRIVATE AGENCIES IN TOURISM",
+      "difficulty": "easy",
+      "question": "Which statement about PUBLIC AND PRIVATE AGENCIES IN TOURISM is correct in Commerce/Business Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a commercial concept in the syllabus",
+        "C": "It belongs to government studies",
+        "D": "It is a scientific law"
+      },
+      "answer": "B",
+      "explanation": "PUBLIC AND PRIVATE AGENCIES IN TOURISM is part of the Commerce syllabus and is regularly tested."
+    },
+    {
+      "id": 90,
+      "topic": "TOURISM MARKETING",
+      "section": "General",
+      "subtopic": "TOURISM MARKETING",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": {
+        "A": "Persuading customers",
+        "B": "Setting the factory price",
+        "C": "Creating awareness",
+        "D": "Informing the public"
+      },
+      "answer": "B",
+      "explanation": "Advertising informs, persuades, and reminds consumers. Price-setting is a pricing decision, not an advertising function."
+    }
+  ]
+}

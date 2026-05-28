@@ -1,0 +1,317 @@
+{
+  "subject": "Prevocational Studies",
+  "exam": "BECE",
+  "themes": [
+    {
+      "theme": "Agriculture",
+      "sub_themes": [
+        {
+          "sn": "1",
+          "sub_theme": "Concept and medium of agricultural production",
+          "topics": [
+            {
+              "topic": "Importance and forms of agriculture",
+              "objectives": [
+                "Importance of agriculture in the society: Source of food, Clothing, etc.",
+                "Types of agricultural practices in the localities: Pastoral farming, Arable farming, etc.",
+                "Forms of agricultural activities in the communities: Growing of crops, Rearing of livestock, Rearing of fish, Apiculture (bee farming), Snail rearing (snailry)"
+              ]
+            },
+            {
+              "topic": "Classes and uses of crops",
+              "objectives": [
+                "Crop plant forms: Monocotyledons (e.g. maize, guinea corn), Dicotyledons (e.g. cowpea, melon)",
+                "Classification of crops based on life span and uses",
+                "Sources: Carbohydrate, Protein, Fats and Oil, Minerals, Vitamins"
+              ]
+            },
+            {
+              "topic": "Classes and uses of farm animals",
+              "objectives": [
+                "Types of farm animals: Work animals, Dairy animals, Guard animals, Poultry, Aquatic animals, Pets, etc.",
+                "Basic characteristics of farm animals",
+                "Classification of farm animals based on size, habitat, mammals and non-mammals, stomach types, uses"
+              ]
+            },
+            {
+              "topic": "Methods of Weed and Pests Control",
+              "objectives": [
+                "Characteristics of weeds: Easily dispersed, Long dormancy",
+                "Uses of weeds: Medicinal, Food, etc.",
+                "Methods of weed control: Rotation of crop, Herbicides, etc.",
+                "Effects of weed control methods on vegetation and soil",
+                "Classification of insect pests based on mouth parts",
+                "Description of the damage done by crop pests and effects on yield"
+              ]
+            },
+            {
+              "topic": "Factors of Agricultural Production",
+              "objectives": [
+                "Factors of production: Land, Labour, Water, Money, Management"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": "2",
+          "sub_theme": "Processing of agricultural production",
+          "topics": [
+            {
+              "topic": "Farm Structures and Buildings",
+              "objectives": [
+                "Description, uses, and maintenance of farm structures and farm buildings"
+              ]
+            },
+            {
+              "topic": "Crop Propagation and Cultural Practices",
+              "objectives": [
+                "Meaning of propagation",
+                "Methods of crop propagation: By seed (sexual), By vegetative organs (asexual)",
+                "Advantages and disadvantages of each method"
+              ]
+            },
+            {
+              "topic": "Agricultural Practices",
+              "objectives": [
+                "Pre-planting operations: Choice of site, Clearing, Stumping, Plotting, Tilling, Seed selection, Nursery practices",
+                "Planting operations: Seed treatment, Spacing and planting",
+                "Post-planting operations: Thinning, Supplying, Mulching, Manuring/fertilizer application, Harvesting",
+                "Effects of timely vs. late harvesting",
+                "Post-harvest operations: Processing, Storage"
+              ]
+            },
+            {
+              "topic": "Animal Feeds and Feeding",
+              "objectives": [
+                "Meaning of feed",
+                "Types of feed: Energy-yielding, Protein-yielding",
+                "Feeding tools: Troughs, Drinker sets, etc."
+              ]
+            },
+            {
+              "topic": "Animal Pests and Disease Control",
+              "objectives": [
+                "Farm animal diseases (bacterial, fungal, viral, protozoan, worms, nutritional)",
+                "Modes of transmission",
+                "Symptoms and effects of diseases",
+                "Methods of prevention and control"
+              ]
+            },
+            {
+              "topic": "Fishery",
+              "objectives": [
+                "Definition of fishery",
+                "Classes of fish (habitat, morphology, other aquatic organisms)",
+                "Uses of fish and fish products",
+                "Methods of fishing",
+                "Risk factors in water and fish farming"
+              ]
+            },
+            {
+              "topic": "Forest and Forest Uses",
+              "objectives": [
+                "Types of forest: Mangrove, Rain forest, Derived forest",
+                "Forest resources and their uses",
+                "Effects of forest on the environment",
+                "Human activities affecting the forest and depletion of wildlife"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": "3",
+          "sub_theme": "Produce packaging and marketing",
+          "topics": [
+            {
+              "topic": "Packaging Criteria",
+              "objectives": [
+                "Packaging criteria: Nature of produce, Bulkiness, Live/frozen/dry stock, Distance to market",
+                "Examples of packaging items: Boxes, Drums/barrels, Cages, Polythene, Trays, etc."
+              ]
+            },
+            {
+              "topic": "Pricing and Advertising",
+              "objectives": [
+                "Definition of pricing",
+                "Price determinants: Cost of production, Quality, Quantity, Demand and supply, etc."
+              ]
+            },
+            {
+              "topic": "Records and Book Keeping",
+              "objectives": [
+                "Definition and uses of farm records",
+                "Types of farm records (diary, inventory, input, production, etc.)",
+                "Computer-aided records",
+                "Book keeping, source documents, and journal preparation"
+              ]
+            },
+            {
+              "topic": "Agriculture in Stock Exchange",
+              "objectives": [
+                "Meaning of stock exchange",
+                "People involved",
+                "Importance in agriculture"
+              ]
+            },
+            {
+              "topic": "Export Promotion in Agriculture",
+              "objectives": [
+                "Meaning of export promotion",
+                "Examples of Nigerian export produce (Cocoa, Palm produce, etc.)",
+                "Benefits of export promotion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Home Economics",
+      "sub_themes": [
+        {
+          "sn": "1",
+          "sub_theme": "Family Living and Resource Management",
+          "topics": [
+            {
+              "topic": "Puberty, Adolescence, Sexually Transmitted Infection (STI), Human Rights",
+              "objectives": [
+                "Meaning of puberty and adolescence, signs of puberty",
+                "Needs and challenges of the adolescent",
+                "Sexually Transmitted Infections (STIs) and HIV/AIDS",
+                "Fundamental human rights and rights of the child"
+              ]
+            },
+            {
+              "topic": "Family Needs, Goals and Standards",
+              "objectives": [
+                "Meaning and types of family needs and wants",
+                "Meaning of family goals and standards",
+                "Relationship among needs, goals, and standards",
+                "Uses in resource management"
+              ]
+            },
+            {
+              "topic": "Resources and Decision Making",
+              "objectives": [
+                "Meaning and types of family resources",
+                "Steps in decision making",
+                "Simple personal and family decisions"
+              ]
+            },
+            {
+              "topic": "Consumer Challenges and Rights",
+              "objectives": [
+                "Definition of consumer, rights, challenges, redress options and procedures"
+              ]
+            },
+            {
+              "topic": "Child Development and Care",
+              "objectives": [
+                "Meaning and stages of child development",
+                "Factors influencing child development",
+                "Conditions necessary, care of the child, common ailments, immunization"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": "2",
+          "sub_theme": "Clothing and Textiles",
+          "topics": [
+            {
+              "topic": "Production of Clothing and Household Articles/Crafts",
+              "objectives": [
+                "Simple household articles and crafts, tools/materials",
+                "Construction of articles",
+                "Income-yielding crafts"
+              ]
+            },
+            {
+              "topic": "Care of Family Clothing and Household Linen",
+              "objectives": [
+                "Types of household linen, selection factors",
+                "Clothing repairs, maintenance, and storage"
+              ]
+            },
+            {
+              "topic": "Basic Pattern Drafting Techniques and Fashion Designing",
+              "objectives": [
+                "Meaning of pattern drafting and fashion designing",
+                "Tools/equipment, sketching, body measurements, drafting basic patterns"
+              ]
+            },
+            {
+              "topic": "Textiles: properties, production, uses and care",
+              "objectives": [
+                "Definition and examples, basic terms (fiber, yarn, warp, weft)",
+                "Natural vs synthetic fibers, properties, care, uses",
+                "Production examples and laundering"
+              ]
+            },
+            {
+              "topic": "Sewing Machine and Garment Construction Processes",
+              "objectives": [
+                "Types and parts of sewing machine, choice factors, care",
+                "Garment construction terms",
+                "Making of a simple baby dress"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": "3",
+          "sub_theme": "Home Management",
+          "topics": [
+            {
+              "topic": "Production of Cleaning Agents, Deodorants and Cosmetics",
+              "objectives": [
+                "Types, uses, and preparation of home-made cleaning agents",
+                "Types of cosmetics, materials/tools, safety/quality/regulatory control (NAFDAC, SON, etc.)",
+                "Procedure for making creams, pomades, deodorants"
+              ]
+            }
+          ]
+        },
+        {
+          "sn": "4",
+          "sub_theme": "Food and Nutrition",
+          "topics": [
+            {
+              "topic": "Healthy feeding and eating practice",
+              "objectives": [
+                "Healthy feeding practices and eating habits",
+                "Effects of unhealthy practices",
+                "Food additives, contaminants, substances to avoid, drug abuse"
+              ]
+            },
+            {
+              "topic": "Food Purchasing, Processing, Preservation and Safety",
+              "objectives": [
+                "Meaning and differences (perishable/non-perishable)",
+                "Risk factors, wise buying, preservation methods, processing, keeping food safe"
+              ]
+            },
+            {
+              "topic": "Food Hygiene and Safety",
+              "objectives": [
+                "Meaning of food hygiene, healthy handling, contamination sources, signs of spoilage"
+              ]
+            },
+            {
+              "topic": "Preparation, Packaging and Marketing of Food",
+              "objectives": [
+                "Snacks vs main meals, preparation, packaging, marketing principles"
+              ]
+            },
+            {
+              "topic": "Responsible Food Management",
+              "objectives": [
+                "Responsibilities of food safety manager, hygienic strategies, effects on consumers"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

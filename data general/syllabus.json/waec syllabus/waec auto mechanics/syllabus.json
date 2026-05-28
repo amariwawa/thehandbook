@@ -1,0 +1,152 @@
+{
+  "subject": "Auto Mechanical Work",
+  "exam_board": "WAEC",
+  "cycle": "SSCE",
+  "exam_type": "Auto Mechanics",
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "Workshop safety and regulations",
+      "subtopics": [
+        "Define safety and regulation",
+        "Causes of workshop accidents",
+        "Accident prevention techniques and safety devices e.g. sand buckets, fire extinguishers, etc."
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "Tools and equipment",
+      "subtopics": [
+        "Types and uses of tools e.g. marking, measuring, holding and cutting tools.",
+        "Types and uses of equipment e.g. hand valve, grinding, tool etc.",
+        "Maintenance of tools and equipment."
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "Vehicle layout",
+      "subtopics": [
+        "Types of motor vehicle chassis",
+        "Principal components, identification and functions (e.g. engine, transmission system, chassis, etc.)",
+        "Chassis maintenance."
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "Automobile Engine",
+      "subtopics": [
+        "Types of engine design.",
+        "Identification of the main component of an engine.",
+        "Line diagram of a multi‑cylinder engine.",
+        "Types of cylinder liners.",
+        "Two‑stroke and four‑stroke cycles. (spark ignition engine and compression ignition engine).",
+        "Advantages of a four‑stroke cycle over a two‑stroke cycle engine.",
+        "Engine maintenance and servicing."
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "Transmission system",
+      "subtopics": [
+        "Transmission system layout.",
+        "Types of drives.",
+        "Components of transmission systems e.g. clutches and gear boxes etc.",
+        "Operation of simple plate clutch.",
+        "Types and operation of the gearbox.",
+        "Introduction to automatic transmission systems.",
+        "Conventional layout of the transmission system."
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "Suspension system",
+      "subtopics": [
+        "Types and functions of suspension systems.",
+        "Fault finding, maintenance and repair of the suspension system."
+      ]
+    },
+    {
+      "topic_number": 7,
+      "topic": "Steering system",
+      "subtopics": [
+        "Components and functions of the steering system.",
+        "Types of steering gearbox.",
+        "Manual steering fault and repairs",
+        "Operation of power‑assisted steering.",
+        "Steering geometry"
+      ]
+    },
+    {
+      "topic_number": 8,
+      "topic": "Engine lubrication system",
+      "subtopics": [
+        "Purpose and type of lubrication system.",
+        "Friction and its disadvantages.",
+        "Component part of the lubrication system.",
+        "Quality and viscosity of lubricants.",
+        "Oil additive and its importance"
+      ]
+    },
+    {
+      "topic_number": 9,
+      "topic": "Cooling system",
+      "subtopics": [
+        "Function and type of cooling system",
+        "Components of water and air cooling systems.",
+        "Comparison of air and water cooling systems."
+      ]
+    },
+    {
+      "topic_number": 10,
+      "topic": "Fuels and combustion",
+      "subtopics": [
+        "Fuel component system",
+        "General layout and working principle of the fuel supply system.",
+        "Component parts and functions of the fuel supply system.",
+        "Types of carburetors, pumps and their maintenance",
+        "Types and properties of the fuel.",
+        "Comparison of mechanical and electrical fuel pumps."
+      ]
+    },
+    {
+      "topic_number": 11,
+      "topic": "Manifold and air cleaner",
+      "subtopics": [
+        "Types, functions and maintenance of manifold",
+        "Types, functions and maintenance of air cleaner",
+        "Types, functions and maintenance of muffler"
+      ]
+    },
+    {
+      "topic_number": 12,
+      "topic": "Braking system",
+      "subtopics": [
+        "Concept of friction, operating principles and types of braking systems.",
+        "Faults and maintenance of mechanical and hydraulically operated braking systems.",
+        "Functions, advantages and disadvantages of the antilock braking system (A.B.S).",
+        "Layout of the braking system."
+      ]
+    },
+    {
+      "topic_number": 13,
+      "topic": "Wheels and Tyres",
+      "subtopics": [
+        "Types and functions of rims and tyres.",
+        "Vulcanizing",
+        "Stating regulations for tyre interchange and pressure.",
+        "Road wheel alignment and balancing."
+      ]
+    },
+    {
+      "topic_number": 14,
+      "topic": "Workshop management and enterprise",
+      "subtopics": [
+        "Basic concept of management, planning, controlling, staffing, directing",
+        "Managing resources",
+        "Concept of authority and responsibilities in enterprising.",
+        "Types of enterprises.",
+        "Advantages and disadvantages of types of enterprise in automobile."
+      ]
+    }
+  ]
+}

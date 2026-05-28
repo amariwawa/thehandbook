@@ -1,0 +1,223 @@
+{
+  "detailed_syllabus": {
+    "sections": [
+      {
+        "section": "A",
+        "title": "NATIONAL ETHICS, DISCIPLINE, RIGHTS AND OBLIGATIONS",
+        "topics": [
+          {
+            "id": 1,
+            "title": "Values",
+            "subtopics": [
+              "definition",
+              "types",
+              "importance of values to the society."
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Citizenship and Nationalism",
+            "subtopics": [
+              "meaning of citizenship",
+              "meaning of citizenship education",
+              "goals of citizenship education",
+              "duties and obligations of citizens",
+              "meaning of nationalism",
+              "ways of promoting national consciousness, integrity and unity in the society",
+              "the nationalistic roles of individual and groups",
+              "identification of local and world civic problems."
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Human Rights",
+            "subtopics": [
+              "meaning of human rights",
+              "categories of human rights",
+              "characteristics of human rights",
+              "meaning and historical background of the Universal Declaration of Human Rights (UDHR)",
+              "meaning and identification of the seven core freedoms of UDHR",
+              "importance of UDHR",
+              "roles of individual, groups and government in UDHR",
+              "limitations to the exercise of human rights."
+            ]
+          },
+          {
+            "id": 4,
+            "title": "Law and Order",
+            "subtopics": [
+              "definition of Law and Order",
+              "features of Law and Order",
+              "importance of Law and Order in the society",
+              "meaning of constituted authority",
+              "types of constituted authority",
+              "importance and roles of constituted authority."
+            ]
+          },
+          {
+            "id": 5,
+            "title": "Responsible Parenthood",
+            "subtopics": [
+              "meaning of responsible parenthood",
+              "roles of responsible parents",
+              "importance of responsible parenthood in national development."
+            ]
+          },
+          {
+            "id": 6,
+            "title": "Traffic Regulations",
+            "subtopics": [
+              "meaning of traffic regulations",
+              "traffic regulation and its importance in the society",
+              "the roles of the individual and government in maintaining traffic regulations."
+            ]
+          },
+          {
+            "id": 7,
+            "title": "Inter-Personal Relationships",
+            "subtopics": [
+              "meaning of inter-personal relationships",
+              "types of interpersonal relationships",
+              "skills that promotes interpersonal relationships",
+              "meaning of inter communal relationships",
+              "importance of inter communal relationships",
+              "meaning of inter-communal conflicts.",
+              "skills for resolving inter-communal conflicts."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "B",
+        "title": "EMERGING ISSUES IN THE SOCIETY",
+        "topics": [
+          {
+            "id": 8,
+            "title": "Cultism",
+            "subtopics": [
+              "meaning and origin of cultism",
+              "different cult groups in Nigeria and their symbols",
+              "reasons for cultism",
+              "consequences of cultism",
+              "ways of preventing cultism in the society."
+            ]
+          },
+          {
+            "id": 9,
+            "title": "Drugs and Drug Abuse",
+            "subtopics": [
+              "meaning of drug abuse",
+              "drugs that can be abused",
+              "how drugs are abused",
+              "symptoms of drug abuse",
+              "behaviours of drug addicts",
+              "ways of preventing drug abuse",
+              "government agencies working to prevent drug abuse/trafficking and their activities",
+              "laws against drug abuse."
+            ]
+          },
+          {
+            "id": 10,
+            "title": "Human Trafficking",
+            "subtopics": [
+              "meaning of human trafficking",
+              "causes of human trafficking",
+              "effects and consequences of human trafficking",
+              "efforts of government and individuals in stopping human trafficking."
+            ]
+          },
+          {
+            "id": 11,
+            "title": "HIV/AIDS",
+            "subtopics": [
+              "meaning of HIV/AIDS",
+              "causes of HIV/AIDS",
+              "symptoms and effects of HIV/AIDS",
+              "prevention of HIV/AIDS",
+              "stigmatization of people living with HIV/AIDS."
+            ]
+          },
+          {
+            "id": 12,
+            "title": "Youth Empowerment",
+            "subtopics": [
+              "meaning of youth empowerment",
+              "youth empowerment skills",
+              "importance and benefits of youth empowerment skills.",
+              "efforts of government towards youth empowerment."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "C",
+        "title": "GOVERNMENTAL SYSTEM AND PROCESSES",
+        "topics": [
+          {
+            "id": 13,
+            "title": "Structure and Functions of Government",
+            "subtopics": [
+              "meaning of government",
+              "structure/tiers of government",
+              "functions of government."
+            ]
+          },
+          {
+            "id": 14,
+            "title": "Democracy, Rule of Law and National Development",
+            "subtopics": [
+              "meaning, types, and features of democracy",
+              "importance of democracy",
+              "pillars of democracy",
+              "problems of democracy",
+              "meaning of rule of law",
+              "features of rule of law",
+              "importance of rule of law",
+              "problems of rule of law",
+              "meaning of national development",
+              "how democracy and Rule of law promote national development- good governance, employment creation and poverty alleviation etc."
+            ]
+          },
+          {
+            "id": 15,
+            "title": "Political Apathy",
+            "subtopics": [
+              "meaning of political apathy",
+              "causes of political apathy",
+              "consequences of political apathy",
+              "why leaders fail to protect the interests of their followers",
+              "how leaders can protect the interests of their followers",
+              "ways of discouraging political apathy."
+            ]
+          },
+          {
+            "id": 16,
+            "title": "Civil Society and Popular Participation",
+            "subtopics": [
+              "meaning of popular participation",
+              "types of popular participation",
+              "the need for popular participation in the society",
+              "traditional and modern modes of popular participation",
+              "achieving popular participation in politics",
+              "meaning of civil society",
+              "functions / need for civil society",
+              "qualities / characteristics of civil society; i.e. accountability, fairness, justice, equity etc.",
+              "problems of civil society; i.e. bribery and corruption, inadequate funding, over bearing influence of foreign donors etc."
+            ]
+          },
+          {
+            "id": 17,
+            "title": "Public Service in Democracy",
+            "subtopics": [
+              "meaning of public service",
+              "functions of public service",
+              "problems of public service",
+              "reasons for the shortcomings in the public service",
+              "ways of improving the public service."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

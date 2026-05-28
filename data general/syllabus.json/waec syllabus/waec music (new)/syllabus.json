@@ -1,0 +1,120 @@
+{
+  "syllabus_title": "WAEC SSCE Music (New) Detailed Syllabus",
+  "main_sections": [
+    {
+      "section": "1. THEORY AND COMPOSITION",
+      "subsections": [
+        {
+          "title": "Rudiments of Music",
+          "topics": [
+            "Notation: Staff, Clefs (C, G, and F)",
+            "Scales (Western): Diatonic – Major and Minor (natural, harmonic and melodic); Chromatic (melodic only)",
+            "Modes (African): Pentatonic (5-tone), Hexatonic (6-tone), Heptatonic (7-tone)",
+            "Keys and Key Signatures",
+            "Time Signatures: Simple and Compound",
+            "Intervals",
+            "Transcription (Staff notation into Solfa and vice versa)",
+            "Transposition, including writing for transposing instruments",
+            "Musical terms, signs, ornaments and abbreviations"
+          ]
+        },
+        {
+          "title": "Elementary Harmony",
+          "topics": [
+            "Chords/Triads: Primary (I/i, IV/iv, V and inversions), Secondary (ii, iii, vi and inversions), Chord vii° and inversions, Dominant 7th chords and inversions",
+            "Chord Progressions and Cadences (Perfect, Plagal, Interrupted, Imperfect) in major and minor keys",
+            "Use of primary and secondary triads in harmonising a given melody",
+            "Use of six-four chords (cadential and passing)",
+            "Non-harmonic tones: Passing (accented and non-accented), Auxiliary/Neighbouring tones, Anticipation"
+          ]
+        },
+        {
+          "title": "Counterpoint",
+          "topics": [
+            "Two-part free Counterpoint (adding a part above or below a given melody)",
+            "Four-part harmony (SATB)"
+          ]
+        },
+        {
+          "title": "Composition",
+          "topics": [
+            "Continuing a given melodic phrase in major or minor key (12-16 bars, possible modulation to closely related key)",
+            "Setting a given text in English to music"
+          ]
+        },
+        {
+          "title": "Form and Analysis",
+          "topics": [
+            "Simple forms: binary, ternary, rondo, etc.",
+            "Extended forms: overture, oratorio, opera, cantata, suite, sonata, symphony, concerto, etc.",
+            "Form in traditional African music (antiphony: Call and Response, Cantor/Chorus, Call and Refrain; Repetitive/Cyclic forms, etc.)",
+            "Form in contemporary African art music (emphasis on melody, rhythm, harmony, instrumentation, through-composed pieces, etc.)",
+            "Analysis of prescribed set-works (Western or African) for each year"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "2. PRACTICAL",
+      "subsections": [
+        {
+          "title": "Aural Tests (Paper 3A)",
+          "topics": [
+            "Rhythmic Dictation (up to 4 bars)",
+            "Melodic Dictation (up to 4 bars, may include African music elements)",
+            "Writing the upper or lower part of a two-part phrase",
+            "Identification of chords in a progression",
+            "Recognition of cadences",
+            "Recognition of modulations (to dominant, subdominant, relative major/minor)",
+            "Identification/Description of themes or excerpts (form, style, genre, instruments, scale/mode, meter)"
+          ]
+        },
+        {
+          "title": "Performance Test (Paper 3B)",
+          "topics": [
+            "Performance on chosen instrument/voice: Voice (Soprano, Alto, Tenor, Baritone/Bass), Pianoforte/Electronic keyboard, Violin, Guitar, Recorder (descant/treble), Atenteben, Flute, B flat trumpet, E flat alto-saxophone, etc.",
+            "Sight-reading",
+            "Technical exercises, scales and arpeggios",
+            "Pieces from approved list"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "3. HISTORY AND LITERATURE OF MUSIC",
+      "subsections": [
+        {
+          "title": "Western Music",
+          "periods": [
+            "Medieval (ca. 450-1400)",
+            "Renaissance (ca. 1400-1600)",
+            "Baroque (ca. 1600-1750)",
+            "Classical (ca. 1750-1820)",
+            "Romantic (ca. 1820-1900)",
+            "20th Century (ca. 1900-2000)"
+          ],
+          "composers": "General knowledge of key composers and their contributions (e.g., Machaut, Palestrina, Bach, Handel, Mozart, Haydn, Beethoven, Schubert, Chopin, Wagner, Stravinsky, etc.)"
+        },
+        {
+          "title": "Traditional and Contemporary African Art Music",
+          "topics": [
+            "Role of music in traditional African society",
+            "Musical instruments: Names, description, classification, functions",
+            "General characteristics: Scales/Modes, Rhythm (cross-rhythm, hemiola, syncopation, polyrhythm), Polyphony, Form, Vocal styles, Texture, Instrumentation",
+            "Traditional vocal genres (dirges, lullabies, ritual songs, folk songs, satirical songs, etc.)",
+            "Traditional dances (Adowa, Kete, Atilogwu, Swange, etc.) and associated ethnic groups/occasions",
+            "Contemporary African Art Musicians (Nigeria and Ghana lists)"
+          ]
+        },
+        {
+          "title": "Popular African Music and Black Music in the Diaspora",
+          "topics": [
+            "Popular musicians and genres in Nigeria and Ghana (Highlife, Juju, Fuji, Afrobeat, Hip-Hop, etc.)",
+            "Black Music in the Diaspora (Jazz, Blues, Gospel, Soul, Calypso, Reggae, etc. and key artists)"
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "Set works for analysis and performance lists are updated annually by WAEC. Candidates should refer to the current year's prescribed works."
+}

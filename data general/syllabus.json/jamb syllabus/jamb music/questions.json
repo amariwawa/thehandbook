@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 2,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 3,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Two beats",
+        "D": "Four beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 4,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Orange, Purple, Green",
+        "C": "Red, Yellow, Blue",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 5,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Black, White, Grey",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 6,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Orange, Purple, Green",
+        "C": "Red, Yellow, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 7,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 8,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 9,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 10,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Three beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 11,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "One beat"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 12,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 13,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 14,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 15,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 16,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Orange, Purple, Green",
+        "C": "Black, White, Grey",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 17,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Red, Green, Blue",
+        "C": "Red, Yellow, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 18,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Black, White, Grey",
+        "C": "Red, Green, Blue",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 19,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Red, Yellow, Blue",
+        "C": "Black, White, Grey",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 20,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Four beats",
+        "C": "Three beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 21,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Four beats",
+        "C": "One beat",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 22,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Green, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 23,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 24,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "One beat",
+        "C": "Three beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 25,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 26,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Black, White, Grey",
+        "C": "Red, Green, Blue",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 27,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 28,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 29,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 30,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 31,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 32,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "Four beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 33,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Green, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 34,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Red, Green, Blue",
+        "C": "Red, Yellow, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 35,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Orange, Purple, Green",
+        "C": "Black, White, Grey",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 36,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Four beats",
+        "C": "Three beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 37,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 38,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 39,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 40,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 41,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 42,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 43,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Yellow, Blue",
+        "B": "Red, Green, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Black, White, Grey"
+      },
+      "answer": "A",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 44,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Orange, Purple, Green",
+        "C": "Red, Yellow, Blue",
+        "D": "Red, Green, Blue"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 45,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 46,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Green, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 47,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 48,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Red, Green, Blue",
+        "C": "Red, Yellow, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 49,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 50,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 51,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 52,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Red, Green, Blue",
+        "C": "Black, White, Grey",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 53,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 54,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 55,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Three beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 56,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 57,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Orange, Purple, Green",
+        "B": "Red, Yellow, Blue",
+        "C": "Red, Green, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 58,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Orange, Purple, Green",
+        "C": "Red, Yellow, Blue",
+        "D": "Black, White, Grey"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 59,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Green, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 60,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "One beat",
+        "C": "Three beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 61,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Three beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 62,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 63,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 64,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 65,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 66,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "easy",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Black, White, Grey",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 67,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Four beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 68,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 69,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 70,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Yellow, Blue",
+        "C": "Red, Green, Blue",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "B",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 71,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "One beat"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 72,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Three beats",
+        "C": "One beat",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 73,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 74,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "One beat",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 75,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "One beat",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 76,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 77,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 78,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Two beats",
+        "C": "One beat",
+        "D": "Three beats"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 79,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "medium",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Red, Green, Blue",
+        "B": "Black, White, Grey",
+        "C": "Red, Yellow, Blue",
+        "D": "Orange, Purple, Green"
+      },
+      "answer": "C",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 80,
+      "topic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF WESTERN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Three beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 81,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Three beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 82,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Four beats",
+        "B": "Two beats",
+        "C": "Three beats",
+        "D": "One beat"
+      },
+      "answer": "B",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 83,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Four beats",
+        "C": "Two beats",
+        "D": "Three beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 84,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "hard",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Two beats",
+        "D": "Four beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 85,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "One beat",
+        "C": "Three beats",
+        "D": "Four beats"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 86,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Two beats",
+        "D": "Four beats"
+      },
+      "answer": "C",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 87,
+      "topic": "COMPARATIVE MUSIC STUDIES",
+      "section": "General",
+      "subtopic": "COMPARATIVE MUSIC STUDIES",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Two beats",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "One beat"
+      },
+      "answer": "A",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 88,
+      "topic": "ELEMENTARY HARMONY",
+      "section": "General",
+      "subtopic": "ELEMENTARY HARMONY",
+      "difficulty": "hard",
+      "question": "Which of the following are primary colours?",
+      "options": {
+        "A": "Black, White, Grey",
+        "B": "Red, Green, Blue",
+        "C": "Orange, Purple, Green",
+        "D": "Red, Yellow, Blue"
+      },
+      "answer": "D",
+      "explanation": "The traditional primary colours in pigment/painting are Red, Yellow, and Blue, from which other colours are mixed."
+    },
+    {
+      "id": 89,
+      "topic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "section": "General",
+      "subtopic": "HISTORY AND LITERATURE OF AFRICAN MUSIC",
+      "difficulty": "medium",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "One beat",
+        "B": "Three beats",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    },
+    {
+      "id": 90,
+      "topic": "RUDIMENTS OF MUSIC",
+      "section": "General",
+      "subtopic": "RUDIMENTS OF MUSIC",
+      "difficulty": "easy",
+      "question": "How many beats does a minim (half note) receive in 4/4 time?",
+      "options": {
+        "A": "Three beats",
+        "B": "One beat",
+        "C": "Four beats",
+        "D": "Two beats"
+      },
+      "answer": "D",
+      "explanation": "In common time (4/4), a crotchet = 1 beat, a minim = 2 beats, and a semibreve = 4 beats."
+    }
+  ]
+}

@@ -1,0 +1,1540 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "BATTERY",
+      "section": "General",
+      "subtopic": "BATTERY",
+      "difficulty": "easy",
+      "question": "Which statement about BATTERY is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "BATTERY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "BATTERY",
+      "section": "General",
+      "subtopic": "BATTERY",
+      "difficulty": "medium",
+      "question": "Which statement about BATTERY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BATTERY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "BATTERY",
+      "section": "General",
+      "subtopic": "BATTERY",
+      "difficulty": "hard",
+      "question": "Which statement about BATTERY is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BATTERY is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "BATTERY: Concept of Battery",
+      "section": "General",
+      "subtopic": "BATTERY: Concept of Battery",
+      "difficulty": "medium",
+      "question": "Which statement about BATTERY: Concept of Battery is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BATTERY: Concept of Battery is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "BATTERY: Concept of Battery",
+      "section": "General",
+      "subtopic": "BATTERY: Concept of Battery",
+      "difficulty": "hard",
+      "question": "Which statement about BATTERY: Concept of Battery is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BATTERY: Concept of Battery is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "BATTERY: Concept of Battery",
+      "section": "General",
+      "subtopic": "BATTERY: Concept of Battery",
+      "difficulty": "easy",
+      "question": "Which statement about BATTERY: Concept of Battery is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BATTERY: Concept of Battery is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "BATTERY: Uses of battery",
+      "section": "General",
+      "subtopic": "BATTERY: Uses of battery",
+      "difficulty": "hard",
+      "question": "Which statement about BATTERY: Uses of battery is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BATTERY: Uses of battery is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "BATTERY: Uses of battery",
+      "section": "General",
+      "subtopic": "BATTERY: Uses of battery",
+      "difficulty": "easy",
+      "question": "Which statement about BATTERY: Uses of battery is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BATTERY: Uses of battery is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "BATTERY: Uses of battery",
+      "section": "General",
+      "subtopic": "BATTERY: Uses of battery",
+      "difficulty": "medium",
+      "question": "Which statement about BATTERY: Uses of battery is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "BATTERY: Uses of battery is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "BATTERY: Types, Constructional details and ratings",
+      "section": "General",
+      "subtopic": "BATTERY: Types, Constructional details and ratings",
+      "difficulty": "easy",
+      "question": "Which statement about BATTERY: Types, Constructional details and ratings is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "BATTERY: Types, Constructional details and ratings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "BATTERY: Types, Constructional details and ratings",
+      "section": "General",
+      "subtopic": "BATTERY: Types, Constructional details and ratings",
+      "difficulty": "medium",
+      "question": "Which statement about BATTERY: Types, Constructional details and ratings is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BATTERY: Types, Constructional details and ratings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "BATTERY: Types, Constructional details and ratings",
+      "section": "General",
+      "subtopic": "BATTERY: Types, Constructional details and ratings",
+      "difficulty": "hard",
+      "question": "Which statement about BATTERY: Types, Constructional details and ratings is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BATTERY: Types, Constructional details and ratings is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "BATTERY: Charging",
+      "section": "General",
+      "subtopic": "BATTERY: Charging",
+      "difficulty": "medium",
+      "question": "Which statement about BATTERY: Charging is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BATTERY: Charging is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "BATTERY: Charging",
+      "section": "General",
+      "subtopic": "BATTERY: Charging",
+      "difficulty": "hard",
+      "question": "Which statement about BATTERY: Charging is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "BATTERY: Charging is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "BATTERY: Charging",
+      "section": "General",
+      "subtopic": "BATTERY: Charging",
+      "difficulty": "easy",
+      "question": "Which statement about BATTERY: Charging is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "BATTERY: Charging is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "BATTERY: Testing and Maintenance",
+      "section": "General",
+      "subtopic": "BATTERY: Testing and Maintenance",
+      "difficulty": "hard",
+      "question": "Which statement about BATTERY: Testing and Maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "BATTERY: Testing and Maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "BATTERY: Testing and Maintenance",
+      "section": "General",
+      "subtopic": "BATTERY: Testing and Maintenance",
+      "difficulty": "easy",
+      "question": "Which statement about BATTERY: Testing and Maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "BATTERY: Testing and Maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "BATTERY: Testing and Maintenance",
+      "section": "General",
+      "subtopic": "BATTERY: Testing and Maintenance",
+      "difficulty": "medium",
+      "question": "Which statement about BATTERY: Testing and Maintenance is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "BATTERY: Testing and Maintenance is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "STARTING SYSTEM",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM",
+      "difficulty": "easy",
+      "question": "Which statement about STARTING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "STARTING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "STARTING SYSTEM",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM",
+      "difficulty": "medium",
+      "question": "Which statement about STARTING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "STARTING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "STARTING SYSTEM",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM",
+      "difficulty": "hard",
+      "question": "Which statement about STARTING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "STARTING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "STARTING SYSTEM: Purpose and components of starting system",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Purpose and components of starting system",
+      "difficulty": "medium",
+      "question": "Which statement about STARTING SYSTEM: Purpose and components of starting system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "STARTING SYSTEM: Purpose and components of starting system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "STARTING SYSTEM: Purpose and components of starting system",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Purpose and components of starting system",
+      "difficulty": "hard",
+      "question": "Which statement about STARTING SYSTEM: Purpose and components of starting system is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "STARTING SYSTEM: Purpose and components of starting system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "STARTING SYSTEM: Purpose and components of starting system",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Purpose and components of starting system",
+      "difficulty": "easy",
+      "question": "Which statement about STARTING SYSTEM: Purpose and components of starting system is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "STARTING SYSTEM: Purpose and components of starting system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "STARTING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Circuit diagram",
+      "difficulty": "hard",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Inductor",
+        "B": "Capacitor",
+        "C": "Resistor",
+        "D": "Transformer"
+      },
+      "answer": "D",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 26,
+      "topic": "STARTING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Circuit diagram",
+      "difficulty": "easy",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Inductor",
+        "B": "Transformer",
+        "C": "Capacitor",
+        "D": "Resistor"
+      },
+      "answer": "B",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 27,
+      "topic": "STARTING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Circuit diagram",
+      "difficulty": "medium",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Capacitor",
+        "B": "Transformer",
+        "C": "Inductor",
+        "D": "Resistor"
+      },
+      "answer": "B",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 28,
+      "topic": "STARTING SYSTEM: Types of starter motor",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Types of starter motor",
+      "difficulty": "easy",
+      "question": "Which statement about STARTING SYSTEM: Types of starter motor is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "STARTING SYSTEM: Types of starter motor is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "STARTING SYSTEM: Types of starter motor",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Types of starter motor",
+      "difficulty": "medium",
+      "question": "Which statement about STARTING SYSTEM: Types of starter motor is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "STARTING SYSTEM: Types of starter motor is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "STARTING SYSTEM: Types of starter motor",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Types of starter motor",
+      "difficulty": "hard",
+      "question": "Which statement about STARTING SYSTEM: Types of starter motor is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "STARTING SYSTEM: Types of starter motor is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "STARTING SYSTEM: Repair of starter motors",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Repair of starter motors",
+      "difficulty": "medium",
+      "question": "Which statement about STARTING SYSTEM: Repair of starter motors is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "STARTING SYSTEM: Repair of starter motors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "STARTING SYSTEM: Repair of starter motors",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Repair of starter motors",
+      "difficulty": "hard",
+      "question": "Which statement about STARTING SYSTEM: Repair of starter motors is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "STARTING SYSTEM: Repair of starter motors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "STARTING SYSTEM: Repair of starter motors",
+      "section": "General",
+      "subtopic": "STARTING SYSTEM: Repair of starter motors",
+      "difficulty": "easy",
+      "question": "Which statement about STARTING SYSTEM: Repair of starter motors is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "STARTING SYSTEM: Repair of starter motors is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "IGNITION SYSTEM",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM",
+      "difficulty": "hard",
+      "question": "Which statement about IGNITION SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "IGNITION SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "IGNITION SYSTEM",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM",
+      "difficulty": "easy",
+      "question": "Which statement about IGNITION SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "IGNITION SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "IGNITION SYSTEM",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM",
+      "difficulty": "medium",
+      "question": "Which statement about IGNITION SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "IGNITION SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "IGNITION SYSTEM: Purpose and components of ignition system",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Purpose and components of ignition system",
+      "difficulty": "easy",
+      "question": "Which statement about IGNITION SYSTEM: Purpose and components of ignition system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "IGNITION SYSTEM: Purpose and components of ignition system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 38,
+      "topic": "IGNITION SYSTEM: Purpose and components of ignition system",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Purpose and components of ignition system",
+      "difficulty": "medium",
+      "question": "Which statement about IGNITION SYSTEM: Purpose and components of ignition system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "IGNITION SYSTEM: Purpose and components of ignition system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 39,
+      "topic": "IGNITION SYSTEM: Purpose and components of ignition system",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Purpose and components of ignition system",
+      "difficulty": "hard",
+      "question": "Which statement about IGNITION SYSTEM: Purpose and components of ignition system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "IGNITION SYSTEM: Purpose and components of ignition system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "IGNITION SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Circuit diagram",
+      "difficulty": "medium",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Transformer",
+        "B": "Inductor",
+        "C": "Resistor",
+        "D": "Capacitor"
+      },
+      "answer": "A",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 41,
+      "topic": "IGNITION SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Circuit diagram",
+      "difficulty": "hard",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Transformer",
+        "B": "Capacitor",
+        "C": "Resistor",
+        "D": "Inductor"
+      },
+      "answer": "A",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 42,
+      "topic": "IGNITION SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Circuit diagram",
+      "difficulty": "easy",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Capacitor",
+        "B": "Transformer",
+        "C": "Resistor",
+        "D": "Inductor"
+      },
+      "answer": "B",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 43,
+      "topic": "IGNITION SYSTEM: Construction and operation of ignition coil",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Construction and operation of ignition coil",
+      "difficulty": "hard",
+      "question": "Which statement about IGNITION SYSTEM: Construction and operation of ignition coil is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "IGNITION SYSTEM: Construction and operation of ignition coil is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "IGNITION SYSTEM: Construction and operation of ignition coil",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Construction and operation of ignition coil",
+      "difficulty": "easy",
+      "question": "Which statement about IGNITION SYSTEM: Construction and operation of ignition coil is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "IGNITION SYSTEM: Construction and operation of ignition coil is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "IGNITION SYSTEM: Construction and operation of ignition coil",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Construction and operation of ignition coil",
+      "difficulty": "medium",
+      "question": "Which statement about IGNITION SYSTEM: Construction and operation of ignition coil is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "IGNITION SYSTEM: Construction and operation of ignition coil is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "IGNITION SYSTEM: Types of Ignition System",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Types of Ignition System",
+      "difficulty": "easy",
+      "question": "Which statement about IGNITION SYSTEM: Types of Ignition System is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "IGNITION SYSTEM: Types of Ignition System is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "IGNITION SYSTEM: Types of Ignition System",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Types of Ignition System",
+      "difficulty": "medium",
+      "question": "Which statement about IGNITION SYSTEM: Types of Ignition System is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "IGNITION SYSTEM: Types of Ignition System is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "IGNITION SYSTEM: Types of Ignition System",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Types of Ignition System",
+      "difficulty": "hard",
+      "question": "Which statement about IGNITION SYSTEM: Types of Ignition System is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "IGNITION SYSTEM: Types of Ignition System is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "IGNITION SYSTEM: Timing",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Timing",
+      "difficulty": "medium",
+      "question": "Which statement about IGNITION SYSTEM: Timing is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "IGNITION SYSTEM: Timing is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "IGNITION SYSTEM: Timing",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Timing",
+      "difficulty": "hard",
+      "question": "Which statement about IGNITION SYSTEM: Timing is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is a literary device"
+      },
+      "answer": "C",
+      "explanation": "IGNITION SYSTEM: Timing is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "IGNITION SYSTEM: Timing",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Timing",
+      "difficulty": "easy",
+      "question": "Which statement about IGNITION SYSTEM: Timing is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "IGNITION SYSTEM: Timing is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "IGNITION SYSTEM: Faults and repairs",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Faults and repairs",
+      "difficulty": "hard",
+      "question": "Which statement about IGNITION SYSTEM: Faults and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "IGNITION SYSTEM: Faults and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "IGNITION SYSTEM: Faults and repairs",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Faults and repairs",
+      "difficulty": "easy",
+      "question": "Which statement about IGNITION SYSTEM: Faults and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "IGNITION SYSTEM: Faults and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "IGNITION SYSTEM: Faults and repairs",
+      "section": "General",
+      "subtopic": "IGNITION SYSTEM: Faults and repairs",
+      "difficulty": "medium",
+      "question": "Which statement about IGNITION SYSTEM: Faults and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "IGNITION SYSTEM: Faults and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "CHARGING SYSTEM",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM",
+      "difficulty": "easy",
+      "question": "Which statement about CHARGING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "CHARGING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "CHARGING SYSTEM",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM",
+      "difficulty": "medium",
+      "question": "Which statement about CHARGING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "CHARGING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "CHARGING SYSTEM",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM",
+      "difficulty": "hard",
+      "question": "Which statement about CHARGING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "CHARGING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "CHARGING SYSTEM: Purpose and components of charging system",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Purpose and components of charging system",
+      "difficulty": "medium",
+      "question": "Which statement about CHARGING SYSTEM: Purpose and components of charging system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "CHARGING SYSTEM: Purpose and components of charging system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "CHARGING SYSTEM: Purpose and components of charging system",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Purpose and components of charging system",
+      "difficulty": "hard",
+      "question": "Which statement about CHARGING SYSTEM: Purpose and components of charging system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "CHARGING SYSTEM: Purpose and components of charging system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "CHARGING SYSTEM: Purpose and components of charging system",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Purpose and components of charging system",
+      "difficulty": "easy",
+      "question": "Which statement about CHARGING SYSTEM: Purpose and components of charging system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "CHARGING SYSTEM: Purpose and components of charging system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "CHARGING SYSTEM: Alternator",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Alternator",
+      "difficulty": "hard",
+      "question": "Which statement about CHARGING SYSTEM: Alternator is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "CHARGING SYSTEM: Alternator is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "CHARGING SYSTEM: Alternator",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Alternator",
+      "difficulty": "easy",
+      "question": "Which statement about CHARGING SYSTEM: Alternator is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It belongs to biology",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "CHARGING SYSTEM: Alternator is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "CHARGING SYSTEM: Alternator",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Alternator",
+      "difficulty": "medium",
+      "question": "Which statement about CHARGING SYSTEM: Alternator is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "CHARGING SYSTEM: Alternator is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "CHARGING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Circuit diagram",
+      "difficulty": "easy",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Inductor",
+        "B": "Resistor",
+        "C": "Capacitor",
+        "D": "Transformer"
+      },
+      "answer": "D",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 65,
+      "topic": "CHARGING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Circuit diagram",
+      "difficulty": "medium",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Transformer",
+        "B": "Resistor",
+        "C": "Inductor",
+        "D": "Capacitor"
+      },
+      "answer": "A",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 66,
+      "topic": "CHARGING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Circuit diagram",
+      "difficulty": "hard",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Inductor",
+        "B": "Transformer",
+        "C": "Resistor",
+        "D": "Capacitor"
+      },
+      "answer": "B",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 67,
+      "topic": "CHARGING SYSTEM: Faults and Repairs",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Faults and Repairs",
+      "difficulty": "medium",
+      "question": "Which statement about CHARGING SYSTEM: Faults and Repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "CHARGING SYSTEM: Faults and Repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "CHARGING SYSTEM: Faults and Repairs",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Faults and Repairs",
+      "difficulty": "hard",
+      "question": "Which statement about CHARGING SYSTEM: Faults and Repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It belongs to biology"
+      },
+      "answer": "C",
+      "explanation": "CHARGING SYSTEM: Faults and Repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "CHARGING SYSTEM: Faults and Repairs",
+      "section": "General",
+      "subtopic": "CHARGING SYSTEM: Faults and Repairs",
+      "difficulty": "easy",
+      "question": "Which statement about CHARGING SYSTEM: Faults and Repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "CHARGING SYSTEM: Faults and Repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "LIGHTING SYSTEM",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM",
+      "difficulty": "hard",
+      "question": "Which statement about LIGHTING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "LIGHTING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "LIGHTING SYSTEM",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM",
+      "difficulty": "easy",
+      "question": "Which statement about LIGHTING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "LIGHTING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "LIGHTING SYSTEM",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM",
+      "difficulty": "medium",
+      "question": "Which statement about LIGHTING SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "LIGHTING SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle",
+      "difficulty": "easy",
+      "question": "Which statement about LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle",
+      "difficulty": "medium",
+      "question": "Which statement about LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle",
+      "difficulty": "hard",
+      "question": "Which statement about LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "LIGHTING SYSTEM: Purpose and Classification of Lighting in a Motor Vehicle is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "LIGHTING SYSTEM: Headlamps",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Headlamps",
+      "difficulty": "medium",
+      "question": "Which statement about LIGHTING SYSTEM: Headlamps is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "LIGHTING SYSTEM: Headlamps is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "LIGHTING SYSTEM: Headlamps",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Headlamps",
+      "difficulty": "hard",
+      "question": "Which statement about LIGHTING SYSTEM: Headlamps is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "LIGHTING SYSTEM: Headlamps is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "LIGHTING SYSTEM: Headlamps",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Headlamps",
+      "difficulty": "easy",
+      "question": "Which statement about LIGHTING SYSTEM: Headlamps is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "LIGHTING SYSTEM: Headlamps is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "LIGHTING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Circuit diagram",
+      "difficulty": "hard",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Inductor",
+        "B": "Capacitor",
+        "C": "Resistor",
+        "D": "Transformer"
+      },
+      "answer": "D",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 80,
+      "topic": "LIGHTING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Circuit diagram",
+      "difficulty": "easy",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Transformer",
+        "B": "Inductor",
+        "C": "Capacitor",
+        "D": "Resistor"
+      },
+      "answer": "A",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 81,
+      "topic": "LIGHTING SYSTEM: Circuit diagram",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Circuit diagram",
+      "difficulty": "medium",
+      "question": "A device that steps up or steps down alternating voltage is called a:",
+      "options": {
+        "A": "Transformer",
+        "B": "Resistor",
+        "C": "Inductor",
+        "D": "Capacitor"
+      },
+      "answer": "A",
+      "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction, stepping voltage up or down."
+    },
+    {
+      "id": 82,
+      "topic": "LIGHTING SYSTEM: Maintenance and repairs",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Maintenance and repairs",
+      "difficulty": "easy",
+      "question": "Which statement about LIGHTING SYSTEM: Maintenance and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "LIGHTING SYSTEM: Maintenance and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "LIGHTING SYSTEM: Maintenance and repairs",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Maintenance and repairs",
+      "difficulty": "medium",
+      "question": "Which statement about LIGHTING SYSTEM: Maintenance and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "LIGHTING SYSTEM: Maintenance and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "LIGHTING SYSTEM: Maintenance and repairs",
+      "section": "General",
+      "subtopic": "LIGHTING SYSTEM: Maintenance and repairs",
+      "difficulty": "hard",
+      "question": "Which statement about LIGHTING SYSTEM: Maintenance and repairs is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is a practical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "LIGHTING SYSTEM: Maintenance and repairs is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "AUXILIARY SYSTEM",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM",
+      "difficulty": "medium",
+      "question": "Which statement about AUXILIARY SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "AUXILIARY SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "AUXILIARY SYSTEM",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM",
+      "difficulty": "hard",
+      "question": "Which statement about AUXILIARY SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "AUXILIARY SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 87,
+      "topic": "AUXILIARY SYSTEM",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM",
+      "difficulty": "easy",
+      "question": "Which statement about AUXILIARY SYSTEM is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AUXILIARY SYSTEM is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "AUXILIARY SYSTEM: Concept and Components of an system",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Concept and Components of an system",
+      "difficulty": "hard",
+      "question": "Which statement about AUXILIARY SYSTEM: Concept and Components of an system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It belongs to biology"
+      },
+      "answer": "B",
+      "explanation": "AUXILIARY SYSTEM: Concept and Components of an system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "AUXILIARY SYSTEM: Concept and Components of an system",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Concept and Components of an system",
+      "difficulty": "easy",
+      "question": "Which statement about AUXILIARY SYSTEM: Concept and Components of an system is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It belongs to biology"
+      },
+      "answer": "A",
+      "explanation": "AUXILIARY SYSTEM: Concept and Components of an system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "AUXILIARY SYSTEM: Concept and Components of an system",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Concept and Components of an system",
+      "difficulty": "medium",
+      "question": "Which statement about AUXILIARY SYSTEM: Concept and Components of an system is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a literary device",
+        "C": "It belongs to biology",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AUXILIARY SYSTEM: Concept and Components of an system is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 91,
+      "topic": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component",
+      "difficulty": "easy",
+      "question": "Which statement about AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component is correct in this technical subject?",
+      "options": {
+        "A": "It is a practical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to biology",
+        "D": "It is a literary device"
+      },
+      "answer": "A",
+      "explanation": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 92,
+      "topic": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component",
+      "difficulty": "medium",
+      "question": "Which statement about AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is a literary device",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 93,
+      "topic": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component",
+      "difficulty": "hard",
+      "question": "Which statement about AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a literary device",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AUXILIARY SYSTEM: Constructional details and operation of auxiliary system component is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 94,
+      "topic": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components",
+      "difficulty": "medium",
+      "question": "Which statement about AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components is correct in this technical subject?",
+      "options": {
+        "A": "It is a literary device",
+        "B": "It belongs to biology",
+        "C": "It is not examined",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 95,
+      "topic": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components",
+      "difficulty": "hard",
+      "question": "Which statement about AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components is correct in this technical subject?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to biology",
+        "C": "It is a literary device",
+        "D": "It is a practical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components is part of the technical/vocational syllabus."
+    },
+    {
+      "id": 96,
+      "topic": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components",
+      "section": "General",
+      "subtopic": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components",
+      "difficulty": "easy",
+      "question": "Which statement about AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components is correct in this technical subject?",
+      "options": {
+        "A": "It belongs to biology",
+        "B": "It is a practical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a literary device"
+      },
+      "answer": "B",
+      "explanation": "AUXILIARY SYSTEM: Maintenance and repairs of auxiliary Components is part of the technical/vocational syllabus."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "syllabus_title": "UTME Biology Detailed Syllabus",
+  "sections": [
+    {
+      "section": "A",
+      "title": "VARIETY OF ORGANISMS",
+      "topics": [
+        {
+          "topic": "Living organisms",
+          "subtopics": [
+            "Characteristics",
+            "Cell structure and functions of cell components",
+            "Levels of organization (Cell, Tissue, Organ, System, Organism)"
+          ]
+        },
+        {
+          "topic": "Evolution among organisms",
+          "subtopics": [
+            "Monera (prokaryotes) e.g. bacteria, blue green algae",
+            "Protista (protozoans and protophyta) e.g. Amoeba, Euglena, Paramecium",
+            "Fungi e.g. mushroom, Rhizopus",
+            "Plantae: Thallophyta (Spirogyra), Bryophyta (mosses and liverworts), Pteridophyta (ferns e.g. Dryopteris), Spermatophyta (Gymnosperms and Angiosperms)",
+            "Animalia: Invertebrates (Coelenterata, Platyhelminthes, Nematoda, Annelida, Arthropoda, Mollusca) and Vertebrates (Pisces, Amphibia, Reptilia, Aves, Mammalia)"
+          ]
+        },
+        {
+          "topic": "Structural, functional and behavioural adaptations of organisms",
+          "subtopics": [
+            "Adaptive colouration and its functions",
+            "Behavioural adaptations in social animals (e.g. termites, basking in lizards)",
+            "Structural adaptations (obtaining food, protection, securing mates, regulating body temperature, conserving water)"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "FORM AND FUNCTIONS",
+      "topics": [
+        {
+          "topic": "Internal structure of plants and animals",
+          "subtopics": [
+            "Internal structure of a flowering plant (Root, Stem, Leaf)",
+            "Internal structure of a mammal"
+          ]
+        },
+        {
+          "topic": "Nutrition",
+          "subtopics": [
+            "Modes of nutrition (Autotrophic, Heterotrophic)",
+            "Plant nutrition (Photosynthesis, Chemosynthesis, Mineral requirements)",
+            "Animal nutrition (Classes of food, Food tests, Mammalian tooth, Alimentary canal and digestion)"
+          ]
+        },
+        {
+          "topic": "Transport",
+          "subtopics": [
+            "Need for transportation, Materials and channels",
+            "Plant vascular system (Xylem and Phloem)",
+            "Mammalian circulatory system (Heart, arteries, veins, capillaries)",
+            "Media and processes of transportation"
+          ]
+        },
+        {
+          "topic": "Respiration",
+          "subtopics": [
+            "Respiratory organs and surfaces",
+            "Mechanism of gaseous exchange in plants and animals",
+            "Aerobic and Anaerobic respiration"
+          ]
+        },
+        {
+          "topic": "Excretion",
+          "subtopics": [
+            "Types of excretory structures",
+            "Excretory mechanisms (Kidneys, Lungs, Skin, Stomata, Lenticels)",
+            "Excretory products"
+          ]
+        },
+        {
+          "topic": "Support and Movement",
+          "subtopics": [
+            "Tropic, tactic, nastic and sleep movements in plants",
+            "Supporting tissues in plants and animals",
+            "Types and functions of the skeleton (Exoskeleton, Endoskeleton)"
+          ]
+        },
+        {
+          "topic": "Reproduction",
+          "subtopics": [
+            "Asexual reproduction (Fission, Budding, Vegetative propagation)",
+            "Sexual reproduction in flowering plants (Flower parts, Pollination, Fertilization)",
+            "Reproduction in mammals (Male and female reproductive organs, Fertilization and development)"
+          ]
+        },
+        {
+          "topic": "Growth",
+          "subtopics": [
+            "Germination of seeds and conditions necessary"
+          ]
+        },
+        {
+          "topic": "Co-ordination and Control",
+          "subtopics": [
+            "Nervous coordination (Central and Peripheral nervous system, Reflex action)",
+            "Sense organs (Skin, Nose, Tongue, Eye, Ear)",
+            "Hormonal control (Animal and plant hormones)",
+            "Homeostasis (Body temperature and salt/water regulation)"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "ECOLOGY",
+      "topics": [
+        {
+          "topic": "Factors affecting the distribution of organisms",
+          "subtopics": ["Abiotic and Biotic factors"]
+        },
+        {
+          "topic": "Symbiotic interactions",
+          "subtopics": ["Parasitism, Mutualism, Commensalism, etc."]
+        },
+        {
+          "topic": "Energy flow in the ecosystem",
+          "subtopics": ["Food chains, Food webs, Trophic levels"]
+        },
+        {
+          "topic": "Nutrient cycling in nature",
+          "subtopics": ["Carbon cycle, Water cycle, Nitrogen cycle"]
+        },
+        {
+          "topic": "Natural Habitats",
+          "subtopics": ["Aquatic, Terrestrial/Arboreal, Local (Nigerian) Biomes"]
+        },
+        {
+          "topic": "Ecology of Populations",
+          "subtopics": ["Population density, Overcrowding, Competition, Succession"]
+        },
+        {
+          "topic": "Soil",
+          "subtopics": ["Characteristics, Components, Soil fertility and conservation"]
+        },
+        {
+          "topic": "Humans and Environment",
+          "subtopics": [
+            "Diseases (Common, Endemic, Transmissible)",
+            "Pollution and its control",
+            "Conservation of Natural Resources",
+            "Game reserves and National parks"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "HEREDITY AND VARIATIONS",
+      "topics": [
+        {
+          "topic": "Variation in Population",
+          "subtopics": [
+            "Morphological variations",
+            "Physiological variations",
+            "Application (Crime detection, Blood transfusion, Paternity)"
+          ]
+        },
+        {
+          "topic": "Heredity",
+          "subtopics": [
+            "Inheritance of characters",
+            "Chromosomes and basis of heredity",
+            "Probability in genetics and sex determination",
+            "Application in Agriculture, Medicine, and Sex-linked characters"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "title": "EVOLUTION",
+      "topics": [
+        {
+          "topic": "Evidence of evolution"
+        },
+        {
+          "topic": "Theories of evolution",
+          "subtopics": ["Lamarck’s theory", "Darwin’s theory"]
+        }
+      ]
+    }
+  ]
+}

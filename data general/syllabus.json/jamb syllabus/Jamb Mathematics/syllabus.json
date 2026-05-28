@@ -1,0 +1,232 @@
+{
+  "exam": "UTME Mathematics Syllabus",
+  "sections": [
+    {
+      "section": "I. NUMBER AND NUMERATION",
+      "topics": [
+        {
+          "topic": "Number bases",
+          "content": "Operations in different number bases from 2 to 10; conversion from one base to another including fractional parts.",
+          "objectives": [
+            "Convert from one base to another.",
+            "Perform operations in different number bases.",
+            "Perform operations in modulo arithmetic."
+          ]
+        },
+        {
+          "topic": "Fractions, Decimals, Approximations and Percentages",
+          "content": "Fractions and decimals; significant figures; decimal places; percentage errors; simple interest; profit and loss percent; ratio, proportion and rate; shares and valued added tax (VAT).",
+          "objectives": [
+            "Perform basic operations on fractions and decimals.",
+            "Express to specified number of significant figures and decimal places.",
+            "Calculate simple interest, profit and loss percent; ratio, proportion, rate and percentage error.",
+            "Solve problems involving shares and VAT."
+          ]
+        },
+        {
+          "topic": "Indices, Logarithms and Surds",
+          "content": "Laws of indices; equations involving indices; standard form; laws of logarithm; logarithm of any positive number to given base; change of bases; relationship between indices and logarithms; Surds.",
+          "objectives": [
+            "Apply the laws of indices in calculation.",
+            "Establish the relationship between indices and logarithms in solving problems.",
+            "Solve equations involving indices.",
+            "Solve problems involving logarithms in different bases.",
+            "Simplify and rationalize surds.",
+            "Perform basic operations on surds."
+          ]
+        }
+      ]
+    },
+    {
+      "section": "II. ALGEBRA",
+      "topics": [
+        {
+          "topic": "Sets",
+          "content": "Types of sets; algebra of sets; Venn diagrams and their applications.",
+          "objectives": [
+            "Identify types of sets (empty, universal, complements, subsets, finite, infinite, disjoint).",
+            "Solve set problems using symbols.",
+            "Solve problems involving cardinality of sets.",
+            "Use Venn diagrams to solve problems involving not more than 3 sets."
+          ]
+        },
+        {
+          "topic": "Polynomials",
+          "content": "Change of subject of formula; multiplication and division of polynomials; factorization of polynomials of degree not exceeding 3; roots of polynomials not exceeding degree 3; factor and remainder theorems; simultaneous equations (one linear, one quadratic); graphs of polynomials of degree not greater than 3.",
+          "objectives": [
+            "Find the subject of the formula.",
+            "Multiply and divide polynomials of degree not more than 3.",
+            "Factorize polynomials using factor and remainder theorems, regrouping, difference of two squares, etc.",
+            "Solve simultaneous equations (one linear, one quadratic).",
+            "Apply polynomials to maximum and minimum values."
+          ]
+        },
+        {
+          "topic": "Variation",
+          "content": "Direct, inverse, joint, partial variation; percentage increase and decrease.",
+          "objectives": [
+            "Solve problems involving direct, inverse, joint and partial variations.",
+            "Solve problems on percentage increase and decrease in variation."
+          ]
+        },
+        {
+          "topic": "Inequalities",
+          "content": "Analytical and graphical solutions of linear inequalities; quadratic inequalities with integral roots only.",
+          "objectives": [
+            "Solve problems on linear and quadratic inequalities.",
+            "Interpret graphs of inequalities."
+          ]
+        },
+        {
+          "topic": "Progression",
+          "content": "Nth term of a progression; sum of A.P. and G.P.; sum to infinity of a G.P.",
+          "objectives": [
+            "Determine the nth term of a progression.",
+            "Compute the sum of A.P. and G.P.",
+            "Compute sum to infinity of a given G.P."
+          ]
+        },
+        {
+          "topic": "Binary Operations",
+          "content": "Properties of closure, commutativity, associativity and distributivity; identity and inverse elements (simple cases only).",
+          "objectives": [
+            "Solve problems involving closure, commutativity, associativity and distributivity.",
+            "Solve problems involving identity and inverse elements."
+          ]
+        },
+        {
+          "topic": "Matrices and Determinants",
+          "content": "Algebra of matrices not exceeding 3x3; determinants of matrices not exceeding 3x3; inverses of 2x2 matrices.",
+          "objectives": [
+            "Perform basic operations on matrices.",
+            "Calculate determinants.",
+            "Compute inverses of 2x2 matrices."
+          ]
+        }
+      ]
+    },
+    {
+      "section": "III. GEOMETRY AND TRIGONOMETRY",
+      "topics": [
+        {
+          "topic": "Euclidean Geometry",
+          "content": "Properties of angles and lines; Polygons: triangles, quadrilaterals and general polygons; Circles: angle properties, cyclic quadrilaterals and intersecting chords; construction.",
+          "objectives": [
+            "Identify various types of lines and angles.",
+            "Solve problems involving angles.",
+            "Identify construction procedures of special angles (30°, 45°, 60°, 75°, 90°, etc.)."
+          ]
+        },
+        {
+          "topic": "Mensuration",
+          "content": "Lengths and areas of plane geometrical figures; lengths of arcs and chords of a circle; perimeters and areas of sectors and segments of circles; surface areas and volumes of simple solids and composite figures; the earth as a sphere: longitudes and latitudes.",
+          "objectives": [
+            "Calculate perimeters and areas of plane figures, quadrilaterals, circles and composite figures.",
+            "Find lengths of arcs, chords; perimeters and areas of sectors and segments.",
+            "Calculate surface areas and volumes of cuboids, cylinders, cones, pyramids, prisms, spheres and composite figures.",
+            "Determine distances between points on the earth’s surface using longitudes and latitudes."
+          ]
+        },
+        {
+          "topic": "Loci",
+          "content": "Locus in 2 dimensions based on geometric principles relating to lines and curves.",
+          "objectives": [
+            "Identify and interpret loci relating to parallel lines, perpendicular bisectors, angle bisectors and circles."
+          ]
+        },
+        {
+          "topic": "Coordinate Geometry",
+          "content": "Midpoint and gradient of a line segment; distance between two points; parallel and perpendicular lines; equations of straight lines.",
+          "objectives": [
+            "Determine midpoint and gradient of a line segment.",
+            "Find distance between two points.",
+            "Identify conditions for parallelism and perpendicularity.",
+            "Find the equation of a line (two-point form, point-slope form, slope-intercept form, general form)."
+          ]
+        },
+        {
+          "topic": "Trigonometry",
+          "content": "Trigonometrical ratios of angles; angles of elevation and depression; bearings; areas and solutions of triangles; graphs of sine and cosine; sine and cosine formulae.",
+          "objectives": [
+            "Calculate sine, cosine and tangent of angles (0° to 360°).",
+            "Apply special angles (30°, 45°, 60°, etc.) to solve problems.",
+            "Solve problems involving angles of elevation and depression.",
+            "Solve problems involving bearings.",
+            "Apply trigonometric formulae to find areas of triangles.",
+            "Solve problems involving sine and cosine graphs."
+          ]
+        }
+      ]
+    },
+    {
+      "section": "IV. CALCULUS",
+      "topics": [
+        {
+          "topic": "Differentiation",
+          "content": "Limit of a function; differentiation of explicit algebraic and simple trigonometrical functions (sine, cosine, tangent).",
+          "objectives": [
+            "Find the limit of a function.",
+            "Differentiate simple algebraic and trigonometrical functions."
+          ]
+        },
+        {
+          "topic": "Application of differentiation",
+          "content": "Rate of change; maxima and minima.",
+          "objectives": [
+            "Solve problems involving rate of change, maxima and minima."
+          ]
+        },
+        {
+          "topic": "Integration",
+          "content": "Integration of explicit algebraic and simple trigonometrical functions; area under the curve.",
+          "objectives": [
+            "Solve problems of integration involving algebraic and simple trigonometric functions.",
+            "Calculate area under the curve (simple cases only)."
+          ]
+        }
+      ]
+    },
+    {
+      "section": "V. STATISTICS",
+      "topics": [
+        {
+          "topic": "Representation of data",
+          "content": "Frequency distribution; histogram, bar chart and pie chart.",
+          "objectives": [
+            "Identify and interpret frequency distribution tables.",
+            "Interpret information on histogram, bar chart and pie chart."
+          ]
+        },
+        {
+          "topic": "Measures of Location",
+          "content": "Mean, mode and median of ungrouped and grouped data (simple cases only); cumulative frequency.",
+          "objectives": [
+            "Calculate the mean, mode and median of ungrouped and grouped data.",
+            "Use ogive to find the median, quartiles and percentiles."
+          ]
+        },
+        {
+          "topic": "Measures of Dispersion",
+          "content": "Range, mean deviation, variance and standard deviation.",
+          "objectives": [
+            "Calculate the range, mean deviation, variance and standard deviation of ungrouped and grouped data."
+          ]
+        },
+        {
+          "topic": "Permutation and Combination",
+          "content": "Linear and circular arrangements; arrangements involving repeated objects.",
+          "objectives": [
+            "Solve simple problems involving permutation and combination."
+          ]
+        },
+        {
+          "topic": "Probability",
+          "content": "Experimental probability (tossing of coin, throwing of dice, etc.); addition and multiplication of probabilities (mutual and independent cases).",
+          "objectives": [
+            "Solve simple problems in probability (including addition and multiplication)."
+          ]
+        }
+      ]
+    }
+  ]
+}

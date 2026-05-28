@@ -1,0 +1,161 @@
+{
+  "subject": "Building Construction",
+  "exam_board": "WAEC",
+  "cycle": "SSCE",
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "PROFESSIONAL AND LEGAL MATTERS",
+      "subtopics": [
+        "Definition and scope of the building profession",
+        "Roles of different professionals: architect, quantity surveyor, engineer, building technician, etc.",
+        "Codes of practice and standards (e.g. BS, BS EN, ISO)",
+        "Legal requirements in building construction",
+        "Professional bodies and their functions"
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "SITE AND SITE PREPARATION",
+      "subtopics": [
+        "Location and site selection",
+        "Site survey and site sketch",
+        "Site clearing and setting out",
+        "Site drainage and erosion control",
+        "Temporary works and site protection"
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "FOUNDATIONS",
+      "subtopics": [
+        "Types of foundations: shallow and deep",
+        "Functions and requirements of foundations",
+        "Types of soil and their bearing characteristics",
+        "Foundation materials and construction methods",
+        "Uses of strip, pad, raft and pile foundations"
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "WALLS",
+      "subtopics": [
+        "Functions and types of walls",
+        "Materials for walling: blocks, bricks, stone, etc.",
+        "Bonding and laying of walls",
+        "Wall finishes and rendering",
+        "Damp proof courses and wall insulation"
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "FLOORS",
+      "subtopics": [
+        "Functions and types of floors",
+        "Materials for floor construction",
+        "Types of floor finishes: concrete, tiles, carpet, etc.",
+        "Floor screeding and levelling",
+        "Floor damp proofing and insulation"
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "ROOFS",
+      "subtopics": [
+        "Functions and types of roofs",
+        "Roof framing and truss construction",
+        "Roof coverings: clay tiles, concrete tiles, metal sheets, etc.",
+        "Roof ventilation and insulation",
+        "Roof drainage and guttering systems"
+      ]
+    },
+    {
+      "topic_number": 7,
+      "topic": "WINDOWS AND DOORS",
+      "subtopics": [
+        "Functions and types of windows",
+        "Functions and types of doors",
+        "Materials for windows and doors",
+        "Installation of windows and doors",
+        "Finishes and maintenance"
+      ]
+    },
+    {
+      "topic_number": 8,
+      "topic": "STAIRS AND STAIRCASES",
+      "subtopics": [
+        "Functions and types of stairs",
+        "Components of stairs: treads, risers, landings, etc.",
+        "Design considerations and dimensions",
+        "Construction methods",
+        "Safety requirements and balustrades"
+      ]
+    },
+    {
+      "topic_number": 9,
+      "topic": "SANITATION AND PLUMBING SERVICES",
+      "subtopics": [
+        "Introduction to sanitation in buildings",
+        "Types of sanitation systems",
+        "Drainage and waste disposal",
+        "Plumbing systems and fittings",
+        "Maintenance of sanitation and plumbing services"
+      ]
+    },
+    {
+      "topic_number": 10,
+      "topic": "BUILDING SERVICES",
+      "subtopics": [
+        "Introduction to building services",
+        "Electrical services: wiring, switches, lighting",
+        "Mechanical services: lifts, escalators, HVAC",
+        "Fire protection systems",
+        "Building management systems"
+      ]
+    },
+    {
+      "topic_number": 11,
+      "topic": "BUILDING MATERIALS",
+      "subtopics": [
+        "Types of building materials",
+        "Properties of building materials",
+        "Testing and quality control",
+        "Selection of materials for specific uses",
+        "Storage and handling of materials"
+      ]
+    },
+    {
+      "topic_number": 12,
+      "topic": "BUILDING CONSTRUCTION SAFETY",
+      "subtopics": [
+        "Introduction to safety in building construction",
+        "Common hazards on building sites",
+        "Personal protective equipment (PPE)",
+        "Safety procedures and regulations",
+        "Accident prevention and reporting"
+      ]
+    },
+    {
+      "topic_number": 13,
+      "topic": "BUILDING MAINTENANCE",
+      "subtopics": [
+        "Importance of building maintenance",
+        "Types of maintenance: routine, preventive, corrective",
+        "Common defects in buildings",
+        "Repair methods and materials",
+        "Record keeping and maintenance schedules"
+      ]
+    },
+    {
+      "topic_number": 14,
+      "topic": "BUILDING DESIGN AND DRAFTING",
+      "subtopics": [
+        "Introduction to building design",
+        "Principles of design: function, form, aesthetics, etc.",
+        "Types of drawings: plans, elevations, sections",
+        "Drawing instruments and techniques",
+        "Computer‑aided design (CAD) in building construction"
+      ]
+    }
+  ]
+}

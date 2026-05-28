@@ -1,0 +1,69 @@
+{
+  "subject": "Auto Electrical Work",
+  "exam_board": "WAEC",
+  "cycle": "SSCE",
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "BATTERY",
+      "subtopics": [
+        "Concept of Battery",
+        "Uses of battery",
+        "Types, Constructional details and ratings",
+        "Charging",
+        "Testing and Maintenance"
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "STARTING SYSTEM",
+      "subtopics": [
+        "Purpose and components of starting system",
+        "Circuit diagram",
+        "Types of starter motor",
+        "Repair of starter motors"
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "IGNITION SYSTEM",
+      "subtopics": [
+        "Purpose and components of ignition system",
+        "Circuit diagram",
+        "Construction and operation of ignition coil",
+        "Types of Ignition System",
+        "Timing",
+        "Faults and repairs"
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "CHARGING SYSTEM",
+      "subtopics": [
+        "Purpose and components of charging system",
+        "Alternator",
+        "Circuit diagram",
+        "Faults and Repairs"
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "LIGHTING SYSTEM",
+      "subtopics": [
+        "Purpose and Classification of Lighting in a Motor Vehicle",
+        "Headlamps",
+        "Circuit diagram",
+        "Maintenance and repairs"
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "AUXILIARY SYSTEM",
+      "subtopics": [
+        "Concept and Components of an system",
+        "Constructional details and operation of auxiliary system component",
+        "Maintenance and repairs of auxiliary Components"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subject": "Basketry",
+  "exam_board": "WAEC",
+  "cycle": "SSCE",
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "Materials for Basketry",
+      "subtopics": [
+        "Natural materials: raffia, cane, bamboo, reeds, grasses, rushes, palm fronds, etc.",
+        "Local and imported materials used in basketry",
+        "Properties of materials: flexibility, strength, durability",
+        "Selection, preparation and treatment of materials"
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "Tools and Equipment",
+      "subtopics": [
+        "Hand tools used in basketry: knives, scissors, awls, needles, etc.",
+        "Workshop equipment and safety devices",
+        "Care and maintenance of tools and equipment"
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "Design Elements and Principles",
+      "subtopics": [
+        "Elements of design: line, shape, form, colour, texture, pattern",
+        "Principles of design: balance, proportion, rhythm, emphasis, harmony",
+        "Basic design layout for basket items"
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "Basketry Techniques",
+      "subtopics": [
+        "Plaiting, coiling, twining, checkweave, twillweave and other basic techniques",
+        "Combination of techniques to produce different textures and patterns",
+        "Adaptation of techniques for different basketry forms"
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "Types and Forms of Baskets",
+      "subtopics": [
+        "Round, oval, square and rectangular baskets",
+        "Flat and three‑dimensional basket forms",
+        "Functional and decorative baskets: food trays, storage containers, wall hangings, mats, etc."
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "Basketry Styles and Traditions",
+      "subtopics": [
+        "Local and traditional basketry styles in West Africa",
+        "Influence of culture, religion, gender and climate on basketry styles",
+        "Comparison of regional basketry types and motifs"
+      ]
+    },
+    {
+      "topic_number": 7,
+      "topic": "Finishing and Decoration",
+      "subtopics": [
+        "Trims and edgings: overlapping, braided, woven and knotted edges",
+        "Surface decoration: in‑woven patterns, dyeing, painting, appliqué",
+        "Use of natural and synthetic dyes, colour schemes and decoration"
+      ]
+    },
+    {
+      "topic_number": 8,
+      "topic": "Design and Project Work",
+      "subtopics": [
+        "Designing a basketry item from brief",
+        "Sketching and refining basket designs",
+        "Selection of appropriate materials and techniques for the design",
+        "Execution of simple basketry projects within given time"
+      ]
+    },
+    {
+      "topic_number": 9,
+      "topic": "Basketry and Entrepreneurship",
+      "subtopics": [
+        "Basketry as a small‑scale business and source of income",
+        "Pricing, packaging, display and marketing of basketry products",
+        "Health, safety and environmental considerations in basketry workshop"
+      ]
+    }
+  ]
+}

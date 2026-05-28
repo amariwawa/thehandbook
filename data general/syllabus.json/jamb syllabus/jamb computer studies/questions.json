@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 2,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 3,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 4,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 5,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 6,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 7,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Google Chrome",
+        "B": "Windows OS",
+        "C": "Adobe Photoshop",
+        "D": "Microsoft Word"
+      },
+      "answer": "B",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 8,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Windows OS"
+      },
+      "answer": "D",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 9,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Microsoft Word",
+        "C": "Windows OS",
+        "D": "Google Chrome"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 10,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 11,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 12,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 13,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 17,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 18,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 19,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 23,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 24,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 25,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 34,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 36,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 37,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Windows OS",
+        "B": "Adobe Photoshop",
+        "C": "Microsoft Word",
+        "D": "Google Chrome"
+      },
+      "answer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 38,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Windows OS",
+        "C": "Google Chrome",
+        "D": "Adobe Photoshop"
+      },
+      "answer": "B",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 39,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Windows OS",
+        "B": "Microsoft Word",
+        "C": "Google Chrome",
+        "D": "Adobe Photoshop"
+      },
+      "answer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 42,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 43,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 45,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 46,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 47,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 49,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 50,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 53,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 54,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 55,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 56,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 57,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It belongs to history"
+      },
+      "answer": "C",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 58,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Windows OS"
+      },
+      "answer": "D",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 59,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 61,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Adobe Photoshop",
+        "C": "Windows OS",
+        "D": "Google Chrome"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 62,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 63,
+      "topic": "Artificial Intelligence (AI) and Robotics",
+      "section": "General",
+      "subtopic": "Artificial Intelligence (AI) and Robotics",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Artificial Intelligence (AI) and Robotics in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Artificial Intelligence (AI) and Robotics is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 64,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is a biological process",
+        "D": "It belongs to history"
+      },
+      "answer": "B",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 66,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 68,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 69,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "A",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 71,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is not examined",
+        "C": "It belongs to history",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It belongs to history"
+      },
+      "answer": "A",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 74,
+      "topic": "Computer Maintenance and Safety Measures",
+      "section": "General",
+      "subtopic": "Computer Maintenance and Safety Measures",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Computer Maintenance and Safety Measures in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Computer Maintenance and Safety Measures is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Microsoft Word",
+        "C": "Windows OS",
+        "D": "Google Chrome"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 76,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It is a biological process",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Adobe Photoshop",
+        "B": "Microsoft Word",
+        "C": "Windows OS",
+        "D": "Google Chrome"
+      },
+      "answer": "C",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 81,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a core ICT concept in the syllabus",
+        "B": "It belongs to history",
+        "C": "It is a biological process",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is a biological process"
+      },
+      "answer": "B",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Information & Communication Technology (ICT)",
+      "section": "General",
+      "subtopic": "Information & Communication Technology (ICT)",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Information & Communication Technology (ICT) in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is not examined",
+        "C": "It is a biological process",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Information & Communication Technology (ICT) is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "easy",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Computer Ethics and Human Issues",
+      "section": "General",
+      "subtopic": "Computer Ethics and Human Issues",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Computer Ethics and Human Issues in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Computer Ethics and Human Issues is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Computer Application Packages",
+      "section": "General",
+      "subtopic": "Computer Application Packages",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of system software?",
+      "options": {
+        "A": "Windows OS",
+        "B": "Microsoft Word",
+        "C": "Adobe Photoshop",
+        "D": "Google Chrome"
+      },
+      "answer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for applications. Windows OS is system software; the others are application software."
+    },
+    {
+      "id": 87,
+      "topic": "Managing Computer Files",
+      "section": "General",
+      "subtopic": "Managing Computer Files",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Managing Computer Files in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It is a core ICT concept in the syllabus",
+        "C": "It belongs to history",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Managing Computer Files is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Developing Problem-Solving Skills",
+      "section": "General",
+      "subtopic": "Developing Problem-Solving Skills",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Developing Problem-Solving Skills in Computer Studies?",
+      "options": {
+        "A": "It is a biological process",
+        "B": "It belongs to history",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Developing Problem-Solving Skills is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 89,
+      "topic": "Fundamentals of Computing",
+      "section": "General",
+      "subtopic": "Fundamentals of Computing",
+      "difficulty": "hard",
+      "question": "Which of the following is correct about Fundamentals of Computing in Computer Studies?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to history",
+        "C": "It is a core ICT concept in the syllabus",
+        "D": "It is a biological process"
+      },
+      "answer": "C",
+      "explanation": "Fundamentals of Computing is included in the Computer Studies/ICT syllabus."
+    },
+    {
+      "id": 90,
+      "topic": "Evolution of Computing",
+      "section": "General",
+      "subtopic": "Evolution of Computing",
+      "difficulty": "medium",
+      "question": "Which of the following is correct about Evolution of Computing in Computer Studies?",
+      "options": {
+        "A": "It belongs to history",
+        "B": "It is a biological process",
+        "C": "It is not examined",
+        "D": "It is a core ICT concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Evolution of Computing is included in the Computer Studies/ICT syllabus."
+    }
+  ]
+}

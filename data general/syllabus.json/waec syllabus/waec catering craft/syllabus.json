@@ -1,0 +1,146 @@
+{
+  "detailed_syllabus": {
+    "title": "Catering Craft Practice - Detailed Syllabus",
+    "sections": [
+      {
+        "section_number": "I",
+        "title": "THE CONCEPT OF CATERING",
+        "subtopics": [
+          {
+            "number": "1",
+            "title": "Hospitality industry/catering",
+            "content": {
+              "definitions": ["Hospitality", "Catering"],
+              "components": "Components of hospitality industry"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Types of catering establishments",
+            "content": "e.g. hotel, restaurant, hospitality catering, outdoor catering, school, mobile catering etc. Functions of catering establishments."
+          },
+          {
+            "number": "3",
+            "title": "Culinary terms",
+            "content": "Culinary terms commonly used in catering. Glossary of culinary terms."
+          },
+          {
+            "number": "4",
+            "title": "Safety precaution in catering",
+            "content": {
+              "accidents": "Types and causes of accidents. Prevention/management.",
+              "first_aid": "First aid",
+              "fire_fighting": "Fire fighting equipment"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sanitation and Hygiene in catering",
+            "content": [
+              "Water sanitation",
+              "Environmental sanitation",
+              "Food safety practices",
+              "Kitchen hygiene",
+              "Personal hygiene"
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "II",
+        "title": "FOOD COMMODITIES AND METHODS OF FOOD PREPARATION",
+        "subtopics": [
+          {
+            "title": "Study of food commodities and principles of cooking methods",
+            "content": {
+              "commodities": "Food commodities e.g. poultry, game, meat, fish, vegetables, fruits, dairy products, pulses, cereals, herbs, flavourings etc.",
+              "cooking_methods": [
+                "Boiling e.g. stock, soups and sauces",
+                "Roasting e.g. fish, beef and poultry",
+                "Grilling e.g. fish, meat etc.",
+                "Baking e.g. pastry and confectionery"
+              ],
+              "principles": "Principles of cooking methods. Preparation of the various food commodities. Standard/local measurements."
+            }
+          }
+        ]
+      },
+      {
+        "section_number": "III",
+        "title": "SERVICE OF FOODS AND DRINKS",
+        "subtopics": [
+          {
+            "number": "1",
+            "title": "Food and beverage service personnel",
+            "content": "Personnel in the foods and beverage area. Functions of food and beverage personnel."
+          },
+          {
+            "number": "2",
+            "title": "Types of food service and table laying/setting",
+            "content": "Different types of food service e.g. Gueridon, silver service, waiter service, vending, buffet and banquet service. Types of covers. Types of table laying/setting."
+          },
+          {
+            "number": "3",
+            "title": "Types of alcoholic and non-alcoholic drinks",
+            "content": {
+              "bar": "Bar",
+              "alcoholic": "Alcoholic beverages",
+              "non_alcoholic": "Non alcoholic beverages"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Costing and control in catering",
+            "content": "Cost/sales. Dish costing. Portion control."
+          }
+        ]
+      },
+      {
+        "section_number": "IV",
+        "title": "KITCHEN EQUIPMENT AND THEIR USES",
+        "subtopics": [
+          {
+            "number": "1",
+            "title": "Types of kitchen equipment and their uses",
+            "content": "Kitchen equipment. Uses of kitchen equipment."
+          },
+          {
+            "number": "2",
+            "title": "Care and maintenance of kitchen equipment",
+            "content": "Care of various kitchen equipment. Maintenance of kitchen equipment."
+          }
+        ]
+      },
+      {
+        "section_number": "V",
+        "title": "MENU PLANNING",
+        "subtopics": [
+          {
+            "number": "1",
+            "title": "Principles of menu planning",
+            "content": "Meaning and scope of menu. Factors that affect menu planning."
+          },
+          {
+            "number": "2",
+            "title": "Types of menu and demonstrations",
+            "content": "Types of menu e.g. table d’hote, a la carte, and special occasions. Others: breakfast, tea, dinner, supper, luncheon, carte du jour, plate du jour etc."
+          },
+          {
+            "number": "3",
+            "title": "Special menu",
+            "content": [
+              "Meals plan for vegetarians",
+              "Meals plan for the vulnerable group",
+              "Meals plan for manual, sedentary workers etc."
+            ]
+          },
+          {
+            "number": "4",
+            "title": "Accompaniments",
+            "content": ["Food accompaniments", "Table accompaniments"]
+          }
+        ]
+      }
+    ]
+  }
+}

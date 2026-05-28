@@ -1,0 +1,114 @@
+{
+  "subject": "Auto Parts Merchandising",
+  "exam_board": "WAEC",
+  "cycle": "SSCE",
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "INTRODUCTION TO AUTO PARTS MERCHANDISING",
+      "subtopics": [
+        "Meaning of auto parts merchandising",
+        "Importance of auto parts merchandising to the motor vehicle industry",
+        "Career opportunities in auto parts merchandising"
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "AUTO PARTS MAINTENANCE AND REPAIR",
+      "subtopics": [
+        "Types of auto parts maintenance and repair",
+        "Basic routine maintenance on auto parts",
+        "Pre‑preventive maintenance on auto parts",
+        "Corrective maintenance on auto parts"
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "AUTO PARTS STORES MANAGEMENT",
+      "subtopics": [
+        "Meaning and importance of auto parts stores management",
+        "Functions of auto parts stores",
+        "Types of stores (centralized, decentralized, combination stores)",
+        "Layout of an auto parts store",
+        "Stock control techniques (minimum stock level, maximum stock level, reorder level, economic order quantity)"
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "AUTO PARTS INVENTORY",
+      "subtopics": [
+        "Meaning and importance of inventory",
+        "Types of inventory (raw materials, work‑in‑progress, finished goods)",
+        "Inventory records and documentation",
+        "Inventory valuation methods (FIFO, LIFO, weighted average)",
+        "Inventory control measures"
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "AUTO PARTS PURCHASING",
+      "subtopics": [
+        "Meaning and objectives of purchasing",
+        "Steps in purchasing auto parts",
+        "Sources of supply of auto parts",
+        "Factors to consider in selecting suppliers",
+        "Purchasing policies and procedures",
+        "Importance of good purchasing records"
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "AUTO PARTS PRICING",
+      "subtopics": [
+        "Meaning and importance of pricing",
+        "Factors affecting pricing of auto parts",
+        "Methods of pricing (cost‑plus, markup, market pricing)",
+        "Significance of pricing policy to auto parts merchandising"
+      ]
+    },
+    {
+      "topic_number": 7,
+      "topic": "AUTO PARTS MARKETING",
+      "subtopics": [
+        "Meaning and importance of marketing to auto parts merchandising",
+        "The marketing mix (product, price, place, promotion)",
+        "Channels of distribution for auto parts",
+        "Sales promotion techniques",
+        "Customer service and relationship management"
+      ]
+    },
+    {
+      "topic_number": 8,
+      "topic": "AUTO PARTS ACCOUNTS",
+      "subtopics": [
+        "Meaning and importance of auto parts accounting",
+        "Types of accounts (cash, credit, current accounts)",
+        "Recording of transactions (sales, purchases, returns)",
+        "Importance of accurate accounting records",
+        "Use of simple accounting books (cash book, sales ledger, purchase ledger)"
+      ]
+    },
+    {
+      "topic_number": 9,
+      "topic": "SAFETY AND WORKSHOP PRACTICE",
+      "subtopics": [
+        "Safety rules and regulations in an auto parts store",
+        "Safety devices and equipment",
+        "Safe handling and storage of auto parts",
+        "Workshop hygiene and housekeeping",
+        "Fire prevention and control measures"
+      ]
+    },
+    {
+      "topic_number": 10,
+      "topic": "ENTREPRENEURSHIP AND MANAGEMENT IN AUTO PARTS MERCHANDISING",
+      "subtopics": [
+        "Meaning and importance of entrepreneurship",
+        "Management functions (planning, organizing, staffing, directing, controlling)",
+        "Types of business enterprises (sole proprietorship, partnership, cooperative, limited liability companies)",
+        "Advantages and disadvantages of each business type",
+        "Business ethics and social responsibility"
+      ]
+    }
+  ]
+}

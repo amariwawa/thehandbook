@@ -1,0 +1,1420 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Ceramics as a vocation",
+      "section": "General",
+      "subtopic": "Ceramics as a vocation",
+      "difficulty": "easy",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Wedging,Slip casting",
+        "B": "Bisque firing",
+        "C": "Drying"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 2,
+      "topic": "Ceramics as a vocation",
+      "section": "General",
+      "subtopic": "Ceramics as a vocation",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Wedging,Slip casting",
+        "B": "Bisque firing",
+        "C": "Drying"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 3,
+      "topic": "Ceramics as a vocation",
+      "section": "General",
+      "subtopic": "Ceramics as a vocation",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Bisque firing",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 4,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Wedging,Slip casting",
+        "C": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 5,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Wedging,Slip casting",
+        "B": "Bisque firing",
+        "C": "Drying"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 6,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "easy",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Bisque firing",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 7,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "hard",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 8,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 9,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 10,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Colour harmony",
+        "C": "Composition",
+        "D": "Texture"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 11,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Perspective",
+        "C": "Composition",
+        "D": "Colour harmony"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 12,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Colour harmony",
+        "C": "Perspective",
+        "D": "Texture"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 13,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "medium",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 14,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "hard",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 15,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "easy",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 16,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Perspective",
+        "C": "Texture",
+        "D": "Composition"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 17,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Texture",
+        "C": "Perspective",
+        "D": "Colour harmony"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 18,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Perspective",
+        "C": "Composition",
+        "D": "Texture"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 19,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "easy",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 20,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "medium",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 21,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "hard",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 22,
+      "topic": "Ceramic production and sustainable environmental issues",
+      "section": "General",
+      "subtopic": "Ceramic production and sustainable environmental issues",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Wedging,Slip casting",
+        "B": "Drying",
+        "C": "Bisque firing"
+      },
+      "answer": "C",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 23,
+      "topic": "Ceramic production and sustainable environmental issues",
+      "section": "General",
+      "subtopic": "Ceramic production and sustainable environmental issues",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Drying",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 24,
+      "topic": "Ceramic production and sustainable environmental issues",
+      "section": "General",
+      "subtopic": "Ceramic production and sustainable environmental issues",
+      "difficulty": "easy",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Wedging,Slip casting",
+        "C": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 25,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "hard",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 26,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "easy",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 27,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "medium",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "A",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 28,
+      "topic": "Museum and Galleries",
+      "section": "General",
+      "subtopic": "Museum and Galleries",
+      "difficulty": "easy",
+      "question": "Which statement about Museum and Galleries is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Museum and Galleries is included in the Art/Music syllabus."
+    },
+    {
+      "id": 29,
+      "topic": "Museum and Galleries",
+      "section": "General",
+      "subtopic": "Museum and Galleries",
+      "difficulty": "medium",
+      "question": "Which statement about Museum and Galleries is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Museum and Galleries is included in the Art/Music syllabus."
+    },
+    {
+      "id": 30,
+      "topic": "Museum and Galleries",
+      "section": "General",
+      "subtopic": "Museum and Galleries",
+      "difficulty": "hard",
+      "question": "Which statement about Museum and Galleries is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Museum and Galleries is included in the Art/Music syllabus."
+    },
+    {
+      "id": 31,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "hard",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 32,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "medium",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 33,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Bisque firing",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 34,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 35,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Texture",
+        "C": "Colour harmony",
+        "D": "Composition"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 36,
+      "topic": "Ceramics as a vocation",
+      "section": "General",
+      "subtopic": "Ceramics as a vocation",
+      "difficulty": "easy",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Wedging,Slip casting",
+        "C": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 37,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Composition",
+        "C": "Perspective",
+        "D": "Texture"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 38,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Bisque firing",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 39,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "hard",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 40,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "easy",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 41,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Wedging,Slip casting",
+        "C": "Bisque firing"
+      },
+      "answer": "C",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 42,
+      "topic": "Ceramic production and sustainable environmental issues",
+      "section": "General",
+      "subtopic": "Ceramic production and sustainable environmental issues",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Wedging,Slip casting",
+        "C": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 43,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "easy",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 44,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Drying",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 45,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Drying",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 46,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Composition",
+        "C": "Texture",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 47,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "easy",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 48,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Wedging,Slip casting",
+        "C": "Bisque firing"
+      },
+      "answer": "C",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 49,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Composition",
+        "C": "Texture",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 50,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "medium",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 51,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 52,
+      "topic": "Ceramics as a vocation",
+      "section": "General",
+      "subtopic": "Ceramics as a vocation",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Wedging,Slip casting",
+        "C": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 53,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Composition",
+        "C": "Perspective",
+        "D": "Colour harmony"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 54,
+      "topic": "Ceramics as a vocation",
+      "section": "General",
+      "subtopic": "Ceramics as a vocation",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Bisque firing",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 55,
+      "topic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "section": "General",
+      "subtopic": "Raw materials (Clay, Glazes and Other Raw Materials)",
+      "difficulty": "easy",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Drying",
+        "B": "Bisque firing",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 56,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Colour harmony",
+        "C": "Texture",
+        "D": "Perspective"
+      },
+      "answer": "D",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 57,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Perspective",
+        "C": "Composition",
+        "D": "Colour harmony"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 58,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "medium",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 59,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 60,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Perspective",
+        "C": "Texture",
+        "D": "Composition"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 61,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "easy",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 62,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "easy",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Perspective",
+        "C": "Composition",
+        "D": "Colour harmony"
+      },
+      "answer": "B",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 63,
+      "topic": "Ceramics as a vocation",
+      "section": "General",
+      "subtopic": "Ceramics as a vocation",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Wedging,Slip casting",
+        "B": "Drying",
+        "C": "Bisque firing"
+      },
+      "answer": "C",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 64,
+      "topic": "Museum and Galleries",
+      "section": "General",
+      "subtopic": "Museum and Galleries",
+      "difficulty": "hard",
+      "question": "Which statement about Museum and Galleries is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Museum and Galleries is included in the Art/Music syllabus."
+    },
+    {
+      "id": 65,
+      "topic": "Ceramic production and sustainable environmental issues",
+      "section": "General",
+      "subtopic": "Ceramic production and sustainable environmental issues",
+      "difficulty": "hard",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Wedging,Slip casting",
+        "B": "Bisque firing",
+        "C": "Drying"
+      },
+      "answer": "B",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 66,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 67,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Perspective",
+        "B": "Texture",
+        "C": "Composition",
+        "D": "Colour harmony"
+      },
+      "answer": "A",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 68,
+      "topic": "Ceramic production and sustainable environmental issues",
+      "section": "General",
+      "subtopic": "Ceramic production and sustainable environmental issues",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Drying",
+        "C": "Wedging,Slip casting"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 69,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "medium",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 70,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Colour harmony",
+        "B": "Composition",
+        "C": "Perspective",
+        "D": "Texture"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 71,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "easy",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 72,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It is a mathematical theorem",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 73,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Colour harmony",
+        "C": "Perspective",
+        "D": "Composition"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 74,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "medium",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is not examined",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "C",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 75,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "hard",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 76,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "hard",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 77,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "easy",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is a mathematical theorem",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 78,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "hard",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 79,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "medium",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is not examined",
+        "C": "It belongs to science",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    },
+    {
+      "id": 80,
+      "topic": "Establishment of small-scale Ceramic industry",
+      "section": "General",
+      "subtopic": "Establishment of small-scale Ceramic industry",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Composition",
+        "B": "Texture",
+        "C": "Perspective",
+        "D": "Colour harmony"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 81,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "medium",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to science",
+        "C": "It is a mathematical theorem",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 82,
+      "topic": "Tools and equipment",
+      "section": "General",
+      "subtopic": "Tools and equipment",
+      "difficulty": "medium",
+      "question": "Which statement about Tools and equipment is correct in Art/Music?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a mathematical theorem",
+        "C": "It is a tested concept in creative arts",
+        "D": "It belongs to science"
+      },
+      "answer": "C",
+      "explanation": "Tools and equipment is included in the Art/Music syllabus."
+    },
+    {
+      "id": 83,
+      "topic": "Professional Practices/Ethics",
+      "section": "General",
+      "subtopic": "Professional Practices/Ethics",
+      "difficulty": "easy",
+      "question": "Which statement about Professional Practices/Ethics is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a mathematical theorem",
+        "C": "It is not examined",
+        "D": "It is a tested concept in creative arts"
+      },
+      "answer": "D",
+      "explanation": "Professional Practices/Ethics is included in the Art/Music syllabus."
+    },
+    {
+      "id": 84,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "hard",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It belongs to science"
+      },
+      "answer": "B",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 85,
+      "topic": "Museum and Galleries",
+      "section": "General",
+      "subtopic": "Museum and Galleries",
+      "difficulty": "medium",
+      "question": "Which statement about Museum and Galleries is correct in Art/Music?",
+      "options": {
+        "A": "It belongs to science",
+        "B": "It is a tested concept in creative arts",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "B",
+      "explanation": "Museum and Galleries is included in the Art/Music syllabus."
+    },
+    {
+      "id": 86,
+      "topic": "Ceramic production and sustainable environmental issues",
+      "section": "General",
+      "subtopic": "Ceramic production and sustainable environmental issues",
+      "difficulty": "medium",
+      "question": "At what stage is clay fired in a kiln to make it permanent and waterproof?",
+      "options": {
+        "A": "Bisque firing",
+        "B": "Wedging,Slip casting",
+        "C": "Drying"
+      },
+      "answer": "A",
+      "explanation": "Bisque firing is the first firing of clay, making it hard and porous but ready for glazing."
+    },
+    {
+      "id": 87,
+      "topic": "Exhibition",
+      "section": "General",
+      "subtopic": "Exhibition",
+      "difficulty": "medium",
+      "question": "Which statement about Exhibition is correct in Art/Music?",
+      "options": {
+        "A": "It is a tested concept in creative arts",
+        "B": "It belongs to science",
+        "C": "It is not examined",
+        "D": "It is a mathematical theorem"
+      },
+      "answer": "A",
+      "explanation": "Exhibition is included in the Art/Music syllabus."
+    },
+    {
+      "id": 88,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "hard",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Colour harmony",
+        "C": "Perspective",
+        "D": "Composition"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 89,
+      "topic": "Forming Techniques",
+      "section": "General",
+      "subtopic": "Forming Techniques",
+      "difficulty": "medium",
+      "question": "The art technique used to create the illusion of depth on a flat surface is called:",
+      "options": {
+        "A": "Texture",
+        "B": "Colour harmony",
+        "C": "Perspective",
+        "D": "Composition"
+      },
+      "answer": "C",
+      "explanation": "Perspective uses vanishing points and converging lines to create the illusion of three-dimensional space."
+    },
+    {
+      "id": 90,
+      "topic": "Decoration and Finishing",
+      "section": "General",
+      "subtopic": "Decoration and Finishing",
+      "difficulty": "easy",
+      "question": "Which statement about Decoration and Finishing is correct in Art/Music?",
+      "options": {
+        "A": "It is a mathematical theorem",
+        "B": "It is a tested concept in creative arts",
+        "C": "It belongs to science",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Decoration and Finishing is included in the Art/Music syllabus."
+    }
+  ]
+}

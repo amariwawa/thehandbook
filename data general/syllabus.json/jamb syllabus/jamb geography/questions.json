@@ -1,0 +1,1444 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Map Reading and Interpretation",
+      "section": "General",
+      "subtopic": "Map Reading and Interpretation",
+      "difficulty": "easy",
+      "question": "On a map, the ratio 1:50,000 means that 1 cm on the map represents:",
+      "options": {
+        "A": "50,000 cm on the ground",
+        "B": "50,000 m on the ground",
+        "C": "50 cm on the ground",
+        "D": "50,000 km on the ground"
+      },
+      "answer": "A",
+      "explanation": "A representative fraction (RF) of 1:50,000 means 1 unit on the map = 50,000 of the same units on the ground (50,000 cm = 0.5 km)."
+    },
+    {
+      "id": 2,
+      "topic": "Map Reading and Interpretation",
+      "section": "General",
+      "subtopic": "Map Reading and Interpretation",
+      "difficulty": "medium",
+      "question": "On a map, the ratio 1:50,000 means that 1 cm on the map represents:",
+      "options": {
+        "A": "50,000 cm on the ground",
+        "B": "50,000 m on the ground",
+        "C": "50,000 km on the ground",
+        "D": "50 cm on the ground"
+      },
+      "answer": "A",
+      "explanation": "A representative fraction (RF) of 1:50,000 means 1 unit on the map = 50,000 of the same units on the ground (50,000 cm = 0.5 km)."
+    },
+    {
+      "id": 3,
+      "topic": "Map Reading and Interpretation",
+      "section": "General",
+      "subtopic": "Map Reading and Interpretation",
+      "difficulty": "hard",
+      "question": "On a map, the ratio 1:50,000 means that 1 cm on the map represents:",
+      "options": {
+        "A": "50,000 cm on the ground",
+        "B": "50 cm on the ground",
+        "C": "50,000 m on the ground",
+        "D": "50,000 km on the ground"
+      },
+      "answer": "A",
+      "explanation": "A representative fraction (RF) of 1:50,000 means 1 unit on the map = 50,000 of the same units on the ground (50,000 cm = 0.5 km)."
+    },
+    {
+      "id": 4,
+      "topic": "Interpretation of Statistical Data",
+      "section": "General",
+      "subtopic": "Interpretation of Statistical Data",
+      "difficulty": "medium",
+      "question": "Which statement about Interpretation of Statistical Data is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is purely historical",
+        "C": "It is not examined",
+        "D": "It belongs to physics"
+      },
+      "answer": "A",
+      "explanation": "Interpretation of Statistical Data is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 5,
+      "topic": "Interpretation of Statistical Data",
+      "section": "General",
+      "subtopic": "Interpretation of Statistical Data",
+      "difficulty": "hard",
+      "question": "Which statement about Interpretation of Statistical Data is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is not examined",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It belongs to physics"
+      },
+      "answer": "C",
+      "explanation": "Interpretation of Statistical Data is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 6,
+      "topic": "Interpretation of Statistical Data",
+      "section": "General",
+      "subtopic": "Interpretation of Statistical Data",
+      "difficulty": "easy",
+      "question": "Which statement about Interpretation of Statistical Data is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Interpretation of Statistical Data is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 7,
+      "topic": "Elementary Surveying",
+      "section": "General",
+      "subtopic": "Elementary Surveying",
+      "difficulty": "hard",
+      "question": "Which statement about Elementary Surveying is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "Elementary Surveying is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 8,
+      "topic": "Elementary Surveying",
+      "section": "General",
+      "subtopic": "Elementary Surveying",
+      "difficulty": "easy",
+      "question": "Which statement about Elementary Surveying is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is not examined",
+        "C": "It is purely historical",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Elementary Surveying is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 9,
+      "topic": "Elementary Surveying",
+      "section": "General",
+      "subtopic": "Elementary Surveying",
+      "difficulty": "medium",
+      "question": "Which statement about Elementary Surveying is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is purely historical"
+      },
+      "answer": "B",
+      "explanation": "Elementary Surveying is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 10,
+      "topic": "Geographic Information System (GIS)",
+      "section": "General",
+      "subtopic": "Geographic Information System (GIS)",
+      "difficulty": "easy",
+      "question": "Which statement about Geographic Information System (GIS) is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is purely historical",
+        "C": "It belongs to physics",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Geographic Information System (GIS) is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 11,
+      "topic": "Geographic Information System (GIS)",
+      "section": "General",
+      "subtopic": "Geographic Information System (GIS)",
+      "difficulty": "medium",
+      "question": "Which statement about Geographic Information System (GIS) is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "Geographic Information System (GIS) is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 12,
+      "topic": "Geographic Information System (GIS)",
+      "section": "General",
+      "subtopic": "Geographic Information System (GIS)",
+      "difficulty": "hard",
+      "question": "Which statement about Geographic Information System (GIS) is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is not examined",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "Geographic Information System (GIS) is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 13,
+      "topic": "The Earth as a Planet",
+      "section": "General",
+      "subtopic": "The Earth as a Planet",
+      "difficulty": "medium",
+      "question": "Which statement about The Earth as a Planet is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is purely historical"
+      },
+      "answer": "B",
+      "explanation": "The Earth as a Planet is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 14,
+      "topic": "The Earth as a Planet",
+      "section": "General",
+      "subtopic": "The Earth as a Planet",
+      "difficulty": "hard",
+      "question": "Which statement about The Earth as a Planet is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "The Earth as a Planet is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 15,
+      "topic": "The Earth as a Planet",
+      "section": "General",
+      "subtopic": "The Earth as a Planet",
+      "difficulty": "easy",
+      "question": "Which statement about The Earth as a Planet is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is not examined",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "The Earth as a Planet is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 16,
+      "topic": "The Earth Crust",
+      "section": "General",
+      "subtopic": "The Earth Crust",
+      "difficulty": "hard",
+      "question": "Which statement about The Earth Crust is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is purely historical",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "The Earth Crust is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 17,
+      "topic": "The Earth Crust",
+      "section": "General",
+      "subtopic": "The Earth Crust",
+      "difficulty": "easy",
+      "question": "Which statement about The Earth Crust is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is purely historical",
+        "C": "It is not examined",
+        "D": "It belongs to physics"
+      },
+      "answer": "A",
+      "explanation": "The Earth Crust is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 18,
+      "topic": "The Earth Crust",
+      "section": "General",
+      "subtopic": "The Earth Crust",
+      "difficulty": "medium",
+      "question": "Which statement about The Earth Crust is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is purely historical"
+      },
+      "answer": "B",
+      "explanation": "The Earth Crust is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 19,
+      "topic": "Volcanism and Earthquakes",
+      "section": "General",
+      "subtopic": "Volcanism and Earthquakes",
+      "difficulty": "easy",
+      "question": "Which statement about Volcanism and Earthquakes is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Volcanism and Earthquakes is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 20,
+      "topic": "Volcanism and Earthquakes",
+      "section": "General",
+      "subtopic": "Volcanism and Earthquakes",
+      "difficulty": "medium",
+      "question": "Which statement about Volcanism and Earthquakes is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Volcanism and Earthquakes is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 21,
+      "topic": "Volcanism and Earthquakes",
+      "section": "General",
+      "subtopic": "Volcanism and Earthquakes",
+      "difficulty": "hard",
+      "question": "Which statement about Volcanism and Earthquakes is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Volcanism and Earthquakes is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 22,
+      "topic": "Denudation Processes",
+      "section": "General",
+      "subtopic": "Denudation Processes",
+      "difficulty": "medium",
+      "question": "Rocks formed from cooled magma or lava are classified as:",
+      "options": {
+        "A": "Sedimentary rocks",
+        "B": "Fossil rocks",
+        "C": "Metamorphic rocks",
+        "D": "Igneous rocks"
+      },
+      "answer": "D",
+      "explanation": "Igneous rocks form from the cooling and solidification of magma (intrusive) or lava (extrusive)."
+    },
+    {
+      "id": 23,
+      "topic": "Denudation Processes",
+      "section": "General",
+      "subtopic": "Denudation Processes",
+      "difficulty": "hard",
+      "question": "Rocks formed from cooled magma or lava are classified as:",
+      "options": {
+        "A": "Metamorphic rocks",
+        "B": "Sedimentary rocks",
+        "C": "Fossil rocks",
+        "D": "Igneous rocks"
+      },
+      "answer": "D",
+      "explanation": "Igneous rocks form from the cooling and solidification of magma (intrusive) or lava (extrusive)."
+    },
+    {
+      "id": 24,
+      "topic": "Denudation Processes",
+      "section": "General",
+      "subtopic": "Denudation Processes",
+      "difficulty": "easy",
+      "question": "Rocks formed from cooled magma or lava are classified as:",
+      "options": {
+        "A": "Sedimentary rocks",
+        "B": "Igneous rocks",
+        "C": "Metamorphic rocks",
+        "D": "Fossil rocks"
+      },
+      "answer": "B",
+      "explanation": "Igneous rocks form from the cooling and solidification of magma (intrusive) or lava (extrusive)."
+    },
+    {
+      "id": 25,
+      "topic": "Water Bodies",
+      "section": "General",
+      "subtopic": "Water Bodies",
+      "difficulty": "hard",
+      "question": "Which statement about Water Bodies is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is purely historical",
+        "D": "It belongs to physics"
+      },
+      "answer": "A",
+      "explanation": "Water Bodies is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 26,
+      "topic": "Water Bodies",
+      "section": "General",
+      "subtopic": "Water Bodies",
+      "difficulty": "easy",
+      "question": "Which statement about Water Bodies is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Water Bodies is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 27,
+      "topic": "Water Bodies",
+      "section": "General",
+      "subtopic": "Water Bodies",
+      "difficulty": "medium",
+      "question": "Which statement about Water Bodies is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to physics"
+      },
+      "answer": "B",
+      "explanation": "Water Bodies is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 28,
+      "topic": "Weather and Climate",
+      "section": "General",
+      "subtopic": "Weather and Climate",
+      "difficulty": "easy",
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": {
+        "A": "Barometer",
+        "B": "Thermometer",
+        "C": "Hygrometer",
+        "D": "Anemometer"
+      },
+      "answer": "A",
+      "explanation": "A barometer measures atmospheric pressure. A thermometer measures temperature, a hygrometer measures humidity, and an anemometer measures wind speed."
+    },
+    {
+      "id": 29,
+      "topic": "Weather and Climate",
+      "section": "General",
+      "subtopic": "Weather and Climate",
+      "difficulty": "medium",
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": {
+        "A": "Barometer",
+        "B": "Anemometer",
+        "C": "Thermometer",
+        "D": "Hygrometer"
+      },
+      "answer": "A",
+      "explanation": "A barometer measures atmospheric pressure. A thermometer measures temperature, a hygrometer measures humidity, and an anemometer measures wind speed."
+    },
+    {
+      "id": 30,
+      "topic": "Weather and Climate",
+      "section": "General",
+      "subtopic": "Weather and Climate",
+      "difficulty": "hard",
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": {
+        "A": "Thermometer",
+        "B": "Barometer",
+        "C": "Hygrometer",
+        "D": "Anemometer"
+      },
+      "answer": "B",
+      "explanation": "A barometer measures atmospheric pressure. A thermometer measures temperature, a hygrometer measures humidity, and an anemometer measures wind speed."
+    },
+    {
+      "id": 31,
+      "topic": "Vegetation",
+      "section": "General",
+      "subtopic": "Vegetation",
+      "difficulty": "medium",
+      "question": "The tropical grassland region of Nigeria is called:",
+      "options": {
+        "A": "Savanna",
+        "B": "Mangrove",
+        "C": "Rainforest",
+        "D": "Desert"
+      },
+      "answer": "A",
+      "explanation": "The savanna is a tropical grassland with scattered trees, covering much of northern Nigeria."
+    },
+    {
+      "id": 32,
+      "topic": "Vegetation",
+      "section": "General",
+      "subtopic": "Vegetation",
+      "difficulty": "hard",
+      "question": "The tropical grassland region of Nigeria is called:",
+      "options": {
+        "A": "Rainforest",
+        "B": "Mangrove",
+        "C": "Savanna",
+        "D": "Desert"
+      },
+      "answer": "C",
+      "explanation": "The savanna is a tropical grassland with scattered trees, covering much of northern Nigeria."
+    },
+    {
+      "id": 33,
+      "topic": "Vegetation",
+      "section": "General",
+      "subtopic": "Vegetation",
+      "difficulty": "easy",
+      "question": "The tropical grassland region of Nigeria is called:",
+      "options": {
+        "A": "Desert",
+        "B": "Mangrove",
+        "C": "Savanna",
+        "D": "Rainforest"
+      },
+      "answer": "C",
+      "explanation": "The savanna is a tropical grassland with scattered trees, covering much of northern Nigeria."
+    },
+    {
+      "id": 34,
+      "topic": "Environmental Resources",
+      "section": "General",
+      "subtopic": "Environmental Resources",
+      "difficulty": "hard",
+      "question": "Which statement about Environmental Resources is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Environmental Resources is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 35,
+      "topic": "Environmental Resources",
+      "section": "General",
+      "subtopic": "Environmental Resources",
+      "difficulty": "easy",
+      "question": "Which statement about Environmental Resources is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Environmental Resources is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 36,
+      "topic": "Environmental Resources",
+      "section": "General",
+      "subtopic": "Environmental Resources",
+      "difficulty": "medium",
+      "question": "Which statement about Environmental Resources is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is not examined",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Environmental Resources is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 37,
+      "topic": "Environmental Interaction",
+      "section": "General",
+      "subtopic": "Environmental Interaction",
+      "difficulty": "easy",
+      "question": "Which statement about Environmental Interaction is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to physics"
+      },
+      "answer": "B",
+      "explanation": "Environmental Interaction is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 38,
+      "topic": "Environmental Interaction",
+      "section": "General",
+      "subtopic": "Environmental Interaction",
+      "difficulty": "medium",
+      "question": "Which statement about Environmental Interaction is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is purely historical",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Environmental Interaction is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 39,
+      "topic": "Environmental Interaction",
+      "section": "General",
+      "subtopic": "Environmental Interaction",
+      "difficulty": "hard",
+      "question": "Which statement about Environmental Interaction is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Environmental Interaction is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 40,
+      "topic": "Environmental Hazards",
+      "section": "General",
+      "subtopic": "Environmental Hazards",
+      "difficulty": "medium",
+      "question": "Which statement about Environmental Hazards is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Environmental Hazards is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 41,
+      "topic": "Environmental Hazards",
+      "section": "General",
+      "subtopic": "Environmental Hazards",
+      "difficulty": "hard",
+      "question": "Which statement about Environmental Hazards is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is not examined",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Environmental Hazards is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 42,
+      "topic": "Environmental Hazards",
+      "section": "General",
+      "subtopic": "Environmental Hazards",
+      "difficulty": "easy",
+      "question": "Which statement about Environmental Hazards is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to physics",
+        "D": "It is purely historical"
+      },
+      "answer": "A",
+      "explanation": "Environmental Hazards is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 43,
+      "topic": "Environmental Conservation",
+      "section": "General",
+      "subtopic": "Environmental Conservation",
+      "difficulty": "hard",
+      "question": "Which statement about Environmental Conservation is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "Environmental Conservation is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 44,
+      "topic": "Environmental Conservation",
+      "section": "General",
+      "subtopic": "Environmental Conservation",
+      "difficulty": "easy",
+      "question": "Which statement about Environmental Conservation is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is purely historical"
+      },
+      "answer": "B",
+      "explanation": "Environmental Conservation is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 45,
+      "topic": "Environmental Conservation",
+      "section": "General",
+      "subtopic": "Environmental Conservation",
+      "difficulty": "medium",
+      "question": "Which statement about Environmental Conservation is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "Environmental Conservation is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 46,
+      "topic": "Population",
+      "section": "General",
+      "subtopic": "Population",
+      "difficulty": "easy",
+      "question": "The movement of people from rural to urban areas is known as:",
+      "options": {
+        "A": "Seasonal migration",
+        "B": "Rural-urban migration",
+        "C": "Immigration",
+        "D": "Emigration"
+      },
+      "answer": "B",
+      "explanation": "Rural-urban migration refers to the movement of people from countryside areas to cities, common in developing nations."
+    },
+    {
+      "id": 47,
+      "topic": "Population",
+      "section": "General",
+      "subtopic": "Population",
+      "difficulty": "medium",
+      "question": "The movement of people from rural to urban areas is known as:",
+      "options": {
+        "A": "Seasonal migration",
+        "B": "Emigration",
+        "C": "Rural-urban migration",
+        "D": "Immigration"
+      },
+      "answer": "C",
+      "explanation": "Rural-urban migration refers to the movement of people from countryside areas to cities, common in developing nations."
+    },
+    {
+      "id": 48,
+      "topic": "Population",
+      "section": "General",
+      "subtopic": "Population",
+      "difficulty": "hard",
+      "question": "The movement of people from rural to urban areas is known as:",
+      "options": {
+        "A": "Emigration",
+        "B": "Rural-urban migration",
+        "C": "Immigration",
+        "D": "Seasonal migration"
+      },
+      "answer": "B",
+      "explanation": "Rural-urban migration refers to the movement of people from countryside areas to cities, common in developing nations."
+    },
+    {
+      "id": 49,
+      "topic": "Settlement",
+      "section": "General",
+      "subtopic": "Settlement",
+      "difficulty": "medium",
+      "question": "Which statement about Settlement is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is purely historical",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Settlement is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 50,
+      "topic": "Settlement",
+      "section": "General",
+      "subtopic": "Settlement",
+      "difficulty": "hard",
+      "question": "Which statement about Settlement is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is not examined",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Settlement is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 51,
+      "topic": "Settlement",
+      "section": "General",
+      "subtopic": "Settlement",
+      "difficulty": "easy",
+      "question": "Which statement about Settlement is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It belongs to physics",
+        "C": "It is not examined",
+        "D": "It is purely historical"
+      },
+      "answer": "A",
+      "explanation": "Settlement is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 52,
+      "topic": "Selected Economic Activities",
+      "section": "General",
+      "subtopic": "Selected Economic Activities",
+      "difficulty": "hard",
+      "question": "Which statement about Selected Economic Activities is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is purely historical"
+      },
+      "answer": "B",
+      "explanation": "Selected Economic Activities is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 53,
+      "topic": "Selected Economic Activities",
+      "section": "General",
+      "subtopic": "Selected Economic Activities",
+      "difficulty": "easy",
+      "question": "Which statement about Selected Economic Activities is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "Selected Economic Activities is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 54,
+      "topic": "Selected Economic Activities",
+      "section": "General",
+      "subtopic": "Selected Economic Activities",
+      "difficulty": "medium",
+      "question": "Which statement about Selected Economic Activities is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Selected Economic Activities is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 55,
+      "topic": "Transportation and Communication",
+      "section": "General",
+      "subtopic": "Transportation and Communication",
+      "difficulty": "easy",
+      "question": "Which statement about Transportation and Communication is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is purely historical",
+        "C": "It is not examined",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Transportation and Communication is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 56,
+      "topic": "Transportation and Communication",
+      "section": "General",
+      "subtopic": "Transportation and Communication",
+      "difficulty": "medium",
+      "question": "Which statement about Transportation and Communication is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to physics",
+        "D": "It is purely historical"
+      },
+      "answer": "A",
+      "explanation": "Transportation and Communication is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 57,
+      "topic": "Transportation and Communication",
+      "section": "General",
+      "subtopic": "Transportation and Communication",
+      "difficulty": "hard",
+      "question": "Which statement about Transportation and Communication is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is not examined",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "Transportation and Communication is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 58,
+      "topic": "World Trade",
+      "section": "General",
+      "subtopic": "World Trade",
+      "difficulty": "medium",
+      "question": "Which statement about World Trade is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is not examined",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "World Trade is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 59,
+      "topic": "World Trade",
+      "section": "General",
+      "subtopic": "World Trade",
+      "difficulty": "hard",
+      "question": "Which statement about World Trade is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "World Trade is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 60,
+      "topic": "World Trade",
+      "section": "General",
+      "subtopic": "World Trade",
+      "difficulty": "easy",
+      "question": "Which statement about World Trade is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "World Trade is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 61,
+      "topic": "Tourism",
+      "section": "General",
+      "subtopic": "Tourism",
+      "difficulty": "hard",
+      "question": "Which statement about Tourism is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Tourism is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 62,
+      "topic": "Tourism",
+      "section": "General",
+      "subtopic": "Tourism",
+      "difficulty": "easy",
+      "question": "Which statement about Tourism is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Tourism is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 63,
+      "topic": "Tourism",
+      "section": "General",
+      "subtopic": "Tourism",
+      "difficulty": "medium",
+      "question": "Which statement about Tourism is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Tourism is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 64,
+      "topic": "Nigeria",
+      "section": "General",
+      "subtopic": "Nigeria",
+      "difficulty": "easy",
+      "question": "Which statement about Nigeria is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is purely historical",
+        "D": "It belongs to physics"
+      },
+      "answer": "B",
+      "explanation": "Nigeria is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 65,
+      "topic": "Nigeria",
+      "section": "General",
+      "subtopic": "Nigeria",
+      "difficulty": "medium",
+      "question": "Which statement about Nigeria is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It belongs to physics",
+        "C": "It is not examined",
+        "D": "It is purely historical"
+      },
+      "answer": "A",
+      "explanation": "Nigeria is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 66,
+      "topic": "Nigeria",
+      "section": "General",
+      "subtopic": "Nigeria",
+      "difficulty": "hard",
+      "question": "Which statement about Nigeria is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is not examined",
+        "C": "It belongs to physics",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Nigeria is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 67,
+      "topic": "Agricultural Systems",
+      "section": "General",
+      "subtopic": "Agricultural Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Agricultural Systems is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is purely historical",
+        "C": "It is not examined",
+        "D": "It belongs to physics"
+      },
+      "answer": "A",
+      "explanation": "Agricultural Systems is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 68,
+      "topic": "Agricultural Systems",
+      "section": "General",
+      "subtopic": "Agricultural Systems",
+      "difficulty": "hard",
+      "question": "Which statement about Agricultural Systems is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Agricultural Systems is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 69,
+      "topic": "Agricultural Systems",
+      "section": "General",
+      "subtopic": "Agricultural Systems",
+      "difficulty": "easy",
+      "question": "Which statement about Agricultural Systems is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It is purely historical",
+        "D": "It belongs to physics"
+      },
+      "answer": "A",
+      "explanation": "Agricultural Systems is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 70,
+      "topic": "Manufacturing Industries",
+      "section": "General",
+      "subtopic": "Manufacturing Industries",
+      "difficulty": "hard",
+      "question": "Which statement about Manufacturing Industries is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It is not examined",
+        "C": "It belongs to physics",
+        "D": "It is purely historical"
+      },
+      "answer": "A",
+      "explanation": "Manufacturing Industries is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 71,
+      "topic": "Manufacturing Industries",
+      "section": "General",
+      "subtopic": "Manufacturing Industries",
+      "difficulty": "easy",
+      "question": "Which statement about Manufacturing Industries is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is purely historical"
+      },
+      "answer": "B",
+      "explanation": "Manufacturing Industries is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 72,
+      "topic": "Manufacturing Industries",
+      "section": "General",
+      "subtopic": "Manufacturing Industries",
+      "difficulty": "medium",
+      "question": "Which statement about Manufacturing Industries is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is not examined"
+      },
+      "answer": "C",
+      "explanation": "Manufacturing Industries is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 73,
+      "topic": "ECOWAS",
+      "section": "General",
+      "subtopic": "ECOWAS",
+      "difficulty": "easy",
+      "question": "Which statement about ECOWAS is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ECOWAS is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 74,
+      "topic": "ECOWAS",
+      "section": "General",
+      "subtopic": "ECOWAS",
+      "difficulty": "medium",
+      "question": "Which statement about ECOWAS is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "ECOWAS is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 75,
+      "topic": "ECOWAS",
+      "section": "General",
+      "subtopic": "ECOWAS",
+      "difficulty": "hard",
+      "question": "Which statement about ECOWAS is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "ECOWAS is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 76,
+      "topic": "Tourism",
+      "section": "General",
+      "subtopic": "Tourism",
+      "difficulty": "medium",
+      "question": "Which statement about Tourism is correct in Geography?",
+      "options": {
+        "A": "It is a geographical concept in the syllabus",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is not examined"
+      },
+      "answer": "A",
+      "explanation": "Tourism is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 77,
+      "topic": "Geographic Information System (GIS)",
+      "section": "General",
+      "subtopic": "Geographic Information System (GIS)",
+      "difficulty": "hard",
+      "question": "Which statement about Geographic Information System (GIS) is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to physics"
+      },
+      "answer": "B",
+      "explanation": "Geographic Information System (GIS) is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 78,
+      "topic": "Environmental Interaction",
+      "section": "General",
+      "subtopic": "Environmental Interaction",
+      "difficulty": "medium",
+      "question": "Which statement about Environmental Interaction is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is purely historical",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It belongs to physics"
+      },
+      "answer": "C",
+      "explanation": "Environmental Interaction is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 79,
+      "topic": "ECOWAS",
+      "section": "General",
+      "subtopic": "ECOWAS",
+      "difficulty": "hard",
+      "question": "Which statement about ECOWAS is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is not examined",
+        "C": "It is purely historical",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "ECOWAS is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 80,
+      "topic": "Settlement",
+      "section": "General",
+      "subtopic": "Settlement",
+      "difficulty": "easy",
+      "question": "Which statement about Settlement is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It belongs to physics"
+      },
+      "answer": "B",
+      "explanation": "Settlement is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 81,
+      "topic": "Selected Economic Activities",
+      "section": "General",
+      "subtopic": "Selected Economic Activities",
+      "difficulty": "hard",
+      "question": "Which statement about Selected Economic Activities is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is purely historical",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Selected Economic Activities is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 82,
+      "topic": "Population",
+      "section": "General",
+      "subtopic": "Population",
+      "difficulty": "hard",
+      "question": "The movement of people from rural to urban areas is known as:",
+      "options": {
+        "A": "Emigration",
+        "B": "Rural-urban migration",
+        "C": "Seasonal migration",
+        "D": "Immigration"
+      },
+      "answer": "B",
+      "explanation": "Rural-urban migration refers to the movement of people from countryside areas to cities, common in developing nations."
+    },
+    {
+      "id": 83,
+      "topic": "Interpretation of Statistical Data",
+      "section": "General",
+      "subtopic": "Interpretation of Statistical Data",
+      "difficulty": "easy",
+      "question": "Which statement about Interpretation of Statistical Data is correct in Geography?",
+      "options": {
+        "A": "It is purely historical",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It belongs to physics",
+        "D": "It is not examined"
+      },
+      "answer": "B",
+      "explanation": "Interpretation of Statistical Data is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 84,
+      "topic": "Tourism",
+      "section": "General",
+      "subtopic": "Tourism",
+      "difficulty": "medium",
+      "question": "Which statement about Tourism is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is purely historical",
+        "C": "It is not examined",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Tourism is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 85,
+      "topic": "World Trade",
+      "section": "General",
+      "subtopic": "World Trade",
+      "difficulty": "hard",
+      "question": "Which statement about World Trade is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It belongs to physics",
+        "C": "It is a geographical concept in the syllabus",
+        "D": "It is purely historical"
+      },
+      "answer": "C",
+      "explanation": "World Trade is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 86,
+      "topic": "Settlement",
+      "section": "General",
+      "subtopic": "Settlement",
+      "difficulty": "hard",
+      "question": "Which statement about Settlement is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is purely historical",
+        "D": "It belongs to physics"
+      },
+      "answer": "B",
+      "explanation": "Settlement is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 87,
+      "topic": "Vegetation",
+      "section": "General",
+      "subtopic": "Vegetation",
+      "difficulty": "hard",
+      "question": "The tropical grassland region of Nigeria is called:",
+      "options": {
+        "A": "Savanna",
+        "B": "Desert",
+        "C": "Rainforest",
+        "D": "Mangrove"
+      },
+      "answer": "A",
+      "explanation": "The savanna is a tropical grassland with scattered trees, covering much of northern Nigeria."
+    },
+    {
+      "id": 88,
+      "topic": "Volcanism and Earthquakes",
+      "section": "General",
+      "subtopic": "Volcanism and Earthquakes",
+      "difficulty": "medium",
+      "question": "Which statement about Volcanism and Earthquakes is correct in Geography?",
+      "options": {
+        "A": "It is not examined",
+        "B": "It is purely historical",
+        "C": "It belongs to physics",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Volcanism and Earthquakes is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 89,
+      "topic": "Water Bodies",
+      "section": "General",
+      "subtopic": "Water Bodies",
+      "difficulty": "easy",
+      "question": "Which statement about Water Bodies is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is purely historical",
+        "C": "It is not examined",
+        "D": "It is a geographical concept in the syllabus"
+      },
+      "answer": "D",
+      "explanation": "Water Bodies is a core Geography topic tested in JAMB and WAEC."
+    },
+    {
+      "id": 90,
+      "topic": "Agricultural Systems",
+      "section": "General",
+      "subtopic": "Agricultural Systems",
+      "difficulty": "medium",
+      "question": "Which statement about Agricultural Systems is correct in Geography?",
+      "options": {
+        "A": "It belongs to physics",
+        "B": "It is a geographical concept in the syllabus",
+        "C": "It is not examined",
+        "D": "It is purely historical"
+      },
+      "answer": "B",
+      "explanation": "Agricultural Systems is a core Geography topic tested in JAMB and WAEC."
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "exam": "UTME Economics Detailed Syllabus",
+  "topics": [
+    {
+      "topic_number": 1,
+      "title": "Economics as a Science",
+      "subtopics": [
+        {
+          "title": "Basic Concepts",
+          "notes": "Wants, scarcity, choice, scale of preference, opportunity cost, rationality",
+          "objectives": [
+            "Compare various concepts in economics",
+            "Interpret graphs/schedules in relation to production, distribution, consumption"
+          ]
+        },
+        {
+          "title": "Economic Problems",
+          "notes": "What, how and for whom to produce; efficiency of resource use",
+          "objectives": [
+            "Identify economic problems",
+            "Proffer solutions to economic problems"
+          ]
+        },
+        {
+          "title": "Application of PPF",
+          "notes": "Production Possibility Frontier to solution of economic problems"
+        }
+      ]
+    },
+    {
+      "topic_number": 2,
+      "title": "Economic Systems",
+      "subtopics": [
+        {
+          "title": "Types and Characteristics",
+          "notes": "Free enterprise, centrally planned and mixed economies"
+        },
+        {
+          "title": "Solutions to Economic Problems",
+          "notes": "Under different systems"
+        },
+        {
+          "title": "Contemporary Issues",
+          "notes": "In economic systems (e.g., in Nigeria)"
+        }
+      ]
+    },
+    {
+      "topic_number": 3,
+      "title": "Methods and Tools of Economic Analysis",
+      "subtopics": [
+        {
+          "title": "Scientific Approach",
+          "notes": "Inductive and deductive methods; positive and normative reasoning"
+        },
+        {
+          "title": "Basic Tools",
+          "notes": "Tables, charts, graphs; measures of central tendency (mean, median, mode); measures of dispersion (variance, standard deviation, range); merits and demerits"
+        }
+      ]
+    },
+    {
+      "topic_number": 4,
+      "title": "The Theory of Demand",
+      "subtopics": [
+        {
+          "title": "Meaning and Determinants",
+          "notes": "Demand schedules and curves"
+        },
+        {
+          "title": "Change in Quantity Demanded vs Change in Demand"
+        },
+        {
+          "title": "Types of Demand",
+          "notes": "Composite, derived, competitive, joint demand"
+        },
+        {
+          "title": "Elasticity of Demand",
+          "notes": "Price, income, cross elasticity; types, nature, determinants, measurement"
+        },
+        {
+          "title": "Importance of Elasticity",
+          "notes": "To consumers, producers and government"
+        }
+      ]
+    },
+    {
+      "topic_number": 5,
+      "title": "The Theory of Consumer Behaviour",
+      "subtopics": [
+        {
+          "title": "Utility Concepts",
+          "notes": "Cardinal, ordinal, total, average, marginal utilities"
+        },
+        {
+          "title": "Diminishing Marginal Utility and Law of Demand"
+        },
+        {
+          "title": "Consumer Equilibrium",
+          "notes": "Using indifference curve and budget line; marginal utility analysis"
+        },
+        {
+          "title": "Effects of Shifts in Budget Line and Indifference Curve"
+        },
+        {
+          "title": "Consumer Surplus and Applications"
+        }
+      ]
+    },
+    {
+      "topic_number": 6,
+      "title": "The Theory of Supply",
+      "subtopics": [
+        {
+          "title": "Meaning and Determinants",
+          "notes": "Supply schedules and curves"
+        },
+        {
+          "title": "Change in Quantity Supplied vs Change in Supply"
+        },
+        {
+          "title": "Types of Supply",
+          "notes": "Joint/complementary, competitive, composite"
+        },
+        {
+          "title": "Elasticity of Supply",
+          "notes": "Determinants, measurements, nature and applications"
+        }
+      ]
+    },
+    {
+      "topic_number": 7,
+      "title": "The Theory of Price Determination",
+      "subtopics": [
+        {
+          "title": "Concept of Market and Price"
+        },
+        {
+          "title": "Functions of the Price System"
+        },
+        {
+          "title": "Equilibrium Price and Quantity",
+          "notes": "In product and factor markets"
+        },
+        {
+          "title": "Price Legislation and Effects",
+          "notes": "Maximum and minimum price"
+        },
+        {
+          "title": "Effects of Changes in Supply and Demand on Equilibrium"
+        }
+      ]
+    },
+    {
+      "topic_number": 8,
+      "title": "The Theory of Production",
+      "subtopics": [
+        {
+          "title": "Meaning and Types of Production"
+        },
+        {
+          "title": "Concepts: TP, AP, MP and Law of Variable Proportions"
+        },
+        {
+          "title": "Division of Labour and Specialization"
+        },
+        {
+          "title": "Scale of Production",
+          "notes": "Internal and external economies of scale"
+        },
+        {
+          "title": "Production Functions and Returns to Scale"
+        },
+        {
+          "title": "Producer's Equilibrium",
+          "notes": "Isoquant-isocost and marginal analyses"
+        },
+        {
+          "title": "Factors Affecting Productivity"
+        }
+      ]
+    },
+    {
+      "topic_number": 9,
+      "title": "Theory of Costs and Revenue",
+      "subtopics": [
+        {
+          "title": "Cost Concepts",
+          "notes": "Fixed, variable, total, average, marginal; accountants' vs economists' notions"
+        },
+        {
+          "title": "Short Run and Long Run Costs"
+        },
+        {
+          "title": "Revenue Concepts",
+          "notes": "Total, average, marginal revenue"
+        },
+        {
+          "title": "Marginal Cost and Supply Curve"
+        }
+      ]
+    },
+    {
+      "topic_number": 10,
+      "title": "Market Structure",
+      "subtopics": [
+        {
+          "title": "Perfectly Competitive Market",
+          "notes": "Assumptions, characteristics, short run and long run equilibrium"
+        },
+        {
+          "title": "Imperfect Markets",
+          "notes": "Pure monopoly, discriminatory monopoly, monopolistic competition; short and long run equilibrium"
+        },
+        {
+          "title": "Break-even/Shut-down Analysis"
+        }
+      ]
+    },
+    {
+      "topic_number": 11,
+      "title": "National Income",
+      "subtopics": [
+        {
+          "title": "Concepts",
+          "notes": "GNP, GDP, NI, NNP"
+        },
+        {
+          "title": "Measurements and Problems"
+        },
+        {
+          "title": "Uses and Limitations"
+        },
+        {
+          "title": "Circular Flow of Income",
+          "notes": "Two and three sector models"
+        },
+        {
+          "title": "Consumption, Investment, Savings"
+        },
+        {
+          "title": "Multiplier and Effects"
+        },
+        {
+          "title": "Elementary Theory of Income Determination"
+        }
+      ]
+    },
+    {
+      "topic_number": 12,
+      "title": "Money and Inflation",
+      "subtopics": [
+        {
+          "title": "Types, Characteristics and Functions of Money"
+        },
+        {
+          "title": "Demand for and Supply of Money"
+        },
+        {
+          "title": "Quantity Theory of Money (Fisher Equation)"
+        },
+        {
+          "title": "Value of Money and Price Level"
+        },
+        {
+          "title": "Inflation",
+          "notes": "Types, measurements, effects, control"
+        },
+        {
+          "title": "Deflation",
+          "notes": "Measurements, effects, control"
+        }
+      ]
+    },
+    {
+      "topic_number": 13,
+      "title": "Financial Institutions",
+      "subtopics": [
+        {
+          "title": "Types and Functions",
+          "notes": "Traditional, commercial banks, central bank, etc."
+        },
+        {
+          "title": "Role in Economic Development"
+        },
+        {
+          "title": "Money and Capital Markets"
+        },
+        {
+          "title": "Financial Sector Regulations"
+        },
+        {
+          "title": "Deposit Money Banks and Money Creation"
+        },
+        {
+          "title": "Monetary Policy and Instruments"
+        },
+        {
+          "title": "Challenges Facing Financial Institutions in Nigeria"
+        }
+      ]
+    },
+    {
+      "topic_number": 14,
+      "title": "Public Finance",
+      "subtopics": [
+        {
+          "title": "Meaning and Objectives"
+        },
+        {
+          "title": "Fiscal Policy and Instruments"
+        },
+        {
+          "title": "Sources of Government Revenue",
+          "notes": "Taxes, royalties, etc."
+        },
+        {
+          "title": "Principles of Taxation"
+        },
+        {
+          "title": "Tax Incidence and Effects"
+        },
+        {
+          "title": "Effects of Public Expenditure"
+        },
+        {
+          "title": "Government Budget and Public Debts"
+        },
+        {
+          "title": "Revenue Allocation and Resource Control in Nigeria"
+        }
+      ]
+    },
+    {
+      "topic_number": 15,
+      "title": "Economic Growth and Development",
+      "subtopics": [
+        {
+          "title": "Meaning and Scope"
+        },
+        {
+          "title": "Indicators of Growth and Development"
+        },
+        {
+          "title": "Factors Affecting Growth and Development"
+        },
+        {
+          "title": "Problems of Development in Nigeria"
+        },
+        {
+          "title": "Development Planning in Nigeria"
+        }
+      ]
+    },
+    {
+      "topic_number": 16,
+      "title": "Agriculture in Nigeria",
+      "subtopics": [
+        {
+          "title": "Types and Features"
+        },
+        {
+          "title": "Role in Economic Development"
+        },
+        {
+          "title": "Problems of Agriculture"
+        },
+        {
+          "title": "Agricultural Policies and Effects"
+        },
+        {
+          "title": "Instability in Agricultural Income",
+          "notes": "Causes, effects, solutions"
+        }
+      ]
+    },
+    {
+      "topic_number": 17,
+      "title": "Industry and Industrialization",
+      "subtopics": [
+        {
+          "title": "Concepts and Effects of Location and Localization"
+        },
+        {
+          "title": "Strategies of Industrialization in Nigeria"
+        },
+        {
+          "title": "Industrialization and Economic Development"
+        },
+        {
+          "title": "Funding and Management of Business Organizations"
+        },
+        {
+          "title": "Factors Determining Size of Firms"
+        }
+      ]
+    },
+    {
+      "topic_number": 18,
+      "title": "Natural Resources and the Nigerian Economy",
+      "subtopics": [
+        {
+          "title": "Development of Major Natural Resources",
+          "notes": "Petroleum, gold, etc."
+        },
+        {
+          "title": "Contributions of Oil and Non-oil Sectors"
+        },
+        {
+          "title": "Linkage Effects"
+        },
+        {
+          "title": "Upstream/Downstream of Oil Sector"
+        },
+        {
+          "title": "Role of NNPC and OPEC"
+        },
+        {
+          "title": "Challenges and Environmental Effects"
+        }
+      ]
+    },
+    {
+      "topic_number": 19,
+      "title": "Business Organizations",
+      "subtopics": [
+        {
+          "title": "Private Enterprises",
+          "notes": "Sole proprietorship, partnership, limited liability companies, cooperatives"
+        },
+        {
+          "title": "Problems of Private Enterprises"
+        },
+        {
+          "title": "Public Enterprises and Problems"
+        },
+        {
+          "title": "Privatization and Commercialization"
+        }
+      ]
+    },
+    {
+      "topic_number": 20,
+      "title": "Population",
+      "subtopics": [
+        {
+          "title": "Meaning and Theories"
+        },
+        {
+          "title": "Census: Importance and Problems"
+        },
+        {
+          "title": "Size and Growth: Over, Under, Optimum Population"
+        },
+        {
+          "title": "Structure and Distribution"
+        },
+        {
+          "title": "Population Policy in Nigeria"
+        }
+      ]
+    },
+    {
+      "topic_number": 21,
+      "title": "International Trade",
+      "subtopics": [
+        {
+          "title": "Meaning and Basis",
+          "notes": "Absolute and comparative advantage"
+        },
+        {
+          "title": "Balance of Trade and Balance of Payments",
+          "notes": "Problems and corrective measures"
+        },
+        {
+          "title": "Composition and Direction of Nigeria’s Foreign Trade"
+        },
+        {
+          "title": "Exchange Rate",
+          "notes": "Meaning, types, determination"
+        }
+      ]
+    },
+    {
+      "topic_number": 22,
+      "title": "International Economic Organizations",
+      "notes": "ECOWAS, AU, EU, IMF, World Bank, etc.; roles and relevance"
+    },
+    {
+      "topic_number": 23,
+      "title": "Factors of Production and their Theories",
+      "subtopics": [
+        {
+          "title": "Types, Features and Rewards"
+        },
+        {
+          "title": "Determination of Wages, Interest and Profits"
+        },
+        {
+          "title": "Theories",
+          "notes": "Marginal productivity, liquidity preference"
+        },
+        {
+          "title": "Factor Mobility and Efficiency"
+        },
+        {
+          "title": "Unemployment and Solutions in Nigeria"
+        }
+      ]
+    }
+  ]
+}

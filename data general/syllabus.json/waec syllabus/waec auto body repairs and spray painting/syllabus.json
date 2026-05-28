@@ -1,0 +1,433 @@
+{
+  "detailed_syllabus": [
+    {
+      "topic_number": 1,
+      "topic": "Safety rules and regulations in Auto body repairs and spray painting",
+      "subtopics": [
+        {
+          "code": "1.1",
+          "content": "Definition of safety rules and regulations in auto body repairs and spray painting"
+        },
+        {
+          "code": "1.2",
+          "content": "List of rules and regulations and their importance"
+        },
+        {
+          "code": "1.3",
+          "content": "List of safety tools and equipment/machines for auto body repairs"
+        },
+        {
+          "code": "1.4",
+          "content": "Auto body dressing code: personal protective equipment (nose mask, goggles, boots, ear defender, etc)"
+        },
+        {
+          "code": "1.5",
+          "content": "Sources of accident (human factors, machinery/equipment and workshop keeping) and their preventions"
+        },
+        {
+          "code": "1.6",
+          "content": "Factory acts on safety rules and regulations: 1984 amended resource conservation recovery act, environmental protection agency regulations and hazardous waste collection and recycling (solvent recovery system)"
+        }
+      ],
+      "practical": [
+        "1:3:1 Identification of safety tools and equipment and demonstration of their usage",
+        "1:4:1 Identification of dress code and protective equipment and demonstration of their usage",
+        "1:5:1 Identification of containers for hazardous waste",
+        "1:5:2 Demonstration of horse play",
+        "1:5:3 Report faulty machines/equipment",
+        "1:5:4 Demonstration of workshop keeping e.g. cleaning oil and water from the floor with saw dust and dry sand"
+      ]
+    },
+    {
+      "topic_number": 2,
+      "topic": "Tools and Equipment",
+      "subsections": [
+        {
+          "subsection": "(a) Basic Hand Tools",
+          "subtopics": [
+            {
+              "code": "2.1",
+              "content": "Types of hand tools (hammers, dollies, spanner, files, ratchets, body spoons, etc) and their uses"
+            }
+          ]
+        },
+        {
+          "subsection": "(b) Power Tools and Equipment",
+          "subtopics": [
+            {
+              "code": "2.2",
+              "content": "Types and uses of power tools and equipment/machines (drilling machine, body jack, sanders, air compressor, shaping machines, cutting machine, etc)"
+            },
+            {
+              "code": "2.3",
+              "content": "Advantages and disadvantages of machines"
+            },
+            {
+              "code": "2.4",
+              "content": "Uses of machines and safety precautions"
+            }
+          ]
+        },
+        {
+          "subsection": "(c) Spray painting tools and equipment",
+          "subtopics": [
+            {
+              "code": "2.5",
+              "content": "Spray painting tools and equipment (scrapers, brushes, funnels, paint pots, spray gun, spray body filters, air compressor, oven, spray boot, etc)"
+            }
+          ]
+        },
+        {
+          "subsection": "(d) Care and maintenance of tools and equipment",
+          "subtopics": [
+            {
+              "code": "2.6",
+              "content": "Definition of maintenance and types – predictive, preventive and corrective"
+            },
+            {
+              "code": "2.7",
+              "content": "Manufacturer’s maintenance guide"
+            },
+            {
+              "code": "2.8",
+              "content": "Maintenance of tools and equipment"
+            }
+          ]
+        }
+      ],
+      "practical": [
+        "2:1:1 Identification of hand tools and equipment",
+        "2:2:1 Identification and demonstration of the use of power tools",
+        "2:4:1 Demonstration of the use of machine",
+        "2:5:1 Identification of spray painting tools, equipment and their uses",
+        "2:8:1 Dismantling and assembly of a spray gun",
+        "2:8:2 Cleaning of tools and equipment"
+      ]
+    },
+    {
+      "topic_number": 3,
+      "topic": "Materials for auto-body repairs and spray painting",
+      "subsections": [
+        {
+          "subsection": "(a) Auto-body Repairs materials",
+          "subtopics": [
+            {
+              "code": "3.1",
+              "content": "Types of body filler - plastic filler; fibreglass fillers; body solder; 30/70 and 40/60"
+            },
+            {
+              "code": "3.2",
+              "content": "Type of body abrasives e.g. sand papers (wet and dry); Sanding disc"
+            },
+            {
+              "code": "3.3",
+              "content": "Type of sealers e.g. rubber sealers, seam sealers, undercoating, etc"
+            },
+            {
+              "code": "3.4",
+              "content": "Rivet pins e.g. pop and solid rivets"
+            }
+          ]
+        },
+        {
+          "subsection": "(b) Spray painting materials",
+          "subtopics": [
+            {
+              "code": "3.5",
+              "content": "Types of paints – Enamel paints and lacquers. Under coats: surface primer, putty/body filler, sealers. Top coats: lacquers and enamel paints"
+            },
+            {
+              "code": "3.6",
+              "content": "Manufactures paint guide: paint formula, paint mixing equipment, custom-mix basecolours, paint labels, colour charts"
+            }
+          ]
+        }
+      ],
+      "practical": [
+        "3:1:1 Identification of body fillers",
+        "3:2:1 Identification of body abrasives",
+        "3:4:1 Demonstration of the use of rivet gun",
+        "3:5:1 Identification of paints by use of thinner",
+        "3:5:2 Demonstration of the use of under coats",
+        "3:5:3 Demonstration of those of top coats",
+        "3:6:1 Demonstration of how to mix paints",
+        "3:6:2 Identification of colours using colour charts"
+      ]
+    },
+    {
+      "topic_number": 4,
+      "topic": "Type of metals",
+      "subtopics": [
+        {
+          "code": "4.1",
+          "content": "Ferrous and non ferrous metals – mild steel, cast iron, aluminium, brass, etc"
+        },
+        {
+          "code": "4.2",
+          "content": "Properties of metals – fusibility, malleability, ductility, weldability, etc"
+        },
+        {
+          "code": "4.3",
+          "content": "Uses of metals on Auto bodies"
+        }
+      ],
+      "practical": [
+        "4:1:1 Identification of ferrous and non-ferrous metals",
+        "4:1:2 Demonstration of properties of metals"
+      ]
+    },
+    {
+      "topic_number": 5,
+      "topic": "Heat treatment of metals",
+      "subtopics": [
+        {
+          "code": "5.1",
+          "content": "Definition of heat treatment"
+        },
+        {
+          "code": "5.2",
+          "content": "Types and process of heat treatment e.g. hardening, annealing, normalizing, case-hardening and tempering"
+        },
+        {
+          "code": "5.3",
+          "content": "Importance of heat treatment"
+        }
+      ],
+      "practical": [
+        "5:2:1 Demonstration of heat treatment processes"
+      ]
+    },
+    {
+      "topic_number": 6,
+      "topic": "Oxy-acetylene welding and equipment",
+      "subtopics": [
+        {
+          "code": "6.1",
+          "content": "Definition of oxy-acetylene welding"
+        },
+        {
+          "code": "6.2",
+          "content": "Safety precautions"
+        },
+        {
+          "code": "6.3",
+          "content": "Oxy-acetylene welding equipment"
+        },
+        {
+          "code": "6.4",
+          "content": "Types of oxy-acetylene gas used e.g. (high and low pressure system)"
+        },
+        {
+          "code": "6.5",
+          "content": "Installations of welding equipment"
+        },
+        {
+          "code": "6.6",
+          "content": "Welding nozzles"
+        },
+        {
+          "code": "6.7",
+          "content": "Defects of oxy-acetylene welding – slag inclusion, porosity, crack, lack of penetration, etc and their remedies"
+        }
+      ],
+      "practical": [
+        "6:3:1 Identification of equipment",
+        "6:4:1 Demonstration of how to use high and low pressure system",
+        "6:5:1 Demonstration of how to assemble welding equipment",
+        "6:6:1 Demonstration of how to install welding equipment",
+        "6:7:1 Identification of weld defects"
+      ]
+    },
+    {
+      "topic_number": 7,
+      "topic": "Auto body repair work",
+      "subsections": [
+        {
+          "subsection": "(a) Minor auto body repair",
+          "subtopics": [
+            {
+              "code": "7.1",
+              "content": "Types of auto body (i) integral body; (ii) composite body"
+            },
+            {
+              "code": "7.2",
+              "content": "Basic methods of straightening auto body: aligning the metal with power jack, pulling the metal with sledge hammer, using pre-bar, pulling the metal with pull taps. Heat-shrinking the metal to bring the metal back to its original shape"
+            },
+            {
+              "code": "7.3",
+              "content": "Tools used in minor repairs- hammers, hand dollies, spoons, spanners, screw drivers, etc"
+            }
+          ]
+        },
+        {
+          "subsection": "(b) Major auto body repair",
+          "subtopics": [
+            {
+              "code": "7.4",
+              "content": "Major body sections e.g. front engine compartment, passenger section, rear section"
+            },
+            {
+              "code": "7.5",
+              "content": "Basic alignment principle"
+            },
+            {
+              "code": "7.6",
+              "content": "Quarter panel cutting"
+            },
+            {
+              "code": "7.7",
+              "content": "Light weight panels"
+            },
+            {
+              "code": "7.8",
+              "content": "Damaged vehicle alignment"
+            }
+          ]
+        }
+      ],
+      "practical": [
+        "7:1:1 Identification of integral and composite bodies",
+        "7:2:1 Identification of auto-body repair tools",
+        "7:2:2 Identification of heat shrinking tools",
+        "7:3:1 Demonstration of how to use the tools in carrying out minor repairs",
+        "7:4:1 Identification of major body sections",
+        "7:6:1 Identification of quarter panel and demonstration of how to cut it",
+        "7:7:1 Repair and aligning of body sections"
+      ]
+    },
+    {
+      "topic_number": 8,
+      "topic": "Aluminum panel repair",
+      "subtopics": [
+        {
+          "code": "8.1",
+          "content": "Steps involved in aluminum panel repair"
+        },
+        {
+          "code": "8.2",
+          "content": "Repair and alignment of damaged aluminum panel"
+        },
+        {
+          "code": "8.3",
+          "content": "Aluminum deck lid repair"
+        }
+      ],
+      "practical": [
+        "8:2:1 Demonstration of how to repair and align aluminum panel",
+        "8:3:1 Aluminum deck lid repair procedure"
+      ]
+    },
+    {
+      "topic_number": 9,
+      "topic": "Plastic repairs",
+      "subtopics": [
+        {
+          "code": "9.1",
+          "content": "Precautions while working with plastics"
+        },
+        {
+          "code": "9.2",
+          "content": "Types of plastic resins (thermosetting and thermoplastic)"
+        },
+        {
+          "code": "9.3",
+          "content": "Repair of plastic parts by melting"
+        },
+        {
+          "code": "9.4",
+          "content": "Introduction to glass fibre panel repair"
+        }
+      ],
+      "practical": [
+        "9:2:1 Identification of plastics",
+        "9:3:1 Demonstration of how to repair plastics parts by melting"
+      ]
+    },
+    {
+      "topic_number": 10,
+      "topic": "Spray painting",
+      "subsections": [
+        {
+          "subsection": "(a) Spray gun and accessories",
+          "subtopics": [
+            {
+              "code": "10.1",
+              "content": "Spray gun – pressure feed gun, siphon and gravity gun"
+            },
+            {
+              "code": "10.2",
+              "content": "Spray gun parts – air cap, fluid needle, air valve, trigger gun, body, cup, etc"
+            },
+            {
+              "code": "10.3",
+              "content": "Precautions in the use of spray gun"
+            },
+            {
+              "code": "10.4",
+              "content": "Manufacturer’s maintenance guide"
+            }
+          ]
+        },
+        {
+          "subsection": "(b) Surface preparation",
+          "subtopics": [
+            {
+              "code": "10.5",
+              "content": "Preparation of surfaces for spray painting"
+            }
+          ]
+        },
+        {
+          "subsection": "(c) Type of paints",
+          "subtopics": [
+            {
+              "code": "10.6",
+              "content": "Paints used on auto bodies: cellulose synthetic paint, enamel paint, acrylic, metallic paints, etc"
+            },
+            {
+              "code": "10.7",
+              "content": "Importance of manufacturer’s paint code"
+            },
+            {
+              "code": "10.8",
+              "content": "Special paints and their importance"
+            },
+            {
+              "code": "10.9",
+              "content": "Variable agents (flakes and pigments)"
+            }
+          ]
+        },
+        {
+          "subsection": "(d) Metallic paint",
+          "subtopics": [
+            {
+              "code": "10.10",
+              "content": "Metallic spray techniques (wet and dry spray)"
+            }
+          ]
+        }
+      ],
+      "practical": [
+        "10:1:1 Identification of pressure feed gun, siphon gun and gravity gun",
+        "10:5:1 Preparation of metal surfaces for spray painting",
+        "10:6:1 Identification of paints used on auto bodies",
+        "10:10:1 Demonstration of metallic spray techniques"
+      ]
+    },
+    {
+      "topic_number": 11,
+      "topic": "Auto body workshop business",
+      "subtopics": [
+        {
+          "code": "11.1",
+          "content": "Factors to consider in locating auto body repair shop – capital, accessibility, land, etc"
+        },
+        {
+          "code": "11.2",
+          "content": "List of tools and equipment"
+        }
+      ]
+    }
+  ]
+}

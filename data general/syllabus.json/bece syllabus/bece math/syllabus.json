@@ -1,0 +1,380 @@
+{
+  "exam": "BECE Mathematics",
+  "syllabus": [
+    {
+      "sn": 1,
+      "theme": "NUMBER AND NUMERATION",
+      "topics": [
+        {
+          "topic": "Whole Numbers",
+          "objectives": [
+            "Counting in: i. millions and billions ii. trillions",
+            "Quantitative reasoning",
+            "Whole numbers in standard form",
+            "Decimal numbers in standard form",
+            "Prime factors",
+            "Prime factorization",
+            "Squares and square roots",
+            "Binary number system",
+            "Using computer to do simple mathematical calculations",
+            "Translation of word problem into numerical expressions",
+            "Expressions involving brackets and fractions, Direct and inverse proportion",
+            "Application of direct and inverse proportions",
+            "Simple interest",
+            "Compound interest"
+          ]
+        },
+        {
+          "topic": "Lowest Common Multiple (LCM)",
+          "objectives": [
+            "LCM of whole numbers"
+          ]
+        },
+        {
+          "topic": "Highest Common Factor (HCF)",
+          "objectives": [
+            "HCF of whole numbers",
+            "Quantitative reasoning"
+          ]
+        },
+        {
+          "topic": "Counting in base two",
+          "objectives": [
+            "Counting in groups of twos"
+          ]
+        },
+        {
+          "topic": "Conversion of base 10 numerals to binary numbers",
+          "objectives": [
+            "Converting numbers 1-10 to base"
+          ]
+        },
+        {
+          "topic": "Fractions",
+          "objectives": [
+            "Identifying Equivalent fractions",
+            "Quantitative aptitude reasoning",
+            "Equivalent fractions",
+            "Ordering of fractions",
+            "Conversion of fractions to decimals and vice-versa",
+            "Conversion of fraction to percentage and vice-versa",
+            "Expressing fractions as ratios, decimals and percentages",
+            "Quantitative reasoning on fractions, ratios and percentages"
+          ]
+        },
+        {
+          "topic": "Rational and non-rational numbers",
+          "objectives": [
+            "Rational and non-rational numbers"
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "theme": "BASIC OPERATION",
+      "topics": [
+        {
+          "topic": "Addition and subtraction",
+          "objectives": [
+            "Addition and subtraction of numbers and Place values",
+            "Use of number line",
+            "Addition and subtraction of positive and negative integers",
+            "Everyday application of positive and negative integers"
+          ]
+        },
+        {
+          "topic": "Addition and subtraction of fractions",
+          "objectives": [
+            "Addition and subtraction of fractions",
+            "Word problems on addition and subtraction of fractions"
+          ]
+        },
+        {
+          "topic": "Multiplication and division of fractions",
+          "objectives": [
+            "Multiplication of fractions",
+            "Division of fractions",
+            "Word problems involving multiplication and division of fractions"
+          ]
+        },
+        {
+          "topic": "Estimation",
+          "objectives": [
+            "Estimation of dimensions and distances",
+            "Estimation of capacity and mass of objects",
+            "Estimation of other things, e.g., age, time etc.",
+            "Quantitative reasoning involving estimation"
+          ]
+        },
+        {
+          "topic": "Approximation",
+          "objectives": [
+            "Approximating values of addition and subtraction",
+            "Approximating results of multiplication and division",
+            "Rounding off numbers to the nearest 10, 100 and 1000",
+            "Application of approximation in everyday life",
+            "Approximation of numbers: i. Decimal places ii. Significant figures",
+            "Quantitative reasoning"
+          ]
+        },
+        {
+          "topic": "Addition of numbers in base 2 numerals",
+          "objectives": [
+            "Addition of two or three 3-digit binary numbers"
+          ]
+        },
+        {
+          "topic": "Subtraction of numbers in base 2 numerals",
+          "objectives": [
+            "Subtraction of two or three 3-digit binary numbers"
+          ]
+        },
+        {
+          "topic": "Multiplication of numbers in base 2 numerals",
+          "objectives": [
+            "Multiplication of two 2-digit binary numbers"
+          ]
+        },
+        {
+          "topic": "Transactions in the homes and offices",
+          "objectives": [
+            "Household arithmetic",
+            "Commercial arithmetic"
+          ]
+        },
+        {
+          "topic": "Multiplication and division of directed numbers",
+          "objectives": [
+            "Square and square root tables",
+            "Charts, records and schedules",
+            "Multiplication and Division of directed numbers"
+          ]
+        },
+        {
+          "topic": "Division of numbers in base 2 numerals",
+          "objectives": [
+            "Division of two to 3-digit binary numbers"
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "theme": "GEOMETRY AND MEASUREMENT",
+      "topics": [
+        {
+          "topic": "Plane shapes",
+          "objectives": [
+            "Similarities and differences between the following: square, rectangle, triangle, trapezium, parallelogram and circle",
+            "Perimeter of regular polygon, square, rectangle, triangle, trapezium, parallelogram and circle",
+            "Area of regular plane shapes such as; squares, rectangles, parallelograms etc."
+          ]
+        },
+        {
+          "topic": "Similar Shapes",
+          "objectives": [
+            "Similar shapes",
+            "Enlargements and scale factor",
+            "Lengths, areas and volumes of similar figures",
+            "Basic properties of cubes and cuboid"
+          ]
+        },
+        {
+          "topic": "Three dimensional figures",
+          "objectives": [
+            "Basic properties of cubes and cuboids",
+            "Basic properties of pyramids and cones",
+            "Basic properties of cylinders and spheres",
+            "Volume of cubes and cuboids"
+          ]
+        },
+        {
+          "topic": "Construction",
+          "objectives": [
+            "Construction of parallel and perpendicular lines",
+            "Bisection of a given line segment",
+            "Construction of angles 90, 60, 45 and 30 degrees",
+            "Constructing triangles",
+            "Bisecting angles",
+            "Copying given angles",
+            "Construction of simple plane shape"
+          ]
+        },
+        {
+          "topic": "Angles",
+          "objectives": [
+            "Measurement of angles",
+            "Identification and properties of: i. Vertically opposite ii. Adjacent iii. Alternate iv. Corresponding angles",
+            "Identification and properties of angles at a point and angles on a straight line",
+            "Sum of angles of a polygon",
+            "Angles of elevation and depression"
+          ]
+        },
+        {
+          "topic": "Bearing",
+          "objectives": [
+            "Bearing"
+          ]
+        },
+        {
+          "topic": "Trigonometry",
+          "objectives": [
+            "The sine, cosine and tangent of an acute angle",
+            "Application of Trigonometric ratios"
+          ]
+        },
+        {
+          "topic": "Area of plane figures",
+          "objectives": [
+            "Area of triangles",
+            "Area of parallelogram",
+            "Area of trapezium",
+            "Area of circles",
+            "Word problems involving area"
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 4,
+      "theme": "ALGEBRAIC PROCESSES",
+      "topics": [
+        {
+          "topic": "Use of Symbols",
+          "objectives": [
+            "Open sentences",
+            "Use of letters to represent symbols or shapes in open sentences",
+            "Solving open sentences with two arithmetic operations",
+            "Word problem involving use of symbols",
+            "Quantitative aptitude"
+          ]
+        },
+        {
+          "topic": "Signification of algebraic expressions",
+          "objectives": [
+            "Like and unlike terms in algebraic expressions",
+            "Identification of coefficient of terms of algebraic expressions",
+            "Basic arithmetic applied to algebraic expressions or similar terms",
+            "Collection and significations of like and unlike terms in algebraic expressions",
+            "Quantitative reasoning"
+          ]
+        },
+        {
+          "topic": "Simple equations",
+          "objectives": [
+            "Translations of word problems into equations and vice versa",
+            "Solutions of simple equations",
+            "Problems of simple equations"
+          ]
+        },
+        {
+          "topic": "Algebraic expressions",
+          "objectives": [
+            "Expansion of algebraic expressions",
+            "Factorization of simple algebraic expressions",
+            "Expansion and factorization of quadratic expression",
+            "Quantitative reasoning",
+            "Algebraic expressions of fractions with monomial denominators",
+            "Word problem leading to simple algebraic fractions"
+          ]
+        },
+        {
+          "topic": "Linear inequalities",
+          "objectives": [
+            "Linear inequalities in one variable",
+            "Graphical representation of solutions of linear inequalities in one variable",
+            "Word problems"
+          ]
+        },
+        {
+          "topic": "Graphs",
+          "objectives": [
+            "Plotting points on the Cartesian plane",
+            "Graph of linear equation in two variables",
+            "Linear Graphs from real life situations",
+            "Quantitative reasoning"
+          ]
+        },
+        {
+          "topic": "Factorization",
+          "objectives": [
+            "Factorization of expression of the form: i. ax+ay ii. 3m+pq+3p+mp iii. a²-b² iv. a²-2ab+b²",
+            "Word problems involving factorization"
+          ]
+        },
+        {
+          "topic": "Simple equations involving fractions",
+          "objectives": [
+            "Simple equations involving fractions",
+            "Word problem leading to simple equation involving fractions"
+          ]
+        },
+        {
+          "topic": "Simultaneous linear equations",
+          "objectives": [
+            "Compilation of table of values",
+            "Graphical solution of simultaneous linear equations in two variables",
+            "Solution of simultaneous linear equations using elimination methods",
+            "Solution of simultaneous linear equations using substitution methods"
+          ]
+        }
+      ]
+    },
+    {
+      "sn": 5,
+      "theme": "EVERYDAY STATISTICS",
+      "topics": [
+        {
+          "topic": "Need for statistics",
+          "objectives": [
+            "Purpose of statistics",
+            "Need for collecting data for planning purpose",
+            "Collection of data"
+          ]
+        },
+        {
+          "topic": "Data collection",
+          "objectives": [
+            "Collect data in the class",
+            "Median",
+            "Mean",
+            "Mode"
+          ]
+        },
+        {
+          "topic": "Data presentation",
+          "objectives": [
+            "Ordered presentation of data",
+            "Frequency table",
+            "Pie Chart",
+            "Chart, records and schedule"
+          ]
+        },
+        {
+          "topic": "Probability",
+          "objectives": [
+            "Occurrence of chance events in everyday life",
+            "Probability of chance events"
+          ]
+        },
+        {
+          "topic": "Measure of central tendency",
+          "objectives": [
+            "Revision of previous work on mean, median and mode",
+            "Median",
+            "Mode",
+            "Mean",
+            "Application of measures of central tendency to analyze any given information"
+          ]
+        },
+        {
+          "topic": "Measure of dispersion",
+          "objectives": [
+            "Range"
+          ]
+        }
+      ]
+    }
+  ]
+}

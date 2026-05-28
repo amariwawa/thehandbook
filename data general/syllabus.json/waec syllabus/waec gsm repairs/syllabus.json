@@ -1,0 +1,159 @@
+{
+  "detailed_syllabus": {
+    "A": {
+      "title": "INTRODUCTION TO MOBILE PHONES AND SERVICE PROVIDERS",
+      "topics": [
+        {
+          "number": 1,
+          "title": "Mobile phones acronyms and terminologies",
+          "notes": "Definition of mobile phones and its terminologies. Terminologies should include GSM, CDMA, mobile phones/cell phones/user equipment, MMS, SMS, call barring, call forwarding, BSI, DCT, FPS etc."
+        },
+        {
+          "number": 2,
+          "title": "Mobile phone bands and their uses",
+          "notes": "Band—single, double, tri and quad bands and their uses."
+        },
+        {
+          "number": 3,
+          "title": "Types of mobile phones",
+          "notes": "Mobiles phone types—straight, flip, slides etc. and their special maintenance needs."
+        },
+        {
+          "number": 4,
+          "title": "Phone accessories and their functions",
+          "notes": "All phone accessories including; headsets/hands free, earpiece, external Bluetooth, batteries, chargers, cables etc. and their functions."
+        },
+        {
+          "number": 5,
+          "title": "Types of menus and sub-menus",
+          "notes": "Menus and sub-menus including; phone book, message, call, settings, applications etc. and their functions."
+        },
+        {
+          "number": 6,
+          "title": "Service providers and their codes",
+          "notes": "Major voice service providers and their service codes."
+        }
+      ]
+    },
+    "B": {
+      "title": "BASIC COMPUTER AND INTERNET CONCEPTS",
+      "topics": [
+        {
+          "number": 1,
+          "title": "Introduction to computer",
+          "notes": "Definition, identification and functions of various computer hardware (monitor, CPU, keyboard etc.) and software (operating and application) components."
+        },
+        {
+          "number": 2,
+          "title": "Introduction to internet",
+          "notes": "Web access platform Including; WAP/GPRS/EDGE/Wi-Fi/3G etc."
+        },
+        {
+          "number": 3,
+          "title": "Browsing the web",
+          "notes": "Browsing activities like downloading, uploading etc."
+        }
+      ]
+    },
+    "C": {
+      "title": "ESSENTIAL COMPONENTS OF MOBILE PHONES AND THEIR FUNCTIONS",
+      "topics": [
+        {
+          "number": 1,
+          "title": "Structure of mobile phones",
+          "notes": "Basic block diagram (power unit, memory unit and radio unit) and functions of each block."
+        },
+        {
+          "number": 2,
+          "title": "Hardware components",
+          "notes": "Identification, description and functions of various hardware components including CPU, SIM socket, earpiece, keypad, buzzer, vibrator etc."
+        },
+        {
+          "number": 3,
+          "title": "Software components",
+          "notes": "Various software components both operating and application software."
+        }
+      ]
+    },
+    "D": {
+      "title": "MAINTENANCE AND REPAIR OF MOBILE PHONES",
+      "topics": [
+        {
+          "number": 1,
+          "title": "Electronic components in mobile phones",
+          "notes": "Resistors, capacitors, diodes, transistors, IC, e.t.c."
+        },
+        {
+          "number": 2,
+          "title": "Preventive maintenance",
+          "notes": "Definitions, functions, reason, advantages and procedures (cleaning, soldering, de-soldering, re-balling etc.) of preventive and corrective maintenance."
+        },
+        {
+          "number": 3,
+          "title": "Corrective maintenance",
+          "notes": "Definitions, functions, reason, advantages and procedures (cleaning, soldering, de-soldering, re-balling etc.) of preventive and corrective maintenance."
+        },
+        {
+          "number": 4,
+          "title": "Common tools and equipment for hardware and software repairs",
+          "notes": "Identify common tools and equipment for hardware repairs such as; star, Allen key, lead, precision set, multi-meter, oscilloscope, computer set soldering iron and sucker etc. and their uses. Identify common software tools for repair such as; unlocking software, flashing software firmware installation etc."
+        },
+        {
+          "number": 5,
+          "title": "Safety in mobile phone workshop",
+          "notes": "List safety rules and regulations. Safe use of maintenance tools. Basic safety facilities in the mobile phone workshop (first aid box, fire extinguishers etc.)"
+        },
+        {
+          "number": 6,
+          "title": "Common hardware problems",
+          "notes": "Identification of hardware problems such as damaged screen, charging ports, mouthpiece, earpiece, keyboard etc."
+        },
+        {
+          "number": 7,
+          "title": "Common software problems",
+          "notes": "Identification of software problems such as; ‘contact service provider’, ‘phone lock code’, ‘invalid SIM’, ‘SIM card rejected’ etc."
+        }
+      ]
+    },
+    "E": {
+      "title": "TROUBLE-SHOOTING",
+      "topics": [
+        {
+          "number": 1,
+          "title": "Basic trouble-shooting",
+          "notes": "Dissembling and assembling, testing and trouble shooting of component such as displays, speakers, vibrators, ringers, charging ports, charging jacks, batteries, keypads, panels etc. Trouble shooting/fault finding using relevant mobile phone menus. Identification of mobile phone ICs and electronic components. Reading of PCB circuit layout and schematic diagrams."
+        },
+        {
+          "number": 2,
+          "title": "Tracing and fault finding in hardware",
+          "notes": "Identification of faulty components (using visuals, continuity test, open circuit, short circuit etc.) Test voltages on PCB (voltage levels at various points and voltage specification of IC pins) Trouble-shooting techniques—metering methods, signal tracing/injection, component testing, visual inspections etc. Trouble shooting Surface Mount Devices (SMD)/ Ball Grid Array (BGA) etc."
+        },
+        {
+          "number": 3,
+          "title": "Fault finding in software",
+          "notes": "Use of software codes for faults finding. Fault find related to software (SIM locked, SIM rejected, hanging problem, restart problem etc.) Flashing of mobile phones—flashing devices, flashing software and their uses. Phone lock/security unlocking/resetting counters."
+        }
+      ]
+    },
+    "F": {
+      "title": "SETTING UP AND MANAGING MOBILE PHONE WORKSHOP",
+      "topics": [
+        {
+          "number": 1,
+          "title": "Setting up a mobile phone work shop",
+          "notes": "Capital, personnel and factors that determining choice of location."
+        },
+        {
+          "number": 2,
+          "title": "Facilities/equipment for mobile phone workshop",
+          "notes": "Identify appropriate facilities/equipment for a mobile phone workshop."
+        },
+        {
+          "number": 3,
+          "title": "Managing a mobile phone business",
+          "notes": "Risk analyses, costing, return on investment etc."
+        }
+      ]
+    }
+  }
+}

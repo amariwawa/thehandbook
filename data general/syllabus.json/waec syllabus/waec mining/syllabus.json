@@ -1,0 +1,258 @@
+{
+  "syllabus_title": "WAEC SSCE Mining Detailed Syllabus",
+  "sections": [
+    {
+      "section": "A",
+      "title": "INTRODUCTION TO MINING",
+      "topics": [
+        {
+          "topic": "Meaning and branches of mining"
+        },
+        {
+          "topic": "Terminology used in mining"
+        },
+        {
+          "topic": "Classification and importance of minerals"
+        },
+        {
+          "topic": "Distribution of minerals in Nigeria"
+        },
+        {
+          "topic": "History of mining"
+        },
+        {
+          "topic": "Mining activities in Nigeria"
+        },
+        {
+          "topic": "Importance of minerals to man and national economy"
+        },
+        {
+          "topic": "Minerals markets and cartels"
+        },
+        {
+          "topic": "Mine accounting and sources of finance for mining ventures"
+        },
+        {
+          "topic": "Aspects of Nigerian Minerals and Mining Act, 2007"
+        },
+        {
+          "topic": "Mining titles acquisition"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "BASIC GEOLOGY",
+      "topics": [
+        {
+          "topic": "Definition of Geology and its scope"
+        },
+        {
+          "topic": "Relationship between Geology and Mining"
+        },
+        {
+          "topic": "Structure of the Earth"
+        },
+        {
+          "topic": "Relative abundance of elements in the Earth’s crust"
+        },
+        {
+          "topic": "Economic mineral potentials of Nigeria"
+        },
+        {
+          "topic": "Rocks and rock types (igneous, sedimentary and metamorphic)"
+        },
+        {
+          "topic": "Rock-forming minerals"
+        },
+        {
+          "topic": "Physical and chemical properties of rock-forming minerals"
+        },
+        {
+          "topic": "Rock cycle"
+        },
+        {
+          "topic": "Weathering"
+        },
+        {
+          "topic": "Simplified geological map of Nigeria"
+        },
+        {
+          "topic": "Mineral map of Nigeria"
+        },
+        {
+          "topic": "Collection and collation of geological data"
+        },
+        {
+          "topic": "Interpretation of topographical and geological maps"
+        },
+        {
+          "topic": "Drawing of simple geological cross-section"
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "MINING (BASIC CONCEPTS) / STAGES OF DEVELOPMENT IN MINING",
+      "topics": [
+        {
+          "topic": "Classification of mining methods (Surface and underground mining methods)"
+        },
+        {
+          "topic": "Choice of mining methods: Reasons for choosing surface or underground mining methods"
+        },
+        {
+          "topic": "Prospecting stage: meaning and outlines of prospecting techniques (geological, geophysical, geochemical, remote sensing)"
+        },
+        {
+          "topic": "Exploration stage: meaning and classification of exploration techniques"
+        },
+        {
+          "topic": "Meaning of feasibility study of a mining venture"
+        },
+        {
+          "topic": "Financial analysis in mining"
+        },
+        {
+          "topic": "Meaning of a mine, mine development, mineral processing design, mill design, mining as actual exploitation"
+        },
+        {
+          "topic": "List of unit operations in mining (e.g. drilling, blasting etc.)"
+        },
+        {
+          "topic": "Need for mineral processing, economic benefits of mineral processing"
+        },
+        {
+          "topic": "List of unit operations in mineral processing"
+        },
+        {
+          "topic": "Meaning and processes of metal extraction (smelting - pyrometallurgy, hydrometallurgy, electrometallurgy)"
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "MINING METHODS",
+      "topics": [
+        {
+          "topic": "Surface mining methods",
+          "subtopics": [
+            "Open pit mining: features, minerals mined",
+            "Open cast mining: features",
+            "Quarrying and Dimension Stones production: meaning, products, uses, unit operations, flow sheet",
+            "Dimension stone production"
+          ]
+        },
+        {
+          "topic": "Underground mining methods",
+          "subtopics": [
+            "Features of an underground mine",
+            "Basic concepts (room-and-pillar, longwall, cut-and-fill, shrinkage, block caving, sub-level, square setting, long-hole, open long-hole etc.)"
+          ]
+        },
+        {
+          "topic": "Comparison of surface and underground mining methods"
+        },
+        {
+          "topic": "Justification of choice of methods"
+        },
+        {
+          "topic": "Sea-floor mining"
+        },
+        {
+          "topic": "Moon and asteroid mining"
+        },
+        {
+          "topic": "Materials handling equipment (conveyor belt, trucks, pay-loader etc.)"
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "title": "INTRODUCTION TO MINERAL PROCESSING",
+      "topics": [
+        {
+          "topic": "Meaning of: Mineral processing, comminution terms, concentration terms, mill accounting terms"
+        },
+        {
+          "topic": "Properties of minerals employed in mineral processing (specific gravity, magnetism etc.)"
+        },
+        {
+          "topic": "Main operations in mineral processing: comminution and concentration"
+        },
+        {
+          "topic": "Products of mineral processing (concentrate, tailings, middling)"
+        },
+        {
+          "topic": "Dewatering, auxiliary operations, tailings disposal"
+        }
+      ]
+    },
+    {
+      "section": "F",
+      "title": "GEMOLOGY AND LAPIDARY",
+      "topics": [
+        {
+          "topic": "Meaning of gemology and lapidary"
+        },
+        {
+          "topic": "Machines and tools in gemstone processing (faceting machine, grinding machine, polishing machine etc.)"
+        },
+        {
+          "topic": "Meaning and properties of gemstones"
+        },
+        {
+          "topic": "Types of gemstones (based on shape, colour, size, refractive index etc.)"
+        },
+        {
+          "topic": "Characteristics and methods of identification of gemstones; quality of gemstones"
+        },
+        {
+          "topic": "Unit of measurement of gemstones, prices of gemstones"
+        },
+        {
+          "topic": "Marketing and prices of gemstones"
+        }
+      ]
+    },
+    {
+      "section": "G",
+      "title": "HEALTH, SAFETY AND ENVIRONMENT",
+      "topics": [
+        {
+          "topic": "Health hazards in mining"
+        },
+        {
+          "topic": "Safety requirements/measures in mining"
+        },
+        {
+          "topic": "Impacts of mining on the environment"
+        },
+        {
+          "topic": "Safety equipment and apparels (Personal Protective Equipment - PPE)"
+        },
+        {
+          "topic": "Common diseases associated with mining industry"
+        },
+        {
+          "topic": "Administering simple first aid, drugs/dressing materials"
+        },
+        {
+          "topic": "Guidelines for accident reporting, steps for environmental control"
+        },
+        {
+          "topic": "Basic issues in National policy on mineral development"
+        },
+        {
+          "topic": "Mining laws and regulations"
+        },
+        {
+          "topic": "Environmental protection laws"
+        },
+        {
+          "topic": "National policy on the environment"
+        }
+      ]
+    }
+  ]
+}

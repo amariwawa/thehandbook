@@ -1,0 +1,309 @@
+{
+  "syllabus_title": "WAEC SSCE Store Management Detailed Syllabus",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Introduction to Store Management",
+      "topics": [
+        {
+          "topic": "Store Management",
+          "subtopics": [
+            "Meaning of store management",
+            "Importance of store management",
+            "Functions of a store manager",
+            "Characteristics of a store manager",
+            "Customer services: pre-sale services, after-sale services"
+          ]
+        },
+        {
+          "topic": "Functions of Management",
+          "subtopics": [
+            "Planning",
+            "Organization",
+            "Leading",
+            "Staffing",
+            "Controlling"
+          ]
+        },
+        {
+          "topic": "Factors to be considered in establishing a store",
+          "subtopics": [
+            "Market",
+            "Finance",
+            "Types of stock",
+            "Transport",
+            "Accessibility",
+            "Security",
+            "Government regulation",
+            "Personnel"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "Concepts of Retailing and Wholesaling",
+      "topics": [
+        {
+          "topic": "Retailing",
+          "subtopics": [
+            "Definition",
+            "Functions of a retailer"
+          ]
+        },
+        {
+          "topic": "Wholesaling",
+          "subtopics": [
+            "Definition",
+            "Functions of a wholesaler"
+          ]
+        },
+        {
+          "topic": "Warehousing",
+          "subtopics": [
+            "Meaning of warehousing",
+            "Types of warehousing",
+            "Importance of warehousing"
+          ]
+        },
+        {
+          "topic": "Transportation",
+          "subtopics": [
+            "Definition",
+            "Means of transportation",
+            "Advantages and disadvantages of each means of transportation",
+            "Factors that determine the choice of transport"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "Stock Control",
+      "topics": [
+        {
+          "topic": "Introduction to Stock Control",
+          "subtopics": [
+            "Meaning of stock control",
+            "Importance of stock control",
+            "Types of stock records: Stock list, Bin card/Store Card, Store requisition form, Delivery notes"
+          ]
+        },
+        {
+          "topic": "Methods of Stock Control",
+          "subtopics": [
+            "Manual method: Periodic, perpetual and annual stock taking",
+            "Computerized method",
+            "Levels of stock: maximum level, minimum level, reorder level",
+            "Issuing of stock: FIFO and LIFO"
+          ]
+        },
+        {
+          "topic": "Pricing",
+          "subtopics": [
+            "Definition of pricing",
+            "Types of pricing: skimming, mark-up, mark-down, penetration, below or above mark pricing"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "Organizational Policy",
+      "topics": [
+        {
+          "topic": "Organizational Policy",
+          "subtopics": [
+            "Definition",
+            "Employment policy",
+            "Decision making",
+            "Customer services",
+            "Public relations"
+          ]
+        },
+        {
+          "topic": "Organizational Standards",
+          "subtopics": [
+            "Definition of standards",
+            "Productivity standards",
+            "Standard for customer’s satisfaction"
+          ]
+        },
+        {
+          "topic": "Organizational Culture",
+          "subtopics": [
+            "Definition of culture",
+            "Explanation of organizational culture: attitude to customers, relationship with co-workers, relationship with the Boss, dress code"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 5,
+      "title": "Business Communication",
+      "topics": [
+        {
+          "topic": "Overview of Communication",
+          "subtopics": [
+            "Definition of communication",
+            "Types of communication: oral, written and non-verbal",
+            "Business documents: letters, memos, reports and circulars"
+          ]
+        },
+        {
+          "topic": "Electronic Communication",
+          "subtopics": [
+            "Definition",
+            "Means of communication: fax, telephone, email, radio messages",
+            "Word Processing – Using computer to write business letters"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 6,
+      "title": "Basic Business Law",
+      "topics": [
+        {
+          "topic": "Overview of Basic Business Law",
+          "subtopics": ["Definition"]
+        },
+        {
+          "topic": "Law of Contract",
+          "subtopics": [
+            "Elements of contract",
+            "Rights and obligations of employer and employee"
+          ]
+        },
+        {
+          "topic": "Agency",
+          "subtopics": [
+            "Definition",
+            "Types of agents",
+            "Creation of agency",
+            "Rights and obligations of principals/agents"
+          ]
+        },
+        {
+          "topic": "Sale of Goods Act",
+          "subtopics": [
+            "Contract of sale",
+            "Formalities of sale"
+          ]
+        },
+        {
+          "topic": "Government Regulation of Business",
+          "subtopics": [
+            "Patent right",
+            "Copyright",
+            "Trade mark",
+            "Health and Safety at Work Act",
+            "Consumer protection agency",
+            "License"
+          ]
+        },
+        {
+          "topic": "Government Regulatory Agencies",
+          "subtopics": ["NAFDAC, NDLEA, SON"]
+        }
+      ]
+    },
+    {
+      "section_number": 7,
+      "title": "Record Keeping",
+      "topics": [
+        {
+          "topic": "Documentation",
+          "subtopics": [
+            "Definition of filing and indexing",
+            "Rules of filing",
+            "Filing and indexing methods"
+          ]
+        },
+        {
+          "topic": "Source Documents",
+          "subtopics": [
+            "Meaning",
+            "Types: Invoice, receipts, cheques, vouchers"
+          ]
+        },
+        {
+          "topic": "Trade Documents",
+          "subtopics": [
+            "Documents used in foreign trade: Bills of Lading, Certificate of Origin, Consular invoice, Insurance certificate, inspection certificate, Bill of Exchange, Indent, Letter of Credit, Proforma invoice",
+            "Documents used in home trade: Order, Enquiry, Waybill, Consignment note, Manifest, invoice, proforma invoice, Receipts, Credit and Debit note, Vouchers"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 8,
+      "title": "Book Keeping",
+      "topics": [
+        {
+          "topic": "Subsidiary Books",
+          "subtopics": [
+            "Meaning, Types, Uses",
+            "Purchase and Sales day book, Returns outwards/inwards books, Cash books"
+          ]
+        },
+        {
+          "topic": "Imprest System",
+          "subtopics": [
+            "Definition and description of the imprest system",
+            "Preparation of petty cash book"
+          ]
+        },
+        {
+          "topic": "Final Accounts",
+          "subtopics": [
+            "Definition and purpose",
+            "Simple Trading, Profit and Loss Account and Balance sheet"
+          ]
+        },
+        {
+          "topic": "Sales / Turnover",
+          "subtopics": [
+            "Meaning",
+            "Calculation of rate of sales turnover"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 9,
+      "title": "Risk Management",
+      "topics": [
+        {
+          "topic": "Risk Management",
+          "subtopics": [
+            "Definition",
+            "Methods of risk management: Sound management practices, Reduction of risks – optimum stock level, Hedging, Risk transfer through insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 10,
+      "title": "Handling Finances of the Store",
+      "topics": [
+        {
+          "topic": "Investments",
+          "subtopics": [
+            "Meaning",
+            "Capital Investment: Meaning, investment in capital market, functions of Stock Exchange, advantages of share holding",
+            "Money market instruments: Meaning, treasury bill, commercial papers, bonds"
+          ]
+        },
+        {
+          "topic": "Taxation",
+          "subtopics": [
+            "Meaning of tax",
+            "Importance of tax",
+            "Types of tax: Income tax, Import duties, excise duties, VAT"
+          ]
+        }
+      ]
+    }
+  ]
+}
