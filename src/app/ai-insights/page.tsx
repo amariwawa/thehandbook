@@ -34,7 +34,7 @@ export default function AIInsightsPage() {
         <header className="space-y-4">
           <div className="flex items-center gap-3 text-[#1d3e8e] dark:text-indigo-400 font-black text-xs uppercase tracking-[0.4em]">
             <Sparkles className="w-4 h-4" />
-            Scholarly Intelligence
+            Your AI Feedback
           </div>
           <div className="space-y-4">
             <h1 className="text-5xl font-bold display-font leading-none tracking-tighter text-slate-900 dark:text-white">
@@ -43,7 +43,7 @@ export default function AIInsightsPage() {
             <p className="text-sm text-zinc-400 font-medium max-w-2xl leading-relaxed">
               {isEmpty
                 ? "Complete your first practice session to generate real AI insights across your academic stack."
-                : `Consolidated intelligence across your academic stack. We've analyzed ${sessions.length * (sessions[0]?.topics?.length ?? 1)}+ data points to predict your examination performance.`}
+                : "Your recent activity feedback from your AI tutor."}
             </p>
           </div>
         </header>

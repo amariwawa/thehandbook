@@ -3,16 +3,19 @@ import { NextRequest, NextResponse } from "next/server";
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
 async function callGeminiDirect(messages: any[]) {
-  const apiKey = process.env.GEMINI_API_KEY || 
-                 process.env.GOOGLE_AI_API_KEY || 
+  const apiKey = process.env.GEMINI_API_KEY ||
+                 process.env.GOOGLE_AI_API_KEY ||
                  process.env.NEXT_PUBLIC_GEMINI_API_KEY;
 
-  if (!apiKey) throw new Error("API Key missing from server environment.");
+  if (!apiKey) {
+    console.error("[api/chat] No GEMINI_API_KEY, GOOGLE_AI_API_KEY, or NEXT_PUBLIC_GEMINI_API_KEY found in server environment.");
+    throw new Error("AI Tutor is offline: GEMINI_API_KEY is missing. Add it to your .env.local (local) or Vercel Environment Variables (production).");
+  }
 
   // Helper to format messages with attachments for direct Google API
   const formatMessageParts = (msg: any) => {
     const parts: any[] = [];
-    
+
     if (msg.content) {
       parts.push({ text: msg.content });
     }
@@ -67,7 +70,7 @@ async function callGeminiDirect(messages: any[]) {
     }
   };
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=${apiKey}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
   let retries = 3;
   for (let i = 0; i < retries; i++) {
@@ -79,11 +82,11 @@ async function callGeminiDirect(messages: any[]) {
       });
 
       const data = await response.json();
-      if (!response.ok) throw new Error(data.error?.message || "Google API Error");
+      if (!response.ok) throw new Error(data.error?.message || `Google API Error ${response.status}`);
 
       return data.candidates[0].content.parts[0].text;
     } catch (err: any) {
-      console.error(`Direct Attempt ${i + 1} Failed:`, err.message);
+      console.error(`[api/chat] Direct Attempt ${i + 1} Failed:`, err.message);
       if (i === retries - 1) throw err;
       await sleep(1000 * (i + 1));
     }

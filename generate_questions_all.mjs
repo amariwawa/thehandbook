@@ -8,8 +8,8 @@ dotenv.config({ path: '.env.local' });
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || process.env.GOOGLE_AI_API_KEY || "");
 
 async function generateBatch(subject, syllabusText, count, existingQuestionsCount) {
-  const model = genAI.getGenerativeModel({ 
-    model: "gemini-pro-latest",
+  const model = genAI.getGenerativeModel({
+    model: "gemini-1.5-flash",
     generationConfig: {
       responseMimeType: "application/json",
     }

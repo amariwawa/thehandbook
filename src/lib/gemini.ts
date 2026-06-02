@@ -1,14 +1,21 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const apiKey = process.env.GEMINI_API_KEY || "";
+function getApiKey(): string {
+  const key = process.env.GEMINI_API_KEY || process.env.GOOGLE_AI_API_KEY || "";
+  if (!key) {
+    console.error("[gemini.ts] No GEMINI_API_KEY or GOOGLE_AI_API_KEY found in environment.");
+  }
+  return key;
+}
 
 export async function getTutorResponse(subject: string, topic: string, userMessage: string, examType: string) {
+  const apiKey = getApiKey();
   if (!apiKey) {
-    return "I'm sorry, the AI tutor is not configured yet. Please add the GEMINI_API_KEY to the environment variables.";
+    return "AI Tutor is offline: GEMINI_API_KEY is missing. Add it to your .env.local (local) or Vercel Environment Variables (production).";
   }
 
   const ai = new GoogleGenerativeAI(apiKey);
-  const model = ai.getGenerativeModel({ model: "gemini-2.5-flash" });
+  const model = ai.getGenerativeModel({ model: "gemini-1.5-flash" });
 
   const systemPrompt = `You are an expert AI tutor for Nigerian secondary school students preparing for the ${examType.toUpperCase()} exam. 
   Your goal is to help them understand topics in ${subject}, specifically relating to ${topic}. 
@@ -32,14 +39,15 @@ export async function getTutorResponse(subject: string, topic: string, userMessa
 }
 
 export async function generateQuestion(subject: string, topic: string, examType: string) {
+  const apiKey = getApiKey();
   if (!apiKey) {
-    console.error("GEMINI_API_KEY is missing");
+    console.error("[gemini.ts] GEMINI_API_KEY is missing — cannot generate question.");
     return null;
   }
 
   const ai = new GoogleGenerativeAI(apiKey);
-  const model = ai.getGenerativeModel({ 
-    model: "gemini-2.5-flash",
+  const model = ai.getGenerativeModel({
+    model: "gemini-1.5-flash",
     generationConfig: {
       responseMimeType: "application/json",
     }
