@@ -31,7 +31,7 @@ const navItems = [
   { name: "Practice Arena", href: "/practice", icon: Zap },
   { name: "AI Insights", href: "/ai-insights", icon: Sparkles },
   { name: "AI Tutor", href: "/ai-tutor", icon: MessageSquare },
-  { name: "Curriculum", href: "/practice/custom", icon: GraduationCap },
+  { name: "My Subjects", href: "/practice/custom", icon: GraduationCap },
   { name: "Settings", href: "/settings", icon: Settings },
 ];
 
