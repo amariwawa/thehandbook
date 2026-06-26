@@ -12,6 +12,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "neon-yellow": "#FFFF00",
+        "cream": "#f5f3ed",
       },
       fontFamily: {
         sans: ["var(--font-inter)"],
